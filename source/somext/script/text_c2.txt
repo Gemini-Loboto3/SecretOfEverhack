@@ -1,0 +1,947 @@
+﻿<798 text entries>
+ûGood work, <Boy>!= You saved our world from that terrible villain.He was my evil twin!Çy And a robot of some sort, I suspect.<End>
+ûI'm glad we could help, Horace! ûGood work, son!= You did very well! ûWhoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> who are you? ûI'm Horace Highwater.= This ancient world is a product of my imagination.That villain was my evil twin.y A robot of some sort, I suspect.<End>
+ûGood work, son!= You did very well! ûWhoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> who are you? ûI'm Horace Highwater.= This ancient world is a product of my imagination.That villain was my evil twin.y A robot of some sort, I suspect.<End>
+ûWhoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> who are you? ûI'm Horace Highwater.= This ancient world is a product of my imagination.That villain was my evil twin.y A robot of some sort, I suspect.<End>
+ûI'm Horace Highwater.= This ancient world is a product of my imagination.That villain was my evil twin.y A robot of some sort, I suspect.<End>
+ûWow! Just like what happened with Fire Eyes! ûHmmm…= The statue's energy core looks like it could explode at any moment!åWe should remove it,Çy and soon! ûTiny!= Tiny!= Come here!= We need your strength! ûI am Tiny the Barbarian.y My strength is needed.<End>
+ûHmmm…= The statue's energy core looks like it could explode at any moment!åWe should remove it,Çy and soon! ûTiny!= Tiny!= Come here!= We need your strength! ûI am Tiny the Barbarian.y My strength is needed.<End>
+ûTiny!= Tiny!= Come here!= We need your strength! ûI am Tiny the Barbarian.y My strength is needed.<End>
+ûI am Tiny the Barbarian.y My strength is needed.<End>
+ûWe need you to throw this energy core as far as you can from the city before it explodes.Can you do it, Tiny? ûI am Tiny the Barbarian.A I am very strong.yÇ<End>
+ûI am Tiny the Barbarian.A I am very strong.yÇ<End>
+ I can throw anything! ûStep aside.<End>
+ûStep aside.<End>
+ûThat felt good! ûThat guy has a pretty good arm! ûYes.! And his heart is in the right place, too.<End>
+ûThat guy has a pretty good arm! ûYes.! And his heart is in the right place, too.<End>
+ûYes.! And his heart is in the right place, too.<End>
+ûI just hope that his incredible strength doesn't go to his head.<End>
+ûSo,= how do you suppose <Dog> and I could get to Podunk from here? ûI'd like to know that myself.<End>
+ûI'd like to know that myself.<End>
+ûI…Ç! <End>
+I'm not sure… ûHorace!= We have important news from the camp! ûOh!= Hello, Madronius.= What is it? ûThe explosive hit just north of the camp and opened up an entrance to a very large tunnel!åThis tunnel may lead to unexplored territories of Evermore! ûHmm… a hidden tunnel!= Very interesting indeed! ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûHorace!= We have important news from the camp! ûOh!= Hello, Madronius.= What is it? ûThe explosive hit just north of the camp and opened up an entrance to a very large tunnel!åThis tunnel may lead to unexplored territories of Evermore! ûHmm… a hidden tunnel!= Very interesting indeed! ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûOh!= Hello, Madronius.= What is it? ûThe explosive hit just north of the camp and opened up an entrance to a very large tunnel!åThis tunnel may lead to unexplored territories of Evermore! ûHmm… a hidden tunnel!= Very interesting indeed! ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûThe explosive hit just north of the camp and opened up an entrance to a very large tunnel!åThis tunnel may lead to unexplored territories of Evermore! ûHmm… a hidden tunnel!= Very interesting indeed! ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûHmm… a hidden tunnel!= Very interesting indeed! ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûThank you for the news, Madronius! ûThis could be your answer, <End>
+ûThis could be your answer, <End>
+!<End>
+ûson!  ûYour passage to Podunk could start on the other end of that tunnel! ûWell,= it's worth a try! ûBefore you leave,= let me help you.<End>
+ûYour passage to Podunk could start on the other end of that tunnel! ûWell,= it's worth a try! ûBefore you leave,= let me help you.<End>
+ûWell,= it's worth a try! ûBefore you leave,= let me help you.<End>
+ûBefore you leave,= let me help you.<End>
+ûI'll give you <Var A2> Call Beads.= Use them when you need my help.<End>
+ûHere are <Var A2> Call Beads.When you need my help,Ç<0x41><0x5B> just throw one to the ground.<End>
+Received <Var A2> Call Beads<End>
+ûPlease take this Staff of Life!= It will increase your ability to defend against enemy attacks.<End>
+Received Staff of Life<End>
+ûIf you need my help out in the field, you can call me by using one of your Call Beads.<End>
+ûThanks, Horace.<End>
+ûLet's go, <Dog>.<End>
+should not see this<End>
+ÇyÇIs your destination Omnitopia?
+ïYes.
+ïNo.<End>
+Çy Is your destination Omnitopia?
+ïYes.
+ïNo.<End>
+Çy Is your destination Omnitopia?
+ïYes.
+ïNo.<End>
+Uh, I don't think so.  Been there, done that.<End>
+Urf-urf.<End>
+ùReceived DPOOO Jewels<End>
+ùReceived some Honey<End>
+ûHey!= Kid!= Get in the bucket! ûWhat a nice pooch!= You remind me of my dog, Sparky.<End>
+ûWhat a nice pooch!= You remind me of my dog, Sparky.<End>
+ûI had a dog once.= He's gone now.I'm not really sure where he went,Çy come to think of it.<End>
+ûYears ago, my wife's poor sight let her fall down one of the heat vents.ûI haven't seen her or my skeleton key since.<End>
+ïI have your key here.
+ïI haven't seen it.<End>
+Gave away Key<End>
+ûWell, thank you very much indeed!= You're very helpful!åI can help you with a very powerful alchemy formula.<End>
+ûIt requires <Var 31> part Brimstone and <Var 31> Feather for every use.<End>
+ûSay <0x41><0x7B>Goodnight<0x41><0x7D>, my leetell piggy.ûYou shall be my masterpiece at the queen's deenair!åûYou are not a very pretty piggy.y Are you? Sacre Bleu!! You are not a pig!åûWell, whatever you are, Pierre shall make you tasty! ûCome to Pierre, you son of a motherless rodent!!<End>
+Sacre Bleu!! You are not a pig!åûWell, whatever you are, Pierre shall make you tasty! ûCome to Pierre, you son of a motherless rodent!!<End>
+ûCome to Pierre, you son of a motherless rodent!!<End>
+Locked<End>
+ûHmmm... I can't see the bottom. I'd better avoid these vents.<End>
+ûHey, <Dog>! Get away from there! ûHey, <Dog>!!= Where are you going?ÇQ Come back here!!Ç<0x41><0xB5>Ç<End>
+ûHey, <Dog>!!= Where are you going?ÇQ Come back here!!Ç<0x41><0xB5>Ç<End>
+Won't Open<End>
+ûç<Dog>!!= You're back!!ÇQ I was very worried. Don't do that again!!<0x41><0x85><End>
+ûHmmm…= This looks dangerous. I'd better avoid these vents.<End>
+ûHey, <Dog>! Don't go near the edge! ûHello, little one.= I don't get many visitors down here.ûThis key around your neck will help in the castle.<End>
+ûHello, little one.= I don't get many visitors down here.ûThis key around your neck will help in the castle.<End>
+ûMy, but you're a furry little boy!ÇQ Your mother must be worried. Now run along! ûOhhhhh! My bursitis!ÇQ Now where's my tonic? ûWell, <Dog>.= Looks like we're off to Ebon Keep.Hey, Ç<0x41><0x29> What's that around your neck? ÇQÇA key!åI don't know where you got it, but I'll hang on to it.<End>
+ûOhhhhh! My bursitis!ÇQ Now where's my tonic? ûWell, <Dog>.= Looks like we're off to Ebon Keep.Hey, Ç<0x41><0x29> What's that around your neck? ÇQÇA key!åI don't know where you got it, but I'll hang on to it.<End>
+ûWell, <Dog>.= Looks like we're off to Ebon Keep.Hey, Ç<0x41><0x29> What's that around your neck? ÇQÇA key!åI don't know where you got it, but I'll hang on to it.<End>
+ûçAh!= Mr. <Boy>!= So nice to see that you made it through the night.<End>
+ûçI didn't mean to react so harshly at the banquet.<End>
+ûçBut I just hate it when things don't go as planned! ûUh,= that's OK. ÇQÇWe're really sorry for the mess we made.<End>
+ûUh,= that's OK. ÇQÇWe're really sorry for the mess we made.<End>
+çAnd we're hoping, maybe, you could help us find our way home? ûThere will be time for that later!Çy This meeting is really about meBEEÇy my needs! You may have heard that there is another castle in the kingdom.<End>
+ûThere will be time for that later!Çy This meeting is really about meBEEÇy my needs! You may have heard that there is another castle in the kingdom.<End>
+You may have heard that there is another castle in the kingdom.<End>
+That castle,= Ebon Keep,= is our former home and it is filthy.<End>
+That's why I had this castle built and moved the kingdom across the ravine.<End>
+A few stragglers remain in the other castle,= and this annoys me to no end! I want to remove them!= And you can help me do that! The entrance to Ebon Keep is on the other side of the chessboard plateau.But the drawbridge on the other side is now up!Çy Locked! What we need you to do is go down into the ravine, come up the other side…å…and open the drawbridge from within.<End>
+I want to remove them!= And you can help me do that! The entrance to Ebon Keep is on the other side of the chessboard plateau.But the drawbridge on the other side is now up!Çy Locked! What we need you to do is go down into the ravine, come up the other side…å…and open the drawbridge from within.<End>
+The entrance to Ebon Keep is on the other side of the chessboard plateau.But the drawbridge on the other side is now up!Çy Locked! What we need you to do is go down into the ravine, come up the other side…å…and open the drawbridge from within.<End>
+What we need you to do is go down into the ravine, come up the other side…å…and open the drawbridge from within.<End>
+Then, my people will march across the ravine and take Ebon Keep by force!åCan you do this for me, Mr. <Boy>? Yeah.= Sure.= I guess.<End>
+Yeah.= Sure.= I guess.<End>
+ûçThe best way to the ravine is through the east wing of the castle.Then down through a door in the chessboard.<End>
+ûçYou'll find it when you get there.<0x41><0x85><End>
+ûGo away, you smelly creature! ûYou really should think about bathing, young man! ûYour task at hand is to go to the chessboard and find a door to the bottom of the ravine.çThen,= you must make your way to Ebon Keep and open the drawbridge from within.çWe'll take it from there.<End>
+ûYou really should think about bathing, young man! ûYour task at hand is to go to the chessboard and find a door to the bottom of the ravine.çThen,= you must make your way to Ebon Keep and open the drawbridge from within.çWe'll take it from there.<End>
+ûYour task at hand is to go to the chessboard and find a door to the bottom of the ravine.çThen,= you must make your way to Ebon Keep and open the drawbridge from within.çWe'll take it from there.<End>
+ûGo away, you stinky boy! ûGo away, you putrid pup! ûçYour majesty.Q I've brought the prisoners as requested.<End>
+ûGo away, you putrid pup! ûçYour majesty.Q I've brought the prisoners as requested.<End>
+ûçYour majesty.Q I've brought the prisoners as requested.<End>
+ûYour highness.<0x41><0x85><End>
+ûYes, Eronio.<End>
+ûWhat have you done with the boy and his pig dog? ûI've sent them on a little journey.= They're going to the other side of the ravine.<0x41><0x85><End>
+ûI've sent them on a little journey.= They're going to the other side of the ravine.<0x41><0x85><End>
+ûAren't you afraid that they'll learn more than they should from our <0x41><0x7B>friends<0x41><0x7D> in Ebon Keep?<0x41><0x85><End>
+ûThey'll never get that far!= The dragons will take care of them first! Besides, if they do get to the other side alive, and they don't do what I told them to do…å…I'll take care of them when they come back.<0x41><0x85><End>
+Besides, if they do get to the other side alive, and they don't do what I told them to do…å…I'll take care of them when they come back.<0x41><0x85><End>
+ûBwa… ha… ha!!!<0x41><0x85><End>
+çûWhew!= I'm glad we're out of that sewer.<0x41><0x85><End>
+çûSniff… sniff…= I agree, <Dog>.= We'll probably stink for a while.<0x41><0x85><End>
+çûOh no!= A Guard!<0x41><0x85><End>
+çûStay right where you are, little mister! çûThought you could escape?ÇQ Didn't you?åçûWell, I have orders that the queen is waiting to see you.<End>
+çûThought you could escape?ÇQ Didn't you?åçûWell, I have orders that the queen is waiting to see you.<End>
+çûYou're coming with me!Çe Sniff… =ÇSniff… = Do you smell something? Locked<End>
+Locked<End>
+ûGotta go! =ÇGOTTA GO!! =ÇAaaaaaahhh…!!!<0x41><0x85><End>
+ûThey've gone!ÇQ Everybody's gone! ÇeÇThey must've all gone back to Ebon Keep!åAll alone here… Çe Gotta go! =ÇGOTTA GO!! =ÇAaaaaaahhh…!!!<0x41><0x85><End>
+ûOh, my! ÇQ Oh, dear! ÇQ They're gone! ÇQÇThey're GONE!!ÇQ Aaaahhhhh!!!<0x41><0x85><End>
+Whew! =ÇThat was close!<0x41><0x85><End>
+ûI hate my job enough without dealing with mutts!<0x41><0x85><End>
+ûI'm so lonely. I wish my brother George were here.<0x41><0x85><End>
+ûSo what if I sleep on the job! I'm guarding rubble. Rubble I say!Çe Oh, the shame… the shame… <0x41><0x85><End>
+ûBoy, I tell you.Q You goof one assignment and they send you off to guard rubble!åThat's all that's here since everyone went back to Ebon Keep.<0x41><0x85><End>
+Bitten by a Mazquito!<End>
+Locked<End>
+Won't Budge<End>
+ûBoy, am I glad to be out of that cell! Received Defender Collar<End>
+Received Defender Collar<End>
+û<Dog>, see if you can fit through this hole in the wall! ûOK, boys. Welcome to your new home. åNow, get in there! ûMake yourselves comfy. You're going to be here a long time.<End>
+ûOK, boys. Welcome to your new home. åNow, get in there! ûMake yourselves comfy. You're going to be here a long time.<End>
+ûMake yourselves comfy. You're going to be here a long time.<End>
+Too Slippery<End>
+ûThank you very much for visiting an old man! I can teach you a powerful alchemy formula.It requires <Var 31> Mushroom and <0x41><0x33> parts Water.<End>
+I can teach you a powerful alchemy formula.It requires <Var 31> Mushroom and <0x41><0x33> parts Water.<End>
+Would you like to equip or unequip your spells?
+=ÇïSure.
+ïMaybe later.<End>
+ûArrgh!! ÇQ A big pink rat!!!<0x41><0x85><End>
+Received Horace's Aura Magic<End>
+Found Amulet of Annihilation<End>
+ûYou probably don't enjoy a good bargain since you're a canine.Animals don't have an appreciation for commerce.<End>
+ûThe merchants in this market offer pretty good deals.You should be able to satisfy all of your shopping needs.<End>
+ûHi, Puff.= That's some fancy hairdo you have! ûThis market is small compared to some.y But, there are still bargains-a-plenty.<End>
+ûThis market is small compared to some.y But, there are still bargains-a-plenty.<End>
+ûHello, little buddy.= It's nice of you to come to our new, old town.<End>
+ûHello, little buddy.= It's nice of you to come to our little town.<End>
+ûHi, kid.= Welcome to the town of Ebon Keep.y It's the new happiest place on Evermore! ûHi, kid.= Welcome to the town of Ivor Tower.y It's the happiest place on Evermore! ûWell!= You're a pretty little dog, aren't you? ûI would have never guessed that the queen in Ivor Town was a fake!Ç<0x41><0xF1> You're sharp! ûNot long ago, our queen had Ivor Tower built and moved here from Ebon Keep.Most of the citizens followed because the queen promised comfort and happiness for all.I think the others went because of the free food and drink.<0x41><0x85><End>
+ûHi, kid.= Welcome to the town of Ivor Tower.y It's the happiest place on Evermore! ûWell!= You're a pretty little dog, aren't you? ûI would have never guessed that the queen in Ivor Town was a fake!Ç<0x41><0xF1> You're sharp! ûNot long ago, our queen had Ivor Tower built and moved here from Ebon Keep.Most of the citizens followed because the queen promised comfort and happiness for all.I think the others went because of the free food and drink.<0x41><0x85><End>
+ûWell!= You're a pretty little dog, aren't you? ûI would have never guessed that the queen in Ivor Town was a fake!Ç<0x41><0xF1> You're sharp! ûNot long ago, our queen had Ivor Tower built and moved here from Ebon Keep.Most of the citizens followed because the queen promised comfort and happiness for all.I think the others went because of the free food and drink.<0x41><0x85><End>
+ûI would have never guessed that the queen in Ivor Town was a fake!Ç<0x41><0xF1> You're sharp! ûNot long ago, our queen had Ivor Tower built and moved here from Ebon Keep.Most of the citizens followed because the queen promised comfort and happiness for all.I think the others went because of the free food and drink.<0x41><0x85><End>
+ûNot long ago, our queen had Ivor Tower built and moved here from Ebon Keep.Most of the citizens followed because the queen promised comfort and happiness for all.I think the others went because of the free food and drink.<0x41><0x85><End>
+ûWhat a nice animal!= You look a lot like my pig.= His name is <0x41><0x7B>Prince.<0x41><0x7D> ûSay!= You look a lot like a pig.y No offense.<0x41><0x85><End>
+ûSay!= You look a lot like a pig.y No offense.<0x41><0x85><End>
+ûWe've moved back to our old town.y And it's better than ever, thanks to you.<End>
+ûAre you going to the pig race?= It's the festival's big event!åThe owner of the winning pig will be invited to the big feast with the queen.<End>
+ûI hear that the queen has sent you on a quest to the other side of the ravine!Ç<0x41><0xB5> Good luck! ûHi pooch!= You're a nice animal, and so fluffy, too! ûI'm glad things are back to normal.= I missed old Ebon Keep! ûDid you hear?Çy There's going to be a pig race on the west side of town!åI like pigs,Çy especially fast ones! ûWasn't that pig race wonderful?Çy It was so exciting and unpredictable! ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûHi pooch!= You're a nice animal, and so fluffy, too! ûI'm glad things are back to normal.= I missed old Ebon Keep! ûDid you hear?Çy There's going to be a pig race on the west side of town!åI like pigs,Çy especially fast ones! ûWasn't that pig race wonderful?Çy It was so exciting and unpredictable! ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûI'm glad things are back to normal.= I missed old Ebon Keep! ûDid you hear?Çy There's going to be a pig race on the west side of town!åI like pigs,Çy especially fast ones! ûWasn't that pig race wonderful?Çy It was so exciting and unpredictable! ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûDid you hear?Çy There's going to be a pig race on the west side of town!åI like pigs,Çy especially fast ones! ûWasn't that pig race wonderful?Çy It was so exciting and unpredictable! ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûWasn't that pig race wonderful?Çy It was so exciting and unpredictable! ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûHello, Princess!= Come to Momma!= Yes.= You're a good little dog! ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûI thought there was something wrong with the queen.I'm glad the real one is back with her subjects where she belongs! ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûThe queen has been very nice lately, in a sort of sickeningly sweet kind of way.And the king!= The king has been gone!åI just can't figure out those royals! ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûHello, pretty puppy.= What's your name?= <0x41><0x7B>Fifi?<0x41><0x7D>= <0x41><0x7B>Petunia?<0x41><0x7D> ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûMy mother says that Ebon Keep isn't as spotless as Ivor Tower was,Çy but it's home.<End>
+ûMy mother went into the new castle once.y She said that it's really big,ÇyÇ
+and spotless! ûYou should watch out for my brother.= He chases dogs.= I know that's not very nice.<End>
+ûYou should watch out for my brother.= He chases dogs.= I know that's not very nice.<End>
+ûQueen Bluegarden is our leader again!Çy For real!Çy Thanks! ûThe queen has always been kind as long as I can remember.She's still nice, but in a fakey kind of way.<End>
+ûThe queen has always been kind as long as I can remember.She's still nice, but in a fakey kind of way.<End>
+ûHey, puppy.= You better watch out,Çy or I'm gonna pull your tail! ûWe walked over the chessboard when we moved back to Ebon Keep.The trap door that leads to the Dark Forest was open.I heard that there's another trap door that goes down the other side.<End>
+ûWe walked over the chessboard when we moved back to Ebon Keep.The trap door that leads to the Dark Forest was open.I heard that there's another trap door that goes down the other side.<End>
+ûNo one goes out onto the chessboard between the castles anymore.But,Ç<0x41><0x29> I heard that there's a trap door there that leads to the floor of the ravine.<End>
+ûYou may be frou-frou,Çy but the monsters in the ravine are no match for you!<0x41><0x85><End>
+ûYou oughta stay in town.= The ravine is packed with dragons and other nasty beasts.It's much too challenging for a frou-frou dog like you.<0x41><0x85><End>
+ûYou've proven yourself to be quite an adventurer.y Well done.y Good job.<End>
+ûThe ravine has many a monster.= You must be well equipped to travel there.<End>
+çûOK.= Maybe some other time.<End>
+ûI can offer fine crafted beads to you for the incredible price of BFP Gold Coins each.<End>
+Would you like to make a purchase?=Ç
+ùïSure.
+ïNo.<End>
+çûHow many beads?
+ïOne.
+ïTwo.
+ïThree.<End>
+ûçIt's a deal.<0x41><0x1F> Enjoy your beads.<End>
+ûGood for trading and cooking, my spices are only BFB Gold Coins per jar.<End>
+What do you say?
+ùïI'll take some.
+ïI'll pass.<End>
+çûHow many jars?
+ïOne.
+ïTwo.
+ïThree.<End>
+ûçGood deal!= Thanks.<End>
+ûIf you want some real firepower, you should load up on Bazooka Shells.<End>
+I can offer Thunderball Shells for BFO Coins.
+ïI'll buy!
+ïNo thanks.<End>
+çûHow many shells?
+ïFive.
+ïTen.
+ïFifteen.<End>
+ûçGood deal!= Thanks.<End>
+ûWe're sold out!= You got the last ticket! ûYou have not seen anything until you've seen Perceval Plank's Exhibition of Oddities.A ticket to this entertainment spectacle will set you back one Amulet of Annihilation.What do you say?
+ùïI'll take it!
+ïSome other time.<End>
+ûYou have not seen anything until you've seen Perceval Plank's Exhibition of Oddities.A ticket to this entertainment spectacle will set you back one Amulet of Annihilation.What do you say?
+ùïI'll take it!
+ïSome other time.<End>
+çûThank you very much.= The exhibition is at the north end of the alley to the west.Enjoy the show! çûUh, pardon me?= Do I look like a sucker?åYou don't have an Amulet of Annihilation, kid.yÇ
+No Amulet,Çy no ticket.<End>
+çûUh, pardon me?= Do I look like a sucker?åYou don't have an Amulet of Annihilation, kid.yÇ
+No Amulet,Çy no ticket.<End>
+ûYou already traded for my best item.= I don't have anything else for you.<End>
+ûThe Oracle Bone can make people say things that they would not otherwise say.The person who possesses it will hear many important secrets.And it can be yours for a Golden Jackal Statuette and a Jeweled Scarab.Is it a deal?
+ùïSure.
+ïNo way.<End>
+çûThank you.= May you learn much from your possession of the Oracle Bone.<End>
+çûI'm sorry.= You don't have the items that I require for the trade.<End>
+ûSorry, kid.= You have the Thug's Cloak already.I don't have anything else for you.<End>
+ûWith the Thug's Cloak in your possession, you'll be able to evade attacks more successfully.I can trade it to you for <Var 38> bottles of perfume and <0x41><0x36> beads.Is it a trade?
+ùïOK.
+ïI don't think so.<End>
+çûGood choice.= The Thug's cloak will help you greatly.<End>
+çûYou don't have enough goods to swing the deal.= Sorry.<End>
+ûI'm sorry.= I only exchange Gold Coins to humans.<End>
+ûI provide Gold Coins in exchange for other types of money.Would you like to exchange currencies?
+ïSure.
+ïNo thanks.<End>
+ûYou will absolutely love this beautifully scented perfume.I can give it to you for only two jars of spice per bottle.What do you say?
+ùïLet's trade
+ïNo thanks.<End>
+çûHow many bottles?
+ïOne.
+ïTwo.
+ïThree.<End>
+ûçThe deal is sealed.= Thanks.<End>
+ûYou're not allowed in the castle.y Only the queen and other important people may enter.I make sure that nobodies like you stay away.<End>
+ûThe queen has a more <0x41><0x7B>open door<0x41><0x7D> policy than her evil robot twin had.I think it's for the better,Çy but it's good to keep a tight ship, too! ûThe queen said that you could enter the castle.y But, make sure to wipe your feet first, OK? ûUh,= excuse me.y There are no dogs allowed in the castle,Çy OK? ûYou and your master may enter the castle.y But don't touch anything, OK? ûHey, pooch.y This town is just as happy as Ivor Tower.And it has fewer evil twins, too! ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûThe queen said that you could enter the castle.y But, make sure to wipe your feet first, OK? ûUh,= excuse me.y There are no dogs allowed in the castle,Çy OK? ûYou and your master may enter the castle.y But don't touch anything, OK? ûHey, pooch.y This town is just as happy as Ivor Tower.And it has fewer evil twins, too! ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûUh,= excuse me.y There are no dogs allowed in the castle,Çy OK? ûYou and your master may enter the castle.y But don't touch anything, OK? ûHey, pooch.y This town is just as happy as Ivor Tower.And it has fewer evil twins, too! ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûYou and your master may enter the castle.y But don't touch anything, OK? ûHey, pooch.y This town is just as happy as Ivor Tower.And it has fewer evil twins, too! ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûHey, pooch.y This town is just as happy as Ivor Tower.And it has fewer evil twins, too! ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûHey, pooch.y How do you like our happy town?Çy Pretty nice, huh? ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûYou should get your master to buy you a new collar.= He can find them at the store.<End>
+ûI heard that you had quite an adventure in the ravine!åNow you've got more adventures ahead of you! ûYou should be prepared if you plan to venture beyond our town.They say that the ravine is populated by dragons.<End>
+ûYou should be prepared if you plan to venture beyond our town.They say that the ravine is populated by dragons.<End>
+ûAnimals are welcome in the new, improved Ebon Keep.Our restored queen isn't as much of a clean freak as her evil twin was.<End>
+ûWe don't have a lot of animals in our little town.y The queen wants to keep the place clean.<End>
+ûThey say that the evil twin robot queen was looking for some sort of energy source.<End>
+ûBut, no one knows what it is, or where it could be.<End>
+ûI think that it could be under the chessboard! ûHave you seen our giant chessboard?åIt's on the plateau in the ravine, between Ebon Keep, and our new castle, Ivor Tower.<End>
+ûHave you seen our giant chessboard?åIt's on the plateau in the ravine, between Ebon Keep, and our new castle, Ivor Tower.<End>
+ûWhat a nice little dog!åDo you like being being scratched behind the ears?= My dog <0x41><0x7B>King<0x41><0x7D> does! ûFirst we lived in Ebon Keep, then we lived in Ivor Tower.Now we live in Ebon Keep again.I'm getting a little confused and I'm quite tired of moving.<End>
+ûFirst we lived in Ebon Keep, then we lived in Ivor Tower.Now we live in Ebon Keep again.I'm getting a little confused and I'm quite tired of moving.<End>
+ûNot long ago all of us moved from Ebon Keep to this new town.The queen wanted a place that was cleaner and more controlled.<End>
+ûYou're a strange looking creature.But you're not as strange as those Oglins,Çy or so I've heard! ûThere's a group of mysterious creatures that lurk below the surface.They're called <0x41><0x7B>Oglins.<0x41><0x7D>åMy brother saw one once.y He said that it was seven feet tall with red eyes and big claws! ûThe new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<End>
+ûThere's a group of mysterious creatures that lurk below the surface.They're called <0x41><0x7B>Oglins.<0x41><0x7D>åMy brother saw one once.y He said that it was seven feet tall with red eyes and big claws! ûThe new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<End>
+ûThe new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<End>
+ûHiya pooch!= We don't see many animals around here!= The queen likes to keep the place clean.<End>
+ûThat evil robot queen sure was,= uh,= evil,Çy wasn't she? ûThe queen says that the old town has been taken over by mean creatures.But, she's going to take care of them! ûYou look like you could fit into small spaces.= That's good for finding treasure sometimes.<End>
+ûThe queen says that the old town has been taken over by mean creatures.But, she's going to take care of them! ûYou look like you could fit into small spaces.= That's good for finding treasure sometimes.<End>
+ûYou look like you could fit into small spaces.= That's good for finding treasure sometimes.<End>
+ûI heard that the chessboard between the castles has two trap doors!Çy Cool! ûHave you seen that chessboard between the old castle and the new one?åThey say that the pieces used to move by themselves! ûThe winner of the pig race is here to meet the queen.<0x41><0x85><End>
+ûHave you seen that chessboard between the old castle and the new one?åThey say that the pieces used to move by themselves! ûThe winner of the pig race is here to meet the queen.<0x41><0x85><End>
+ûThe winner of the pig race is here to meet the queen.<0x41><0x85><End>
+ûArrrgh! I had a weeks pay bet on Truffle Trouble.ûGo on in before I change my mind.<0x41><0x85><End>
+Found Amulet of Annihilation<End>
+Found Amulet of Annihilation<End>
+Found Amulet of Annihilation<End>
+ûWell, hello friend.= My name's Lance.= I live here.You're not messing around with any of my stuff, are you? ûUh, no.= We were just looking around.We wouldn't open your treasure chests or anything without your permission.<End>
+ûUh, no.= We were just looking around.We wouldn't open your treasure chests or anything without your permission.<End>
+ûThat's good!= You're a nice kid!= Where are you from? ûPodunk!= We're on an adventure.<End>
+ûPodunk!= We're on an adventure.<End>
+ûThat's the spirit!Çy <End>
+I like to go out into uncharted territory myself.<End>
+ûI've found quite a few treasures that way.<End>
+ûSay!Çy Here's something that you might appreciate.It's my very own alchemy formula.y I call it <0x41><0x7B>Lance.<0x41><0x7D> ûJust mix Iron with Acorn and you'll hit mean creatures with a sharp attack.<End>
+ûJust mix Iron with Acorn and you'll hit mean creatures with a sharp attack.<End>
+ûFeel free to look through my treasure chests.You might find something that you can use on your adventure.<End>
+ûYou don't look like the adventuring sort, pup.= But, looks can be deceiving.<End>
+ûI'm sure that you have an exciting adventure ahead of you.<End>
+ûWell,= you're a sight to see,= aren't you?Çy Where's your little pink bow, huh? ûThings are different now that we're back in Ebon Keep with our original queen.ûWe're allowed to be happy, or not happy.yÇ
+It's our choice.<End>
+ûThings are different now that we're back in Ebon Keep with our original queen.ûWe're allowed to be happy, or not happy.yÇ
+It's our choice.<End>
+ûWelcome to Ivor Tower, young man.y We're very happy here.y The queen likes it that way! ûYou don't look like you're very tough.,You've got to put some meat on your bones and exercise.<End>
+ûYou don't look like you're very tough.,You've got to put some meat on your bones and exercise.<End>
+ûI had heard stories about this Gomi character and his tower,Çy quite some time ago.It turns out that he's not as nutty as we all thought.<End>
+ûI've heard stories about a strange old man in the nothern part of the ravine.They say that he's building a tower to the sky!Çy Crazy, huh? ûYou're a funny looking pooch.<End>
+ûYou're a funny looking pooch.<End>
+You're not part of that exhibition on the west side of town, are you? ûIt turns out that the exhibition in Ivor Tower was put there by the evil robot queen.She wanted to keep the citizens entertained while she schemed right under our noses.I, for one, was fooled.<End>
+ûIt turns out that the exhibition in Ivor Tower was put there by the evil robot queen.She wanted to keep the citizens entertained while she schemed right under our noses.I, for one, was fooled.<End>
+ûHave you seen the exhibition of oddities on the west side of town?åIt's entertaining and amusing.= I'd call it the feel-good exhibition of the year! ûHi pooch.= You're a good animalBEE= well behaved and well groomed! ûEbon Keep isn't as clean as Ivor Tower was.<0x41><0xB5>  It's not as festive, either.But,= it's home and I like it.<End>
+ûHi pooch.= You're a good animalBEE= well behaved and well groomed! ûEbon Keep isn't as clean as Ivor Tower was.<0x41><0xB5>  It's not as festive, either.But,= it's home and I like it.<End>
+ûEbon Keep isn't as clean as Ivor Tower was.<0x41><0xB5>  It's not as festive, either.But,= it's home and I like it.<End>
+ûHow do you like our town?Çy Clean and festive, huh?Ç<0x41><0xB5> That's the way our queen likes it! ûYou're quite a nice pup,= even though you do look a little silly.<End>
+ûYou're quite a nice pup,= even though you do look a little silly.<End>
+ûI'm glad that everything is back to normal here.That evil twin robot puppet queen was getting on my nerves.<End>
+ûThe queen is trying hard to make everyone happy.y But,= it seems like something is missing.<End>
+ûWell!= What a nice puppy!= And so pink and puffy! ûMy husband, Lance, travels all around the kingdom and collects valuable treasures.He's very protective of his finds and he doesn't like for anyone to touch them.He keeps them in treasure chests upstairs.<End>
+ûMy husband, Lance, travels all around the kingdom and collects valuable treasures.He's very protective of his finds and he doesn't like for anyone to touch them.He keeps them in treasure chests upstairs.<End>
+ûOh!= Hello, pup!= What's your name?= <0x41><0x7B>Duke?<0x41><0x7D> ûYou're the one with strange garb!Ç<0x41><0xB5> I hear that you saved our queen and kingdom.Good job!åPlease feel free to take items from our treasure chests.You'll need them for your journey.<End>
+ûYou're the one with strange garb!Ç<0x41><0xB5> I hear that you saved our queen and kingdom.Good job!åPlease feel free to take items from our treasure chests.You'll need them for your journey.<End>
+ûYou're not from Ivor Tower, are you?= I could tell because of your strange garb.Please feel free to take items from our treasure chests.You'll need them for your journey.<End>
+ûHello, Prince!= Please, make yourself at home.= There's plenty of room! ûWe're the biggest and richest family in town.<End>
+ûWe're the biggest and richest family in town.<End>
+This is our new place.= Pretty nice, huh? You're welcome to the items in our treasure chests if you can use them for your journey.<End>
+You're welcome to the items in our treasure chests if you can use them for your journey.<End>
+ûWell,= what's your name, puppy?Çy <0x41><0x7B>Fluffy?<0x41><0x7D>Çy <0x41><0x7B>Muffy?<0x41><0x7D>Çy <0x41><0x7B>Princess?<0x41><0x7D> ûThe giant chessboard used to be a real sight to see!åThe pieces used to move all by themselves!Çy But,= some time ago,= they just stopped! ûI understand that there are trap doors on the chessboard that lead to the chamber below.<End>
+ûThe giant chessboard used to be a real sight to see!åThe pieces used to move all by themselves!Çy But,= some time ago,= they just stopped! ûI understand that there are trap doors on the chessboard that lead to the chamber below.<End>
+ûI understand that there are trap doors on the chessboard that lead to the chamber below.<End>
+ûYou're very fancy looking,= what with your pink puffs and all! ûHello, royal subject!åI see that you've dressed up in your finery for your audience with me!åYou're so pink and puffy! ûThere was a time that I thought I was the king, but I've come to my senses now.ûOf course,= I still like the robes and finery.<End>
+ûHello, royal subject!åI see that you've dressed up in your finery for your audience with me!åYou're so pink and puffy! ûThere was a time that I thought I was the king, but I've come to my senses now.ûOf course,= I still like the robes and finery.<End>
+ûThere was a time that I thought I was the king, but I've come to my senses now.ûOf course,= I still like the robes and finery.<End>
+ûAll hail his majesty,= me!Çy You may grovel in my presence! ûOh!= Such a nice animal! We don't have many animals here.The queen wants to keep the place clean.<End>
+ûOh!= Such a nice animal! We don't have many animals here.The queen wants to keep the place clean.<End>
+We don't have many animals here.The queen wants to keep the place clean.<End>
+ûI'm glad to be back in good old Ebon Keep.<0x41><0xF1> Ivor Tower kind of gave me the creeps.<End>
+ûAll of the people here used to live in Ebon Keep.We moved when the queen built Ivor Tower.I hear that some people still live in the old town.y The queen is not very happy about that.<End>
+ûYou certainly seem to be in the festive spirit of our town.<End>
+ûI love what you've done to your hair! ûThat evil twin of the queen turned out to be a real monster!åI'm glad that you stepped in when you did.<End>
+ûThat evil twin of the queen turned out to be a real monster!åI'm glad that you stepped in when you did.<End>
+ûThe big pig race will be happening soon!= It's a town tradition.<End>
+ûI hear that the queen is going to clean out Ebon Keep.But, first, her troops have to find a way to cross over to the other side.<End>
+ûYou're quite a regal looking beast.You don't think that you're king of the poodles, do you? ûMy husband snapped out of his king complex when we moved back to Ebon Keep.I'm glad that he's back to being a plumber with robes and a crown.<End>
+ûMy husband snapped out of his king complex when we moved back to Ebon Keep.I'm glad that he's back to being a plumber with robes and a crown.<End>
+ûMy husband has a king complex.= But he's not really the king.= He's a plumber.The true king of our land hasn't made a public appearance in quite some time.<End>
+ûHi puppy!Çy You're cute!= And friendly, too! ûHey!= You look familiar!= Were you at the pig race? ûI like being back in Ebon Keep, but I'm going to miss the pig races.<End>
+ûHey!= You look familiar!= Were you at the pig race? ûI like being back in Ebon Keep, but I'm going to miss the pig races.<End>
+ûI like being back in Ebon Keep, but I'm going to miss the pig races.<End>
+ûI'm going to the pig race!= It's going to be on the west side of town.y I like pigs! ûThat pig race was great!Çy And such an exciting finish! ûYou're a nice little dog.= Can we keep you? ûWhen we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.I had to go back in and find them.<End>
+ûThat pig race was great!Çy And such an exciting finish! ûYou're a nice little dog.= Can we keep you? ûWhen we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.I had to go back in and find them.<End>
+ûYou're a nice little dog.= Can we keep you? ûWhen we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.I had to go back in and find them.<End>
+ûWhen we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.I had to go back in and find them.<End>
+ûWhen we moved here from Ebon Keep, we went through the chessboard hedge maze.I got to the end before both of my brothers.<End>
+ûDogs are good pets!= You probably know a bunch of tricks, huh? ûI hope that the exhibition comes to Ebon Keep some time.<End>
+ûI hope that the exhibition comes to Ebon Keep some time.<End>
+ûMy father took me to the exhibition on the west side of town.<End>
+It was creepy,= but cool! ûYou're kind of prissy,Çy but I bet you're a good dog.y Do you know how to fetch? ûMy older brother, Lance, went to the forest at the bottom of the ravine once.He said that it was dark and creepy!Ç<0x41><0xB5> I'm going there when I'm as old as him! ûHiya, King!= Woof!= Woof!= Am I speaking your language? ûHave you been to the ravine below the chessboard?= It's full of dragons!åI'm going to go there and explore when I'm older! ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûYou're kind of prissy,Çy but I bet you're a good dog.y Do you know how to fetch? ûMy older brother, Lance, went to the forest at the bottom of the ravine once.He said that it was dark and creepy!Ç<0x41><0xB5> I'm going there when I'm as old as him! ûHiya, King!= Woof!= Woof!= Am I speaking your language? ûHave you been to the ravine below the chessboard?= It's full of dragons!åI'm going to go there and explore when I'm older! ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûMy older brother, Lance, went to the forest at the bottom of the ravine once.He said that it was dark and creepy!Ç<0x41><0xB5> I'm going there when I'm as old as him! ûHiya, King!= Woof!= Woof!= Am I speaking your language? ûHave you been to the ravine below the chessboard?= It's full of dragons!åI'm going to go there and explore when I'm older! ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûHiya, King!= Woof!= Woof!= Am I speaking your language? ûHave you been to the ravine below the chessboard?= It's full of dragons!åI'm going to go there and explore when I'm older! ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûHave you been to the ravine below the chessboard?= It's full of dragons!åI'm going to go there and explore when I'm older! ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûYou're probably a pretty nice dog, but you look kind of precious.<End>
+ûI heard that the king has snapped out of his puppet show trance.Now he's ready to watch over the kingdom again.<End>
+ûI heard that the real king watches some strange puppet show all day!åThat's why we haven't seen him in a while.<End>
+ûSorry, pup.y I only deal with two-legged creatures.<End>
+ûNo.= That won't work.<End>
+ûI sell the finest armor and goods in town.You'll not find a better deal anywhere else! ûçWhat can I do for you?Ç<0x41><0x5B>Ç
+çùïBuy items.
+ïSell items.
+ïChange Money.
+ïNevermind.û<End>
+ûçWhat can I do for you?Ç<0x41><0x5B>Ç
+çùïBuy items.
+ïSell items.
+ïChange Money.
+ïNevermind.û<End>
+çCome again.<End>
+ûçWhat can I do for you?
+ùïBuy items.
+ïSell items.
+ïNevermind.û<End>
+ûçWill you purchase armor or goods?
+ïArmor.
+ïGoods.<End>
+ûçWill you sell armor or goods?
+ïArmor.
+ïGoods.<End>
+ûWe don't usually allow dogs in our inn.y But, for you, we'll make an exception.<End>
+ûGood luck.= I hope that your adventure is a successful one.<End>
+ûHello, traveler!= We have a vacancy if you'd like to rest for the night.<End>
+Our rate is BMO Gold Coins.
+ùïWe'll stay.
+ïWe're not that tired.<End>
+çûI hope you had a good rest.<End>
+ûçYou can exchange other currencies for Coins at the shop.<End>
+ûYou look <0x41><0x7B>dog tired.<0x41><0x7D> Ha! That's a little innkeeper humor! ûGood luck.= I hope that your adventure is a successful one.<End>
+ûGood luck.= I hope that your adventure is a successful one.<End>
+ûHello, <Boy>.= Nice to see you again.<End>
+ûçI'm handling business on both sides of the building because of the lack of people in town.<End>
+ûWould you like to stay? =Ç<End>
+The rate is BPO Gold Coins.
+ùïWe'll stay.
+ïNo thanks.<End>
+çûI hope you had a good rest.<End>
+ûçYou can exchange other currencies for Coins at the shop.<End>
+ûHello, fluffy pup.= I'm sure that you're a lot tougher than you look.<End>
+ûWhat have we here?Çy You're not from Ebon Keep or Ivor Tower,ÇyÇ
+as far as I can tell.<End>
+ûNo!= We're from Podunk! ûCan't say that I've heard of Podunk.Maybe you've heard of me.= The name's Cecil of Baron Castle.Heard about my victory over <0x41><0x5A>eromus?
+ïSure. Of course!
+ïCan't say that I have.<End>
+ûCan't say that I've heard of Podunk.Maybe you've heard of me.= The name's Cecil of Baron Castle.Heard about my victory over <0x41><0x5A>eromus?
+ïSure. Of course!
+ïCan't say that I have.<End>
+ûçHow about the time that I turned into a paladin?
+ïNow I remember!
+ïDoesn't ring a bell.<End>
+ûçHow about my adventure on the moon?
+ïOh yeah! The moon!
+ïI don't think so.<End>
+ûçWell.= Suffice it to say,Çy I've been almost everywhere and I've done almost everything.<End>
+ûçNow I've settled down with my wife, Rosa, and we live a quiet life here in Ebon Keep.<End>
+ûIs all of this armor yours? ûYes.= This is my business!Çy I sell items that I've accumulated over the years.<End>
+ûYes.= This is my business!Çy I sell items that I've accumulated over the years.<End>
+It's nice, but business has been slow lately,= what with most people leaving for Ivor Tower.<End>
+ûWhy didn't you leave, too? ûJust stubborn I guess.y We didn't feel right about itBEEÇy still don't.You seem like a nice kid.= But you're never going to get anywhere with that chintzy armor.Let me suit you up in style! ûSince you've heard of my adventures,= I feel like we're old friends.<0x41><0xB5> So, I'll give you a special deal.<End>
+ûJust stubborn I guess.y We didn't feel right about itBEEÇy still don't.You seem like a nice kid.= But you're never going to get anywhere with that chintzy armor.Let me suit you up in style! ûSince you've heard of my adventures,= I feel like we're old friends.<0x41><0xB5> So, I'll give you a special deal.<End>
+ûSince you've heard of my adventures,= I feel like we're old friends.<0x41><0xB5> So, I'll give you a special deal.<End>
+ûHello, kid.= Nice to see you again.<End>
+ûI appreciate your business.= Please take this powerful weapon with my thanks.I found it in one of my adventures,= in the jungle on the plateau.<End>
+Received Bazooka<End>
+Received Thunderball projectile<End>
+ûYou're that nice young man who helped our town! Thank you so much! ûMy alchemy business has all but dried up. ÇQÇI'm thinking of retiring.<End>
+ûMy alchemy business has all but dried up. ÇQÇI'm thinking of retiring.<End>
+You're such a cutie!ÇQ Let me teach you a useful alchemy formula.It requires <Var 31> Acorn and <Var 32> parts Water.<End>
+Would you like to equip or unequip your spells?
+=ÇïSure.
+ïMaybe later.<End>
+ûSweet doggy!<0x41><0x85><End>
+ûWow!= This place is just like the other castle.= Only,= not quite as…Çy clean.<End>
+ûHalt!= <End>
+Stop!= Wait! ûWho are you?Çy What do you want? ûUh,= I'm <Boy> <End>
+ûWho are you?Çy What do you want? ûUh,= I'm <Boy> <End>
+ûUh,= I'm <Boy> <End>
+ûand this is my dog, <Dog>.<End>
+ûWe've been sent here by the queen of Ivor Tower.<0x41><0xB5> She wants us to open the drawbridge! ûThat imposter sent you here!Çy <End>
+ûThat imposter sent you here!Çy <End>
+ûAnd she wants you to open our drawbridge?åOh!Çy This won't do!Çy <End>
+We can't have this! ûPlease,= I implore you,= before you do anything rash,Çy come with me! ûThere is someone that you must meet! ûçôOÇÇh,Ç dÇÇeÇÇaÇÇr!!=Ç
+<End>
+ûPlease,= I implore you,= before you do anything rash,Çy come with me! ûThere is someone that you must meet! ûçôOÇÇh,Ç dÇÇeÇÇaÇÇr!!=Ç
+<End>
+ûThere is someone that you must meet! ûçôOÇÇh,Ç dÇÇeÇÇaÇÇr!!=Ç
+<End>
+ûçôOÇÇh,Ç dÇÇeÇÇaÇÇr!!=Ç
+<End>
+ôIÇÇ'mÇ sÇÇo<End>
+ scared!!<End>
+C	a	m	e	l	l	i	a!!=
+<End>
+W	e	 h	a	v	e	 t	o	 g	o!! )<End>
+çôEÇÇvÇÇeÇÇrÇÇmÇÇoÇÇrÇÇeÇ iÇÇsÇ <End>
+sÇÇhÇÇaÇÇkÇÇiÇÇnÇÇg aÇÇpÇÇaÇÇrÇÇt!!Ç <End>
+
+NÇÇoÇ tÇÇiÇÇmÇÇeÇ tÇÇoÇ eÇÇxÇÇpÇÇlÇÇaÇÇiÇÇn!Ç<0x41><0xF1>Ç<End>
+ûçôCÇÇaÇÇmÇÇeÇÇlÇÇlÇÇiÇÇa,Ç mÇÇyÇ sÇÇwÇÇeÇÇeÇÇt!
+Ç<0x41><0x15>Ç<End>
+D	o	n'	t	 l	e	a	v	e 	m	e!y<End>
+You heard the boy! <End>
+
+You can have the castle!Ý<End>
+ûPlease follow these stairs and speak to her highness.<End>
+ûQueen Bluegarden?= What are you doing here? ûHave we met? ûYeah!= In Ivor Tower!= Don't you remember? ûOh!= You met the imposterBEE= my evil twin! ûWow!= This is like what happens in <0x41><0x7B>The Two Doctor Ids!<0x41><0x7D>åWe've found evil twins everywhere! ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+ûHave we met? ûYeah!= In Ivor Tower!= Don't you remember? ûOh!= You met the imposterBEE= my evil twin! ûWow!= This is like what happens in <0x41><0x7B>The Two Doctor Ids!<0x41><0x7D>åWe've found evil twins everywhere! ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+ûYeah!= In Ivor Tower!= Don't you remember? ûOh!= You met the imposterBEE= my evil twin! ûWow!= This is like what happens in <0x41><0x7B>The Two Doctor Ids!<0x41><0x7D>åWe've found evil twins everywhere! ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+ûOh!= You met the imposterBEE= my evil twin! ûWow!= This is like what happens in <0x41><0x7B>The Two Doctor Ids!<0x41><0x7D>åWe've found evil twins everywhere! ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+ûWow!= This is like what happens in <0x41><0x7B>The Two Doctor Ids!<0x41><0x7D>åWe've found evil twins everywhere! ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+ûFirst, there was Fire Eyes,= er,= Elizabeth and her evil twin,Çy then Horace,= and now…Çy <End>
+you! ûElizabeth?= Horace?= You've met the others! ûAre you from Podunk, too? ûYes.<End>
+ûElizabeth?= Horace?= You've met the others! ûAre you from Podunk, too? ûYes.<End>
+ûAre you from Podunk, too? ûYes.<End>
+ûYes.<End>
+ûAnd you were part of an experiment in the mansion on the hill? ûYes! ûAnd something went terribly wrong? ûYes.= And I've been stuck here ever since.It hasn't been that bad,= until a few months ago,= anyway.<End>
+ûYes! ûAnd something went terribly wrong? ûYes.= And I've been stuck here ever since.It hasn't been that bad,= until a few months ago,= anyway.<End>
+ûAnd something went terribly wrong? ûYes.= And I've been stuck here ever since.It hasn't been that bad,= until a few months ago,= anyway.<End>
+ûYes.= And I've been stuck here ever since.It hasn't been that bad,= until a few months ago,= anyway.<End>
+ûThat's when my twin appeared,Çy locked me in the dungeon and took my place.<End>
+ûThen,= she presented the king with a hypnotic puppet show which sent him into a trance.<End>
+ûWith the king in his couch potato state,Çy the imposter could scheme right under his nose.<End>
+ûBy the time I got out of the dungeon,Çy she had moved the kingdom across the ravine.<End>
+ûNow,= only a few of us remain in Ebon Keep.<End>
+ûShe sent us here to open the drawbridge so that her troops could clear out the castle.<End>
+ûThat's not good at all! ûIt's only a matter of time before she storms in here,Ç<0x41><0xB5> with or without your help.<End>
+ûIt's only a matter of time before she storms in here,Ç<0x41><0xB5> with or without your help.<End>
+ûListen kid,= I think that Tinker can help you get back to Podunk.<End>
+ûBut first,= you're going to have to get rid of that imposter.<End>
+ûWe'll batten down the hatches here… ûAnd we'll go back to the castle and set things straight before she can cross over.<End>
+ûAnd we'll go back to the castle and set things straight before she can cross over.<End>
+ûThat sounds like a good idea.<End>
+ûHere are <Var A2> Call Beads.Throw one to the ground when you need my help.<End>
+Received <Var A2> Call Beads<End>
+ûIf you need my help out in the field, you can call me by using one of your Call Beads.<End>
+ûBefore you leave,= make sure that you talk to Tinker in the chamber to the East.He'll be able to help you in your journey.<End>
+ûThanks, Queen Bluegarden.<End>
+ûPlease.y Call me <0x41><0x7B>Camellia.<0x41><0x7D> ûOh, what a heroic little dog!åI could hug you and squeeze you and eat you up!<0x41><0x85><End>
+ûOh, what a heroic little dog!åI could hug you and squeeze you and eat you up!<0x41><0x85><End>
+ûOh, you brave little boy!!åThanks to you, the kingdom is once again filled with happiness and hope.<End>
+Before you leave,= be sure that you talk to Tinker.He may be able to help you in your journey.<0x41><0x85><End>
+ûHello, Fluffy!= What a wonderful little dog! ûWe're counting on you to go back to the new castle to confront the imposter.While you're gone,= we'll batten down the hatches here.<End>
+ûWe're counting on you to go back to the new castle to confront the imposter.While you're gone,= we'll batten down the hatches here.<End>
+ûBefore you leave,= make sure that you talk to Tinker.His chamber is directly east of here.He should be able to help you in your journey.<End>
+ûWow! =ÇWhat cool windows! ÇQÇThe pictures seem almost… ÇeÇalive.It must be a trick of the light.<End>
+ûWhat is it <Dog>? ÇQÇWhat's wrong? ûWhew! Ç<0x41><0x5B> Those guys were a pane in the glass.<End>
+ûWhew! Ç<0x41><0x5B> Those guys were a pane in the glass.<End>
+ûHello again, friend.I trust that my little security measure in the hall didn't give you much trouble.I haven't introduced myself.<0x41><0xB5> <End>
+My name is Tinker Tinderbox.<End>
+ûI deal with scientific mattersBEE= mechanical inventions,= alchemy formulas… ûI trust that the queen has told you about our imposter in Ivor Tower? ûYeah!= <End>
+ûI trust that the queen has told you about our imposter in Ivor Tower? ûYeah!= <End>
+ûYeah!= <End>
+ûWe've been encountering evil twins ever since we left Podunk! ûOh!= You're from the same place that our queen hails from! ûYeah!= There's an abandoned mansion just outside of town.<End>
+ûOh!= You're from the same place that our queen hails from! ûYeah!= There's an abandoned mansion just outside of town.<End>
+ûYeah!= There's an abandoned mansion just outside of town.<End>
+û<Dog> chased a cat into the old place and I followed him.<End>
+ûThe cat wasn't there anymore,Çy but we did find a strange machine in an old laboratory.<End>
+ûThe machine zapped us to another lab that looked a lot like the old one.Only, this lab was in some sort of space station.<End>
+ûThere were two people there.= One was this scientist, Dr. Ruffleberg…å…the other one looked like it may have been his butler.<End>
+ûI'm not really sure what happened after that,= but we ended up on Evermore…åû…and we've been here ever since.<End>
+ûI think I know of this place in space that you speak of! ûI've seen it through my telescope! ûIf you want to go back to Podunk,Ç<0x41><0xB5> you'll probably find the way up there!åAnd I think I know how you can get there, too! ûBut first,= we have the matter at hand of the imposter… ûThe queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<End>
+ûI've seen it through my telescope! ûIf you want to go back to Podunk,Ç<0x41><0xB5> you'll probably find the way up there!åAnd I think I know how you can get there, too! ûBut first,= we have the matter at hand of the imposter… ûThe queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<End>
+ûIf you want to go back to Podunk,Ç<0x41><0xB5> you'll probably find the way up there!åAnd I think I know how you can get there, too! ûBut first,= we have the matter at hand of the imposter… ûThe queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<End>
+ûBut first,= we have the matter at hand of the imposter… ûThe queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<End>
+ûThe queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<End>
+ûThat sounds like a good idea.y The imposter is scheming at this very moment! ûTake a look! ûWow!= She's mean! ûYes!= She has to be dealt with,= in a hurry! ûCrossing the chessboard would not be a good idea at this point.<0x41><0xF1> <End>
+ûTake a look! ûWow!= She's mean! ûYes!= She has to be dealt with,= in a hurry! ûCrossing the chessboard would not be a good idea at this point.<0x41><0xF1> <End>
+ûWow!= She's mean! ûYes!= She has to be dealt with,= in a hurry! ûCrossing the chessboard would not be a good idea at this point.<0x41><0xF1> <End>
+ûYes!= She has to be dealt with,= in a hurry! ûCrossing the chessboard would not be a good idea at this point.<0x41><0xF1> <End>
+ûCrossing the chessboard would not be a good idea at this point.<0x41><0xF1> <End>
+Her troops will be expecting it.<End>
+ûI recommend that you go to the North and visit my brother,= Gomi.<0x41><0xF1> He'll help you!åGo through the dungeon to the sewer and then out.<0x41><0xB5> You'll find a blocked passage to the North..You can clear that passage with my axe.<0x41><0xB5> You'll find it in my treasure chest.<End>
+ûçWould you like for me to record your progress?
+ùïOK.
+ïNot right now.û<End>
+ûçCome back after you've dispatched the imposter.<0x41><0xB5> I'll help you return to that space place.<End>
+Found the Explosion Formula<End>
+Found the Nitro Formula<End>
+ûIt says here that the formula requires two parts Ethanol and one part Ash.<End>
+ûI'd better stock up.<End>
+ûHmmm… this one requires one part Gunpowder and two parts Grease.<End>
+ûSounds dangerous.<End>
+ûThis should come in handy.<End>
+Found the Slow Burn Formula<End>
+ûThe formula requires one part Iron and one part Brimstone.<End>
+ûHeavy! Found the Atom Smasher<End>
+Found the Atom Smasher<End>
+Found the Knight Basher<End>
+Gave away the Gauge<End>
+Gave away the Wheel<End>
+Gave away the Diamond Eyes<End>
+ûHi <Boy>.= Do you have the last item that I need? ûHi <Boy>.= Do you have the items that I need? ûI sure do! ûVery good.= Very good, indeed! ûLet's see here.= I have to make sure the pieces are all in order.Now,= if I adjust this knobÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and push this buttonÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and fiddle with this gizmoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<End>
+ûHi <Boy>.= Do you have the items that I need? ûI sure do! ûVery good.= Very good, indeed! ûLet's see here.= I have to make sure the pieces are all in order.Now,= if I adjust this knobÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and push this buttonÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and fiddle with this gizmoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<End>
+ûI sure do! ûVery good.= Very good, indeed! ûLet's see here.= I have to make sure the pieces are all in order.Now,= if I adjust this knobÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and push this buttonÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and fiddle with this gizmoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<End>
+ûVery good.= Very good, indeed! ûLet's see here.= I have to make sure the pieces are all in order.Now,= if I adjust this knobÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and push this buttonÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and fiddle with this gizmoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<End>
+ûLet's see here.= I have to make sure the pieces are all in order.Now,= if I adjust this knobÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and push this buttonÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15> and fiddle with this gizmoÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.<End>
+ûI think we're ready to go! ûIf you can bring me a Pressure Gauge, I'll be able to complete my invention.<End>
+ûIf you can bring me a Pressure Gauge, I'll be able to complete my invention.<End>
+ûIf you can bring me a Valve Wheel, I'll be able to complete my invention.<End>
+ûIf you can bring me the Diamond Eyes, I'll be able to complete my invention.<End>
+ûMy invention will be complete with a Valve Wheel and the Diamond Eyes.<End>
+ûMy invention will be complete with a Pressure Gauge and the Diamond Eyes.<End>
+ûMy invention will be complete with a Valve Wheel and  aPressure Gauge.<End>
+ûYou're a brave animal to be on such a dangerous mission.<End>
+ûOh, ho! =ÇI see you have one of those Energy Core doohickys.I hear tell they lose their energy if not used quickly. ÇQÇCourse I'm no expert, you know.<End>
+ûMy young friend, <Boy>. åThere's talk that an Energy Core gizmo may be beneath the chessboard.Course I'm not one to spread a rumor.<End>
+ûIn order to make my new invention fly, I'm going to need some special parts.And I'm counting on you to collect them.There are two items near the volcanoBEE= a valve wheel and a round pressure gauge.And there are the jewels that flew off of the dog statue when it exploded.If you collect those pieces for me, I'll finish my machine and send you into space.Course she may fly and again maybe not.<End>
+ûHi <Boy>!= I see that you brought back <Var A2> of the rocket parts.<End>
+ûWe're counting on you to go to Ivor Tower and fight the imposter.Go through the dungeon to the sewer and out.You'll find a barrier that you can knock down with the Knight Basher.Go north from there.= You'll find your way to my brother, Gomi.He can help you the rest of the way! ÇeÇOf course, Gomi's none too bright.<End>
+ûçWould you like for me to record your progress?
+ùïOK.
+ïNot right now.û<End>
+ûçCome back after you've dispatched the imposter.y I'll help you return to that space place.Course that's if you come back.<End>
+ûWait!= Stop!= Stop!Çy Fun is fun,= but I don't want to see anybody get hurt! ûUh,= thanks.<End>
+ûUh,= thanks.<End>
+ûMy name's <0x41><0x7B>Gomi,<0x41><0x7D> Son.= I'm a junk collector and a friend of the dragons.<End>
+ûThis is my latest attempt at the great Gomi Tower.<0x41><0xB5> <End>
+ûIt's going to be fabulous.<End>
+ûYou may ask, <0x41><0x7B>Gomi,= why do you want to build such a tall tower?<0x41><0x7D> û<0x41><0x7B>Aren't you happy being bound to the ground?<0x41><0x7D> û<0x41><0x7B>Don't you think you can do something better with your time?<0x41><0x7D> ûTo that, I say, <0x41><0x7B>No!<0x41><0x7D> ûI am a child of the sky and I want to reach higher,Ç<0x41><0xB5> <End>
+û<0x41><0x7B>Aren't you happy being bound to the ground?<0x41><0x7D> û<0x41><0x7B>Don't you think you can do something better with your time?<0x41><0x7D> ûTo that, I say, <0x41><0x7B>No!<0x41><0x7D> ûI am a child of the sky and I want to reach higher,Ç<0x41><0xB5> <End>
+û<0x41><0x7B>Don't you think you can do something better with your time?<0x41><0x7D> ûTo that, I say, <0x41><0x7B>No!<0x41><0x7D> ûI am a child of the sky and I want to reach higher,Ç<0x41><0xB5> <End>
+ûTo that, I say, <0x41><0x7B>No!<0x41><0x7D> ûI am a child of the sky and I want to reach higher,Ç<0x41><0xB5> <End>
+ûI am a child of the sky and I want to reach higher,Ç<0x41><0xB5> <End>
+ûlike my friends,= the dragons.<End>
+ûSo, what brings you up to my structure? ûWe heard that this is the best way to get to Ivor Tower.<End>
+ûWe heard that this is the best way to get to Ivor Tower.<End>
+ûOh!= You don't want to go there!åThat queen acts so nice and friendly… û…but she's really very mean,Çy and devious! ûThat's why we're going there! ûMy dog and I are trying to stop her from tearing apart the kingdom!åTinker told us that you could show us the way! ûTinker?Çy <End>
+û…but she's really very mean,Çy and devious! ûThat's why we're going there! ûMy dog and I are trying to stop her from tearing apart the kingdom!åTinker told us that you could show us the way! ûTinker?Çy <End>
+ûThat's why we're going there! ûMy dog and I are trying to stop her from tearing apart the kingdom!åTinker told us that you could show us the way! ûTinker?Çy <End>
+ûMy dog and I are trying to stop her from tearing apart the kingdom!åTinker told us that you could show us the way! ûTinker?Çy <End>
+ûTinker?Çy <End>
+ûMy brother, Tinker?Çy <End>
+ûWhy didn't you say that he sent you?åOf course I'll help!åûHere's an alchemy formula that I learned from my adventures in the clouds.<End>
+ûI call it <0x41><0x7B>Lightning Storm.<0x41><0x7D> ûThanks!Çy So,= how do we get to Ivor Tower from here? ûThat's no problem at all! ûSterling!= Come here!Çy Come on, Sterling!Çy It was all in fun, eh? ûMy friend, Sterling, will give us a ride! ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûThanks!Çy So,= how do we get to Ivor Tower from here? ûThat's no problem at all! ûSterling!= Come here!Çy Come on, Sterling!Çy It was all in fun, eh? ûMy friend, Sterling, will give us a ride! ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûThat's no problem at all! ûSterling!= Come here!Çy Come on, Sterling!Çy It was all in fun, eh? ûMy friend, Sterling, will give us a ride! ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûSterling!= Come here!Çy Come on, Sterling!Çy It was all in fun, eh? ûMy friend, Sterling, will give us a ride! ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûMy friend, Sterling, will give us a ride! ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûYou're going to take us to Ivor Tower.y OK, Sterling? ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûThis is pretty tough territory for little puffy dogs.I'd be careful if I were you!<0x41><0x85><End>
+ûThis forest is nowhere to lallygag.It's intense!= And it's full of meanies.I recommend that you walk softly and pack heat.<0x41><0x85><End>
+you shouldn't see this map <Var 31> north<End>
+you shouldn't see this map <Var 32> north<End>
+you shouldn't see this map <Var 34> South<End>
+ûHiya, pup.y You look lost.<End>
+ûYou're quite adventurous to wander so deep into the forest.I hate to tell you,= but this is a dead end.<0x41><0xB5> We're talkin' Nowheresville!åListen,= as long as you're here,= I'll give you my favorite alchemy spell.I call it <0x41><0x7B>One Up.<0x41><0x7D>Ç<0x41><0xB5> Use it just before you lose all of your Hit Points.You'll regenerate at full power.<0x41><0xB5> Nice, huh?<0x41><0x85><End>
+ûThe formula requires a Feather and a Root for every use.<End>
+ûYou're not going to get any deeper into the Dark Forest than this.We're talking Dead End City.<End>
+ûAaack!= Aaack!= Stay away from me, vile beast! ûHi!Çy Hi!Çy Hi!Çy Your kindness is very welcome.To save me from the well was a great thing.You did not have to do that, you know.Please take this token of my appreciation.<End>
+ûHi!Çy Hi!Çy Hi!Çy Your kindness is very welcome.To save me from the well was a great thing.You did not have to do that, you know.Please take this token of my appreciation.<End>
+Received Thug's Cloak<End>
+Received Wizard's Coin<End>
+Received DFOOO Gold Coins<End>
+ûThanks many times for your help.y I'll see you again.<End>
+Take heed and go no further I'd turn back if I were you Visit Beautiful Gruelville, BBP leagues west Camp on the banks of the great green Limpopo River Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+I'd turn back if I were you Visit Beautiful Gruelville, BBP leagues west Camp on the banks of the great green Limpopo River Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Visit Beautiful Gruelville, BBP leagues west Camp on the banks of the great green Limpopo River Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Camp on the banks of the great green Limpopo River Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Souvenir Spoon Pounding Factory, <0x41><0x35> furlongs
+Tours Daily Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Half Way See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+See the amazing Bearded Boy, next left City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+City of Constagando, BDO leagues east Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Mountains of Candy, BPO furlongs ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+ûNo one crosses the Shape Lifters' bridge,= twin!åThis calls for a little <0x41><0x7B>sibling rivalry!B}t <End>
+Received Crusader Sword<End>
+ûHiya, pup!= You're fluffy, but tough.<End>
+ûWow!Çy I saw that fight!= You're powerful!åIn fact you're more than three times stronger than yourself!åI haven't figured out the math on that,Çy but I saw it with my own eyes! ûHiya, pup!= You're fluffy,= but tough.<End>
+ûHiya, pup!= You're fluffy,= but tough.<End>
+ûHi!= Thanks to you,= anybody can cross this bridge now,= without fighting their evil twin! Received Lance<End>
+Received Lance<End>
+ûNice doggy.y  Cute hair.<0x41><0x85><End>
+ûWelcome, my friend.y  
+I don't get many visitors down here.That annoying Footknight usually scares them away.<End>
+ûOh!= You have the Oracle Bone!åûI can give you two alchemy formulas that you'll find quite useful.<End>
+ûI've got an alchemy formula that you should find quite useful.<End>
+ûForce Field will fend off an enemies strongest blow.<End>
+ûAnd use Stop to keep your enemies at bay.<End>
+ûGood to see you again.Would you like to equip or unequip your spells?
+=ÇïSure.
+ïNot right now.<End>
+ûGood luck, and be careful out there.<0x41><0x85><End>
+ûHey!= What's that?ÇQ It looks like the energy core we saw when the statue blew up.<0x41><0x85><End>
+Received Energy Core<End>
+ûôLadies and Gentlemen. Ç<0x41><0xB5>Çç<End>
+ûçYou paid for an entire seat,Çy <End>
+ûbut you're only going to need the edge.<0x41><0xF1>Çç<End>
+ûôThis is the main event!=Ç<End>
+µ<End>
+ûôEntering the Colosseum...<0x41><0xB5>Çç<End>
+ûôThe King of Chaos...<0x41><0xB5>Çç<End>
+ûôThe Babylonian Bruiser...<0x41><0xB5>Çç<End>
+ûôThe Pulverizing Prince of Pandemonium...yÇ<End>
+<End>
+ûVigor the Indestructible!Ç<0x41><0xF1>Çç<End>
+ûAnd introducing the challenger...<0x41><0xF1>Çç<End>
+ûSome loser with a claw!<End>
+ûSome loser with a femur!<End>
+ûSome loser with a stick!<End>
+ûWell, it's good to know that the crowd is on my side.This is like the big fight scene in `Dirt, Swords, Sweat and Togas.' I think the hero got pummeled in that picture.<End>
+I think the hero got pummeled in that picture.<End>
+ûOh, well.= Here goes nothing! ûLet the battle begin!Ç<0x41><0xB5>Çç<End>
+ûLet the battle begin!Ç<0x41><0xB5>Çç<End>
+ç<Boy> is victorious!!Ç<0x41><0xB5>Ç<End>
+ûCongratulations!ÇyÇ
+We underestimated your abilities.<End>
+ûPlease accept this sword as an award.<End>
+Received Gladiator Sword<End>
+ûThanks.<0x41><0xB5> But,Ç<0x41><0x1F> you know,Çy what I'd really like isÇ<0x41><0x15>Ç.<0x41><0x15>Ç.<0x41><0x15>Ç.yÇ
+a clue!åWhere are we?= <End>
+ûWhat are we doing here?= <End>
+ûHow do we get back to Podunk? y Hmm_e ye  y Hmm_e ye  û your answers lie on the west side of the river.They are in the Diamond Eyes of the Sacred Dog Statue.With these treasures,Ç<0x41><0x5B> our leader will have the power to send you back to where you belong! ûYou guys are really on a <0x41><0x7B>Sacred Dog<0x41><0x7D> kick.<End>
+Hmm_y<End>
+û your answers lie on the west side of the river.They are in the Diamond Eyes of the Sacred Dog Statue.With these treasures,Ç<0x41><0x5B> our leader will have the power to send you back to where you belong! ûYou guys are really on a <0x41><0x7B>Sacred Dog<0x41><0x7D> kick.<End>
+ûYou guys are really on a <0x41><0x7B>Sacred Dog<0x41><0x7D> kick.<End>
+ûThis dog is really my buddy,= <Dog>.<End>
+He just hasn't been himself lately.<End>
+ûThe statue bearing his likeness holds great power.y And the Diamond Eyes are the key.We need the adventuring skills of you and your dog to find and bring back the jewels.<End>
+ûWell, as <0x41><0x7B>Dusty<0x41><0x7D> Duffy McGander says in <0x41><0x7B>Perilous Patrol over PlutoBL}å<0x41><0x7B>We may not have a rat's chance in a room full of cats…å…but we're gonna go after that cheese.<0x41><0x7D> ûLet's go, <Dog>.<End>
+ûLet's go, <Dog>.<End>
+ûI am King of the Rats
+I tell ya!ÇyÇ
+King of the Rats!åAnd I'm claiming this castle in the name of disease-carrying vermin everywhere.Prepare to be plagued! Received Bazooka<End>
+Received Bazooka<End>
+Received BFO Thunderballs<End>
+Received Shining Armor<End>
+Found Stash of <0x41><0x35>,COOO Gold Coins!<End>
+çCan't see! ÇQÇDown in front!<0x41><0x85><End>
+ûçCan't talk. ÇQÇBusy. ÇQÇWatching show.<0x41><0x85><End>
+ûçPuppets funny. ÇQ Love watching puppets.<0x41><0x85><End>
+ûçOoooooo...= Furry.<0x41><0x85><End>
+ûçDoggy puppet funny!<0x41><0x85><End>
+ûç<Dog>, let's get moving.<0x41><0x5B> This egghead stuff makes my brain spin.<0x41><0x85><End>
+<0x41><0x7B>The Show of Life<0x41><0x7D><End>
+by Billy Shakesbad begins…<End>
+Woe be woman<End>
+whose fate it is to serve.<End>
+May thy tongue shrivel<End>
+that it spews such falsehoods.<End>
+Ah, but does not a man pull thy strings?<End>
+We are all but puppets<End>
+of greater powers.<End>
+Puppets? As in the show of life?<End>
+Truly, birth doth<End>
+draw wide the curtains.<End>
+And woman, are thy lines scripted?<End>
+In that I can be no one but myself,<End>
+I can say only my lines.<End>
+So sad, to be so constrained.<End>
+It is I who feel for thee.<End>
+Thine own role and fate<End>
+has ever been written,<End>
+while mine own<End>
+changes with each breath.<End>
+Yea, tho puppet I be,<End>
+it is hope, faith and Love<End>
+that pulls my strings.<End>
+Woman, mine ears do sting<End>
+from thy tongue.<End>
+I shall away<End>
+in search of easier folly!<End>
+ûçLook <Dog>!ÇQ A puppet show.<0x41><0x85><End>
+ûçThis reminds me of the classic, <0x41><0x7B>Memphis Topples Leaves.B}t <End>
+ûI'll get you,= you little pest!ÇQ  And that mangy cur,Ç<0x41><0x15> too!<0x41><0x85><End>
+Mephista heals Mungola!<End>
+ûI don't believe it!ÇQ You've dispatched Mungola!åCome closer,Ç<0x41><0x29> that I may give you yourÇ<0x41><0x29> justÇ<0x41><0x29> reward!<0x41><0x85><End>
+ûTake Ç<0x41><0x29>Çthis,Ç<0x41><0x29> little man,Ç<0x41><0x29> for what you have done!<0x41><0x85><End>
+ûI meant to do that...<End>
+ûLook,Ç<0x41><0x29> <Dog>,Ç<0x41><0x29> a gear…åI'm beginning to think that queen wasÇ<0x41><0x29> noÇ<0x41><0x29> lady…<0x41><0x85><End>
+ûHere,Ç<0x41><0x29> lad!ÇQ Take this for your troubles!<0x41><0x85><End>
+Received BFO,COOO Gold Coins<End>
+ûFollow me! I think her majesty has damaged the foundation!<0x41><0x85><End>
+ûThe big pig race is happening right here in a few minutes.You can't enter, because you're not a pig! ûI'm going to get a good place to stand for the big pig race.It's going to be fast and muddy! ûHello puppy.= What's your name?= King?Çy Prince?Çy Puffball? ûThat show at the north end of the street is closed for remodeling.I hope that the next installment still has an edge.I don't want it to get too commercial.<End>
+ûI'm going to get a good place to stand for the big pig race.It's going to be fast and muddy! ûHello puppy.= What's your name?= King?Çy Prince?Çy Puffball? ûThat show at the north end of the street is closed for remodeling.I hope that the next installment still has an edge.I don't want it to get too commercial.<End>
+ûHello puppy.= What's your name?= King?Çy Prince?Çy Puffball? ûThat show at the north end of the street is closed for remodeling.I hope that the next installment still has an edge.I don't want it to get too commercial.<End>
+ûThat show at the north end of the street is closed for remodeling.I hope that the next installment still has an edge.I don't want it to get too commercial.<End>
+ûI saw the show in the wagons at the north end of this street.= It was kind of creepy, but fun.<End>
+ûI bet that you could run pretty fast.Too bad pink, fluffy poodles aren't allowed in the pig race.<End>
+ûThe pig race is about to happen!= I want to get a good view of the action! ûHey!= You sort of look like that pig that won the race!= Are you related? ûAre you going to stay for the pig race?= Dogs are allowed to watch,= but not compete.<End>
+ûHey!= You sort of look like that pig that won the race!= Are you related? ûAre you going to stay for the pig race?= Dogs are allowed to watch,= but not compete.<End>
+ûAre you going to stay for the pig race?= Dogs are allowed to watch,= but not compete.<End>
+ûDid you see the pig race?= It had very unpredictable results! ûAre you going to stay for the pig race?= I am!= It's the big event of the festival.<End>
+ûAre you going to stay for the pig race?= I am!= It's the big event of the festival.<End>
+ûHave you seen the queen?= She's almost as pretty as you! ûDid you see the queen at the pig race?= She's very regal! ûThe queen is going to make a personal appearance at the big pig race!åAnd the owner of the winning pig wins dinner with the queen,Ç<0x41><0xB5> in the castle! ûHello, puppy!= You're nice!= And fluffy, too! ûHave you seen the king lately?åHe's been out of the public eye ever since we moved to Ivor Tower.<End>
+ûDid you see the queen at the pig race?= She's very regal! ûThe queen is going to make a personal appearance at the big pig race!åAnd the owner of the winning pig wins dinner with the queen,Ç<0x41><0xB5> in the castle! ûHello, puppy!= You're nice!= And fluffy, too! ûHave you seen the king lately?åHe's been out of the public eye ever since we moved to Ivor Tower.<End>
+ûThe queen is going to make a personal appearance at the big pig race!åAnd the owner of the winning pig wins dinner with the queen,Ç<0x41><0xB5> in the castle! ûHello, puppy!= You're nice!= And fluffy, too! ûHave you seen the king lately?åHe's been out of the public eye ever since we moved to Ivor Tower.<End>
+ûHello, puppy!= You're nice!= And fluffy, too! ûHave you seen the king lately?åHe's been out of the public eye ever since we moved to Ivor Tower.<End>
+ûHave you seen the king lately?åHe's been out of the public eye ever since we moved to Ivor Tower.<End>
+ûYou're a very unique looking dog.But you're not as unique as those creatures in the exhibition to the north! ûThe exhibition at the north end of the city has creatures that I had no idea existed! ûYou remind me of a pet that I had when I was younger.= Her name was <0x41><0x7B>Princetta!<0x41><0x7D> ûThe shopping is good in the south part of town,Çy but you get the best deals in the alley.<End>
+ûThe exhibition at the north end of the city has creatures that I had no idea existed! ûYou remind me of a pet that I had when I was younger.= Her name was <0x41><0x7B>Princetta!<0x41><0x7D> ûThe shopping is good in the south part of town,Çy but you get the best deals in the alley.<End>
+ûYou remind me of a pet that I had when I was younger.= Her name was <0x41><0x7B>Princetta!<0x41><0x7D> ûThe shopping is good in the south part of town,Çy but you get the best deals in the alley.<End>
+ûThe shopping is good in the south part of town,Çy but you get the best deals in the alley.<End>
+ûYou're going to have to clear the street soon, dog.The pig race is coming to town!<End>
+ûDid you see that show up north?= It's downright weird! ûYou're not one of those Oglins,= are you?= No.= You're too fluffy.<End>
+ûYou're not one of those Oglins,= are you?= No.= You're too fluffy.<End>
+ûHave you ever seen an Oglin?= They're scary all right.They're a lot more scary than anything you'll see at that show up the street.<End>
+ûAnimals can't trade at the market.It's because you don't have opposable thumbs,Çy or so I'm told.<End>
+ûI've found more bargains in the alley booths than in the main town.<End>
+ûThe exihibit at the north end of the street is something else!åToo bad poodles aren't allowed.<End>
+ûHave you seen the exhibit at the north end of the street?åIt's both entertaining and thought provoking! ûYou can get a ticket at a booth in town.<End>
+ûYou can get a ticket at a booth in town.<End>
+ûYou can probably get your master to buy you some goodies at the market.There are a lot of good bargains there.<End>
+ûHave you been to the market here?= You can get some good bargains if you shop around! ûYou're quite a cutie!Çy I just love fluffy animals! ûThe queen has been acting very strange lately,= ever since we moved to this town.She's still very nice.= But, I don't know if she means it anymore.<End>
+ûYou're quite a cutie!Çy I just love fluffy animals! ûThe queen has been acting very strange lately,= ever since we moved to this town.She's still very nice.= But, I don't know if she means it anymore.<End>
+ûThe queen has been acting very strange lately,= ever since we moved to this town.She's still very nice.= But, I don't know if she means it anymore.<End>
+çûOK. Maybe some other time.<End>
+ûHi buddy. I'm sorry, I don't have any dog treats for you today.<End>
+ûHey! You already got my most valuable item.= What else could you possibly want? ûThe Egg of the Chocobo gives those who possess it an increased ability to take damage.I can trade it to you for <0x41><0x39> bottles of perfume and <0x41><0x39> beads.Is it a trade?
+ùïSure.
+ïToo much for me.<End>
+ûThe Egg of the Chocobo gives those who possess it an increased ability to take damage.I can trade it to you for <0x41><0x39> bottles of perfume and <0x41><0x39> beads.Is it a trade?
+ùïSure.
+ïToo much for me.<End>
+çûYou will not regret this trade.<End>
+çûYou don't have enough goods to make the trade.<End>
+ûI'm sorry. We don't trade with animals.
+=ÇIt's market policy.<End>
+ûI offer the best price on spice in townBEEÇ<0x41><0xB5> <End>
+only <Var 38> Gold Coins per jar.Will you deal?
+ùïSure.
+ïNo thanks.<End>
+çûHow many jars?
+ïOne.
+ïTwo.
+ïThree.<End>
+ûçThanks for the business.<End>
+ûSorry.= This booth is closed.= I've sold all of my charms.<End>
+ûInsect Incense keeps insects and arachnids from hurting the one who possesses it.It's yours for <0x41><0x33> bottles of perfume and <0x41><0x33> beads.Is it a deal?
+ùïYes.
+ïNo.<End>
+çûWell done!= You're obviously a very good adventurer.<End>
+çûYou don't have enough goods to make the trade.= Maybe later.<End>
+ûThe Staff of Life will increase your ability to defend against enemy attacks.It's a very valuable charm.y And it can be yours for BDO bags of rice.<0x41><0xB5> Such a deal!åWhat do you say?
+ùïLet's trade.
+ïNo thanks.<End>
+çûThank you very much.= May the Staff protect you through many battles.<End>
+çûYou don't have enough rice to make the trade.= Maybe later.<End>
+ûçI can offer you the Sun Stone for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçThank you very much! ûçI can offer you the Jade Disk for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçI can offer you the Jade Disk for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçThank you very much! ûçI can offer you the Silver Sheath for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçI can offer you the Silver Sheath for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçThank you very much! ûçI can offer you the Moxa Stick for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçI can offer you the Moxa Stick for CDOO Gold Coins.Is it a deal?
+ïSure.
+ïNo thanks.<End>
+ûçThank you very much! ûYou shouldn't really be here, you know.<0x41><0x5B> We don't trade with animals.<End>
+ûYou shouldn't really be here, you know.<0x41><0x5B> We don't trade with animals.<End>
+Hello, friend.= I deal in previously owned charms.<End>
+ûHello, friend.= I deal in previously owned charms.What's your pleasure?<End>
+
+ïSun Stone.<End>
+
+ïJade Disk.<End>
+
+ïSilver Sheath.<End>
+
+ïMoxa Stick.<End>
+ûHello friend. I'm sorry I don't have anything for you.<End>
+ûI deal in fine armor.What would you like?
+ïA helmet.
+ïBody armor.
+ïArm protection.
+ïNevermind.<End>
+ûSorry.= I'm all out of helmets.<End>
+ûI can offer to you a fine helmet,= made from the scales of a dragon.it's more powerful than the Titan's Crown.<End>
+ûAnd it will only cost you an Amulet of Annihilation and CjOO Gold Coins.Is it a deal?
+ïYes.
+ïNo.<End>
+ûçThe Dragon Helmet is yours.y Wear it in good health.<End>
+ûçSorry.= You've got the cash,= but not the Amulet.y No deal.<End>
+ûçSorry.= You don't have enough cash<End>
+.<End>
+ or an Amulet.= No deal.<End>
+ûSorry.= I'm all out of body armor.<End>
+ûI can offer to you a Gold Plated Vest, more powerful than Silver Mail.<End>
+ûAnd it will only cost you an Amulet of Annihilation and CqOO Gold Coins.Is it a deal?
+ïYes.
+ïNo.<End>
+ûçYou made a good decision.= The Gold Plated Vest is yours.<End>
+ûçSorry.= You've got the cash,= but not the Amulet.y No deal.<End>
+ûçSorry.= You don't have enough cash<End>
+.<End>
+ or an Amulet.= No deal.<End>
+ûSorry.= I'm all out of arm protection.<End>
+ûThe Magician's Ring is the finest piece of arm protection that I have ever seen.It's much more powerful than the Iron Bracer.<End>
+ûAnd it will only cost you an Amulet of Annihilation and CjPO Gold Coins.Is it a deal?
+ïYes.
+ïNo.<End>
+ûçYou are now the proud owner of a Magician's Ring.<End>
+ûçSorry.= You've got the cash,= but not the Amulet.y No deal.<End>
+ûçSorry.= You don't have enough cash<End>
+.<End>
+ or an Amulet.= No deal.<End>
+çûôWait!<End>
+ A new <End>
+entry is<End>
+ tearing<End>
+ up the<End>
+ track!<End>
+Look <End>
+at that<End>
+ pig go!<End>
+çûôTruffle Trouble is leading the pack!<End>
+çûôWe have a winner!<End>
+ûWho owns this pig? ûUh,= I guess that would be me.<End>
+ûUh,= I guess that would be me.<End>
+ûYou, sir, will be the guest of honor at the queen's banquet tonight!Çy Congratulations! ûWell, <Dog>.= It looks like you've done something right for a change.We can ask the queen if she knows how to get back to Podunk! Locked<End>
+ûWell, <Dog>.= It looks like you've done something right for a change.We can ask the queen if she knows how to get back to Podunk! Locked<End>
+Locked<End>
+ûCome one, come all to <0x41><0x7B>Perceval Plank's Exhibition of Cultural Oddities.<0x41><0x7D> ûWitness inconceivable deviations from the natural laws.<End>
+ûWitness inconceivable deviations from the natural laws.<End>
+ûExperience true horror, true terror, true spine-tingling absurdity! ûBelieve the unbelievable! ûRight this way!= Come one!= Come all! ûI hear that dogs aren't allowed in the exhibition.<0x41><0xB5> Tough luck.<End>
+ûBelieve the unbelievable! ûRight this way!= Come one!= Come all! ûI hear that dogs aren't allowed in the exhibition.<0x41><0xB5> Tough luck.<End>
+ûRight this way!= Come one!= Come all! ûI hear that dogs aren't allowed in the exhibition.<0x41><0xB5> Tough luck.<End>
+ûI hear that dogs aren't allowed in the exhibition.<0x41><0xB5> Tough luck.<End>
+ûI've seen that exhibition before!Çy It's something else.<End>
+ûPerceval Plank's exhibits are even better than Manny Marble's Mansion of Marvels!<0x41><0x85><End>
+ûYou're some fancy looking animal.y You're not part of the exhibition,= are you? ûI'm going to see the exhibition,= as soon as I get a ticket.<End>
+ûI'm going to see the exhibition,= as soon as I get a ticket.<End>
+ Çy You can get a ticket in town.<End>
+Çy You can get a ticket in town.<End>
+ûSorry, pooch.= No dogs are allowed in the exhibition.<End>
+ûHello, kid.y We're rethinking the exhibit.y There are no showings today.<End>
+ûHey, kid.y Would you like to see the exhibit?
+ïSure.
+ïNo.<End>
+çOK.y Come back some other time.<End>
+ And make sure to buy a ticket in town.<End>
+ çûHave you got a ticket?
+ïI sure do!
+ïUh, I need a ticket?<End>
+çûHave you got a ticket?
+ïI sure do!
+ïUh, I need a ticket?<End>
+çûYou can get a ticket in town.<End>
+çûOK.= Let's see it.<End>
+ûUh.= I guess I don't have a ticket after all.<End>
+ûCome back when you do have a ticket.y You can get one in town.<End>
+çûStep right up.<End>
+ûSorry, pooch.y No dogs are allowed in the exhibition.<End>
+ûYou stay right here, <Dog>.y I'll be back in a few minutes.<End>
+ûStop right there, mutt.= You're comin' with me.<End>
+çûôLadies<End>
+ and <End>
+Gentlemen!<End>
+çûôThe pig<End>
+ race is<End>
+ about to<End>
+begin!<End>
+çûôAnd <End>
+they're<End>
+ off!<End>
+ûThe first stop in our tour of oddities will make you ponder the principles of our existence.<End>
+ûHow,= you will ask,= can such a creature live and breathe?åThere is no answer to your query.y It is simply a truth in the shape of… ûMr. Head:= The man with no body.<End>
+ûMr. Head:= The man with no body.<End>
+ûI have an itch on my nose.y It's very uncomfortable.<End>
+ûWeird! ûThis next exhibit comes to us from the far east via the midwest, with a stopover in Nantucket.<End>
+ûThis next exhibit comes to us from the far east via the midwest, with a stopover in Nantucket.<End>
+ûIt is fantastic, freakish and full of cheese- producing goodnessBEEåI give you the one- horned beauty of… ûThe Unigoat! ûIsn't she amazing? ûPlease!= Do not touch the horn! ûFollow me.y Follow me.yÇ<End>
+ûThe Unigoat! ûIsn't she amazing? ûPlease!= Do not touch the horn! ûFollow me.y Follow me.yÇ<End>
+ûIsn't she amazing? ûPlease!= Do not touch the horn! ûFollow me.y Follow me.yÇ<End>
+ûPlease!= Do not touch the horn! ûFollow me.y Follow me.yÇ<End>
+ûFollow me.y Follow me.yÇ<End>
+There is much more to see.<End>
+ûOur next exhibit is not for the squeamish or for the faint of heart.This disgusting, vile and gruesome beast will give you sensations of horror and repugnance.<End>
+ûIt has fangs the size of a human femur.<0x41><0xB5>Ç
+Its body is covered in fur from head to toe.Its eyes are so hypnotic that staring into them could make you spiral into a sea of madness.This is the terror that is… Mungola! ûI don't believe it!Çy <End>
+Mungola! ûI don't believe it!Çy <End>
+ûI don't believe it!Çy <End>
+ûMungola has escaped! ûI would be very careful if I were you,= my friend.<End>
+ûI would be very careful if I were you,= my friend.<End>
+ûIt could appear around any corner! ûOur last exhibit is the most recent addition to the show! You will not believe your eyes when you see this rare combination of species.<End>
+ûOur last exhibit is the most recent addition to the show! You will not believe your eyes when you see this rare combination of species.<End>
+You will not believe your eyes when you see this rare combination of species.<End>
