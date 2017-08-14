@@ -1,0 +1,2009 @@
+﻿<881 text entries>
+<$96>The leader of Nobilia, up to the north, just came into power.<New>
+I'd only trust him as far as I could throw him.<New>
+I'm not sure what that means,<S $3D $80> but it sounds tough.<New>
+<End>
+<$96>You're not after treasure and riches like the rest of these louts,<S $79 $80> are you?<$86>The last thing we need is more adventurers around here.<New>
+<End>
+<$96>My brother, Tiny, told me that his actions made a tunnel open up on the west side of the river.<New>
+I think he went over there to take a look.<New>
+<End>
+<$96>My brother, Tiny, is the strongest man in these parts.<New>
+<End>
+Now he's in Nobilia, working in the market.<New>
+It's honest work for a man like my brother.<New>
+<End>
+<$96>I wish he could make some friends.<New>
+<End>
+<$96>The explosion on the west bank of the river has opened new passages.<New>
+They may lead to treasure!<New>
+N <$96>I hear that the leader of Nobilia plans to use the Diamond Eyes for evil deeds.<New>
+<End>
+<$96>I hear that the leader of Nobilia plans to use the Diamond Eyes for evil deeds.<New>
+<End>
+<$96>We may talk tough in Crustacia, but we're pretty harmless.<New>
+The rogues on the west bank are much meaner.<New>
+<End>
+<$96>The leader of Nobilia was much too greedy for power.<S $79 $80> It lead to his downfall, it did.<New>
+<End>
+<$96>They say that if you control the Diamond Eyes, you control the world.<New>
+And the leader of Nobilia aims to do just that.<New>
+<End>
+<$96>The treasures on the west bank are very valuable indeed.<New>
+The leader of Nobilia has posted a fine reward for them.<New>
+<End>
+<$96>If I found them, though, I might just keep them for myself!<New>
+N <$96>Too bad about that statue of yours in Nobilia.<S $3D $80> I bet it's in a million pieces now!<New>
+N <$96>You look like you could jump over the break in the washed out bridge!<New>
+N <$96>Now that some of the river has drained, parts of the Great Pyramid are easier to get to.<New>
+I wonder if there's more treasure to be found.<New>
+<End>
+<$96>Too bad about that statue of yours in Nobilia.<S $3D $80> I bet it's in a million pieces now!<New>
+N <$96>You look like you could jump over the break in the washed out bridge!<New>
+N <$96>Now that some of the river has drained, parts of the Great Pyramid are easier to get to.<New>
+I wonder if there's more treasure to be found.<New>
+<End>
+<$96>You look like you could jump over the break in the washed out bridge!<New>
+N <$96>Now that some of the river has drained, parts of the Great Pyramid are easier to get to.<New>
+I wonder if there's more treasure to be found.<New>
+<End>
+<$96>Now that some of the river has drained, parts of the Great Pyramid are easier to get to.<New>
+I wonder if there's more treasure to be found.<New>
+<End>
+<$96>Since the river waters have risen,<S $3D $80> some of us adventuring types have been staying inside.<New>
+<End>
+<$96>I've heard stories of a great pyramid on the other side of the river.<New>
+It's probably surrounded by the flood waters.<New>
+<End>
+<$96>The Hall of Collosia is across the river and due north.<New>
+They say that the walls of the Hall are not as solid as they seem.<New>
+<End>
+<$96>I'll be searching for treasures as soon as the flood waters recede.<New>
+<End>
+<$96>You should take a nap.<S $3D $80> You look tired.<New>
+<End>
+<$96>Ahoy, Matey.
+<S $79 $80>Welcome to my inn.
+<S $79 $80>Please stay and rest.<New>
+<End>
+<$87>It's only 20 jewels.
+<S $5B $80><Choice>I'll stay.
+<Choice>No thanks.<End>
+<$96>I hope you had a good night's rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for jewels at any shop.<New>
+<End>
+<$96>You look like a fine animal.<S $3D $80> Maybe your master will buy you a treat.<New>
+<End>
+<$96>I have a variety of items for sale.<S $3D $80> I can offer them to you for a very fair price.<New>
+<End>
+<$96>Hello, little buddy.<S $3D $80> I'm sorry.<S $3D $80> I don't have any armor that you can wear.<New>
+<End>
+<$96>Hello, matey.<S $3D $80> You'll be wanting to buy some of my armor.<S $3D $80> It's the best.<New>
+<End>
+Pssst… over here.<End>
+Over here. Near the big box.<End>
+<$96>I can offer you this Amulet of Annihilation for 10,000 Jewels.<New>
+<End>
+<$96>Hello my friend.<S $3D $80> Have I got a deal for you.<New>
+I can offer you this rare and powerful Amulet of Annihilation for 10,000 Jewels.<New>
+<End>
+<$96>Is it a deal?
+<S $3D $80><$97><Choice>Sure.
+<Choice>No way.<End>
+<$87><$96>OK,<S $3D $80> fine.<New>
+<End>
+<$87><$96>Are you sure?
+<Choice>Yes.
+<Choice>Forget it.<End>
+<$87><$96>It's probably better that way.<New>
+<End>
+<$87><$96>Wow!<S $3D $80> I didn't think anyone would ever come up with the cash!<$86>I mean, you had to fight a lot of spiders and thieves to get that kind of money!<$86>Since you went to so much trouble to buy this, basically, worthless piece of<S $79 $80> c<S $8D $80>r<S $8D $80>a<S $C9 $80>ss jewelry.<New>
+I'm going to throw in a free gift!<New>
+N Received Amulet of Annihilation<End>
+Received Amulet of Annihilation<End>
+Received Chocobo Egg<End>
+Received Magic Gourd<End>
+Receive Wizard's Coin<End>
+Received 3 Meteorites<End>
+<$96>Thanks for the business.<New>
+<End>
+<$87><$96>Sorry.<S $3D $80> You don't have enough cash to make the deal.<New>
+<End>
+<$96>Locked!<New>
+N <$96>The Great Colosseum is being prepared for the Battle of the Champion.<S $79 $80>
+You may not enter.<New>
+<End>
+<$96>The Great Colosseum is being prepared for the Battle of the Champion.<S $79 $80>
+You may not enter.<New>
+<End>
+<$96>Here you go!<S $79 $80> Have some chicken feed.<S $3D $80> It's delicious.<New>
+<End>
+<$96>Woof!<S $3D $80> Hiya, pup!<S $3D $80> Woof!<S $3D $80> Woof!<New>
+N <$96>Vigor,<S $3D $80> the champion,<S $3D $80> is going to battle today!<S $3D $80> I'm his biggest fan.<New>
+<End>
+<$96>Vigor,<S $3D $80> the champion,<S $3D $80> is going to battle today!<S $3D $80> I'm his biggest fan.<New>
+<End>
+<$96>Hey!<S $3D $80> You're the new champion!<S $3D $80> I'm your biggest fan!<New>
+N <$96>You're a nice animal.<S $3D $80> Don't let that Sacred Dog thing get to your head.<New>
+<End>
+<$96>You're a nice animal.<S $3D $80> Don't let that Sacred Dog thing get to your head.<New>
+<End>
+<$96>Rumor has it that the leader has found the Sacred Dog!<S $79 $80> We'll find out in the big meeting.<New>
+<End>
+<$96>You showed that evil head that he can't be a bully!<S $3D $80> Good job!<New>
+N <$96>You showed that gladiator that he can't be a bully!<S $3D $80> Good job!<New>
+N <$96>Hello, puppy.<S $3D $80> I like your style.<New>
+<End>
+<$96>You showed that gladiator that he can't be a bully!<S $3D $80> Good job!<New>
+N <$96>Hello, puppy.<S $3D $80> I like your style.<New>
+<End>
+<$96>Hello, puppy.<S $3D $80> I like your style.<New>
+<End>
+<$96>There's a lot of neat stuff that you can get in the marketplace.<New>
+You should do some shopping.<New>
+<End>
+<$96>Have you seen your statue in the city square?<S $3D $80> <End>
+Now it's just a big hole in the ground!<New>
+N It's very nice.<New>
+<End>
+It's very nice.<New>
+<End>
+<$96>Have you seen Tiny?<S $3D $80> I haven't heard from him since that big explosion!<New>
+N <$96>This statue was commissioned by our new leader to honor his mentor.<New>
+I think it's a little pretentious.<New>
+<End>
+<$96>This statue was commissioned by our new leader to honor his mentor.<New>
+I think it's a little pretentious.<New>
+<End>
+<$96>I am Tiny the Barbarian.<S $3D $80> I am the strongest creature alive.<New>
+<End>
+Nobody lifts my rock but me!<New>
+N <$96>You know,<S $3D $80> It's ironic that your name is {Tiny,}<S $79 $80> because you're actually very large.<New>
+<End>
+<$96>You know,<S $3D $80> It's ironic that your name is {Tiny,}<S $79 $80> because you're actually very large.<New>
+<End>
+<$96>Yes.<S $97 $80> <End>
+Tiny likes irony.<New>
+<End>
+<$96>Hey!<S $79 $80> <End>
+Don't do that!<New>
+N <$96>You may be the Sacred Dog,<S $79 $80> <End>
+<$96>You may be the Sacred Dog,<S $79 $80> <End>
+<$85>ut you can't lift big rocks like Tiny can!<New>
+N <$96>Do you want Tiny to show you the real way to lift a rock?<$86>I'll do it for a tapestry from the market!
+<Choice>Lift that rock!
+<Choice>Forget it.<End>
+<$96>Do you want Tiny to show you the real way to lift a rock?<$86>I'll do it for a tapestry from the market!
+<Choice>Lift that rock!
+<Choice>Forget it.<End>
+<$96><$87>That's fine with Tiny!<S $B5 $80> <End>
+<$96>Come back when you want to see some real power!<New>
+N <$96><$87>Hey!<S $3D $80> You don't have a tapestry!<S $B5 $80>
+<End>
+<$96><$87>Hey!<S $3D $80> You don't have a tapestry!<S $B5 $80>
+<End>
+No art,<S $3D $80> no show!<New>
+N <$96><$87>It's a deal!<End>
+<$96><$87>It's a deal!<End>
+<S $79 $80><$96> Clear the way!<S $3D $80> <End>
+<$96>This is going to be good!<New>
+N <$96>Now,<S $3D $80> that's how you lift a rock!<New>
+N <$96>I wonder if that rock will ever land.<New>
+<End>
+<$96>Now,<S $3D $80> that's how you lift a rock!<New>
+N <$96>I wonder if that rock will ever land.<New>
+<End>
+<$96>I wonder if that rock will ever land.<New>
+<End>
+<$96>It looks like we've got our work cut out for us, <Dog>.<New>
+There's a town on the other side of the desert.<S $3D $80> We can cross the river there.<New>
+Then, we can start searching for those diamonds.<New>
+<End>
+<$96>You stay here, <Dog>.<S $B5 $80> Stay!<$86>And don't get into any more trouble!<New>
+N <$96>You wait here.<S $79 $80> Tiny waits outside.<New>
+<End>
+<$96>You wait here.<S $79 $80> Tiny waits outside.<New>
+<End>
+<$96>That way, nobody gets hurt!<New>
+N <$96>Not until you fight Vigor, anyway.<New>
+<End>
+<$96>Not until you fight Vigor, anyway.<New>
+<End>
+<$96>That guy has some sense of humor!<New>
+N <$96>Greetings, challenger.<S $3D $80>
+I am Pompolonius, advisor to the new leader of Nobilia.<New>
+<End>
+<$96>Greetings, challenger.<S $3D $80>
+I am Pompolonius, advisor to the new leader of Nobilia.<New>
+<End>
+<$96>Uh,<S $3D $80> hi.<S $3D $80> I'm <Boy>.<S $79 $80> There's been some sort of mistake!<$86>I'm not really the gladiator-fighting type!<New>
+N <$96>But, you were chosen.<New>
+<End>
+<$96>But, you were chosen.<New>
+<End>
+<$96>There's no denying that!<S $79 $80> You're going to fight!<New>
+N <$96>Now,<S $3D $80> I'm going to leave,<S $3D $80> and let you prepare.<New>
+The gate will close behind me.<New>
+When it opens again, that's your cue to come out fighting!<New>
+N Should I record your progress?
+<$97><Choice>Yes!
+<Choice>Uh, no.<$96><End>
+<$96>Now,<S $3D $80> I'm going to leave,<S $3D $80> and let you prepare.<New>
+The gate will close behind me.<New>
+When it opens again, that's your cue to come out fighting!<New>
+N Should I record your progress?
+<$97><Choice>Yes!
+<Choice>Uh, no.<$96><End>
+Should I record your progress?
+<$97><Choice>Yes!
+<Choice>Uh, no.<$96><End>
+<$96>Well, <Dog>.<S $3D $80> This is another fine mess you've gotten us into.<New>
+Here I am, about to take on some tooth-spitting, sword-carrying champion gladiator…<$86>…and all I've got is a femur, a claw and a stick!<New>
+N Found Bronze Chestplate<End>
+Found Bronze Chestplate<End>
+Found Stone Vest<End>
+Found Centurian Cape<End>
+Found Thug's Cloak<End>
+Found Serpent Bracelet<End>
+Found Bronze Gauntlet<End>
+Found Gloves of Ra<End>
+Found 100 Jewels<End>
+Found Bronze Helmet<End>
+Found Obsidian Helmet<End>
+Found Centurian Helmet<End>
+Found 100 Jewels<End>
+<$96><$93>You called on me, Sir?<S $F1 $80><End>
+<$96><$93>Yes, Pompolonius, I am ready to take my next step toward greatness.<S $A5 $81><$87><S $21 $80><$96><$93>As my advisor, you can help me obtain the overwhelming power that I desire.<S $95 $82><$87><S $21 $80><End>
+<$96><$93>I must have the Diamond Eyes of the Dog Statue.<S $69 $81><End>
+<$96><$93>But, Sir.<S $B5 $80><$87><End>
+<$96><$93>The people will not support your actions unless we receive a sign from the Sacred Dog!<S $1D $82><$87><S $21 $80><End>
+<$96><$93>I hate to burst your bubble, Pomp,<S $3D $80> but the Sacred Dog is a myth.<S $A5 $81><$96><$93><$87>We can't expect for some mystic creature to simply slide into the palace!<S $95 $82><End>
+<$96><$93>Uh, Sir.<S $3D $80> We have a visitor.<S $F1 $80><End>
+<$96><$93>Have you found the Diamond Eyes yet, Number Two?<S $2D $81><End>
+<$96><$93>Not yet, Your Cleanliness.<S $2D $81><$87><S $3D $80><$96><$93>But I have offered a reward to the adventurers in the town on the river shore…<S $A5 $81><End>
+<$96><$93>Do you mean to tell me that you have those unkempt cretins looking for the jewels?<S $E1 $81><$87><S $21 $80><$93>This is an important job…<S $B5 $80><$87><S $21 $80><$93>…not something that should be left to brutes with no sense of personal hygiene.<S $59 $82><End>
+<$96><$93>They may not be clean,<S $3D $80> but they do know their way around this world.<S $A5 $81><$87><S $21 $80><End>
+<$96><$93>The boy that you warned me about is also looking for the jewels.<S $A5 $81><$87><S $21 $80><$93>If he survives,<S $3D $80> I'll have a little surprise for him and his dog when they return.<S $59 $82><End>
+<$96><$93>We've already had a problem with that meddling kid on the plateau, Number Two.<S $1D $82><$87><S $21 $80><$93>Don't let that happen here.<S $F1 $80><$87><S $21 $80><$93>And try to keep the old coot on the other side of the river out of this.<S $1D $82><End>
+The news spread that you defeated Tiny. <S $65 $80>Too bad things had to end up that way.<New>
+<End>
+<$96>Yes, it's very sad.<S $65 $80> Tiny seemed very troubled and in need of therapy.<New>
+<End>
+<$96>Be careful around those Oglins!<New>
+N <$96>By Gum!<S $3D $80> It's my young friends <Boy> and <Dog>.<New>
+<End>
+<$96>By Gum!<S $3D $80> It's my young friends <Boy> and <Dog>.<New>
+<End>
+I'm afraid I have unpleasant news to share with you.<New>
+Tiny has set himself up as leader of the Oglins in the depths of the pyramid.<New>
+<End>
+I fear the power has gone to his head.<New>
+Should you try to talk some sense into him, be very careful!<New>
+N I discovered a spell in the palace library that may help you.<New>
+It requires 1 Limestone and 2 parts Bone.<New>
+<End>
+I discovered a spell in the palace library that may help you.<New>
+It requires 1 Limestone and 2 parts Bone.<New>
+<End>
+<$96>Thanks for the help. <S $3D $80> We'll be careful.<New>
+<End>
+<$96>We will. <S $29 $80>Don't worry. <S $29 $80>Thanks.<New>
+<End>
+<$96>Why are you talking to me? <S $3D $80>Yeesh! Kids these days!<New>
+N Found Call Bead<End>
+Found Call Bead<End>
+<$96>Okay,<S $51 $80> sometimes we let people into the palace--sometimes even Sacred Dogs.<New>
+<End>
+<$96>Uh…<S $3D $80> kid… <S $3D $80> sorry about that vowel crack. Come and go as you wish.<New>
+<End>
+<$96>Ok, but watch it! <S $3D $80>I've got a level 3 axe with your name on it.<New>
+<End>
+<$96>You may enter if you wish.<New>
+<End>
+<$96>No one is admitted into the palace--not even Sacred Dogs.<New>
+<End>
+<$96>Hey, kid.<S $3D $80> The palace is closed.<S $3D $80> Get a clue.<S $79 $80> Buy a vowel.<S $3D $80> You're not coming in.<New>
+<End>
+<$96>You may not enter the palace grounds.<New>
+<End>
+<$96>What a nice Sacred Dog!<S $3D $80> Go on in if you want.<New>
+<End>
+<$96>It's OK to go through this gate.<S $3D $80> I mean it.<S $3D $80> I really do.<S $3D $80> I'm not kidding.<New>
+<End>
+<$96>Sorry.<S $3D $80> We can't let anyone into the palace,<S $3D $80> by orders of our fearless leader.<New>
+<End>
+<$96>Don't you have something better to do?<New>
+N <$96>No one goes through this gate unless we say it's OK.<S $B5 $80> And it's not OK.<New>
+<End>
+<$96>No one goes through this gate unless we say it's OK.<S $B5 $80> And it's not OK.<New>
+<End>
+<$96>Hey!<S $3D $80> You look a lot like this statue.<S $3D $80> Is there some connection here?<New>
+N <$96>Please do not play on or around the Sacred Dog statue.<New>
+<End>
+<$96>Please do not play on or around the Sacred Dog statue.<New>
+<End>
+<$96>Hey!<S $3D $80> You look like this statue.<S $3D $80> You're the Sacred Dog!<New>
+N <$96>I protect the statue.<S $79 $80> It's a very important job.<S $79 $80> I used to protect a shrub.<New>
+<End>
+<$96>I protect the statue.<S $79 $80> It's a very important job.<S $79 $80> I used to protect a shrub.<New>
+<End>
+<$96>We're not supposed to allow dogs on the grounds.<New>
+But,<S $5B $80> since you're the Sacred Dog,<S $5B $80> I guess you're OK.<New>
+<End>
+<$96>Please adhere to the following rules of the city square:<$86><$87>No swimming.<S $6F $80><$87>No swearing.<S $6F $80><$87>No laughing.<S $6F $80><$87>No crying.<S $5B $80><$87>No talking out of turn.<S $5B $80><$87>No line dancing.<S $5B $80><$87>No moose calling.<S $5B $80><$87>No sword play.<S $5B $80><$87>No pumpkin carving.<S $5B $80><$87>No mummified cat juggling.<S $5B $80><$87>No wallowing in your own self pity.<S $65 $80><$87>No circumstantial evidence.<S $5B $80><$87>No walking on the grass.<S $51 $80><$87>No pancakes on monday.<S $51 $80><$87>No dessert until you eat your vegetables.<S $51 $80><$87>No slap stick comedy.<S $47 $80><$87>No balloon animals.<S $47 $80><End>
+<$87>And absolutely,<S $3D $80> positively,<S $3D $80> no playing in the crater.<S $79 $80>
+It upsets me.<New>
+<End>
+<$87>And absolutely,<S $3D $80> positively,<S $3D $80> no barking like a seal.<S $79 $80> It upsets me.<New>
+<End>
+<$96>No one is allowed onto the palace grounds--<S $3D $80> not even the Sacred Dog.<New>
+<$96>Don't try to sneak by me.<S $3D $80> I'll catch you.<S $3D $80> I'm quick, like the wind.<New>
+<End>
+<$96>Don't try to get around me and enter the palace grounds.<New>
+I'm warning you, I'm quick--<S $3D $80>quick like the wind.<New>
+<End>
+<$96>Your statue used to be right here.<S $3D $80> Now it's not.<New>
+I am rewarded well for my keen sense of awareness.<New>
+<End>
+<$96>I used to protect the Sacred Dog statue.<S $79 $80> Now I protect this big hole.<New>
+<End>
+<$96>There are worse jobs than mine.<$85><End>
+<$96>Hi, buddy.<S $3D $80> You're a good boy! And you're not pompous like I thought you might be.<New>
+<End>
+<$96>Wow!<S $3D $80> That statue sure went sky high when the Diamond Eyes were put in place.<New>
+<$96>I hear that some of the pieces have been found miles away!<New>
+N <$96>I heard that something cool will happen when the Diamond Eyes are put in the statue.<New>
+<End>
+<$96>I heard that something cool will happen when the Diamond Eyes are put in the statue.<New>
+<End>
+<$96>I'm kind of afraid of animals,<S $3D $80> but you seem to be OK.<New>
+<End>
+<$96>Thanks for saving our city!<S $3D $80> You're a great adventurer!<New>
+N <$96>Our leader said that the city will be a Utopia once we have the power of the Sacred Dog statue.<New>
+<End>
+<$96>Our leader said that the city will be a Utopia once we have the power of the Sacred Dog statue.<New>
+<End>
+<$96>I didn't think our city stood a chance until you and your master saved us.<New>
+<End>
+<$96>Your master battled well in the Colosseum.<S $79 $80> It was quite a sight to see.<New>
+<End>
+<$96>The evil leader steered us wrong, but you put us back on the right course!<S $79 $80> Good job!<New>
+N <$96>The new leader is very ambitious.<S $3D $80> I don't trust him.<New>
+<End>
+<$96>The new leader is very ambitious.<S $3D $80> I don't trust him.<New>
+<End>
+<$96>I saw your battle with the evil leader! It was magnificent!<New>
+N <$96>You're the Sacred Dog!<$86>We need your help to make sure that our leader does not overuse his authority.<New>
+<End>
+<$96>You're the Sacred Dog!<$86>We need your help to make sure that our leader does not overuse his authority.<New>
+<End>
+<$96>Our new leader is very ambitious.<S $3D $80> I thinks that he intends to continue his rise in power.<New>
+<End>
+<$96>Hey. You're that Scared Dog, aren't ya?<S $B5 $80> What are you scared about,<S $3D $80> huh?<New>
+N <$96>That leader guy was a big flop with me.<New>
+First we don't see him.<S $79 $80> Then he tries to take over the world.<New>
+He needs a lesson in public relations.<New>
+<End>
+<$96>That leader guy was a big flop with me.<New>
+First we don't see him.<S $79 $80> Then he tries to take over the world.<New>
+He needs a lesson in public relations.<New>
+<End>
+<$96>I don't trust that new leader.<S $79 $80> We haven't even seen the guy!<$86>Why doesn't he show his face,<S $79 $80> huh?<New>
+N <$96>Well,<S $3D $80> you're quite a majestic animal!<S $3D $80> Good dog!<New>
+N <$96>Hello young man.<S $3D $80> I hope you aren't a ruffian like those bullies in Crustacia.<New>
+<End>
+<$96>Well,<S $3D $80> you're quite a majestic animal!<S $3D $80> Good dog!<New>
+N <$96>Hello young man.<S $3D $80> I hope you aren't a ruffian like those bullies in Crustacia.<New>
+<End>
+<$96>Hello young man.<S $3D $80> I hope you aren't a ruffian like those bullies in Crustacia.<New>
+<End>
+<$96>You're a good dog,<S $3D $80> aren't you?<S $3D $80> And I thought you'd be kind of stuck up.<New>
+<End>
+<$96>You've been having a pretty interesting stay in our city!<New>
+N <$96>You should make sure that you're well-equipped before you go to the other side of the river..<New>
+<End>
+<$96>You should make sure that you're well-equipped before you go to the other side of the river..<New>
+<End>
+<$96>The market will be closed during the meeting.<New>
+It would be a good idea to accumulate as much armor as you can before the big meeting begins.<New>
+<End>
+<$96>The big meeting is going to happen in about a minute.<New>
+You still have time to do a little trading at the market before it closes.<New>
+<End>
+<$96>The big meeting is going to happen in about <Count> minutes.<New>
+You should do some trading at the market before it closes.<New>
+<End>
+<$96>I'm waiting for the big meeting.<S $3D $80> I want to get a good view of the action.<New>
+<End>
+<$96>There's going to be a big meeting here soon.<S $3D $80> There's some news about the Sacred Dog.<New>
+<End>
+<$96>When the big meeting begins, the market will shut down.<New>
+You should do your trading while you still can.<New>
+<End>
+<$96>I'm a big fan of the Sacred Dog.<S $3D $80> I hope he shows up at the meeting.<New>
+<End>
+<$96>The meeting is going to begin soon.<New>
+In fact, it will probably start the next time you return to the square.<New>
+<End>
+<$96>All hail the mighty and powerful Sacred Dog!<New>
+N <$96>In honor of the Sacred Dog's appearance, There will be a battle in the Colosseum.<New>
+Our champion will fight a challenger to be chosen by the Sacred Dog!<New>
+N <$96>Show us, Sacred Dog!<S $79 $80> Show us who the challenger shall be!<New>
+N y th<$92>=e ,e  y th<$92>=e ,e  Is that you? <New>
+N You're the {Sacred Dog?}<New>
+N <$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+<$96>In honor of the Sacred Dog's appearance, There will be a battle in the Colosseum.<New>
+Our champion will fight a challenger to be chosen by the Sacred Dog!<New>
+N <$96>Show us, Sacred Dog!<S $79 $80> Show us who the challenger shall be!<New>
+N y th<$92>=e ,e  y th<$92>=e ,e  Is that you? <New>
+N You're the {Sacred Dog?}<New>
+N <$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+<$96>Show us, Sacred Dog!<S $79 $80> Show us who the challenger shall be!<New>
+N y th<$92>=e ,e  y th<$92>=e ,e  Is that you? <New>
+N You're the {Sacred Dog?}<New>
+N <$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+? <End>
+Is that you? <New>
+N You're the {Sacred Dog?}<New>
+N <$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+You're the {Sacred Dog?}<New>
+N <$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+<$96>That figures!<New>
+N <$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+<$96>The Sacred Dog has chosen!<S $3D $80> Tiny!<S $3D $80> Take our challenger to the Colosseum!<New>
+N <$96>I am Tiny.<S $79 $80> <End>
+<$96>I am Tiny.<S $79 $80> <End>
+You're coming with me.<New>
+<End>
+<$93><$96><$87>I believe these quakes<S $29 $80> are getting worse!<S $F1 $80><End>
+<$93><$96><$87>I think you are right, my friend.<S $51 $80> People haven't started to panic yet.<S $F1 $80><End>
+<$96><$87>But if things don't improve,<S $29 $80> there'll soon be chaos!.<S $B5 $80> <$96><$87>Chaos, I say!<S $F1 $80><End>
+<$93><$96><$87>Horace!<S $3D $80> Horace!<S $F1 $80><End>
+<$93><$96><$87>Zounds, lad!<S $3D $80> Take your time now.<S $3D $80> What is it?<S $F1 $80><End>
+<$93><$96><$87>Evermore is coming apart!<S $29 $80> We've got to leave!<S $2D $81><End>
+<$93><$96><$87>Leave?<S $3D $80> We should stay and help these people.<S $F1 $80><End>
+<$93><$96><$87>But, we're the problem!<S $79 $80> We don't belong here anymore.<S $B5 $80><$93><$96><$87>The longer we stay, the worse it will get!<S $F1 $80><End>
+<$93><$96><$87>Horace,<S $3D $80> If the boy's right, you should leave immediately.<S $F1 $80><End>
+<$93><$96><$87>Don't worry.<S $3D $80> I can take care of things here.<S $F1 $80><End>
+<$93><$96><$87>I know you can, my friend.<S $51 $80> You're a good man, Madronius.<S $05 $81><End>
+<$93><$96><$87>As are you, Horace Highwater.<S $B5 $80> <End>
+<$93><$96>It has been an honor knowing you.<S $2D $81><End>
+<$96>You should take a nap.<S $3D $80> You look tired.<New>
+<End>
+<$96>Hello, Matey.
+<S $79 $80>Welcome to my inn.
+<S $79 $80>Please stay and rest.<New>
+<End>
+<$87>It's only 30 jewels.
+<S $5B $80><Choice>I'll stay.
+<Choice>No thanks.<End>
+<$96>I hope you had a good night's rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for jewels at any shop.<New>
+<End>
+<$96>You're the Sacred Dog!<S $3D $80> It's a pleasure to have you in my warehouse emporium.<New>
+<End>
+<$96>Hello, Buddy.<S $3D $80> Welcome to my warehouse emporium.<New>
+I offer a huge selection of goods at fabulous prices. <S $79 $80> And you know how I can do that?<$86><$97>Volume!
+<S $3D $80>Volume!
+<S $3D $80>Volume!<New>
+N <$96>What's the meaning of this?<S $3D $80> Why do you disturb my rest?<New>
+N <$96>I…<S $3D $80> I'm sorry…<S $3D $80> I didn't know…<New>
+N <$96>You're a skinny little guy, aren't you?<S $3D $80> You need some meat on your bones.<New>
+<End>
+<$96>What's the meaning of this?<S $3D $80> Why do you disturb my rest?<New>
+N <$96>I…<S $3D $80> I'm sorry…<S $3D $80> I didn't know…<New>
+N <$96>You're a skinny little guy, aren't you?<S $3D $80> You need some meat on your bones.<New>
+<End>
+<$96>I…<S $3D $80> I'm sorry…<S $3D $80> I didn't know…<New>
+N <$96>You're a skinny little guy, aren't you?<S $3D $80> You need some meat on your bones.<New>
+<End>
+<$96>You're a skinny little guy, aren't you?<S $3D $80> You need some meat on your bones.<New>
+<End>
+You need brute strength!<New>
+N <$96>I've got just the thing for you!<S $3D $80> The power of Atlas!<New>
+N <$96>Of course, in order to use this Atlas Formula,<S $3D $80> you'll need an Atlas Medallion.<New>
+<End>
+<$96>I've got just the thing for you!<S $3D $80> The power of Atlas!<New>
+N <$96>Of course, in order to use this Atlas Formula,<S $3D $80> you'll need an Atlas Medallion.<New>
+<End>
+<$96>Of course, in order to use this Atlas Formula,<S $3D $80> you'll need an Atlas Medallion.<New>
+<End>
+<$96>What's the<S $15 $80>.<S $15 $80>.<S $15 $80>. Oh, it's you!<S $3D $80> Have you come back for an Atlas Medallion?<New>
+N <$96>I can offer one to you for <Item> jewels.<New>
+Is it a deal?
+<S $3D $80><$97><Choice>Sure.
+<Choice>No way.<End>
+<$96>I can offer one to you for <Item> jewels.<New>
+Is it a deal?
+<S $3D $80><$97><Choice>Sure.
+<Choice>No way.<End>
+<$96><$87>Use your medallion wisely!<New>
+N <$96><$87>Sorry.<S $3D $80> You can't afford it.<S $79 $80> Maybe some other time.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You can't afford it.<S $79 $80> Maybe some other time.<New>
+<End>
+<$96><$87>OK, fine.<New>
+<End>
+<$96>No more trading today.<S $79 $80> There's a big meeting in the City Square.<New>
+<End>
+<$96>We're packing up to attend the big meeting.<S $5B $80> We'll be open for business tomorrow.<New>
+<End>
+<$96>The big meeting in the City Square is about to happen.<S $79 $80> Everyone's going.<New>
+<End>
+<$96>We're not trading anymore today.<S $5B $80> All of the citizens are going to the City Square.<New>
+<End>
+<$96>Business is closed for the day on account of the meeting in the City Square.<New>
+<End>
+<$96>Sorry.<S $3D $80> We're not trading anymore today.<S $79 $80>
+The meeting is about to begin.<New>
+<End>
+<$96><$87>Kids…<S $3D $80> Always looking, never buying.<New>
+<End>
+<$96><$87>How can you pass up my deals?<New>
+N <$96><$87>Yeesh…<S $3D $80> Tourists!<New>
+N <$96><$87>Fine.<S $3D $80> Have a nice day!<New>
+N <$87><$96>OK. Maybe some other time.<New>
+<End>
+<$96><$87>Yeesh…<S $3D $80> Tourists!<New>
+N <$96><$87>Fine.<S $3D $80> Have a nice day!<New>
+N <$87><$96>OK. Maybe some other time.<New>
+<End>
+<$96><$87>Fine.<S $3D $80> Have a nice day!<New>
+N <$87><$96>OK. Maybe some other time.<New>
+<End>
+<$87><$96>OK. Maybe some other time.<New>
+<End>
+<$96><$87>Now please make room for paying customers.<New>
+<End>
+<$87><$96>I make a living selling, not talking.<S $3D $80> Now go!<New>
+N <$96><$87>Yeesh…<S $3D $80> Tourists!<New>
+N <$87><$96>Fine.<S $3D $80> No deal.<S $3D $80> Don't bother me any more.<New>
+<End>
+<$96><$87>Yeesh…<S $3D $80> Tourists!<New>
+N <$87><$96>Fine.<S $3D $80> No deal.<S $3D $80> Don't bother me any more.<New>
+<End>
+<$87><$96>Fine.<S $3D $80> No deal.<S $3D $80> Don't bother me any more.<New>
+<End>
+<$96>The new leader's advisor has called a meeting in the city square.<New>
+We'll be closing down in <Item> minutes.<New>
+<End>
+<$96>The big meeting is going to happen in <Item> minutes.<S $3D $80> That's when the market closes.<New>
+<End>
+<$96>We'll be closing for the big meeting in <Item> minutes.<New>
+<End>
+<$96>The market is going to close any minute now for the big meeting.<New>
+<End>
+<$96>I am a dealer of fine spices.<S $79 $80> I'll give you a jar of spice for 4 bags of rice or 4 ceramic pots.<New>
+<$96>Is it a deal?<S $3D $80>
+<$97><Choice>Sure. Let's trade.
+<Choice>No thanks.<End>
+<$87><$96>Will you trade away rice or pots?<S $3D $80>
+<Choice><$97>Rice.
+<Choice>Pots.<End>
+<$87><$96>How many jars?<S $3D $80>
+<Choice><$97>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal. Enjoy your spice.<New>
+<End>
+<$96><$87>It's a deal. Enjoy your spice.<New>
+<End>
+<$96>My delicious rice is only 3 Jewels per bag.<New>
+<End>
+Would you like to purchase some rice?<S $3D $80>
+<$97><Choice>OK.
+<Choice>Not right now.<End>
+<$87><$96>How many bags?
+<Choice>Five.
+<Choice>Ten.
+<Choice>Twenty.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your rice.<New>
+<End>
+<$96>Would you like a fish?<$86>They cure you instantly and give you energy!<New>
+N <$96>And they only cost 30 Jewels!
+<$97><Choice>I'll take one.
+<Choice>I'll pass.<End>
+<$96>And they only cost 30 Jewels!
+<$97><Choice>I'll take one.
+<Choice>I'll pass.<End>
+<$96><$87>Good choice.<New>
+<End>
+Ate the fish.<End>
+<$96><$87>You could cure yourself from poison and other maladies if you knew the Cure Formula.<New>
+I can offer it to you for 150 Jewels.
+<Choice>OK
+<Choice>No thanks.<End>
+<$96><$87>Good choice.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You don't have enough cash to make the deal.<New>
+<End>
+<$96>I offer imported rice for only 6 Jewels per bag.<New>
+<End>
+Interested?<S $3D $80>
+<$97><Choice>OK.
+<Choice>Not right now.<End>
+<$87><$96>How many bags?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your rice.<New>
+<End>
+<$96>Let me show you something that you'll really like.<New>
+It's a fine-crafted souvenir spoon from the misplaced city of Constagando.<New>
+I might part with it for 2 jars of spice.<New>
+<End>
+<$96>I have a fabulous souvenir spoon which I might part with for 2 jars of spice.<New>
+<End>
+What do you say?<S $3D $80>
+<$97><Choice>I'll take one!
+<Choice>It's just not for me.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your spoon.<New>
+<End>
+<$96>I have the best price on spice in the market.<S $79 $80> I can give you a jar of spice for only 20 jewels.<New>
+<End>
+It's a bargain!<New>
+N <$96>What do you say?<S $3D $80>
+<$97><Choice>I'll buy some spice.
+<Choice>I'm just looking.<End>
+<$96>What do you say?<S $3D $80>
+<$97><Choice>I'll buy some spice.
+<Choice>I'm just looking.<End>
+<$87><$96>How many jars?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your spice.<New>
+<End>
+<$96>I'm all out of spice, but I do have something even better to trade you.<New>
+<End>
+<$96>No one knows the value of this precious magic gourd…<$86>…but I would be willing to part with it for the egg of an ancient bird.<New>
+<End>
+<$96>You've come back for the magic gourd!<$86>I can give it to you if you give me the Egg of the Chocobo.<New>
+<End>
+Is it a deal?<S $3D $80>
+<$97><Choice>It's a deal!
+<Choice>It's tempting but… no.<End>
+<$96><$87>I'm sorry. You don't have the Egg of the Chocobo.<S $3D $80> No deal.<New>
+<End>
+<$96><$87>Well done!<S $1F $80> Here's your gourd!<New>
+N <$96>Sorry.<S $3D $80> You already have my only magic gourd.<S $3D $80> I don't have anything else to trade.<New>
+<End>
+<$96>Sorry.<S $3D $80> You already have my only magic gourd.<S $3D $80> I don't have anything else to trade.<New>
+<End>
+<$96>Would you like some ceramic pots? They're only 2 bags of rice each.<New>
+<End>
+<$96>What you need, my friend, is ceramic pots.<New>
+They're a classic design, very durable and priced to move--<S $3D $80>only 2 bags of rice per pot.<New>
+<End>
+<$96>What do you say?<S $3D $80>
+<$97><Choice>I'm sold!
+<Choice>I'll pass.<End>
+<$87><$96>How many?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Thank you very much.<New>
+<End>
+<$96>Hey! One of these ceramic pots has something in it!<New>
+N Found the Chocobo Egg.<End>
+Found the Chocobo Egg.<End>
+Found 10 Jewels<End>
+Found 50 Jewels.<End>
+Found 50 Jewels.<End>
+<$96>If you only go home with one souvenir from our fine marketplace,<S $79 $80> let it be a golden jackal.<New>
+This fine statuette will set you back just 5 jars of spice or 2 chickens.<New>
+<$96>Will you trade?<S $3D $80>
+<$97><Choice>Sure. Let's trade.
+<Choice>No thanks.<End>
+<$87><$96>Do you have spice or chickens to trade?<S $3D $80>
+<Choice><$97>Spice.
+<Choice>Chickens.<End>
+<$96><$87>Well done.<S $3D $80> Here's your golden jackal.<New>
+<End>
+<$96><$87>The deal is sealed.<S $3D $80> Thanks a million.<New>
+<End>
+<$96>You're too shrewd.<S $3D $80> If I deal with you anymore,<S $3D $80> I'll go out of business.<New>
+<End>
+<$96>Would you like to purchase an Amulet of Annihilation?<New>
+N <$96>Hey buddy,<S $3D $80> how'd you like an all-powerful amulet of annihilation?<$86>You'll impress your friends and frighten your foes!<New>
+N It's all yours for a mere 30 bags of rice.<New>
+<$87><$96>Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No way.<End>
+<$96>Hey buddy,<S $3D $80> how'd you like an all-powerful amulet of annihilation?<$86>You'll impress your friends and frighten your foes!<New>
+N It's all yours for a mere 30 bags of rice.<New>
+<$87><$96>Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No way.<End>
+It's all yours for a mere 30 bags of rice.<New>
+<$87><$96>Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No way.<End>
+<$87><$96>You're shrewd.<S $5B $80> How about 15 bags of rice?
+<S $3D $80><$97><Choice>OK.
+<Choice>I don't think so.<End>
+<$87><$96>Five bags of rice and not a grain less.
+<S $3D $80><$97><Choice>I'll take it.
+<Choice>No deal.<End>
+<$87><$96>Playing hard ball, huh? How about 3 bags?
+<S $3D $80><Choice>You've convinced me.
+<Choice>Nope.<End>
+<$87><$96>One?
+<S $3D $80><$97><Choice>Yes.
+<Choice>No.<End>
+<$87><$96>How about 3 amulets for 1 bag of rice?
+<S $3D $80><Choice><$97>I'll take it.
+<Choice>I don't know...<End>
+<$96><$87>Thanks for the business.<New>
+<End>
+<$96><$87>Thanks for the business.<New>
+<End>
+<$96>You've already traded for my best piece of armor.<New>
+I don't have anything else that you need.<New>
+<End>
+<$96>If you really want to stop the slings and arrows of outrageous fortune…<$86>…you need a Centurian Cape.<New>
+I can provide one for you,<S $3D $80> if you bring me the Jade Disk.<New>
+Is it a deal?
+<S $3D $80><$97><Choice>Sure.
+<Choice>No way.<End>
+<$96><$87>Excellent! Thanks for the trade!<New>
+N <$96><$87>Sorry.<S $1F $80> You don't have the Jade Disk.<S $3D $80> No deal.<New>
+<End>
+<$96><$87>Sorry.<S $1F $80> You don't have the Jade Disk.<S $3D $80> No deal.<New>
+<End>
+<$96>I deal in strong armor.<S $3D $80> What you need is a Stone Vest.<New>
+I can deal one to you in exchange for a Jeweled Scarab.<New>
+OK?<S $3D $80>
+<$97><Choice>Let's do it.
+<Choice>No deal.<End>
+<$96><$87>Excellent! Thanks for the trade!<New>
+N <$96><$87>Sorry.<S $1F $80> You don't have a Jeweled Scarab.<S $3D $80> No deal.<New>
+<End>
+<$96><$87>Sorry.<S $1F $80> You don't have a Jeweled Scarab.<S $3D $80> No deal.<New>
+<End>
+<$96>I can trade you my Silver Sheath for your Armor Polish and 75 Jewels.<New>
+<End>
+Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thanks for the trade!<New>
+N <$96>I can trade you my Armor Polish for your Silver Sheath and 75 Jewels.<New>
+<End>
+<$96>I can trade you my Armor Polish for your Silver Sheath and 75 Jewels.<New>
+<End>
+Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thanks for the trade!<New>
+N <$96>My Armor Polish will give a nice sheen to your body armor and make it more powerful, too.<New>
+I'll trade it to you for the Silver Sheath. OK?<S $3D $80>
+<$97><Choice>Let's trade!
+<Choice>No thanks.<End>
+<$96>My Armor Polish will give a nice sheen to your body armor and make it more powerful, too.<New>
+I'll trade it to you for the Silver Sheath. OK?<S $3D $80>
+<$97><Choice>Let's trade!
+<Choice>No thanks.<End>
+<$96><$87>Very nice. Come back any time!<New>
+N <$96><$87>Sorry.<S $1F $80> You don't have the Silver Sheath.<S $3D $80>
+No deal.<New>
+<End>
+<$96><$87>Sorry.<S $1F $80> You don't have the Silver Sheath.<S $3D $80>
+No deal.<New>
+<End>
+<$96>I challenge you to find a better deal on rice.<New>
+I'm willing to sacrifice profits and offer it to you for 9 Jewels a bag.<New>
+<End>
+OK?<S $3D $80>
+<$97><Choice>OK.
+<Choice>No thanks.<End>
+<$87><$96>How many bags?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your rice.<New>
+<End>
+<$96>My beads make for a fine bargain<S $29 $80>--<S $3D $80>only 12 Jewels each.<New>
+<End>
+<$96>You look like a savvy trader, so I will give you my best deal right away.<New>
+I am willing to trade you these fabulous, high quality beads for only 12 Jewels each.<New>
+<End>
+Deal?<S $3D $80>
+<$97><Choice>OK.
+<Choice>No thanks.<End>
+<$87><$96>How many beads?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your beads.<New>
+<End>
+<$96>I have a nice assortment of rugs and wall hangings.<New>
+My finest piece is a tapestry that depicts mummified cats playing poker.<New>
+<$96>My price is 3 beads per tapestry.<New>
+Are you interested?<S $3D $80>
+<$97><Choice>OK.
+<Choice>No thanks.<End>
+<$87><$96>How many tapestries?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Very good.<S $3D $80> Thank you.<New>
+<End>
+<$96>My perfumes are the finest, and such a good bargain--<S $3D $80>only 3 jars of spice per bottle.<New>
+Interested?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>I don't think so.<End>
+<$87><$96>How many bottles?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Well done.<S $3D $80> Enjoy your perfume.<New>
+<End>
+<$96>Fine spices are my specialty.<S $79 $80> I can give you a jar of spice for 2 beads or 3 ceramic pots.<New>
+<$96>Is it a deal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>Will you trade away beads or pots?<S $3D $80>
+<Choice><$97>Beads.
+<Choice>Pots.<End>
+<$87><$96>How many jars?<S $3D $80>
+<Choice><$97>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $3D $80> Enjoy your spice.<New>
+<End>
+<$96><$87>It's a deal. Enjoy your spice.<New>
+<End>
+<$96>As much as I hate to part with one of my chickens…<New>
+N <$96>Especially to a low-down chicken-taunter such as you…<New>
+N <$96>…I would be willing to trade them for a jar of spice and 2 bags of rice each.<New>
+Is it a deal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$96>Especially to a low-down chicken-taunter such as you…<New>
+N <$96>…I would be willing to trade them for a jar of spice and 2 bags of rice each.<New>
+Is it a deal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$96>…I would be willing to trade them for a jar of spice and 2 bags of rice each.<New>
+Is it a deal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>How many chickens?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Very good.<S $3D $80> Thank you.<New>
+<End>
+I'm sorry. The exchange booth is for humans only.<End>
+<$96>We're closing for the day. The big meeting is about to happen in the City Square.<New>
+<End>
+<$96>I provide Jewels in exchange for other types of money.<New>
+Would you like to exchange currencies?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96>My beads are perfect for your decorating and trading needs…<$86>…and they're only 1 bag of rice and 3 Jewels each.<New>
+<End>
+Interested?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No.<End>
+<$87><$96>How many will you buy?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>Thanks very much. Please come again.<New>
+<End>
+I've given you the only Jade Disk I had.<S $3D $80> I hope you're using it well.<New>
+<End>
+<$96>This item is an import from a far away land.<New>
+The Jade Disk of Emperor Qi helps to ensure victory in battle.<New>
+And it's all yours for only 3 chickens and 3 beads.<New>
+Is it a deal?<S $3D $80>
+<$97><Choice>OK.
+<Choice>No thanks.<End>
+<$96><$87>Wise choice.<S $3D $80> Please use it well.<New>
+<End>
+<$96>I can trade you my Moxa Stick for your Ruby Heart and <Count> Jewels.<New>
+<End>
+Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thanks for the trade!<New>
+N <$96>I would be willing to trade to you my Ruby Heart for your Moxa Stick and <Count> Jewels<New>
+N Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+<$96>I would be willing to trade to you my Ruby Heart for your Moxa Stick and <Count> Jewels<New>
+N Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+Is it a deal?<S $3D $80>
+<Choice><$97>Sure.
+<Choice>No thanks.<End>
+<$96>Thanks for the trade!<New>
+N <$96>The ancient Ruby Heart will decrease the power of your enemies.<New>
+I'll trade it for the Moxa Stick or a tapestry, a jeweled scarab and a limestone tablet.<New>
+Interested?<S $3D $80>
+<$97><Choice>Sure!
+<Choice>No way.<End>
+<$96>The ancient Ruby Heart will decrease the power of your enemies.<New>
+I'll trade it for the Moxa Stick or a tapestry, a jeweled scarab and a limestone tablet.<New>
+Interested?<S $3D $80>
+<$97><Choice>Sure!
+<Choice>No way.<End>
+<$96><$87>Will you trade the Moxa Stick or other goods?
+<S $3D $80><Choice>Moxa Stick.
+<Choice>Other goods.<End>
+<$96><$87>Very nice. Come back any time!<New>
+N <$96><$87>Sorry.<S $1F $80> You don't have the Moxa Stick.<S $3D $80>
+No deal.<New>
+<End>
+<$96><$87>Sorry.<S $1F $80> You don't have the Moxa Stick.<S $3D $80>
+No deal.<New>
+<End>
+<$96><$87>You're on!<S $3D $80> Take good care of the Ruby Heart.<New>
+<End>
+<$96>My booth is closed right now.<S $3D $80> I've got to evaluate my inventory.<New>
+<End>
+<$96>You have already traded for my best helmet.<S $3D $80> I can't help you with anything else.<New>
+<End>
+<$96>The Centurian Helmet is the finest piece of head gear I've ever had the pleasure to see.<New>
+I can provide with this fine item for 10 jars of spice and a golden jackal statuette.<New>
+Is it a deal?
+<S $3D $80><$97><Choice>Sure.
+<Choice>No way.<End>
+<$96><$87>Thanks! Use it well.<New>
+<End>
+<$96>Helmets are my trade and I have just the one that you need.<New>
+I can trade the Obsidian Helmet to you in exchange for 10 jars of spice.<New>
+OK?<S $3D $80>
+<$97><Choice>Let's do it.
+<Choice>No deal.<End>
+<$96><$87>Excellent! Thanks for the trade!<New>
+N <$96>Hello, friend.<S $3D $80> We haven't had much business around here today.<S $3D $80> I'm glad you could make it.<New>
+<End>
+<$96>Hello, friend.<S $3D $80> We haven't had much business around here today.<S $3D $80> I'm glad you could make it.<New>
+<End>
+<$96>I have something that you really need--<S $3D $80>a jeweled scarab.<New>
+And it will only set you back a jar of spice and 2 bottles of perfume.<New>
+Is it a deal?<S $3D $80>
+<$97><Choice>That sounds good.
+<Choice>I don't think so.<End>
+<$87><$96>How many?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Well done.<S $3D $80> Thank you very much.<New>
+<End>
+<$96>Hello, friend.<S $3D $80> We haven't had much business around here today.<S $3D $80> I'm glad you could make it.<New>
+<End>
+<$96>These limestone tablets are authentic artifacts from ancient ruins.<New>
+I can part with them for 4 jars of spice and 2 beads each.<New>
+OK?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>How many tablets?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Thank you.<New>
+<End>
+<$96>You want beads?<S $3D $80> I can give you beads for only 10 Jewels each.<S $5B $80> It's a fabulous deal.<New>
+<End>
+What d'ya say?<S $3D $80>
+<$97><Choice>OK.
+<Choice>No thanks.<End>
+<$87><$96>How many beads?
+<Choice>One.
+<Choice>Five.
+<Choice>Ten.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your beads.<New>
+<End>
+<$96>You already traded for the Sun Stone.<S $3D $80> I don't have anything else to offer you.<New>
+<End>
+<$96>With the Sun Stone in your possession, you will have more power for the battles ahead.<New>
+I can give it to you for a limestone tablet and 5 bags of rice.<New>
+OK?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thank you.<New>
+<End>
+<$96>I gave you my only Moxa Stick.<S $3D $80> I don't have anything else to offer you.<New>
+<End>
+<$96>You may heal your wounds more effectively when you possess the Moxa Stick.<New>
+I can offer it to you for 2 chickens, a jeweled scarab and 12 jars of spice.<New>
+Deal?<S $3D $80>
+<$97><Choice>Yes.
+<Choice>I don't think so.<End>
+<$96><$87>Thanks. May your wounds always heal quickly.<New>
+<End>
+<$96>I would appraise your valuables, but you don't seem to have any.<End>
+<$96>The market is closing.<S $79 $80> I'll appraise your valuables if you come back tomorrow.<New>
+<End>
+<$96>I appraise and purchase items from the market.<New>
+My fee is 5 jewels per appraisal.<New>
+<End>
+Would you like for me to look at your items?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>I'm sorry.<S $3D $80> You don't have enough Jewels to cover the fee.<New>
+<End>
+<$96>Would you like another appraisal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$96>You don't have anything to appraise.<New>
+<End>
+<$96>What should I appraise?<$97><End>
+
+Rice.<End>
+
+Spice.<End>
+
+<Choice>Souvenir Spoons.<End>
+
+<Choice>Beads.<End>
+
+<Choice>Perfume.<End>
+
+<Choice>Chickens.<End>
+
+<Choice>Tapestries.<End>
+
+<Choice>Golden Jackals.<End>
+
+<Choice>Ceramic Pots.<End>
+
+<Choice>Jeweled Scarabs.<End>
+
+<Choice>Limestone Tablets.<End>
+
+<Choice>Annihilation Amulets.<End>
+
+<Choice>Magic Gourd.<End>
+
+<Choice>Chocobo Egg.<End>
+
+<Choice>Armor Polish.<End>
+
+<Choice>Ruby Heart.<End>
+
+<Choice>Jade Disk.<End>
+
+<Choice>Sun Stone.<End>
+
+<Choice>Moxa Stick.<End>
+
+<Choice>Silver Sheath.<End>
+
+<Choice>…more<End>
+<$87><$97>What should I appraise?<End>
+<$96>You have <Count> bags of rice.<New>
+<End>
+<$96>You have a bag of rice.<New>
+<End>
+Rice can be exchanged for spice, ceramic pots, chickens, beads and various other items.<New>
+<End>
+<$96>You have <Count> jars of spice.<New>
+<End>
+<$96>You have a jar of spice.<New>
+<End>
+Spice can be exchanged for souvenir spoons, golden jackals, perfume and other items.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+Souvenir spoons are not extremely useful, but they are nice to have if you're a collector.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+Beads can be exchanged for tapestries, spice, limestone tablets and various other goods.<New>
+<End>
+<$96>You have <Count> bottles of perfume.<New>
+<End>
+<$96>You have a bottle of perfume.<New>
+<End>
+Perfume is not only pleasant to the nose, but it can be exchanged for a jeweled scarab.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+Chickens, along with other goods, can be exchanged for the Jade Disk or the Moxa Stick.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+The tapestries show mummified cats and they're playing poker!<S $3D $80> Now,<S $1F $80> that's comedy!<New>
+N <$96>You have <Count> <End>
+<$96>You have <Count> <End>
+.<New>
+Golden jackal statuettes can be exchanged for a powerful helmet or the Silver Sheath.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+Ceramic pots sometimes contain valuable items.<S $79 $80> They can be exchanged for spice.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+A jeweled scarab can be traded for heavy armor.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+Limestone tablets sometimes contain secrets within their language.<New>
+Along with other goods, they can be traded for the Ruby Heart or the Sun Stone.<New>
+<End>
+<$96>You have <Count> <End>
+.<New>
+This is a piece of junk.<S $3D $80> If you paid more than 2 Jewels, you got taken.<New>
+<End>
+<$96>I'd be willing to offer you <Count> Jewels.<New>
+<End>
+<$96>I can offer you 1 Jewel.<New>
+<End>
+<$87>Is it a deal?<S $3D $80>
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$87>Thanks.<New>
+<End>
+<$96>Hmmm… this is quite intriguing.<S $3D $80> I'm not sure what powers it has, but it could be valuable.<New>
+<End>
+<$96>Interesting.<S $3D $80> This appears to be from a far away land.<S $3D $80> But,<S $1F $80> it is not of much value.<New>
+<End>
+<$96>Armor Polish gives body armor extra stength.<S $79 $80>
+It's quite useful out on the field.<New>
+<End>
+<$96>The Ruby Heart is a mysterious jewel.<S $79 $80> It has power over your enemies.<New>
+<End>
+<$96>The Jade Disk will help to ensure that you will always hit your target.<New>
+<End>
+<$96>The Sun Stone will give you more attack power.<New>
+<End>
+<$96>When you possess the Moxa Stick, your wounds will heal more efficiently.<New>
+<End>
+<$96>The Silver Sheath gives your sword extra strength.<New>
+<End>
+<$96>I would be willing to offer you <Item> Jewels for your <End>
+<$96>I would be willing to offer you 1 Jewel for your <End>
+.<New>
+Is it a deal?<S $3D $80>
+<Choice>OK
+<Choice>No way.<End>
+<$87>Thanks.<New>
+<End>
+<$96>You've already traded for my most valuable item.<S $3D $80> I don't have anything else for you.<New>
+<End>
+<$96>The Silver Sheath will give your sword more strength.<New>
+I will trade it to you for the Sun Stone or a golden jackal and 10 jars of spice.<New>
+<$96>Is it a deal?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>Will you trade the Sun Stone or other goods?<S $3D $80>
+<Choice><$97>Sun Stone.
+<Choice>Other goods.<End>
+<$96><$87>Sorry.<S $3D $80> You don't have the Sun Stone.<S $3D $80> No deal.<New>
+<End>
+<$96><$87>It's a deal.<S $3D $80> Use the Silver Sheath well.<New>
+<End>
+<$96><$87>It's a deal.<S $3D $80> Use the Silver Sheath well.<New>
+<End>
+<$96>I traded my best item to you already. I don't have anything else.<New>
+<End>
+<$96>What you need, my friend, is the Gloves of Ra for power and protection in your arms.<New>
+I will trade them to you if you provide me with the Moxa Stick.<New>
+Is it a deal?
+<S $3D $80><$97><Choice>OK.
+<Choice>No.<End>
+<$96><$87>Thanks! Use them well.<New>
+<End>
+<$96>You can increase the protection and power of your arms with a Bronze Gauntlet.<New>
+I'll trade one to you for a souvenir spoon and 2 tapestries.<New>
+What do you say?<S $3D $80>
+<$97><Choice>It's a deal.
+<Choice>No thanks.<End>
+<$96><$87>Excellent! Thanks for the trade!<New>
+N <$96>The people of the City are gathering in the Square.<S $79 $80> The Market will soon be empty.<New>
+<End>
+<$96>The people of the City are gathering in the Square.<S $79 $80> The Market will soon be empty.<New>
+<End>
+<$96>You may enter our city by the authority of our fearless leader.<New>
+<End>
+<$96>I'm sorry buddy.<S $3D $80> I don't have any dog treats-- <S $3D $80>just chicken feed.<New>
+<End>
+<$96>You should try raising chickens. There's a special bond between man and fowl.<New>
+<End>
+<$96>Me and my chickens are going to the meeting in the City Square as soon as they're full.<New>
+<End>
+<$96>These chickens aren't for sale.<S $97 $80> They're my friends.<End>
+<S $97 $80>  And you're not.<End>
+<New>
+N <$96>Baskets don't talk.<New>
+<End>
+<$96>Baskets don't talk.<New>
+<End>
+<$96>The sacred dog!<S $3D $80> I'm a big fan of yours!<New>
+N <$96>I predict that all of the merchants will soon leave to attend the meeting in the square<$86><$96>Come back tomorrow for more amazing predictions and insights.<New>
+<End>
+<$96>I predict that all of the merchants will soon leave to attend the meeting in the square<$86><$96>Come back tomorrow for more amazing predictions and insights.<New>
+<End>
+<$96>The end is near.
+<S $79 $80>Heed my warning!
+<S $79 $80>Heed my warning!<New>
+N <$96>We are in for a cataclysmic event the likes of which we have never seen.<New>
+<End>
+<$96>We are in for a cataclysmic event the likes of which we have never seen.<New>
+<End>
+<$96>The new leader of our world is not what he seems.<New>
+He has evil intentions that will trigger a cataclysm.<New>
+<End>
+01000010
+01001010
+01000110<End>
+<$96>The Diamond Eyes are key to the coming cataclysm.<New>
+Do not let them fall into the wrong hands.<New>
+<End>
+<$96>The statue in the square will soon reveal the core of the cataclysm.<New>
+<End>
+<$96>I have spoken.<S $B5 $80><$87>There is nothing else to say.<New>
+<End>
+<$96>Somebody is watching over us<S $1F $80>.<S $1F $80>.<S $1F $80>.<S $1F $80> controlling us.<New>
+It's true, I tell you.<S $79 $80>
+<$97>It's<S $3D $80> true!<New>
+N <$96>We are merely sprites that dance at the beck and call of our button- pressing overlord!<New>
+N <$96>This is a video game.<S $3D $80>
+Don't you see?<S $3D $80>
+We are characters in a video game!<New>
+N <$96>This guy is a nut case!<New>
+N <$96>If I am lying, may I be struck down by the powers that be.<New>
+<End>
+<$96>We are merely sprites that dance at the beck and call of our button- pressing overlord!<New>
+N <$96>This is a video game.<S $3D $80>
+Don't you see?<S $3D $80>
+We are characters in a video game!<New>
+N <$96>This guy is a nut case!<New>
+N <$96>If I am lying, may I be struck down by the powers that be.<New>
+<End>
+<$96>This is a video game.<S $3D $80>
+Don't you see?<S $3D $80>
+We are characters in a video game!<New>
+N <$96>This guy is a nut case!<New>
+N <$96>If I am lying, may I be struck down by the powers that be.<New>
+<End>
+<$96>This guy is a nut case!<New>
+N <$96>If I am lying, may I be struck down by the powers that be.<New>
+<End>
+<$96>If I am lying, may I be struck down by the powers that be.<New>
+<End>
+<$97><Choice>Goat
+<Choice>Chicken
+<Choice>Basket<End>
+<$96>Please take this reward for not turning me into something.<S $79 $80> You are a kind soul.<New>
+<End>
+Received 500 Jewels<End>
+Received a Jewel<End>
+Received Centurian Cape<End>
+Received Stone Vest<End>
+Received Bronze Armor<End>
+<$96>Hey!<S $3D $80> This guy isn't a {nut} case!<S $3D $80> He's a basket case.<S $3D $80> Get it?<S $79 $80> B<S $0B $80>A<S $0B $80>S<S $0B $80>K<S $0B $80>E<S $0B $80>T<S $0B $80> C<S $0B $80>A<S $0B $80>S<S $0B $80>E<S $0B $80>!<S $79 $80> Ha!<New>
+N <$96>Heed my warning!<S $79 $80>
+Heed the warning of the goats!<New>
+N <$96>Let the chips fall where they may.<S $79 $80> I'm going to ask the chickens for a raise!<New>
+N <$96>The white zone is for loading and unloading only.<New>
+<End>
+<$96>Heed my warning!<S $79 $80>
+Heed the warning of the goats!<New>
+N <$96>Let the chips fall where they may.<S $79 $80> I'm going to ask the chickens for a raise!<New>
+N <$96>The white zone is for loading and unloading only.<New>
+<End>
+<$96>Let the chips fall where they may.<S $79 $80> I'm going to ask the chickens for a raise!<New>
+N <$96>The white zone is for loading and unloading only.<New>
+<End>
+<$96>The white zone is for loading and unloading only.<New>
+<End>
+<$96>Let the noodles boil over medium heat,<S $79 $80> stir in the contents of the sauce packet and simmer.<New>
+<End>
+<$96>In the eighth minute of the eighth hour of the eighth day of the eighth month…<$86>…the goat will sneeze.<S $3D $80> And it will be good.<New>
+<End>
+<$96>Put your left foot in.<S $3D $80> Take your left foot out.<S $3D $80>
+Put your left foot in and shake it all about.<New>
+<End>
+<$96>Here come the fortune cookies.<S $3D $80> Here come the fortune cookies.<New>
+They're wearing paper hats!<New>
+N <$96>Speak to the second goat first and you will begin to unravel a secret.<New>
+<End>
+<$96>Speak to the second goat first and you will begin to unravel a secret.<New>
+<End>
+<$96>Many penguins wear short pants in summer.<New>
+<End>
+<$96>I am a fish.<New>
+<End>
+<$96>Much<S $3D $80> fear<S $3D $80> trouble<S $3D $80> in the fuselage, Frederick.<New>
+<End>
+<$96>The people of the City are gathering in the Square.<S $79 $80> The Market will soon be empty.<New>
+<End>
+<$96>I guess Vigor will be changing his name.<New>
+Vigor the Not-So-Indestuctable would be my choice.<New>
+<End>
+<$96>You defeated Vigor the Indestuctable!<S $3D $80> Well done!<S $3D $80> I didn't think you had it in you!<New>
+N <$96>A new challenger will soon fight our champion in the arena.<S $79 $80> I'm rooting for the champ.<New>
+<End>
+<$96>A new challenger will soon fight our champion in the arena.<S $79 $80> I'm rooting for the champ.<New>
+<End>
+<$96>Must…<S $15 $80>stop…<S $15 $80>juggling…<S $15 $80>go…<S $15 $80>
+to…<S $15 $80>big…<S $15 $80>meeting.<New>
+<End>
+<$96>Can't…<S $15 $80>talk…<S $15 $80>busy…<S $15 $80>juggling.<New>
+<End>
+<$96>Soon we will go to the meeting in the City Square…<$86>but now we are riveted by this amazing display of agility.<New>
+<End>
+<$96>The juggling antics of this street {clown} are quite amusing.<New>
+<End>
+<$96>The meeting is beginning in the city square.<S $3D $80> You should go there.<New>
+<End>
+<$96>This guy can keep me entertained for hours!<New>
+N AUNT THE GOATS IF YO WANT<End>
+TAUNT THE GOATS IF YOU WANT<End>
+BUT LEAVE THE CHICKENS ALONE<End>
+HEY, YOU<End>
+YES, -YOU-<End>
+DO NOT TAUNT THE CHICKENS<End>
+YOU WERE WARNED<End>
+YOU WILL REGRET THAT<End>
+I CAN DO THIS ALL DAY<End>
+<$96>The big meeting in the city square is about to begin.<New>
+<End>
+<$96>We've got to go to the city square now, or we'll be late for the meeting.<New>
+<End>
+<$96>There's a big meeting in the city square and I'm going.<New>
+<End>
+<$96>I'm so glad your statue's being rebuilt.<New>
+<End>
+<$96>Hello friend.<S $3D $80> You make a fine symbol for our city.<S $3D $80> I used to visit your statue every day.<New>
+Of course,<S $3D $80> now it's just a hole in the ground.<New>
+<End>
+<$96>Hello friend.<S $3D $80> You make a fine symbol for our city.<S $3D $80> I visit your statue every day.<New>
+<End>
+<$96>We don't see many people wearing pants around here.<New>
+You're a strange one, you are.<New>
+<End>
+<$96>You're a good dog,<S $3D $80> and a fine jumper too,<S $3D $80> I bet.<New>
+<End>
+<$96>Hey!<S $3D $80> You found the treasures on the other side of the river!<$86>Then you saved our city from that bad, nasty, evil leader guy!<$86>Good work!<New>
+N <$96>I've heard stories of ancient buildings on the west side of the river.<New>
+That's where the Diamond Eyes of the Sacred Dog Statue are said to be kept.<New>
+I'd go after them myself,<S $3D $80> but my adventuring days are behind me.<New>
+<End>
+<$96>I've heard stories of ancient buildings on the west side of the river.<New>
+That's where the Diamond Eyes of the Sacred Dog Statue are said to be kept.<New>
+I'd go after them myself,<S $3D $80> but my adventuring days are behind me.<New>
+<End>
+<$96>What a good looking pup. <End>
+<S $3D $80> You are the spitting image of the sacred dog statue!<New>
+N <New>
+N <$96>Our leader was too ambitious for his own good.<S $3D $80> I'm glad that you taught him a lesson.<New>
+<End>
+<New>
+N <$96>Our leader was too ambitious for his own good.<S $3D $80> I'm glad that you taught him a lesson.<New>
+<End>
+<$96>Our leader was too ambitious for his own good.<S $3D $80> I'm glad that you taught him a lesson.<New>
+<End>
+<$96>Our new leader is very ambitious.<New>
+I wonder if the power that he seeks is for the good of the city or just for his own good.<New>
+<End>
+<$96>You could probably make better predictions than this guy. <S $79 $80>You're the Sacred Dog!<New>
+N <$96>I knew that philosopher guy was a wacko.<New>
+<End>
+<$96>I knew that philosopher guy was a wacko.<New>
+<End>
+<$96>I don't believe a word this guy says.<New>
+<End>
+<$96>Hello, boy.<S $3D $80> You look like you're ready to go on an adventure.<New>
+<End>
+<$96>If it's beads you're after, you can find the best deal in a booth on the west wall.<New>
+<End>
+<$96>What a fine dog.<S $3D $80> You're so well behaved, too.<New>
+<End>
+<$96>The appraiser at the south end of the market will buy market items that you don't need.<New>
+<End>
+<$96>You look like you would be good at finding treasure.<New>
+<End>
+<$96>Hey!<S $3D $80> Have you heard about the big explosion on the west side of the river?<$86>They say that it opened up a passage to a new world!<New>
+N <$96>I heard that the flood waters washed ashore a treasure chest with 50 jewels in it!<$86>There must be a hidden cache somewhere below the surface.<New>
+<End>
+<$96>I heard that the flood waters washed ashore a treasure chest with 50 jewels in it!<$86>There must be a hidden cache somewhere below the surface.<New>
+<End>
+<$96>I'm thrilled to hear they're rebuilding your statue.<New>
+<End>
+<$96>I always enjoyed your statue in the square.<S $3D $80> It was a good likeness.<New>
+<End>
+<$96>I've always enjoyed your statue in the square.<S $3D $80> It's a good likeness.<New>
+<End>
+<$96>If you've got currencies other than Jewels, you can exchange them at the exchange booth.<New>
+It's near the main exit to the city square.<New>
+<End>
+<$96>You're the Sacred Dog!<S $3D $80> You've probably been on a lot of great adventures!<New>
+N <$96>Are you going on an adventure?<S $79 $80> That's what I'm gonna do when I'm as tall as you.<New>
+<End>
+<$96>Are you going on an adventure?<S $79 $80> That's what I'm gonna do when I'm as tall as you.<New>
+<End>
+<$96>Hi!<S $3D $80> I'm a big fan!<S $3D $80> Could I have your autograph?<New>
+N <$96>The Sacred Dog is my second favorite celebrity animal, <S $79 $80>right after Muff, the mummified cat!<New>
+N <$96>Hello there, boy.<S $3D $80> You're a good dog.<S $3D $80> Yes, you are!<New>
+N <$96>You were very kind to that philosopher.<S $3D $80> He's kind of nutty after all.<New>
+<End>
+<$96>The Sacred Dog is my second favorite celebrity animal, <S $79 $80>right after Muff, the mummified cat!<New>
+N <$96>Hello there, boy.<S $3D $80> You're a good dog.<S $3D $80> Yes, you are!<New>
+N <$96>You were very kind to that philosopher.<S $3D $80> He's kind of nutty after all.<New>
+<End>
+<$96>Hello there, boy.<S $3D $80> You're a good dog.<S $3D $80> Yes, you are!<New>
+N <$96>You were very kind to that philosopher.<S $3D $80> He's kind of nutty after all.<New>
+<End>
+<$96>You were very kind to that philosopher.<S $3D $80> He's kind of nutty after all.<New>
+<End>
+<$96>I believed everything that philosopher said, up until the point where he turned into a <End>
+<$96>goat.<New>
+<End>
+<$96>chicken.<New>
+<End>
+<$96>basket.<New>
+<End>
+<$96>This fellow is very insightful.<S $3D $80> He has a lot of important things to say.<New>
+<End>
+<$96>Hello, boy.<S $3D $80> You're a good dog, aren't you?<S $79 $80> Now, run along.<S $3D $80> I'm watchin' the juggler.<New>
+<End>
+<$96>Hey!<S $3D $80> You're the guy who defeated the evil leader!<S $3D $80> That was a good show!<New>
+N <$96>Hey!<S $3D $80> You're the guy who defeated the champion!<S $3D $80> That was a good show!<New>
+N <$96>If they want to attract a crowd for the big meeting,<S $3D $80> they should put this guy on the bill.<New>
+<End>
+<$96>Hey!<S $3D $80> You're the guy who defeated the champion!<S $3D $80> That was a good show!<New>
+N <$96>If they want to attract a crowd for the big meeting,<S $3D $80> they should put this guy on the bill.<New>
+<End>
+<$96>If they want to attract a crowd for the big meeting,<S $3D $80> they should put this guy on the bill.<New>
+<End>
+<$96>Hey, you're the Sacred Dog!<S $3D $80> Cool!<New>
+N <$96>If you think this guy is good,<S $3D $80> you should see him when he's juggling mummified cats.<New>
+That's a sight to see!<New>
+N <$96>What a majestic animal!<S $3D $80> I've alway been a big fan.<New>
+<End>
+<$96>If you think this guy is good,<S $3D $80> you should see him when he's juggling mummified cats.<New>
+That's a sight to see!<New>
+N <$96>What a majestic animal!<S $3D $80> I've alway been a big fan.<New>
+<End>
+<$96>What a majestic animal!<S $3D $80> I've alway been a big fan.<New>
+<End>
+<$96>The merchants in the north end of the market specialize in food and other goods.<New>
+The merchants in the south end sell charms and other mysterious items.<New>
+<End>
+<$96>The Sacred Dog!<S $3D $80> You're probably very good at finding treasures,<S $3D $80> aren't you?<New>
+N <$96>You should equip yourself with good armor if you plan to go out on an adventure.<New>
+There are three armor merchants in the market.<New>
+<End>
+<$96>You should equip yourself with good armor if you plan to go out on an adventure.<New>
+There are three armor merchants in the market.<New>
+<End>
+<$96>What an honor it is to meet you.<S $3D $80> <End>
+Your statue looked just like you.<New>
+<End>
+Your statue looks just like you.<New>
+<End>
+<$96>The world has been so confusing lately.<New>
+I may become a follower of the Sacred Chicken.<New>
+<End>
+<$96>I saw Tiny heading for the west side of the river after that explosion.<New>
+You never know what he and his rocks are up to.<$85><End>
+<$96>Have you seen the statue of the Sacred Dog in the city square?<S $3D $80> It's absolutely wonderful!<New>
+N <$96>Since you're the Sacred Dog, you've probably been in the palace, haven't you?<$86>I hear that it's magnificent!<New>
+N <$96>The palace gate is north of the city square.<New>
+I've never been to the palace,<S $3D $80> but I hear that it's magnificent.<New>
+<End>
+<$96>Since you're the Sacred Dog, you've probably been in the palace, haven't you?<$86>I hear that it's magnificent!<New>
+N <$96>The palace gate is north of the city square.<New>
+I've never been to the palace,<S $3D $80> but I hear that it's magnificent.<New>
+<End>
+<$96>The palace gate is north of the city square.<New>
+I've never been to the palace,<S $3D $80> but I hear that it's magnificent.<New>
+<End>
+<$96>Hi, boy!<S $3D $80> You look like a good runner,<S $3D $80> and a good jumper, too!<New>
+N <$96>I heard that the explosion near the river diverted the water.<New>
+Now the west branch of the river is dry!<New>
+N <$96>I heard that the bridge across the river is washed out.<New>
+You'd have to be a really good jumper to make it to the other side.<New>
+<End>
+<$96>I heard that the explosion near the river diverted the water.<New>
+Now the west branch of the river is dry!<New>
+N <$96>I heard that the bridge across the river is washed out.<New>
+You'd have to be a really good jumper to make it to the other side.<New>
+<End>
+<$96>I heard that the bridge across the river is washed out.<New>
+You'd have to be a really good jumper to make it to the other side.<New>
+<End>
+<$96>I hope your new statue does you justice.<New>
+<End>
+<$96>Your statue didn't do you justice.<S $3D $80><End>
+<$96>Your statue doesn't do you justice.<S $3D $80><End>
+You're a handsome dog!<New>
+N <$96>Were you out in the desert?<S $79 $80> That's hot!<S $3D $80> We only travel when it's cool.<New>
+<End>
+<$96>Were you out in the desert?<S $79 $80> That's hot!<S $3D $80> We only travel when it's cool.<New>
+<End>
+<$96>This place is empty!<S $3D $80> The big meeting in the city square is probably starting!<New>
+N <$96>We've got to go to the city square.<New>
+That guy with the Diamond Eyes is probably placing them in the statue right now!<New>
+N Received 100 Jewels<End>
+<$96>We've got to go to the city square.<New>
+That guy with the Diamond Eyes is probably placing them in the statue right now!<New>
+N Received 100 Jewels<End>
+Received 100 Jewels<End>
+<$96>That was easy.<S $3D $80> But, I think we've got a tough battle ahead.<New>
+<End>
+<$96>I don't think that guy who took the Diamond Eyes was Horace at all!<$86><$96>He looked pretty suspicious.<New>
+I bet he's planning to use those Diamonds for something devious!<$86>And he's probably going to the city on the other end of the desert!<New>
+N <$96>That guy looked pretty suspicious.<New>
+I bet he's planning to use those Diamonds for something devious!<$86>And he's probably going to the city on the other end of the desert!<New>
+N <$96>I hear someone coming!<New>
+N <$96>Ah,<S $3D $80> <Boy>!<$86>I'm glad to see that you're still alive!<S $B5 $80> Have you found the Diamond Eyes?<New>
+N <$96>Hi Horace!<S $3D $80> Yeah!<S $3D $80> I've got them right here!<New>
+N <$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>That guy looked pretty suspicious.<New>
+I bet he's planning to use those Diamonds for something devious!<$86>And he's probably going to the city on the other end of the desert!<New>
+N <$96>I hear someone coming!<New>
+N <$96>Ah,<S $3D $80> <Boy>!<$86>I'm glad to see that you're still alive!<S $B5 $80> Have you found the Diamond Eyes?<New>
+N <$96>Hi Horace!<S $3D $80> Yeah!<S $3D $80> I've got them right here!<New>
+N <$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>I hear someone coming!<New>
+N <$96>Ah,<S $3D $80> <Boy>!<$86>I'm glad to see that you're still alive!<S $B5 $80> Have you found the Diamond Eyes?<New>
+N <$96>Hi Horace!<S $3D $80> Yeah!<S $3D $80> I've got them right here!<New>
+N <$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>Ah,<S $3D $80> <Boy>!<$86>I'm glad to see that you're still alive!<S $B5 $80> Have you found the Diamond Eyes?<New>
+N <$96>Hi Horace!<S $3D $80> Yeah!<S $3D $80> I've got them right here!<New>
+N <$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>Hi Horace!<S $3D $80> Yeah!<S $3D $80> I've got them right here!<New>
+N <$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>Hello, <Boy>.<New>
+We haven't met before,<S $79 $80> but your acquisition of the Diamond Eyes will help me a great deal.<New>
+<End>
+<$96>You must be the leader of that city on the other side of the desert!<$86>I've got the diamonds right here.<New>
+<End>
+<$96>I must have them!<S $3D $80> Give them to me!<New>
+N <$96>Uh,<S $3D $80> OK.<S $41 $80> <End>
+<$96>Uh,<S $3D $80> OK.<S $41 $80> <End>
+Here you go.<New>
+<End>
+Gave away Diamond Eyes<End>
+<$96>They're mine!<S $79 $80> <End>
+<$96>They're mine!<New>
+N <$96>The Diamond Eyes are mine!<S $79 $80><End>
+<$96>The Diamond Eyes are mine!<S $79 $80><End>
+ Guaaaahaha!<New>
+N <$96>Guaaaahaha?<S $79 $80> This guy is looney!<S $3D $80> Like {Metalhead} McGovern in {Lunky Monkey}.<New>
+C'mon, <Dog>.<S $3D $80> Let's follow him.<S $B5 $80> I think he's gone off the deep end!<New>
+N <$96>Not so fast, kid.<S $3D $80> Our boss wants you to stay where you are.<New>
+<End>
+<$96>Guaaaahaha?<S $79 $80> This guy is looney!<S $3D $80> Like {Metalhead} McGovern in {Lunky Monkey}.<New>
+C'mon, <Dog>.<S $3D $80> Let's follow him.<S $B5 $80> I think he's gone off the deep end!<New>
+N <$96>Not so fast, kid.<S $3D $80> Our boss wants you to stay where you are.<New>
+<End>
+<$96>Not so fast, kid.<S $3D $80> Our boss wants you to stay where you are.<New>
+<End>
+<$96><$93>I can't leave my dog behind!<S $B5 $80>  <End>
+<$96><$93>You can't go up this way.<S $8D $80>  It's much too steep for you Buddy.<End>
+glub… glub… glub…<End>
+<$96><$87>Yuck,<S $29 $80> someone needs to clean the pool!<$85><End>
+Stay here, <Dog>!<$85><End>
+Received 2,500 Gold Coins<End>
+<$96>Someday, I plan to clean the fountain pool.<New>
+<End>
+<$96>Fix this! Fix that! Never a moment's rest.<New>
+<End>
+<$96>Sacred Dogs… <S $51 $80>I don't believe in 'em!<New>
+N <$96>Hello. My wife and myself take care of cleaning and maintaining the palace.<New>
+<End>
+<$96>Hello. My wife and myself take care of cleaning and maintaining the palace.<New>
+<End>
+<$96>My husband complains about all the work around here.<New>
+Truth is, I do the work and he does the complaining.<New>
+<End>
+<$96>Hi there. <S $3D $80>Don't track any dirt into the palace.<S $3D $80> It's my job to keep the place clean.<New>
+<End>
+<$96>You should avoid falling into those pits!<S $3D $80> Are you OK?<New>
+N <$96>Yeah.<S $3D $80> I guess I should use that Revealer Formula more effectively.<New>
+<End>
+<$96>Yeah.<S $3D $80> I guess I should use that Revealer Formula more effectively.<New>
+<End>
+<$96>Yeah.<S $3D $80> Maybe I should talk to your friend and get that Revealer Formula.<New>
+<End>
+<$96>That's a good idea.<New>
+<End>
+<$96>Are you OK?<S $3D $80> You took quite a spill out there!<New>
+N <$96>I think I'll be all right.<S $3D $80> We're getting used to flying and falling.<New>
+<End>
+<$96>I think I'll be all right.<S $3D $80> We're getting used to flying and falling.<New>
+<End>
+<$96>Who are you,<S $3D $80> friend?<S $79 $80> Where are you from?<New>
+N <$96>Well, I…<New>
+N <$96>By Golly!<S $3D $80> What have we here?<S $79 $80> A visitor?<New>
+N <$96>You're definitely not from Crustacia--<S $79 $80>no facial hair, tattoos or visible scars.<New>
+<End>
+<$96>Well, I…<New>
+N <$96>By Golly!<S $3D $80> What have we here?<S $79 $80> A visitor?<New>
+N <$96>You're definitely not from Crustacia--<S $79 $80>no facial hair, tattoos or visible scars.<New>
+<End>
+<$96>By Golly!<S $3D $80> What have we here?<S $79 $80> A visitor?<New>
+N <$96>You're definitely not from Crustacia--<S $79 $80>no facial hair, tattoos or visible scars.<New>
+<End>
+<$96>You're definitely not from Crustacia--<S $79 $80>no facial hair, tattoos or visible scars.<New>
+<End>
+<$96>And you're not from Nobilia, either--<S $79 $80>no toga or sandals.<New>
+<End>
+<$96>Actually,<S $3D $80> we're from…<New>
+N <$96>Wait!<S $41 $80><End>
+<$96>Wait!<S $41 $80><End>
+<$96> Let me guess!<S $B5 $80>
+<$96>You're from... <S $B5 $80>Podunk!<New>
+N <$96>Wow!<S $3D $80> You're right!<S $41 $80> I'm <Boy><End>
+<$96>Wow!<S $3D $80> You're right!<S $41 $80> I'm <Boy><End>
+ and this is my dog,<S $41 $80> <Dog>.<New>
+<End>
+<$96>It's a pleasure to meet you.<S $3D $80> I'm Horace Highwater.<S $B5 $80> I, too, am from Podunk.<New>
+I figured that it would just be a matter of time before another Podunker arrived.<New>
+<End>
+<$96>You see,<S $3D $80> this ancient world is a product of my imagination.<New>
+<End>
+<$96>I was the curator of the Natural History Museum in Podunk.<New>
+My area of expertise was early civilizations,<S $79 $80> and…<New>
+N <$96>You were part of an experiment in the big mansion on the hill,<S $81 $80> and something went wrong!<New>
+N <$96>That's right!<S $3D $80> Terribly wrong!<S $79 $80> <End>
+<$96>You were part of an experiment in the big mansion on the hill,<S $81 $80> and something went wrong!<New>
+N <$96>That's right!<S $3D $80> Terribly wrong!<S $79 $80> <End>
+<$96>That's right!<S $3D $80> Terribly wrong!<S $79 $80> <End>
+How did you know?<New>
+N <$96>Fire Eyes,<S $5B $80> er,<S $5B $80> Elizabeth told us about it.<S $B5 $80> She's the leader of the prehistoric world on the plateau.<New>
+<End>
+<$96>Fire Eyes,<S $5B $80> er,<S $5B $80> Elizabeth told us about it.<S $B5 $80> She's the leader of the prehistoric world on the plateau.<New>
+<End>
+<$96>Yes!<S $3D $80> Elizabeth, Professor Ruffleberg's granddaughter!<New>
+N <$96>There was another guest at that party, too.<S $79 $80> Miss Bluegarden, the librarian.<New>
+I've always suspected that we were the victims of foul play,<S $79 $80> but by whose hand?<New>
+N <$96>I don't know.<S $21 $80> <End>
+<$96>There was another guest at that party, too.<S $79 $80> Miss Bluegarden, the librarian.<New>
+I've always suspected that we were the victims of foul play,<S $79 $80> but by whose hand?<New>
+N <$96>I don't know.<S $21 $80> <End>
+<$96>I don't know.<S $21 $80> <End>
+<$96>But I think we can find out if we get the other Diamond Eye.<New>
+We already found one in the pyramid and this guy in the city told us about another one.<New>
+<End>
+<$96>But I think we can find out if we get the other Diamond Eye.<New>
+We already found one in the Hall of Collosia and there's supposed to be another one, too.<New>
+<End>
+<$96>But I think we can find out if we get these special diamonds.<New>
+An important guy in the city told me that they were very powerful.<New>
+<End>
+<$96>So,<S $3D $80> the new leader is after the Diamond Eyes,<S $3D $80> is he?<S $79 $80> I thought he would be.<New>
+<End>
+They do represent a lot of power,<S $B5 $80> and this fellow is hungry for power.<New>
+He appeared on the scene only weeks ago and took over Nobilia very quickly indeed.<New>
+<End>
+He's very mysterious.<S $79 $80> None of my contacts has ever even seen his face!<$86>I would suspect that he has nothing but bad intentions.<New>
+<End>
+<$96>What should we do?<New>
+N <$96>Chances are that the leader has other people looking for the diamonds, too.<New>
+<End>
+<$96>Chances are that the leader has other people looking for the diamonds, too.<New>
+<End>
+<$96>I suggest that you find the other diamond and bring them both to me!<New>
+N <$96>I suggest that you find the diamonds first and bring them to me when you have both of them!<New>
+N I'll make sure that they don't fall into the wrong hands!<New>
+N <$96>The other diamond is in the Great Pyramid, to the South.<New>
+<End>
+<$96>I suggest that you find the diamonds first and bring them to me when you have both of them!<New>
+N I'll make sure that they don't fall into the wrong hands!<New>
+N <$96>The other diamond is in the Great Pyramid, to the South.<New>
+<End>
+I'll make sure that they don't fall into the wrong hands!<New>
+N <$96>The other diamond is in the Great Pyramid, to the South.<New>
+<End>
+<$96>The other diamond is in the Great Pyramid, to the South.<New>
+<End>
+<$96>The other diamond is in the Hall of Collosia, to the North.<New>
+<End>
+<$96>The diamonds are in the Hall of Collosia to the North and the Great Pyramid to the South.<New>
+<End>
+<$96>We've dug pits that protect these sites from harmful intruders.<New>
+You can see hidden paths over these pits by using the Revealer Formula.<New>
+<End>
+<$96>My friend, Madronius, will give you this formula if you talk to him.<New>
+<End>
+<$96>OK!<S $41 $80> <End>
+We'll do it!<New>
+N <$96>You and your master have an important mission.<New>
+The people of this world are depending on you.<New>
+<End>
+<$96>You and your master have an important mission.<New>
+The people of this world are depending on you.<New>
+<End>
+<$96>I would like to assist you in your endeavour to recover the Diamond Eyes,<S $79 $80> <Boy>.<New>
+In studying this ancient world,<S $79 $80> I have stumbled upon the ability to practice magic.<New>
+If you need me, use a Call Bead, then call on me.<S $79 $80> I'll materialize and help you with my magic.<New>
+You may uncover other spells that I can use in your travels.<New>
+<End>
+<$96>I'll give you <Item> Call Beads.<S $3D $80> Use them when you need my help.<New>
+<End>
+Received <Item> Call Beads<End>
+<$96>I see that you have one of the Diamond Eyes!<S $79 $80> Keep up the good work and come back when you have both of them!<New>
+N <$96>I can see that you are out of Call Beads.<New>
+I'll give you one now so that you call me when you're in a real tough spot.<New>
+<End>
+<$96>I can see that you are out of Call Beads.<New>
+I'll give you one now so that you call me when you're in a real tough spot.<New>
+<End>
+Received a Call Bead<End>
+<$96>Remember to call on me when you need my help.<New>
+<End>
+<$96>I can see that you are out of Call Beads.<New>
+I'll give you one now so that you call me when you're in a real tough spot.<New>
+<End>
+Received a Call Bead<End>
+<$96>Hello, Pup.<S $3D $80> You look a lot like that Sacred Dog that they've made statues for in Nobilia.<New>
+<End>
+<$96>It sounds like you've had a very interesting adventure indeed.<New>
+I am Madronius, the alchemist.<S $3D $80> I've studied with Horace for many years.<New>
+The new leader of Nobilia does not respect the treasures of our world.<New>
+We have dug pits in front of the Pyramid and Hall in order to keep him and his men away.<New>
+My Revealer Formula will allow you to see the paths across these pits.<New>
+<End>
+<$96>We're counting on you to save the treasures of our world.<New>
+<End>
+<$96>Horace has left the camp.<S $3D $80> You might find him on the west bank of the river.<New>
+<End>
+<$96>I trust that you are doing all that you can in order to find the Diamond Eyes.<New>
+<$96>Here is the Escape Formula.<New>
+It will allow you to leave underground areas and other interiors in a hurry.<New>
+<End>
+<$96>The Escape Formula requires one part Wax and one part Vinegar.<New>
+<End>
+<$96>I hope that you're using your alchemy ingredients wisely.<New>
+<End>
+<$96>My brother is an alchemist as well.<S $3D $80> He has a hiding place in the Hall of Collosia.<New>
+Check the walls.<S $3D $80> If you find him, he might help you.<New>
+<End>
+<$96>Good luck, kid.<New>
+<End>
+<$96><$96>Good luck, kid.<New>
+<End>
+<$96>Hello, pup.<S $3D $80> You look like you could use some rest.<New>
+<End>
+<$96>Hello, kid.<S $3D $80> You look like you could use some rest.<New>
+I can offer you a good night's sleep for 20 jewels.<New>
+<End>
+Would you like to stay?
+<$97><Choice>Sure.
+<Choice>No, thanks.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for jewels at any shop.<New>
+<End>
+<$96><$87>Good luck, kid.<S $3D $80> May the forces of good be with you.<New>
+<End>
+<$96>You made it all the way out here on this hot sand?<S $3D $80> You're a tough little dog.<S $3D $80> <New>
+N <$96>I'm going to give you a new collar, so that you have protection from mean critters.<New>
+<End>
+<$96>I'm going to give you a new collar, so that you have protection from mean critters.<New>
+<End>
+Received Spiky Collar<End>
+<$96>I hope that you are using your alchemy formulas well.<New>
+<End>
+<$96><$87>See you later!<New>
+N <$96>It's a hot one today, isn't it?<S $79 $80> And the bad bugs are out, too!<$86>What you need is some help.<S $79 $80> And I'm prepared to give it to you.<New>
+This is a formula called {Sting.}<S $79 $80> It'll give you the edge over nasty critters.<New>
+<End>
+<$96>It's a hot one today, isn't it?<S $79 $80> And the bad bugs are out, too!<$86>What you need is some help.<S $79 $80> And I'm prepared to give it to you.<New>
+This is a formula called {Sting.}<S $79 $80> It'll give you the edge over nasty critters.<New>
+<End>
+<$96>Hey, stay away from the bones, <End>
+<$96>Sparky.<New>
+<End>
+<$96>Spartacus.<New>
+<End>
+<$96>Spot.<New>
+<End>
+<$96>Rex.<New>
+<End>
+<$96>Hey, <End>
+<S $79 $80> Do you want a lift?
+<Choice>Sure.
+<Choice>Not right now.<End>
+<$96><$87>Have you got an Amulet of Annihilation?
+<End>
+<$96><$87>Hey!  Potty mouth...<S $F1 $80><$87>Have you got three Amulets of Annihilation?
+<End>
+<Choice>Yes, sir.
+<Choice>Uh, no.<End>
+<$96><$87>A ride across the hot desert will cost you one Amulet of Annihilation.<New>
+Have you got one?
+<End>
+<$96><$87>Normally a ride across the hot desert costs one Amulet of Annihilation.<New>
+<$87>However…<S $51 $80>  Since I don't like foul language aboard my ship,<S $51 $80> potty mouth…<$86><$87>…I will require three Amulets of Annihilation from you.<New>
+<$87>Do you have three Amulets of Annihilation?
+<End>
+Yes.
+Uh, no.<End>
+<$87><$96>Hop in, <End>
+<New>
+N <$87><$96>Hop in, <End>
+<$87><$96>Hop in, <End>
+<New>
+N <$96><$87>I think you were mistaken, <End>
+<$96><$87>I think you were mistaken, <End>
+<$86>You don't have an Amulet of Annihilation,<S $79 $80> and you can't ride without one.<New>
+<End>
+<$96><$87>Come back when you've got one, <End>
+<S $79 $80> I'll give you a ride then.<New>
+<End>
+<$96><$87>Suit yourself, <End>
+<$96> It's a long walk.<New>
+<End>
+<$96>Sport.<End>
+<$96>Captain.<End>
+Chief.<End>
+<$96>Ralph.<End>
+Junior.<End>
+<$96>Sparky.<End>
+<$96>Skipper.<End>
+Jack.<End>
+WrapNSCount = <Count>  WrapEWCount = <Item><End>
+WrapNSCount = <Count>  WrapEtWCount = <Item><End>
+<$97><$93>I'd like <End>
+to take <End>
+this <End>
+opportunity <End>
+to welcome <End>
+you <End>
+aboard <End>
+our <End>
+non-stop <End>
+shuttle to <End>
+Nobilia-- <End>
+{The <End>
+Little <End>
+Jewel <End>
+of <End>
+the <End>
+Desert <End>
+of Doom.} <End>
+<End>
+On your <End>
+left is a <End>
+large <End>
+expanse <End>
+of sand, <End>
+rocks <End>
+and scrub <End>
+weed. <End>
+<End>
+While <End>
+you're <End>
+enjoying <End>
+your <End>
+stay in <End>
+Nobilia, <End>
+you <End>
+can <End>
+shop <End>
+for <End>
+goods, <End>
+armor <End>
+and <End>
+charms <End>
+in the <End>
+{Bargain <End>
+Bazaar.} <End>
+<End>
+While we <End>
+make our <End>
+approach <End>
+to the <End>
+city, <End>
+please <End>
+return <End>
+your <End>
+seats <End>
+and <End>
+tray <End>
+tables <End>
+to their <End>
+upright <End>
+positions. <End>
+<End>
+Remain <End>
+seated <End>
+until the <End>
+boat comes <End>
+to a complete <End>
+stop.<End>
+<$96><$93>You've <End>
+been <End>
+on my <End>
+shuttle <End>
+to <End>
+Nobilia <End>
+before, <End>
+so <End>
+I'll <End>
+just <End>
+be <End>
+quiet <End>
+and <End>
+let <End>
+you <End>
+enjoy <End>
+the ride.<End>
+<$96><$93>I'd <End>
+like <End>
+to <End>
+welcome <End>
+you <End>
+aboard <End>
+this <End>
+non-stop <End>
+shuttle to <End>
+Crustacia-- <End>
+{The <End>
+number <End>
+one spot <End>
+for <End>
+skullduggery, <End>
+villainy <End>
+and <End>
+bad <End>
+manners.}<End>
+<End>
+While <End>
+you're <End>
+enjoying <End>
+your <End>
+stay in <End>
+Crustacia, <End>
+you <End>
+can <End>
+rub <End>
+elbows <End>
+with <End>
+real <End>
+pirates, <End>
+thieves <End>
+and <End>
+scound<End>
+rels! <End>
+<End>
+We're <End>
+coming <End>
+to <End>
+one <End>
+of <End>
+the <End>
+highlights <End>
+of the <End>
+tour, <End>
+on your<End>
+right. <End>
+<End>
+It's a <End>
+natural <End>
+shrub <End>

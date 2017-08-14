@@ -1,0 +1,2156 @@
+﻿<798 text entries>
+<$96>Good work, <Boy>!<S $3D $80> You saved our world from that terrible villain.<New>
+He was my evil twin!<S $79 $80> And a robot of some sort, I suspect.<New>
+<End>
+<$96>I'm glad we could help, Horace!<New>
+N <$96>Good work, son!<S $3D $80> You did very well!<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> who are you?<New>
+N <$96>I'm Horace Highwater.<S $3D $80> This ancient world is a product of my imagination.<New>
+That villain was my evil twin.<S $79 $80> A robot of some sort, I suspect.<New>
+<End>
+<$96>Good work, son!<S $3D $80> You did very well!<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> who are you?<New>
+N <$96>I'm Horace Highwater.<S $3D $80> This ancient world is a product of my imagination.<New>
+That villain was my evil twin.<S $79 $80> A robot of some sort, I suspect.<New>
+<End>
+<$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> who are you?<New>
+N <$96>I'm Horace Highwater.<S $3D $80> This ancient world is a product of my imagination.<New>
+That villain was my evil twin.<S $79 $80> A robot of some sort, I suspect.<New>
+<End>
+<$96>I'm Horace Highwater.<S $3D $80> This ancient world is a product of my imagination.<New>
+That villain was my evil twin.<S $79 $80> A robot of some sort, I suspect.<New>
+<End>
+<$96>Wow! Just like what happened with Fire Eyes!<New>
+N <$96>Hmmm…<S $3D $80> The statue's energy core looks like it could explode at any moment!<$86>We should remove it,<S $79 $80> and soon!<New>
+N <$96>Tiny!<S $3D $80> Tiny!<S $3D $80> Come here!<S $3D $80> We need your strength!<New>
+N <$96>I am Tiny the Barbarian.<S $79 $80> My strength is needed.<New>
+<End>
+<$96>Hmmm…<S $3D $80> The statue's energy core looks like it could explode at any moment!<$86>We should remove it,<S $79 $80> and soon!<New>
+N <$96>Tiny!<S $3D $80> Tiny!<S $3D $80> Come here!<S $3D $80> We need your strength!<New>
+N <$96>I am Tiny the Barbarian.<S $79 $80> My strength is needed.<New>
+<End>
+<$96>Tiny!<S $3D $80> Tiny!<S $3D $80> Come here!<S $3D $80> We need your strength!<New>
+N <$96>I am Tiny the Barbarian.<S $79 $80> My strength is needed.<New>
+<End>
+<$96>I am Tiny the Barbarian.<S $79 $80> My strength is needed.<New>
+<End>
+<$96>We need you to throw this energy core as far as you can from the city before it explodes.<New>
+Can you do it, Tiny?<New>
+N <$96>I am Tiny the Barbarian.<S $41 $80> I am very strong.<S $79 $80><End>
+<$96>I am Tiny the Barbarian.<S $41 $80> I am very strong.<S $79 $80><End>
+ I can throw anything!<New>
+N <$96>Step aside.<New>
+<End>
+<$96>Step aside.<New>
+<End>
+<$96>That felt good!<New>
+N <$96>That guy has a pretty good arm!<New>
+N <$96>Yes.<S $21 $80> And his heart is in the right place, too.<New>
+<End>
+<$96>That guy has a pretty good arm!<New>
+N <$96>Yes.<S $21 $80> And his heart is in the right place, too.<New>
+<End>
+<$96>Yes.<S $21 $80> And his heart is in the right place, too.<New>
+<End>
+<$96>I just hope that his incredible strength doesn't go to his head.<New>
+<End>
+<$96>So,<S $3D $80> how do you suppose <Dog> and I could get to Podunk from here?<New>
+N <$96>I'd like to know that myself.<New>
+<End>
+<$96>I'd like to know that myself.<New>
+<End>
+<$96>I…<S $21 $80> <End>
+I'm not sure…<New>
+N <$96>Horace!<S $3D $80> We have important news from the camp!<New>
+N <$96>Oh!<S $3D $80> Hello, Madronius.<S $3D $80> What is it?<New>
+N <$96>The explosive hit just north of the camp and opened up an entrance to a very large tunnel!<$86>This tunnel may lead to unexplored territories of Evermore!<New>
+N <$96>Hmm… a hidden tunnel!<S $3D $80> Very interesting indeed!<New>
+N <$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>Horace!<S $3D $80> We have important news from the camp!<New>
+N <$96>Oh!<S $3D $80> Hello, Madronius.<S $3D $80> What is it?<New>
+N <$96>The explosive hit just north of the camp and opened up an entrance to a very large tunnel!<$86>This tunnel may lead to unexplored territories of Evermore!<New>
+N <$96>Hmm… a hidden tunnel!<S $3D $80> Very interesting indeed!<New>
+N <$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>Oh!<S $3D $80> Hello, Madronius.<S $3D $80> What is it?<New>
+N <$96>The explosive hit just north of the camp and opened up an entrance to a very large tunnel!<$86>This tunnel may lead to unexplored territories of Evermore!<New>
+N <$96>Hmm… a hidden tunnel!<S $3D $80> Very interesting indeed!<New>
+N <$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>The explosive hit just north of the camp and opened up an entrance to a very large tunnel!<$86>This tunnel may lead to unexplored territories of Evermore!<New>
+N <$96>Hmm… a hidden tunnel!<S $3D $80> Very interesting indeed!<New>
+N <$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>Hmm… a hidden tunnel!<S $3D $80> Very interesting indeed!<New>
+N <$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>Thank you for the news, Madronius!<New>
+N <$96>This could be your answer, <End>
+<$96>This could be your answer, <End>
+!<End>
+<$96>son! <New>
+N <$96>Your passage to Podunk could start on the other end of that tunnel!<New>
+N <$96>Well,<S $3D $80> it's worth a try!<New>
+N <$96>Before you leave,<S $3D $80> let me help you.<New>
+<End>
+<$96>Your passage to Podunk could start on the other end of that tunnel!<New>
+N <$96>Well,<S $3D $80> it's worth a try!<New>
+N <$96>Before you leave,<S $3D $80> let me help you.<New>
+<End>
+<$96>Well,<S $3D $80> it's worth a try!<New>
+N <$96>Before you leave,<S $3D $80> let me help you.<New>
+<End>
+<$96>Before you leave,<S $3D $80> let me help you.<New>
+<End>
+<$96>I'll give you <Item> Call Beads.<S $3D $80> Use them when you need my help.<New>
+<End>
+<$96>Here are <Item> Call Beads.<New>
+When you need my help,<S $5B $80> just throw one to the ground.<New>
+<End>
+Received <Item> Call Beads<End>
+<$96>Please take this Staff of Life!<S $3D $80> It will increase your ability to defend against enemy attacks.<New>
+<End>
+Received Staff of Life<End>
+<$96>If you need my help out in the field, you can call me by using one of your Call Beads.<New>
+<End>
+<$96>Thanks, Horace.<New>
+<End>
+<$96>Let's go, <Dog>.<New>
+<End>
+should not see this<End>
+<S $79 $80>Is your destination Omnitopia?
+<Choice>Yes.
+<Choice>No.<End>
+<S $79 $80> Is your destination Omnitopia?
+<Choice>Yes.
+<Choice>No.<End>
+<S $79 $80> Is your destination Omnitopia?
+<Choice>Yes.
+<Choice>No.<End>
+Uh, I don't think so.  Been there, done that.<New>
+<End>
+Urf-urf.<End>
+<$97>Received 5000 Jewels<End>
+<$97>Received some Honey<End>
+<$96>Hey!<S $3D $80> Kid!<S $3D $80> Get in the bucket!<New>
+N <$96>What a nice pooch!<S $3D $80> You remind me of my dog, Sparky.<New>
+<End>
+<$96>What a nice pooch!<S $3D $80> You remind me of my dog, Sparky.<New>
+<End>
+<$96>I had a dog once.<S $3D $80> He's gone now.<New>
+I'm not really sure where he went,<S $79 $80> come to think of it.<New>
+<End>
+<$96>Years ago, my wife's poor sight let her fall down one of the heat vents.<New>
+<$96>I haven't seen her or my skeleton key since.<New>
+<End>
+<Choice>I have your key here.
+<Choice>I haven't seen it.<End>
+Gave away Key<End>
+<$96>Well, thank you very much indeed!<S $3D $80> You're very helpful!<$86>I can help you with a very powerful alchemy formula.<New>
+<End>
+<$96>It requires 1 part Brimstone and 1 Feather for every use.<New>
+<End>
+<$96>Say {Goodnight}, my leetell piggy.<New>
+<$96>You shall be my masterpiece at the queen's deenair!<$86><$96>You are not a very pretty piggy.<S $79 $80> Are you?<New>
+N Sacre Bleu!! You are not a pig!<$86><$96>Well, whatever you are, Pierre shall make you tasty!<New>
+N <$96>Come to Pierre, you son of a motherless rodent!!<End>
+Sacre Bleu!! You are not a pig!<$86><$96>Well, whatever you are, Pierre shall make you tasty!<New>
+N <$96>Come to Pierre, you son of a motherless rodent!!<End>
+<$96>Come to Pierre, you son of a motherless rodent!!<End>
+Locked<End>
+<$96>Hmmm... I can't see the bottom. I'd better avoid these vents.<New>
+<End>
+<$96>Hey, <Dog>! Get away from there!<New>
+N <$96>Hey, <Dog>!!<S $3D $80> Where are you going?<S $51 $80> Come back here!!<S $B5 $80><End>
+<$96>Hey, <Dog>!!<S $3D $80> Where are you going?<S $51 $80> Come back here!!<S $B5 $80><End>
+Won't Open<End>
+<$96><$87><Dog>!!<S $3D $80> You're back!!<S $51 $80> I was very worried. Don't do that again!!<$85><End>
+<$96>Hmmm…<S $3D $80> This looks dangerous. I'd better avoid these vents.<New>
+<End>
+<$96>Hey, <Dog>! Don't go near the edge!<New>
+N <$96>Hello, little one.<S $3D $80> I don't get many visitors down here.<New>
+<$96>This key around your neck will help in the castle.<New>
+<End>
+<$96>Hello, little one.<S $3D $80> I don't get many visitors down here.<New>
+<$96>This key around your neck will help in the castle.<New>
+<End>
+<$96>My, but you're a furry little boy!<S $51 $80> Your mother must be worried. Now run along!<New>
+N <$96>Ohhhhh! My bursitis!<S $51 $80> Now where's my tonic?<New>
+N <$96>Well, <Dog>.<S $3D $80> Looks like we're off to Ebon Keep.<New>
+Hey, <S $29 $80> What's that around your neck? <S $51 $80>A key!<$86>I don't know where you got it, but I'll hang on to it.<New>
+<End>
+<$96>Ohhhhh! My bursitis!<S $51 $80> Now where's my tonic?<New>
+N <$96>Well, <Dog>.<S $3D $80> Looks like we're off to Ebon Keep.<New>
+Hey, <S $29 $80> What's that around your neck? <S $51 $80>A key!<$86>I don't know where you got it, but I'll hang on to it.<New>
+<End>
+<$96>Well, <Dog>.<S $3D $80> Looks like we're off to Ebon Keep.<New>
+Hey, <S $29 $80> What's that around your neck? <S $51 $80>A key!<$86>I don't know where you got it, but I'll hang on to it.<New>
+<End>
+<$96><$87>Ah!<S $3D $80> Mr. <Boy>!<S $3D $80> So nice to see that you made it through the night.<New>
+<End>
+<$96><$87>I didn't mean to react so harshly at the banquet.<New>
+<End>
+<$96><$87>But I just hate it when things don't go as planned!<New>
+N <$96>Uh,<S $3D $80> that's OK. <S $51 $80>We're really sorry for the mess we made.<New>
+<End>
+<$96>Uh,<S $3D $80> that's OK. <S $51 $80>We're really sorry for the mess we made.<New>
+<End>
+<$87>And we're hoping, maybe, you could help us find our way home?<New>
+N <$96>There will be time for that later!<S $79 $80> This meeting is really about me--<S $79 $80> my needs!<New>
+N You may have heard that there is another castle in the kingdom.<New>
+<End>
+<$96>There will be time for that later!<S $79 $80> This meeting is really about me--<S $79 $80> my needs!<New>
+N You may have heard that there is another castle in the kingdom.<New>
+<End>
+You may have heard that there is another castle in the kingdom.<New>
+<End>
+That castle,<S $3D $80> Ebon Keep,<S $3D $80> is our former home and it is filthy.<New>
+<End>
+That's why I had this castle built and moved the kingdom across the ravine.<New>
+<End>
+A few stragglers remain in the other castle,<S $3D $80> and this annoys me to no end!<New>
+N I want to remove them!<S $3D $80> And you can help me do that!<New>
+N The entrance to Ebon Keep is on the other side of the chessboard plateau.<New>
+But the drawbridge on the other side is now up!<S $79 $80> Locked!<New>
+N What we need you to do is go down into the ravine, come up the other side…<$86>…and open the drawbridge from within.<New>
+<End>
+I want to remove them!<S $3D $80> And you can help me do that!<New>
+N The entrance to Ebon Keep is on the other side of the chessboard plateau.<New>
+But the drawbridge on the other side is now up!<S $79 $80> Locked!<New>
+N What we need you to do is go down into the ravine, come up the other side…<$86>…and open the drawbridge from within.<New>
+<End>
+The entrance to Ebon Keep is on the other side of the chessboard plateau.<New>
+But the drawbridge on the other side is now up!<S $79 $80> Locked!<New>
+N What we need you to do is go down into the ravine, come up the other side…<$86>…and open the drawbridge from within.<New>
+<End>
+What we need you to do is go down into the ravine, come up the other side…<$86>…and open the drawbridge from within.<New>
+<End>
+Then, my people will march across the ravine and take Ebon Keep by force!<$86>Can you do this for me, Mr. <Boy>?<New>
+N Yeah.<S $3D $80> Sure.<S $3D $80> I guess.<New>
+<End>
+Yeah.<S $3D $80> Sure.<S $3D $80> I guess.<New>
+<End>
+<$96><$87>The best way to the ravine is through the east wing of the castle.<New>
+Then down through a door in the chessboard.<New>
+<End>
+<$96><$87>You'll find it when you get there.<$85><End>
+<$96>Go away, you smelly creature!<New>
+N <$96>You really should think about bathing, young man!<New>
+N <$96>Your task at hand is to go to the chessboard and find a door to the bottom of the ravine.<New>
+<$87>Then,<S $3D $80> you must make your way to Ebon Keep and open the drawbridge from within.<New>
+<$87>We'll take it from there.<New>
+<End>
+<$96>You really should think about bathing, young man!<New>
+N <$96>Your task at hand is to go to the chessboard and find a door to the bottom of the ravine.<New>
+<$87>Then,<S $3D $80> you must make your way to Ebon Keep and open the drawbridge from within.<New>
+<$87>We'll take it from there.<New>
+<End>
+<$96>Your task at hand is to go to the chessboard and find a door to the bottom of the ravine.<New>
+<$87>Then,<S $3D $80> you must make your way to Ebon Keep and open the drawbridge from within.<New>
+<$87>We'll take it from there.<New>
+<End>
+<$96>Go away, you stinky boy!<New>
+N <$96>Go away, you putrid pup!<New>
+N <$96><$87>Your majesty.<S $51 $80> I've brought the prisoners as requested.<New>
+<End>
+<$96>Go away, you putrid pup!<New>
+N <$96><$87>Your majesty.<S $51 $80> I've brought the prisoners as requested.<New>
+<End>
+<$96><$87>Your majesty.<S $51 $80> I've brought the prisoners as requested.<New>
+<End>
+<$96>Your highness.<$85><End>
+<$96>Yes, Eronio.<New>
+<End>
+<$96>What have you done with the boy and his pig dog?<New>
+N <$96>I've sent them on a little journey.<S $3D $80> They're going to the other side of the ravine.<$85><End>
+<$96>I've sent them on a little journey.<S $3D $80> They're going to the other side of the ravine.<$85><End>
+<$96>Aren't you afraid that they'll learn more than they should from our {friends} in Ebon Keep?<$85><End>
+<$96>They'll never get that far!<S $3D $80> The dragons will take care of them first!<New>
+N Besides, if they do get to the other side alive, and they don't do what I told them to do…<$86>…I'll take care of them when they come back.<$85><End>
+Besides, if they do get to the other side alive, and they don't do what I told them to do…<$86>…I'll take care of them when they come back.<$85><End>
+<$96>Bwa… ha… ha!!!<$85><End>
+<$87><$96>Whew!<S $3D $80> I'm glad we're out of that sewer.<$85><End>
+<$87><$96>Sniff… sniff…<S $3D $80> I agree, <Dog>.<S $3D $80> We'll probably stink for a while.<$85><End>
+<$87><$96>Oh no!<S $3D $80> A Guard!<$85><End>
+<$87><$96>Stay right where you are, little mister!<New>
+N <$87><$96>Thought you could escape?<S $51 $80> Didn't you?<$86><$87><$96>Well, I have orders that the queen is waiting to see you.<New>
+<End>
+<$87><$96>Thought you could escape?<S $51 $80> Didn't you?<$86><$87><$96>Well, I have orders that the queen is waiting to see you.<New>
+<End>
+<$87><$96>You're coming with me!<S $65 $80> Sniff… <S $3D $80>Sniff… <S $3D $80> Do you smell something?<New>
+N Locked<End>
+Locked<End>
+<$96>Gotta go! <S $3D $80>GOTTA GO!! <S $3D $80>Aaaaaaahhh…!!!<$85><End>
+<$96>They've gone!<S $51 $80> Everybody's gone! <S $65 $80>They must've all gone back to Ebon Keep!<$86>All alone here… <S $65 $80> Gotta go! <S $3D $80>GOTTA GO!! <S $3D $80>Aaaaaaahhh…!!!<$85><End>
+<$96>Oh, my! <S $51 $80> Oh, dear! <S $51 $80> They're gone! <S $51 $80>They're GONE!!<S $51 $80> Aaaahhhhh!!!<$85><End>
+Whew! <S $3D $80>That was close!<$85><End>
+<$96>I hate my job enough without dealing with mutts!<$85><End>
+<$96>I'm so lonely. I wish my brother George were here.<$85><End>
+<$96>So what if I sleep on the job! I'm guarding rubble. Rubble I say!<S $65 $80> Oh, the shame… the shame… <$85><End>
+<$96>Boy, I tell you.<S $51 $80> You goof one assignment and they send you off to guard rubble!<$86>That's all that's here since everyone went back to Ebon Keep.<$85><End>
+Bitten by a Mazquito!<End>
+Locked<End>
+Won't Budge<End>
+<$96>Boy, am I glad to be out of that cell!<New>
+N Received Defender Collar<End>
+Received Defender Collar<End>
+<$96><Dog>, see if you can fit through this hole in the wall!<New>
+N <$96>OK, boys. Welcome to your new home. <$86>Now, get in there!<New>
+N <$96>Make yourselves comfy. You're going to be here a long time.<New>
+<End>
+<$96>OK, boys. Welcome to your new home. <$86>Now, get in there!<New>
+N <$96>Make yourselves comfy. You're going to be here a long time.<New>
+<End>
+<$96>Make yourselves comfy. You're going to be here a long time.<New>
+<End>
+Too Slippery<End>
+<$96>Thank you very much for visiting an old man!<New>
+N I can teach you a powerful alchemy formula.<New>
+It requires 1 Mushroom and 3 parts Water.<New>
+<End>
+I can teach you a powerful alchemy formula.<New>
+It requires 1 Mushroom and 3 parts Water.<New>
+<End>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Maybe later.<End>
+<$96>Arrgh!! <S $51 $80> A big pink rat!!!<$85><End>
+Received Horace's Aura Magic<End>
+Found Amulet of Annihilation<End>
+<$96>You probably don't enjoy a good bargain since you're a canine.<New>
+Animals don't have an appreciation for commerce.<New>
+<End>
+<$96>The merchants in this market offer pretty good deals.<New>
+You should be able to satisfy all of your shopping needs.<New>
+<End>
+<$96>Hi, Puff.<S $3D $80> That's some fancy hairdo you have!<New>
+N <$96>This market is small compared to some.<S $79 $80> But, there are still bargains-a-plenty.<New>
+<End>
+<$96>This market is small compared to some.<S $79 $80> But, there are still bargains-a-plenty.<New>
+<End>
+<$96>Hello, little buddy.<S $3D $80> It's nice of you to come to our new, old town.<New>
+<End>
+<$96>Hello, little buddy.<S $3D $80> It's nice of you to come to our little town.<New>
+<End>
+<$96>Hi, kid.<S $3D $80> Welcome to the town of Ebon Keep.<S $79 $80> It's the new happiest place on Evermore!<New>
+N <$96>Hi, kid.<S $3D $80> Welcome to the town of Ivor Tower.<S $79 $80> It's the happiest place on Evermore!<New>
+N <$96>Well!<S $3D $80> You're a pretty little dog, aren't you?<New>
+N <$96>I would have never guessed that the queen in Ivor Town was a fake!<S $F1 $80> You're sharp!<New>
+N <$96>Not long ago, our queen had Ivor Tower built and moved here from Ebon Keep.<New>
+Most of the citizens followed because the queen promised comfort and happiness for all.<New>
+I think the others went because of the free food and drink.<$85><End>
+<$96>Hi, kid.<S $3D $80> Welcome to the town of Ivor Tower.<S $79 $80> It's the happiest place on Evermore!<New>
+N <$96>Well!<S $3D $80> You're a pretty little dog, aren't you?<New>
+N <$96>I would have never guessed that the queen in Ivor Town was a fake!<S $F1 $80> You're sharp!<New>
+N <$96>Not long ago, our queen had Ivor Tower built and moved here from Ebon Keep.<New>
+Most of the citizens followed because the queen promised comfort and happiness for all.<New>
+I think the others went because of the free food and drink.<$85><End>
+<$96>Well!<S $3D $80> You're a pretty little dog, aren't you?<New>
+N <$96>I would have never guessed that the queen in Ivor Town was a fake!<S $F1 $80> You're sharp!<New>
+N <$96>Not long ago, our queen had Ivor Tower built and moved here from Ebon Keep.<New>
+Most of the citizens followed because the queen promised comfort and happiness for all.<New>
+I think the others went because of the free food and drink.<$85><End>
+<$96>I would have never guessed that the queen in Ivor Town was a fake!<S $F1 $80> You're sharp!<New>
+N <$96>Not long ago, our queen had Ivor Tower built and moved here from Ebon Keep.<New>
+Most of the citizens followed because the queen promised comfort and happiness for all.<New>
+I think the others went because of the free food and drink.<$85><End>
+<$96>Not long ago, our queen had Ivor Tower built and moved here from Ebon Keep.<New>
+Most of the citizens followed because the queen promised comfort and happiness for all.<New>
+I think the others went because of the free food and drink.<$85><End>
+<$96>What a nice animal!<S $3D $80> You look a lot like my pig.<S $3D $80> His name is {Prince.}<New>
+N <$96>Say!<S $3D $80> You look a lot like a pig.<S $79 $80> No offense.<$85><End>
+<$96>Say!<S $3D $80> You look a lot like a pig.<S $79 $80> No offense.<$85><End>
+<$96>We've moved back to our old town.<S $79 $80> And it's better than ever, thanks to you.<New>
+<End>
+<$96>Are you going to the pig race?<S $3D $80> It's the festival's big event!<$86>The owner of the winning pig will be invited to the big feast with the queen.<New>
+<End>
+<$96>I hear that the queen has sent you on a quest to the other side of the ravine!<S $B5 $80> Good luck!<New>
+N <$96>Hi pooch!<S $3D $80> You're a nice animal, and so fluffy, too!<New>
+N <$96>I'm glad things are back to normal.<S $3D $80> I missed old Ebon Keep!<New>
+N <$96>Did you hear?<S $79 $80> There's going to be a pig race on the west side of town!<$86>I like pigs,<S $79 $80> especially fast ones!<New>
+N <$96>Wasn't that pig race wonderful?<S $79 $80> It was so exciting and unpredictable!<New>
+N <$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>Hi pooch!<S $3D $80> You're a nice animal, and so fluffy, too!<New>
+N <$96>I'm glad things are back to normal.<S $3D $80> I missed old Ebon Keep!<New>
+N <$96>Did you hear?<S $79 $80> There's going to be a pig race on the west side of town!<$86>I like pigs,<S $79 $80> especially fast ones!<New>
+N <$96>Wasn't that pig race wonderful?<S $79 $80> It was so exciting and unpredictable!<New>
+N <$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>I'm glad things are back to normal.<S $3D $80> I missed old Ebon Keep!<New>
+N <$96>Did you hear?<S $79 $80> There's going to be a pig race on the west side of town!<$86>I like pigs,<S $79 $80> especially fast ones!<New>
+N <$96>Wasn't that pig race wonderful?<S $79 $80> It was so exciting and unpredictable!<New>
+N <$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>Did you hear?<S $79 $80> There's going to be a pig race on the west side of town!<$86>I like pigs,<S $79 $80> especially fast ones!<New>
+N <$96>Wasn't that pig race wonderful?<S $79 $80> It was so exciting and unpredictable!<New>
+N <$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>Wasn't that pig race wonderful?<S $79 $80> It was so exciting and unpredictable!<New>
+N <$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>Hello, Princess!<S $3D $80> Come to Momma!<S $3D $80> Yes.<S $3D $80> You're a good little dog!<New>
+N <$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>I thought there was something wrong with the queen.<New>
+I'm glad the real one is back with her subjects where she belongs!<New>
+N <$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>The queen has been very nice lately, in a sort of sickeningly sweet kind of way.<New>
+And the king!<S $3D $80> The king has been gone!<$86>I just can't figure out those royals!<New>
+N <$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>Hello, pretty puppy.<S $3D $80> What's your name?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<New>
+N <$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>My mother says that Ebon Keep isn't as spotless as Ivor Tower was,<S $79 $80> but it's home.<New>
+<End>
+<$96>My mother went into the new castle once.<S $79 $80> She said that it's really big,<S $79 $80>
+and spotless!<New>
+N <$96>You should watch out for my brother.<S $3D $80> He chases dogs.<S $3D $80> I know that's not very nice.<New>
+<End>
+<$96>You should watch out for my brother.<S $3D $80> He chases dogs.<S $3D $80> I know that's not very nice.<New>
+<End>
+<$96>Queen Bluegarden is our leader again!<S $79 $80> For real!<S $79 $80> Thanks!<New>
+N <$96>The queen has always been kind as long as I can remember.<New>
+She's still nice, but in a fakey kind of way.<New>
+<End>
+<$96>The queen has always been kind as long as I can remember.<New>
+She's still nice, but in a fakey kind of way.<New>
+<End>
+<$96>Hey, puppy.<S $3D $80> You better watch out,<S $79 $80> or I'm gonna pull your tail!<New>
+N <$96>We walked over the chessboard when we moved back to Ebon Keep.<New>
+The trap door that leads to the Dark Forest was open.<New>
+I heard that there's another trap door that goes down the other side.<New>
+<End>
+<$96>We walked over the chessboard when we moved back to Ebon Keep.<New>
+The trap door that leads to the Dark Forest was open.<New>
+I heard that there's another trap door that goes down the other side.<New>
+<End>
+<$96>No one goes out onto the chessboard between the castles anymore.<New>
+But,<S $29 $80> I heard that there's a trap door there that leads to the floor of the ravine.<New>
+<End>
+<$96>You may be frou-frou,<S $79 $80> but the monsters in the ravine are no match for you!<$85><End>
+<$96>You oughta stay in town.<S $3D $80> The ravine is packed with dragons and other nasty beasts.<New>
+It's much too challenging for a frou-frou dog like you.<$85><End>
+<$96>You've proven yourself to be quite an adventurer.<S $79 $80> Well done.<S $79 $80> Good job.<New>
+<End>
+<$96>The ravine has many a monster.<S $3D $80> You must be well equipped to travel there.<New>
+<End>
+<$87><$96>OK.<S $3D $80> Maybe some other time.<New>
+<End>
+<$96>I can offer fine crafted beads to you for the incredible price of 15 Gold Coins each.<New>
+<End>
+Would you like to make a purchase?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No.<End>
+<$87><$96>How many beads?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>It's a deal.<S $1F $80> Enjoy your beads.<New>
+<End>
+<$96>Good for trading and cooking, my spices are only 12 Gold Coins per jar.<New>
+<End>
+What do you say?
+<$97><Choice>I'll take some.
+<Choice>I'll pass.<End>
+<$87><$96>How many jars?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Good deal!<S $3D $80> Thanks.<New>
+<End>
+<$96>If you want some real firepower, you should load up on Bazooka Shells.<New>
+<End>
+I can offer Thunderball Shells for 10 Coins.
+<Choice>I'll buy!
+<Choice>No thanks.<End>
+<$87><$96>How many shells?
+<Choice>Five.
+<Choice>Ten.
+<Choice>Fifteen.<End>
+<$96><$87>Good deal!<S $3D $80> Thanks.<New>
+<End>
+<$96>We're sold out!<S $3D $80> You got the last ticket!<New>
+N <$96>You have not seen anything until you've seen Perceval Plank's Exhibition of Oddities.<New>
+A ticket to this entertainment spectacle will set you back one Amulet of Annihilation.<New>
+What do you say?
+<$97><Choice>I'll take it!
+<Choice>Some other time.<End>
+<$96>You have not seen anything until you've seen Perceval Plank's Exhibition of Oddities.<New>
+A ticket to this entertainment spectacle will set you back one Amulet of Annihilation.<New>
+What do you say?
+<$97><Choice>I'll take it!
+<Choice>Some other time.<End>
+<$87><$96>Thank you very much.<S $3D $80> The exhibition is at the north end of the alley to the west.<New>
+Enjoy the show!<New>
+N <$87><$96>Uh, pardon me?<S $3D $80> Do I look like a sucker?<$86>You don't have an Amulet of Annihilation, kid.<S $79 $80>
+No Amulet,<S $79 $80> no ticket.<New>
+<End>
+<$87><$96>Uh, pardon me?<S $3D $80> Do I look like a sucker?<$86>You don't have an Amulet of Annihilation, kid.<S $79 $80>
+No Amulet,<S $79 $80> no ticket.<New>
+<End>
+<$96>You already traded for my best item.<S $3D $80> I don't have anything else for you.<New>
+<End>
+<$96>The Oracle Bone can make people say things that they would not otherwise say.<New>
+The person who possesses it will hear many important secrets.<New>
+And it can be yours for a Golden Jackal Statuette and a Jeweled Scarab.<New>
+Is it a deal?
+<$97><Choice>Sure.
+<Choice>No way.<End>
+<$87><$96>Thank you.<S $3D $80> May you learn much from your possession of the Oracle Bone.<New>
+<End>
+<$87><$96>I'm sorry.<S $3D $80> You don't have the items that I require for the trade.<New>
+<End>
+<$96>Sorry, kid.<S $3D $80> You have the Thug's Cloak already.<New>
+I don't have anything else for you.<New>
+<End>
+<$96>With the Thug's Cloak in your possession, you'll be able to evade attacks more successfully.<New>
+I can trade it to you for 8 bottles of perfume and 6 beads.<New>
+Is it a trade?
+<$97><Choice>OK.
+<Choice>I don't think so.<End>
+<$87><$96>Good choice.<S $3D $80> The Thug's cloak will help you greatly.<New>
+<End>
+<$87><$96>You don't have enough goods to swing the deal.<S $3D $80> Sorry.<New>
+<End>
+<$96>I'm sorry.<S $3D $80> I only exchange Gold Coins to humans.<New>
+<End>
+<$96>I provide Gold Coins in exchange for other types of money.<New>
+Would you like to exchange currencies?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96>You will absolutely love this beautifully scented perfume.<New>
+I can give it to you for only two jars of spice per bottle.<New>
+What do you say?
+<$97><Choice>Let's trade
+<Choice>No thanks.<End>
+<$87><$96>How many bottles?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>The deal is sealed.<S $3D $80> Thanks.<New>
+<End>
+<$96>You're not allowed in the castle.<S $79 $80> Only the queen and other important people may enter.<New>
+I make sure that nobodies like you stay away.<New>
+<End>
+<$96>The queen has a more {open door} policy than her evil robot twin had.<New>
+I think it's for the better,<S $79 $80> but it's good to keep a tight ship, too!<New>
+N <$96>The queen said that you could enter the castle.<S $79 $80> But, make sure to wipe your feet first, OK?<New>
+N <$96>Uh,<S $3D $80> excuse me.<S $79 $80> There are no dogs allowed in the castle,<S $79 $80> OK?<New>
+N <$96>You and your master may enter the castle.<S $79 $80> But don't touch anything, OK?<New>
+N <$96>Hey, pooch.<S $79 $80> This town is just as happy as Ivor Tower.<New>
+And it has fewer evil twins, too!<New>
+N <$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>The queen said that you could enter the castle.<S $79 $80> But, make sure to wipe your feet first, OK?<New>
+N <$96>Uh,<S $3D $80> excuse me.<S $79 $80> There are no dogs allowed in the castle,<S $79 $80> OK?<New>
+N <$96>You and your master may enter the castle.<S $79 $80> But don't touch anything, OK?<New>
+N <$96>Hey, pooch.<S $79 $80> This town is just as happy as Ivor Tower.<New>
+And it has fewer evil twins, too!<New>
+N <$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>Uh,<S $3D $80> excuse me.<S $79 $80> There are no dogs allowed in the castle,<S $79 $80> OK?<New>
+N <$96>You and your master may enter the castle.<S $79 $80> But don't touch anything, OK?<New>
+N <$96>Hey, pooch.<S $79 $80> This town is just as happy as Ivor Tower.<New>
+And it has fewer evil twins, too!<New>
+N <$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>You and your master may enter the castle.<S $79 $80> But don't touch anything, OK?<New>
+N <$96>Hey, pooch.<S $79 $80> This town is just as happy as Ivor Tower.<New>
+And it has fewer evil twins, too!<New>
+N <$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>Hey, pooch.<S $79 $80> This town is just as happy as Ivor Tower.<New>
+And it has fewer evil twins, too!<New>
+N <$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>Hey, pooch.<S $79 $80> How do you like our happy town?<S $79 $80> Pretty nice, huh?<New>
+N <$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>You should get your master to buy you a new collar.<S $3D $80> He can find them at the store.<New>
+<End>
+<$96>I heard that you had quite an adventure in the ravine!<$86>Now you've got more adventures ahead of you!<New>
+N <$96>You should be prepared if you plan to venture beyond our town.<New>
+They say that the ravine is populated by dragons.<New>
+<End>
+<$96>You should be prepared if you plan to venture beyond our town.<New>
+They say that the ravine is populated by dragons.<New>
+<End>
+<$96>Animals are welcome in the new, improved Ebon Keep.<New>
+Our restored queen isn't as much of a clean freak as her evil twin was.<New>
+<End>
+<$96>We don't have a lot of animals in our little town.<S $79 $80> The queen wants to keep the place clean.<New>
+<End>
+<$96>They say that the evil twin robot queen was looking for some sort of energy source.<New>
+<End>
+<$96>But, no one knows what it is, or where it could be.<New>
+<End>
+<$96>I think that it could be under the chessboard!<New>
+N <$96>Have you seen our giant chessboard?<$86>It's on the plateau in the ravine, between Ebon Keep, and our new castle, Ivor Tower.<New>
+<End>
+<$96>Have you seen our giant chessboard?<$86>It's on the plateau in the ravine, between Ebon Keep, and our new castle, Ivor Tower.<New>
+<End>
+<$96>What a nice little dog!<$86>Do you like being being scratched behind the ears?<S $3D $80> My dog {King} does!<New>
+N <$96>First we lived in Ebon Keep, then we lived in Ivor Tower.<New>
+Now we live in Ebon Keep again.<New>
+I'm getting a little confused and I'm quite tired of moving.<New>
+<End>
+<$96>First we lived in Ebon Keep, then we lived in Ivor Tower.<New>
+Now we live in Ebon Keep again.<New>
+I'm getting a little confused and I'm quite tired of moving.<New>
+<End>
+<$96>Not long ago all of us moved from Ebon Keep to this new town.<New>
+The queen wanted a place that was cleaner and more controlled.<New>
+<End>
+<$96>You're a strange looking creature.<New>
+But you're not as strange as those Oglins,<S $79 $80> or so I've heard!<New>
+N <$96>There's a group of mysterious creatures that lurk below the surface.<New>
+They're called {Oglins.}<$86>My brother saw one once.<S $79 $80> He said that it was seven feet tall with red eyes and big claws!<New>
+N <$96>The new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<New>
+<End>
+<$96>There's a group of mysterious creatures that lurk below the surface.<New>
+They're called {Oglins.}<$86>My brother saw one once.<S $79 $80> He said that it was seven feet tall with red eyes and big claws!<New>
+N <$96>The new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<New>
+<End>
+<$96>The new, original Queen Bluegarden likes animals, especially pink, fluffy poodles.<New>
+<End>
+<$96>Hiya pooch!<S $3D $80> We don't see many animals around here!<S $3D $80> The queen likes to keep the place clean.<New>
+<End>
+<$96>That evil robot queen sure was,<S $3D $80> uh,<S $3D $80> evil,<S $79 $80> wasn't she?<New>
+N <$96>The queen says that the old town has been taken over by mean creatures.<New>
+But, she's going to take care of them!<New>
+N <$96>You look like you could fit into small spaces.<S $3D $80> That's good for finding treasure sometimes.<New>
+<End>
+<$96>The queen says that the old town has been taken over by mean creatures.<New>
+But, she's going to take care of them!<New>
+N <$96>You look like you could fit into small spaces.<S $3D $80> That's good for finding treasure sometimes.<New>
+<End>
+<$96>You look like you could fit into small spaces.<S $3D $80> That's good for finding treasure sometimes.<New>
+<End>
+<$96>I heard that the chessboard between the castles has two trap doors!<S $79 $80> Cool!<New>
+N <$96>Have you seen that chessboard between the old castle and the new one?<$86>They say that the pieces used to move by themselves!<New>
+N <$96>The winner of the pig race is here to meet the queen.<$85><End>
+<$96>Have you seen that chessboard between the old castle and the new one?<$86>They say that the pieces used to move by themselves!<New>
+N <$96>The winner of the pig race is here to meet the queen.<$85><End>
+<$96>The winner of the pig race is here to meet the queen.<$85><End>
+<$96>Arrrgh! I had a weeks pay bet on Truffle Trouble.<New>
+<$96>Go on in before I change my mind.<$85><End>
+Found Amulet of Annihilation<End>
+Found Amulet of Annihilation<End>
+Found Amulet of Annihilation<End>
+<$96>Well, hello friend.<S $3D $80> My name's Lance.<S $3D $80> I live here.<New>
+You're not messing around with any of my stuff, are you?<New>
+N <$96>Uh, no.<S $3D $80> We were just looking around.<New>
+We wouldn't open your treasure chests or anything without your permission.<New>
+<End>
+<$96>Uh, no.<S $3D $80> We were just looking around.<New>
+We wouldn't open your treasure chests or anything without your permission.<New>
+<End>
+<$96>That's good!<S $3D $80> You're a nice kid!<S $3D $80> Where are you from?<New>
+N <$96>Podunk!<S $3D $80> We're on an adventure.<New>
+<End>
+<$96>Podunk!<S $3D $80> We're on an adventure.<New>
+<End>
+<$96>That's the spirit!<S $79 $80> <End>
+I like to go out into uncharted territory myself.<New>
+<End>
+<$96>I've found quite a few treasures that way.<New>
+<End>
+<$96>Say!<S $79 $80> Here's something that you might appreciate.<New>
+It's my very own alchemy formula.<S $79 $80> I call it {Lance.}<New>
+N <$96>Just mix Iron with Acorn and you'll hit mean creatures with a sharp attack.<New>
+<End>
+<$96>Just mix Iron with Acorn and you'll hit mean creatures with a sharp attack.<New>
+<End>
+<$96>Feel free to look through my treasure chests.<New>
+You might find something that you can use on your adventure.<New>
+<End>
+<$96>You don't look like the adventuring sort, pup.<S $3D $80> But, looks can be deceiving.<New>
+<End>
+<$96>I'm sure that you have an exciting adventure ahead of you.<New>
+<End>
+<$96>Well,<S $3D $80> you're a sight to see,<S $3D $80> aren't you?<S $79 $80> Where's your little pink bow, huh?<New>
+N <$96>Things are different now that we're back in Ebon Keep with our original queen.<New>
+<$96>We're allowed to be happy, or not happy.<S $79 $80>
+It's our choice.<New>
+<End>
+<$96>Things are different now that we're back in Ebon Keep with our original queen.<New>
+<$96>We're allowed to be happy, or not happy.<S $79 $80>
+It's our choice.<New>
+<End>
+<$96>Welcome to Ivor Tower, young man.<S $79 $80> We're very happy here.<S $79 $80> The queen likes it that way!<New>
+N <$96>You don't look like you're very tough.<New>
+,You've got to put some meat on your bones and exercise.<New>
+<End>
+<$96>You don't look like you're very tough.<New>
+,You've got to put some meat on your bones and exercise.<New>
+<End>
+<$96>I had heard stories about this Gomi character and his tower,<S $79 $80> quite some time ago.<New>
+It turns out that he's not as nutty as we all thought.<New>
+<End>
+<$96>I've heard stories about a strange old man in the nothern part of the ravine.<New>
+They say that he's building a tower to the sky!<S $79 $80> Crazy, huh?<New>
+N <$96>You're a funny looking pooch.<New>
+<End>
+<$96>You're a funny looking pooch.<New>
+<End>
+You're not part of that exhibition on the west side of town, are you?<New>
+N <$96>It turns out that the exhibition in Ivor Tower was put there by the evil robot queen.<New>
+She wanted to keep the citizens entertained while she schemed right under our noses.<New>
+I, for one, was fooled.<New>
+<End>
+<$96>It turns out that the exhibition in Ivor Tower was put there by the evil robot queen.<New>
+She wanted to keep the citizens entertained while she schemed right under our noses.<New>
+I, for one, was fooled.<New>
+<End>
+<$96>Have you seen the exhibition of oddities on the west side of town?<$86>It's entertaining and amusing.<S $3D $80> I'd call it the feel-good exhibition of the year!<New>
+N <$96>Hi pooch.<S $3D $80> You're a good animal--<S $3D $80> well behaved and well groomed!<New>
+N <$96>Ebon Keep isn't as clean as Ivor Tower was.<S $B5 $80>  It's not as festive, either.<New>
+But,<S $3D $80> it's home and I like it.<New>
+<End>
+<$96>Hi pooch.<S $3D $80> You're a good animal--<S $3D $80> well behaved and well groomed!<New>
+N <$96>Ebon Keep isn't as clean as Ivor Tower was.<S $B5 $80>  It's not as festive, either.<New>
+But,<S $3D $80> it's home and I like it.<New>
+<End>
+<$96>Ebon Keep isn't as clean as Ivor Tower was.<S $B5 $80>  It's not as festive, either.<New>
+But,<S $3D $80> it's home and I like it.<New>
+<End>
+<$96>How do you like our town?<S $79 $80> Clean and festive, huh?<S $B5 $80> That's the way our queen likes it!<New>
+N <$96>You're quite a nice pup,<S $3D $80> even though you do look a little silly.<New>
+<End>
+<$96>You're quite a nice pup,<S $3D $80> even though you do look a little silly.<New>
+<End>
+<$96>I'm glad that everything is back to normal here.<New>
+That evil twin robot puppet queen was getting on my nerves.<New>
+<End>
+<$96>The queen is trying hard to make everyone happy.<S $79 $80> But,<S $3D $80> it seems like something is missing.<New>
+<End>
+<$96>Well!<S $3D $80> What a nice puppy!<S $3D $80> And so pink and puffy!<New>
+N <$96>My husband, Lance, travels all around the kingdom and collects valuable treasures.<New>
+He's very protective of his finds and he doesn't like for anyone to touch them.<New>
+He keeps them in treasure chests upstairs.<New>
+<End>
+<$96>My husband, Lance, travels all around the kingdom and collects valuable treasures.<New>
+He's very protective of his finds and he doesn't like for anyone to touch them.<New>
+He keeps them in treasure chests upstairs.<New>
+<End>
+<$96>Oh!<S $3D $80> Hello, pup!<S $3D $80> What's your name?<S $3D $80> {Duke?}<New>
+N <$96>You're the one with strange garb!<S $B5 $80> I hear that you saved our queen and kingdom.<New>
+Good job!<$86>Please feel free to take items from our treasure chests.<New>
+You'll need them for your journey.<New>
+<End>
+<$96>You're the one with strange garb!<S $B5 $80> I hear that you saved our queen and kingdom.<New>
+Good job!<$86>Please feel free to take items from our treasure chests.<New>
+You'll need them for your journey.<New>
+<End>
+<$96>You're not from Ivor Tower, are you?<S $3D $80> I could tell because of your strange garb.<New>
+Please feel free to take items from our treasure chests.<New>
+You'll need them for your journey.<New>
+<End>
+<$96>Hello, Prince!<S $3D $80> Please, make yourself at home.<S $3D $80> There's plenty of room!<New>
+N <$96>We're the biggest and richest family in town.<New>
+<End>
+<$96>We're the biggest and richest family in town.<New>
+<End>
+This is our new place.<S $3D $80> Pretty nice, huh?<New>
+N You're welcome to the items in our treasure chests if you can use them for your journey.<New>
+<End>
+You're welcome to the items in our treasure chests if you can use them for your journey.<New>
+<End>
+<$96>Well,<S $3D $80> what's your name, puppy?<S $79 $80> {Fluffy?}<S $79 $80> {Muffy?}<S $79 $80> {Princess?}<New>
+N <$96>The giant chessboard used to be a real sight to see!<$86>The pieces used to move all by themselves!<S $79 $80> But,<S $3D $80> some time ago,<S $3D $80> they just stopped!<New>
+N <$96>I understand that there are trap doors on the chessboard that lead to the chamber below.<New>
+<End>
+<$96>The giant chessboard used to be a real sight to see!<$86>The pieces used to move all by themselves!<S $79 $80> But,<S $3D $80> some time ago,<S $3D $80> they just stopped!<New>
+N <$96>I understand that there are trap doors on the chessboard that lead to the chamber below.<New>
+<End>
+<$96>I understand that there are trap doors on the chessboard that lead to the chamber below.<New>
+<End>
+<$96>You're very fancy looking,<S $3D $80> what with your pink puffs and all!<New>
+N <$96>Hello, royal subject!<$86>I see that you've dressed up in your finery for your audience with me!<$86>You're so pink and puffy!<New>
+N <$96>There was a time that I thought I was the king, but I've come to my senses now.<New>
+<$96>Of course,<S $3D $80> I still like the robes and finery.<New>
+<End>
+<$96>Hello, royal subject!<$86>I see that you've dressed up in your finery for your audience with me!<$86>You're so pink and puffy!<New>
+N <$96>There was a time that I thought I was the king, but I've come to my senses now.<New>
+<$96>Of course,<S $3D $80> I still like the robes and finery.<New>
+<End>
+<$96>There was a time that I thought I was the king, but I've come to my senses now.<New>
+<$96>Of course,<S $3D $80> I still like the robes and finery.<New>
+<End>
+<$96>All hail his majesty,<S $3D $80> me!<S $79 $80> You may grovel in my presence!<New>
+N <$96>Oh!<S $3D $80> Such a nice animal!<New>
+N We don't have many animals here.<New>
+The queen wants to keep the place clean.<New>
+<End>
+<$96>Oh!<S $3D $80> Such a nice animal!<New>
+N We don't have many animals here.<New>
+The queen wants to keep the place clean.<New>
+<End>
+We don't have many animals here.<New>
+The queen wants to keep the place clean.<New>
+<End>
+<$96>I'm glad to be back in good old Ebon Keep.<S $F1 $80> Ivor Tower kind of gave me the creeps.<New>
+<End>
+<$96>All of the people here used to live in Ebon Keep.<New>
+We moved when the queen built Ivor Tower.<New>
+I hear that some people still live in the old town.<S $79 $80> The queen is not very happy about that.<New>
+<End>
+<$96>You certainly seem to be in the festive spirit of our town.<New>
+<End>
+<$96>I love what you've done to your hair!<New>
+N <$96>That evil twin of the queen turned out to be a real monster!<$86>I'm glad that you stepped in when you did.<New>
+<End>
+<$96>That evil twin of the queen turned out to be a real monster!<$86>I'm glad that you stepped in when you did.<New>
+<End>
+<$96>The big pig race will be happening soon!<S $3D $80> It's a town tradition.<New>
+<End>
+<$96>I hear that the queen is going to clean out Ebon Keep.<New>
+But, first, her troops have to find a way to cross over to the other side.<New>
+<End>
+<$96>You're quite a regal looking beast.<New>
+You don't think that you're king of the poodles, do you?<New>
+N <$96>My husband snapped out of his king complex when we moved back to Ebon Keep.<New>
+I'm glad that he's back to being a plumber with robes and a crown.<New>
+<End>
+<$96>My husband snapped out of his king complex when we moved back to Ebon Keep.<New>
+I'm glad that he's back to being a plumber with robes and a crown.<New>
+<End>
+<$96>My husband has a king complex.<S $3D $80> But he's not really the king.<S $3D $80> He's a plumber.<New>
+The true king of our land hasn't made a public appearance in quite some time.<New>
+<End>
+<$96>Hi puppy!<S $79 $80> You're cute!<S $3D $80> And friendly, too!<New>
+N <$96>Hey!<S $3D $80> You look familiar!<S $3D $80> Were you at the pig race?<New>
+N <$96>I like being back in Ebon Keep, but I'm going to miss the pig races.<New>
+<End>
+<$96>Hey!<S $3D $80> You look familiar!<S $3D $80> Were you at the pig race?<New>
+N <$96>I like being back in Ebon Keep, but I'm going to miss the pig races.<New>
+<End>
+<$96>I like being back in Ebon Keep, but I'm going to miss the pig races.<New>
+<End>
+<$96>I'm going to the pig race!<S $3D $80> It's going to be on the west side of town.<S $79 $80> I like pigs!<New>
+N <$96>That pig race was great!<S $79 $80> And such an exciting finish!<New>
+N <$96>You're a nice little dog.<S $3D $80> Can we keep you?<New>
+N <$96>When we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.<New>
+I had to go back in and find them.<New>
+<End>
+<$96>That pig race was great!<S $79 $80> And such an exciting finish!<New>
+N <$96>You're a nice little dog.<S $3D $80> Can we keep you?<New>
+N <$96>When we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.<New>
+I had to go back in and find them.<New>
+<End>
+<$96>You're a nice little dog.<S $3D $80> Can we keep you?<New>
+N <$96>When we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.<New>
+I had to go back in and find them.<New>
+<End>
+<$96>When we moved back to Ebon Keep, my brothers got lost in the chessboard hedge maze.<New>
+I had to go back in and find them.<New>
+<End>
+<$96>When we moved here from Ebon Keep, we went through the chessboard hedge maze.<New>
+I got to the end before both of my brothers.<New>
+<End>
+<$96>Dogs are good pets!<S $3D $80> You probably know a bunch of tricks, huh?<New>
+N <$96>I hope that the exhibition comes to Ebon Keep some time.<New>
+<End>
+<$96>I hope that the exhibition comes to Ebon Keep some time.<New>
+<End>
+<$96>My father took me to the exhibition on the west side of town.<New>
+<End>
+It was creepy,<S $3D $80> but cool!<New>
+N <$96>You're kind of prissy,<S $79 $80> but I bet you're a good dog.<S $79 $80> Do you know how to fetch?<New>
+N <$96>My older brother, Lance, went to the forest at the bottom of the ravine once.<New>
+He said that it was dark and creepy!<S $B5 $80> I'm going there when I'm as old as him!<New>
+N <$96>Hiya, King!<S $3D $80> Woof!<S $3D $80> Woof!<S $3D $80> Am I speaking your language?<New>
+N <$96>Have you been to the ravine below the chessboard?<S $3D $80> It's full of dragons!<$86>I'm going to go there and explore when I'm older!<New>
+N <$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>You're kind of prissy,<S $79 $80> but I bet you're a good dog.<S $79 $80> Do you know how to fetch?<New>
+N <$96>My older brother, Lance, went to the forest at the bottom of the ravine once.<New>
+He said that it was dark and creepy!<S $B5 $80> I'm going there when I'm as old as him!<New>
+N <$96>Hiya, King!<S $3D $80> Woof!<S $3D $80> Woof!<S $3D $80> Am I speaking your language?<New>
+N <$96>Have you been to the ravine below the chessboard?<S $3D $80> It's full of dragons!<$86>I'm going to go there and explore when I'm older!<New>
+N <$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>My older brother, Lance, went to the forest at the bottom of the ravine once.<New>
+He said that it was dark and creepy!<S $B5 $80> I'm going there when I'm as old as him!<New>
+N <$96>Hiya, King!<S $3D $80> Woof!<S $3D $80> Woof!<S $3D $80> Am I speaking your language?<New>
+N <$96>Have you been to the ravine below the chessboard?<S $3D $80> It's full of dragons!<$86>I'm going to go there and explore when I'm older!<New>
+N <$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>Hiya, King!<S $3D $80> Woof!<S $3D $80> Woof!<S $3D $80> Am I speaking your language?<New>
+N <$96>Have you been to the ravine below the chessboard?<S $3D $80> It's full of dragons!<$86>I'm going to go there and explore when I'm older!<New>
+N <$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>Have you been to the ravine below the chessboard?<S $3D $80> It's full of dragons!<$86>I'm going to go there and explore when I'm older!<New>
+N <$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>You're probably a pretty nice dog, but you look kind of precious.<New>
+<End>
+<$96>I heard that the king has snapped out of his puppet show trance.<New>
+Now he's ready to watch over the kingdom again.<New>
+<End>
+<$96>I heard that the real king watches some strange puppet show all day!<$86>That's why we haven't seen him in a while.<New>
+<End>
+<$96>Sorry, pup.<S $79 $80> I only deal with two-legged creatures.<New>
+<End>
+<$96>No.<S $3D $80> That won't work.<New>
+<End>
+<$96>I sell the finest armor and goods in town.<New>
+You'll not find a better deal anywhere else!<New>
+N <$96><$87>What can I do for you?<S $5B $80>
+<$87><$97><Choice>Buy items.
+<Choice>Sell items.
+<Choice>Change Money.
+<Choice>Nevermind.<$96><End>
+<$96><$87>What can I do for you?<S $5B $80>
+<$87><$97><Choice>Buy items.
+<Choice>Sell items.
+<Choice>Change Money.
+<Choice>Nevermind.<$96><End>
+<$87>Come again.<New>
+<End>
+<$96><$87>What can I do for you?
+<$97><Choice>Buy items.
+<Choice>Sell items.
+<Choice>Nevermind.<$96><End>
+<$96><$87>Will you purchase armor or goods?
+<Choice>Armor.
+<Choice>Goods.<End>
+<$96><$87>Will you sell armor or goods?
+<Choice>Armor.
+<Choice>Goods.<End>
+<$96>We don't usually allow dogs in our inn.<S $79 $80> But, for you, we'll make an exception.<New>
+<End>
+<$96>Good luck.<S $3D $80> I hope that your adventure is a successful one.<New>
+<End>
+<$96>Hello, traveler!<S $3D $80> We have a vacancy if you'd like to rest for the night.<New>
+<End>
+Our rate is 40 Gold Coins.
+<$97><Choice>We'll stay.
+<Choice>We're not that tired.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for Coins at the shop.<New>
+<End>
+<$96>You look {dog tired.} Ha! That's a little innkeeper humor!<New>
+N <$96>Good luck.<S $3D $80> I hope that your adventure is a successful one.<New>
+<End>
+<$96>Good luck.<S $3D $80> I hope that your adventure is a successful one.<New>
+<End>
+<$96>Hello, <Boy>.<S $3D $80> Nice to see you again.<New>
+<End>
+<$96><$87>I'm handling business on both sides of the building because of the lack of people in town.<New>
+<End>
+<$96>Would you like to stay? <S $3D $80><End>
+The rate is 50 Gold Coins.
+<$97><Choice>We'll stay.
+<Choice>No thanks.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for Coins at the shop.<New>
+<End>
+<$96>Hello, fluffy pup.<S $3D $80> I'm sure that you're a lot tougher than you look.<New>
+<End>
+<$96>What have we here?<S $79 $80> You're not from Ebon Keep or Ivor Tower,<S $79 $80>
+as far as I can tell.<New>
+<End>
+<$96>No!<S $3D $80> We're from Podunk!<New>
+N <$96>Can't say that I've heard of Podunk.<New>
+Maybe you've heard of me.<S $3D $80> The name's Cecil of Baron Castle.<New>
+Heard about my victory over Zeromus?
+<Choice>Sure. Of course!
+<Choice>Can't say that I have.<End>
+<$96>Can't say that I've heard of Podunk.<New>
+Maybe you've heard of me.<S $3D $80> The name's Cecil of Baron Castle.<New>
+Heard about my victory over Zeromus?
+<Choice>Sure. Of course!
+<Choice>Can't say that I have.<End>
+<$96><$87>How about the time that I turned into a paladin?
+<Choice>Now I remember!
+<Choice>Doesn't ring a bell.<End>
+<$96><$87>How about my adventure on the moon?
+<Choice>Oh yeah! The moon!
+<Choice>I don't think so.<End>
+<$96><$87>Well.<S $3D $80> Suffice it to say,<S $79 $80> I've been almost everywhere and I've done almost everything.<New>
+<End>
+<$96><$87>Now I've settled down with my wife, Rosa, and we live a quiet life here in Ebon Keep.<New>
+<End>
+<$96>Is all of this armor yours?<New>
+N <$96>Yes.<S $3D $80> This is my business!<S $79 $80> I sell items that I've accumulated over the years.<New>
+<End>
+<$96>Yes.<S $3D $80> This is my business!<S $79 $80> I sell items that I've accumulated over the years.<New>
+<End>
+It's nice, but business has been slow lately,<S $3D $80> what with most people leaving for Ivor Tower.<New>
+<End>
+<$96>Why didn't you leave, too?<New>
+N <$96>Just stubborn I guess.<S $79 $80> We didn't feel right about it--<S $79 $80> still don't.<New>
+You seem like a nice kid.<S $3D $80> But you're never going to get anywhere with that chintzy armor.<New>
+Let me suit you up in style!<New>
+N <$96>Since you've heard of my adventures,<S $3D $80> I feel like we're old friends.<S $B5 $80> So, I'll give you a special deal.<New>
+<End>
+<$96>Just stubborn I guess.<S $79 $80> We didn't feel right about it--<S $79 $80> still don't.<New>
+You seem like a nice kid.<S $3D $80> But you're never going to get anywhere with that chintzy armor.<New>
+Let me suit you up in style!<New>
+N <$96>Since you've heard of my adventures,<S $3D $80> I feel like we're old friends.<S $B5 $80> So, I'll give you a special deal.<New>
+<End>
+<$96>Since you've heard of my adventures,<S $3D $80> I feel like we're old friends.<S $B5 $80> So, I'll give you a special deal.<New>
+<End>
+<$96>Hello, kid.<S $3D $80> Nice to see you again.<New>
+<End>
+<$96>I appreciate your business.<S $3D $80> Please take this powerful weapon with my thanks.<New>
+I found it in one of my adventures,<S $3D $80> in the jungle on the plateau.<New>
+<End>
+Received Bazooka<End>
+Received Thunderball projectile<End>
+<$96>You're that nice young man who helped our town! Thank you so much!<New>
+N <$96>My alchemy business has all but dried up. <S $51 $80>I'm thinking of retiring.<New>
+<End>
+<$96>My alchemy business has all but dried up. <S $51 $80>I'm thinking of retiring.<New>
+<End>
+You're such a cutie!<S $51 $80> Let me teach you a useful alchemy formula.<New>
+It requires 1 Acorn and 2 parts Water.<New>
+<End>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Maybe later.<End>
+<$96>Sweet doggy!<$85><End>
+<$96>Wow!<S $3D $80> This place is just like the other castle.<S $3D $80> Only,<S $3D $80> not quite as…<S $79 $80> clean.<New>
+<End>
+<$96>Halt!<S $3D $80> <End>
+Stop!<S $3D $80> Wait!<New>
+N <$96>Who are you?<S $79 $80> What do you want?<New>
+N <$96>Uh,<S $3D $80> I'm <Boy> <End>
+<$96>Who are you?<S $79 $80> What do you want?<New>
+N <$96>Uh,<S $3D $80> I'm <Boy> <End>
+<$96>Uh,<S $3D $80> I'm <Boy> <End>
+<$96>and this is my dog, <Dog>.<New>
+<End>
+<$96>We've been sent here by the queen of Ivor Tower.<S $B5 $80> She wants us to open the drawbridge!<New>
+N <$96>That imposter sent you here!<S $79 $80> <End>
+<$96>That imposter sent you here!<S $79 $80> <End>
+<$96>And she wants you to open our drawbridge?<$86>Oh!<S $79 $80> This won't do!<S $79 $80> <End>
+We can't have this!<New>
+N <$96>Please,<S $3D $80> I implore you,<S $3D $80> before you do anything rash,<S $79 $80> come with me!<New>
+N <$96>There is someone that you must meet!<New>
+N <$96><$87><$93>O<S $0B $80>h,<S $0B $80> d<S $0B $80>e<S $0B $80>a<S $0B $80>r!!<S $3D $80>
+<End>
+<$96>Please,<S $3D $80> I implore you,<S $3D $80> before you do anything rash,<S $79 $80> come with me!<New>
+N <$96>There is someone that you must meet!<New>
+N <$96><$87><$93>O<S $0B $80>h,<S $0B $80> d<S $0B $80>e<S $0B $80>a<S $0B $80>r!!<S $3D $80>
+<End>
+<$96>There is someone that you must meet!<New>
+N <$96><$87><$93>O<S $0B $80>h,<S $0B $80> d<S $0B $80>e<S $0B $80>a<S $0B $80>r!!<S $3D $80>
+<End>
+<$96><$87><$93>O<S $0B $80>h,<S $0B $80> d<S $0B $80>e<S $0B $80>a<S $0B $80>r!!<S $3D $80>
+<End>
+<$93>I<S $0B $80>'m<S $0B $80> s<S $0B $80>o<End>
+ scared!!<End>
+C	a	m	e	l	l	i	a!!=
+<End>
+W	e	 h	a	v	e	 t	o	 g	o!! )<End>
+<$87><$93>E<S $0B $80>v<S $0B $80>e<S $0B $80>r<S $0B $80>m<S $0B $80>o<S $0B $80>r<S $0B $80>e<S $0B $80> i<S $0B $80>s<S $0B $80> <End>
+s<S $0B $80>h<S $0B $80>a<S $0B $80>k<S $0B $80>i<S $0B $80>n<S $0B $80>g a<S $0B $80>p<S $0B $80>a<S $0B $80>r<S $0B $80>t!!<S $0B $80> <End>
+
+N<S $0B $80>o<S $0B $80> t<S $0B $80>i<S $0B $80>m<S $0B $80>e<S $0B $80> t<S $0B $80>o<S $0B $80> e<S $0B $80>x<S $0B $80>p<S $0B $80>l<S $0B $80>a<S $0B $80>i<S $0B $80>n!<S $F1 $80><End>
+<$96><$87><$93>C<S $0B $80>a<S $0B $80>m<S $0B $80>e<S $0B $80>l<S $0B $80>l<S $0B $80>i<S $0B $80>a,<S $0B $80> m<S $0B $80>y<S $0B $80> s<S $0B $80>w<S $0B $80>e<S $0B $80>e<S $0B $80>t!
+<S $15 $80><End>
+D	o	n'	t	 l	e	a	v	e 	m	e!y<End>
+You heard the boy! <End>
+
+You can have the castle!Ý<End>
+<$96>Please follow these stairs and speak to her highness.<New>
+<End>
+<$96>Queen Bluegarden?<S $3D $80> What are you doing here?<New>
+N <$96>Have we met?<New>
+N <$96>Yeah!<S $3D $80> In Ivor Tower!<S $3D $80> Don't you remember?<New>
+N <$96>Oh!<S $3D $80> You met the imposter--<S $3D $80> my evil twin!<New>
+N <$96>Wow!<S $3D $80> This is like what happens in {The Two Doctor Ids!}<$86>We've found evil twins everywhere!<New>
+N <$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+<$96>Have we met?<New>
+N <$96>Yeah!<S $3D $80> In Ivor Tower!<S $3D $80> Don't you remember?<New>
+N <$96>Oh!<S $3D $80> You met the imposter--<S $3D $80> my evil twin!<New>
+N <$96>Wow!<S $3D $80> This is like what happens in {The Two Doctor Ids!}<$86>We've found evil twins everywhere!<New>
+N <$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+<$96>Yeah!<S $3D $80> In Ivor Tower!<S $3D $80> Don't you remember?<New>
+N <$96>Oh!<S $3D $80> You met the imposter--<S $3D $80> my evil twin!<New>
+N <$96>Wow!<S $3D $80> This is like what happens in {The Two Doctor Ids!}<$86>We've found evil twins everywhere!<New>
+N <$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+<$96>Oh!<S $3D $80> You met the imposter--<S $3D $80> my evil twin!<New>
+N <$96>Wow!<S $3D $80> This is like what happens in {The Two Doctor Ids!}<$86>We've found evil twins everywhere!<New>
+N <$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+<$96>Wow!<S $3D $80> This is like what happens in {The Two Doctor Ids!}<$86>We've found evil twins everywhere!<New>
+N <$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+<$96>First, there was Fire Eyes,<S $3D $80> er,<S $3D $80> Elizabeth and her evil twin,<S $79 $80> then Horace,<S $3D $80> and now…<S $79 $80> <End>
+you!<New>
+N <$96>Elizabeth?<S $3D $80> Horace?<S $3D $80> You've met the others!<New>
+N <$96>Are you from Podunk, too?<New>
+N <$96>Yes.<New>
+<End>
+<$96>Elizabeth?<S $3D $80> Horace?<S $3D $80> You've met the others!<New>
+N <$96>Are you from Podunk, too?<New>
+N <$96>Yes.<New>
+<End>
+<$96>Are you from Podunk, too?<New>
+N <$96>Yes.<New>
+<End>
+<$96>Yes.<New>
+<End>
+<$96>And you were part of an experiment in the mansion on the hill?<New>
+N <$96>Yes!<New>
+N <$96>And something went terribly wrong?<New>
+N <$96>Yes.<S $3D $80> And I've been stuck here ever since.<New>
+It hasn't been that bad,<S $3D $80> until a few months ago,<S $3D $80> anyway.<New>
+<End>
+<$96>Yes!<New>
+N <$96>And something went terribly wrong?<New>
+N <$96>Yes.<S $3D $80> And I've been stuck here ever since.<New>
+It hasn't been that bad,<S $3D $80> until a few months ago,<S $3D $80> anyway.<New>
+<End>
+<$96>And something went terribly wrong?<New>
+N <$96>Yes.<S $3D $80> And I've been stuck here ever since.<New>
+It hasn't been that bad,<S $3D $80> until a few months ago,<S $3D $80> anyway.<New>
+<End>
+<$96>Yes.<S $3D $80> And I've been stuck here ever since.<New>
+It hasn't been that bad,<S $3D $80> until a few months ago,<S $3D $80> anyway.<New>
+<End>
+<$96>That's when my twin appeared,<S $79 $80> locked me in the dungeon and took my place.<New>
+<End>
+<$96>Then,<S $3D $80> she presented the king with a hypnotic puppet show which sent him into a trance.<New>
+<End>
+<$96>With the king in his couch potato state,<S $79 $80> the imposter could scheme right under his nose.<New>
+<End>
+<$96>By the time I got out of the dungeon,<S $79 $80> she had moved the kingdom across the ravine.<New>
+<End>
+<$96>Now,<S $3D $80> only a few of us remain in Ebon Keep.<New>
+<End>
+<$96>She sent us here to open the drawbridge so that her troops could clear out the castle.<New>
+<End>
+<$96>That's not good at all!<New>
+N <$96>It's only a matter of time before she storms in here,<S $B5 $80> with or without your help.<New>
+<End>
+<$96>It's only a matter of time before she storms in here,<S $B5 $80> with or without your help.<New>
+<End>
+<$96>Listen kid,<S $3D $80> I think that Tinker can help you get back to Podunk.<New>
+<End>
+<$96>But first,<S $3D $80> you're going to have to get rid of that imposter.<New>
+<End>
+<$96>We'll batten down the hatches here…<New>
+N <$96>And we'll go back to the castle and set things straight before she can cross over.<New>
+<End>
+<$96>And we'll go back to the castle and set things straight before she can cross over.<New>
+<End>
+<$96>That sounds like a good idea.<New>
+<End>
+<$96>Here are <Item> Call Beads.<New>
+Throw one to the ground when you need my help.<New>
+<End>
+Received <Item> Call Beads<End>
+<$96>If you need my help out in the field, you can call me by using one of your Call Beads.<New>
+<End>
+<$96>Before you leave,<S $3D $80> make sure that you talk to Tinker in the chamber to the East.<New>
+He'll be able to help you in your journey.<New>
+<End>
+<$96>Thanks, Queen Bluegarden.<New>
+<End>
+<$96>Please.<S $79 $80> Call me {Camellia.}<New>
+N <$96>Oh, what a heroic little dog!<$86>I could hug you and squeeze you and eat you up!<$85><End>
+<$96>Oh, what a heroic little dog!<$86>I could hug you and squeeze you and eat you up!<$85><End>
+<$96>Oh, you brave little boy!!<$86>Thanks to you, the kingdom is once again filled with happiness and hope.<New>
+<End>
+Before you leave,<S $3D $80> be sure that you talk to Tinker.<New>
+He may be able to help you in your journey.<$85><End>
+<$96>Hello, Fluffy!<S $3D $80> What a wonderful little dog!<New>
+N <$96>We're counting on you to go back to the new castle to confront the imposter.<New>
+While you're gone,<S $3D $80> we'll batten down the hatches here.<New>
+<End>
+<$96>We're counting on you to go back to the new castle to confront the imposter.<New>
+While you're gone,<S $3D $80> we'll batten down the hatches here.<New>
+<End>
+<$96>Before you leave,<S $3D $80> make sure that you talk to Tinker.<New>
+His chamber is directly east of here.<New>
+He should be able to help you in your journey.<New>
+<End>
+<$96>Wow! <S $3D $80>What cool windows! <S $51 $80>The pictures seem almost… <S $65 $80>alive.<New>
+It must be a trick of the light.<New>
+<End>
+<$96>What is it <Dog>? <S $51 $80>What's wrong?<New>
+N <$96>Whew! <S $5B $80> Those guys were a pane in the glass.<New>
+<End>
+<$96>Whew! <S $5B $80> Those guys were a pane in the glass.<New>
+<End>
+<$96>Hello again, friend.<New>
+I trust that my little security measure in the hall didn't give you much trouble.<New>
+I haven't introduced myself.<S $B5 $80> <End>
+My name is Tinker Tinderbox.<New>
+<End>
+<$96>I deal with scientific matters--<S $3D $80> mechanical inventions,<S $3D $80> alchemy formulas…<New>
+N <$96>I trust that the queen has told you about our imposter in Ivor Tower?<New>
+N <$96>Yeah!<S $3D $80> <End>
+<$96>I trust that the queen has told you about our imposter in Ivor Tower?<New>
+N <$96>Yeah!<S $3D $80> <End>
+<$96>Yeah!<S $3D $80> <End>
+<$96>We've been encountering evil twins ever since we left Podunk!<New>
+N <$96>Oh!<S $3D $80> You're from the same place that our queen hails from!<New>
+N <$96>Yeah!<S $3D $80> There's an abandoned mansion just outside of town.<New>
+<End>
+<$96>Oh!<S $3D $80> You're from the same place that our queen hails from!<New>
+N <$96>Yeah!<S $3D $80> There's an abandoned mansion just outside of town.<New>
+<End>
+<$96>Yeah!<S $3D $80> There's an abandoned mansion just outside of town.<New>
+<End>
+<$96><Dog> chased a cat into the old place and I followed him.<New>
+<End>
+<$96>The cat wasn't there anymore,<S $79 $80> but we did find a strange machine in an old laboratory.<New>
+<End>
+<$96>The machine zapped us to another lab that looked a lot like the old one.<New>
+Only, this lab was in some sort of space station.<New>
+<End>
+<$96>There were two people there.<S $3D $80> One was this scientist, Dr. Ruffleberg…<$86>…the other one looked like it may have been his butler.<New>
+<End>
+<$96>I'm not really sure what happened after that,<S $3D $80> but we ended up on Evermore…<$86><$96>…and we've been here ever since.<New>
+<End>
+<$96>I think I know of this place in space that you speak of!<New>
+N <$96>I've seen it through my telescope!<New>
+N <$96>If you want to go back to Podunk,<S $B5 $80> you'll probably find the way up there!<$86>And I think I know how you can get there, too!<New>
+N <$96>But first,<S $3D $80> we have the matter at hand of the imposter…<New>
+N <$96>The queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<New>
+<End>
+<$96>I've seen it through my telescope!<New>
+N <$96>If you want to go back to Podunk,<S $B5 $80> you'll probably find the way up there!<$86>And I think I know how you can get there, too!<New>
+N <$96>But first,<S $3D $80> we have the matter at hand of the imposter…<New>
+N <$96>The queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<New>
+<End>
+<$96>If you want to go back to Podunk,<S $B5 $80> you'll probably find the way up there!<$86>And I think I know how you can get there, too!<New>
+N <$96>But first,<S $3D $80> we have the matter at hand of the imposter…<New>
+N <$96>The queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<New>
+<End>
+<$96>But first,<S $3D $80> we have the matter at hand of the imposter…<New>
+N <$96>The queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<New>
+<End>
+<$96>The queen wants us to go back to Ivor Tower and stop her twin from causing more trouble.<New>
+<End>
+<$96>That sounds like a good idea.<S $79 $80> The imposter is scheming at this very moment!<New>
+N <$96>Take a look!<New>
+N <$96>Wow!<S $3D $80> She's mean!<New>
+N <$96>Yes!<S $3D $80> She has to be dealt with,<S $3D $80> in a hurry!<New>
+N <$96>Crossing the chessboard would not be a good idea at this point.<S $F1 $80> <End>
+<$96>Take a look!<New>
+N <$96>Wow!<S $3D $80> She's mean!<New>
+N <$96>Yes!<S $3D $80> She has to be dealt with,<S $3D $80> in a hurry!<New>
+N <$96>Crossing the chessboard would not be a good idea at this point.<S $F1 $80> <End>
+<$96>Wow!<S $3D $80> She's mean!<New>
+N <$96>Yes!<S $3D $80> She has to be dealt with,<S $3D $80> in a hurry!<New>
+N <$96>Crossing the chessboard would not be a good idea at this point.<S $F1 $80> <End>
+<$96>Yes!<S $3D $80> She has to be dealt with,<S $3D $80> in a hurry!<New>
+N <$96>Crossing the chessboard would not be a good idea at this point.<S $F1 $80> <End>
+<$96>Crossing the chessboard would not be a good idea at this point.<S $F1 $80> <End>
+Her troops will be expecting it.<New>
+<End>
+<$96>I recommend that you go to the North and visit my brother,<S $3D $80> Gomi.<S $F1 $80> He'll help you!<$86>Go through the dungeon to the sewer and then out.<S $B5 $80> You'll find a blocked passage to the North..<New>
+You can clear that passage with my axe.<S $B5 $80> You'll find it in my treasure chest.<New>
+<End>
+<$96><$87>Would you like for me to record your progress?
+<$97><Choice>OK.
+<Choice>Not right now.<$96><End>
+<$96><$87>Come back after you've dispatched the imposter.<S $B5 $80> I'll help you return to that space place.<New>
+<End>
+Found the Explosion Formula<End>
+Found the Nitro Formula<End>
+<$96>It says here that the formula requires two parts Ethanol and one part Ash.<New>
+<End>
+<$96>I'd better stock up.<New>
+<End>
+<$96>Hmmm… this one requires one part Gunpowder and two parts Grease.<New>
+<End>
+<$96>Sounds dangerous.<New>
+<End>
+<$96>This should come in handy.<New>
+<End>
+Found the Slow Burn Formula<End>
+<$96>The formula requires one part Iron and one part Brimstone.<New>
+<End>
+<$96>Heavy!<New>
+N Found the Atom Smasher<End>
+Found the Atom Smasher<End>
+Found the Knight Basher<End>
+Gave away the Gauge<End>
+Gave away the Wheel<End>
+Gave away the Diamond Eyes<End>
+<$96>Hi <Boy>.<S $3D $80> Do you have the last item that I need?<New>
+N <$96>Hi <Boy>.<S $3D $80> Do you have the items that I need?<New>
+N <$96>I sure do!<New>
+N <$96>Very good.<S $3D $80> Very good, indeed!<New>
+N <$96>Let's see here.<S $3D $80> I have to make sure the pieces are all in order.<New>
+Now,<S $3D $80> if I adjust this knob<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and push this button<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and fiddle with this gizmo<S $15 $80>.<S $15 $80>.<S $15 $80>.<New>
+<End>
+<$96>Hi <Boy>.<S $3D $80> Do you have the items that I need?<New>
+N <$96>I sure do!<New>
+N <$96>Very good.<S $3D $80> Very good, indeed!<New>
+N <$96>Let's see here.<S $3D $80> I have to make sure the pieces are all in order.<New>
+Now,<S $3D $80> if I adjust this knob<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and push this button<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and fiddle with this gizmo<S $15 $80>.<S $15 $80>.<S $15 $80>.<New>
+<End>
+<$96>I sure do!<New>
+N <$96>Very good.<S $3D $80> Very good, indeed!<New>
+N <$96>Let's see here.<S $3D $80> I have to make sure the pieces are all in order.<New>
+Now,<S $3D $80> if I adjust this knob<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and push this button<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and fiddle with this gizmo<S $15 $80>.<S $15 $80>.<S $15 $80>.<New>
+<End>
+<$96>Very good.<S $3D $80> Very good, indeed!<New>
+N <$96>Let's see here.<S $3D $80> I have to make sure the pieces are all in order.<New>
+Now,<S $3D $80> if I adjust this knob<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and push this button<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and fiddle with this gizmo<S $15 $80>.<S $15 $80>.<S $15 $80>.<New>
+<End>
+<$96>Let's see here.<S $3D $80> I have to make sure the pieces are all in order.<New>
+Now,<S $3D $80> if I adjust this knob<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and push this button<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80> and fiddle with this gizmo<S $15 $80>.<S $15 $80>.<S $15 $80>.<New>
+<End>
+<$96>I think we're ready to go!<New>
+N <$96>If you can bring me a Pressure Gauge, I'll be able to complete my invention.<New>
+<End>
+<$96>If you can bring me a Pressure Gauge, I'll be able to complete my invention.<New>
+<End>
+<$96>If you can bring me a Valve Wheel, I'll be able to complete my invention.<New>
+<End>
+<$96>If you can bring me the Diamond Eyes, I'll be able to complete my invention.<New>
+<End>
+<$96>My invention will be complete with a Valve Wheel and the Diamond Eyes.<New>
+<End>
+<$96>My invention will be complete with a Pressure Gauge and the Diamond Eyes.<New>
+<End>
+<$96>My invention will be complete with a Valve Wheel and  aPressure Gauge.<New>
+<End>
+<$96>You're a brave animal to be on such a dangerous mission.<New>
+<End>
+<$96>Oh, ho! <S $3D $80>I see you have one of those Energy Core doohickys.<New>
+I hear tell they lose their energy if not used quickly. <S $51 $80>Course I'm no expert, you know.<New>
+<End>
+<$96>My young friend, <Boy>. <$86>There's talk that an Energy Core gizmo may be beneath the chessboard.<New>
+Course I'm not one to spread a rumor.<New>
+<End>
+<$96>In order to make my new invention fly, I'm going to need some special parts.<New>
+And I'm counting on you to collect them.<New>
+There are two items near the volcano--<S $3D $80> a valve wheel and a round pressure gauge.<New>
+And there are the jewels that flew off of the dog statue when it exploded.<New>
+If you collect those pieces for me, I'll finish my machine and send you into space.<New>
+Course she may fly and again maybe not.<New>
+<End>
+<$96>Hi <Boy>!<S $3D $80> I see that you brought back <Item> of the rocket parts.<New>
+<End>
+<$96>We're counting on you to go to Ivor Tower and fight the imposter.<New>
+Go through the dungeon to the sewer and out.<New>
+You'll find a barrier that you can knock down with the Knight Basher.<New>
+Go north from there.<S $3D $80> You'll find your way to my brother, Gomi.<New>
+He can help you the rest of the way! <S $65 $80>Of course, Gomi's none too bright.<New>
+<End>
+<$96><$87>Would you like for me to record your progress?
+<$97><Choice>OK.
+<Choice>Not right now.<$96><End>
+<$96><$87>Come back after you've dispatched the imposter.<S $79 $80> I'll help you return to that space place.<New>
+Course that's if you come back.<New>
+<End>
+<$96>Wait!<S $3D $80> Stop!<S $3D $80> Stop!<S $79 $80> Fun is fun,<S $3D $80> but I don't want to see anybody get hurt!<New>
+N <$96>Uh,<S $3D $80> thanks.<New>
+<End>
+<$96>Uh,<S $3D $80> thanks.<New>
+<End>
+<$96>My name's {Gomi,} Son.<S $3D $80> I'm a junk collector and a friend of the dragons.<New>
+<End>
+<$96>This is my latest attempt at the great Gomi Tower.<S $B5 $80> <End>
+<$96>It's going to be fabulous.<New>
+<End>
+<$96>You may ask, {Gomi,<S $3D $80> why do you want to build such a tall tower?}<New>
+N <$96>{Aren't you happy being bound to the ground?}<New>
+N <$96>{Don't you think you can do something better with your time?}<New>
+N <$96>To that, I say, {No!}<New>
+N <$96>I am a child of the sky and I want to reach higher,<S $B5 $80> <End>
+<$96>{Aren't you happy being bound to the ground?}<New>
+N <$96>{Don't you think you can do something better with your time?}<New>
+N <$96>To that, I say, {No!}<New>
+N <$96>I am a child of the sky and I want to reach higher,<S $B5 $80> <End>
+<$96>{Don't you think you can do something better with your time?}<New>
+N <$96>To that, I say, {No!}<New>
+N <$96>I am a child of the sky and I want to reach higher,<S $B5 $80> <End>
+<$96>To that, I say, {No!}<New>
+N <$96>I am a child of the sky and I want to reach higher,<S $B5 $80> <End>
+<$96>I am a child of the sky and I want to reach higher,<S $B5 $80> <End>
+<$96>like my friends,<S $3D $80> the dragons.<New>
+<End>
+<$96>So, what brings you up to my structure?<New>
+N <$96>We heard that this is the best way to get to Ivor Tower.<New>
+<End>
+<$96>We heard that this is the best way to get to Ivor Tower.<New>
+<End>
+<$96>Oh!<S $3D $80> You don't want to go there!<$86>That queen acts so nice and friendly…<New>
+N <$96>…but she's really very mean,<S $79 $80> and devious!<New>
+N <$96>That's why we're going there!<New>
+N <$96>My dog and I are trying to stop her from tearing apart the kingdom!<$86>Tinker told us that you could show us the way!<New>
+N <$96>Tinker?<S $79 $80> <End>
+<$96>…but she's really very mean,<S $79 $80> and devious!<New>
+N <$96>That's why we're going there!<New>
+N <$96>My dog and I are trying to stop her from tearing apart the kingdom!<$86>Tinker told us that you could show us the way!<New>
+N <$96>Tinker?<S $79 $80> <End>
+<$96>That's why we're going there!<New>
+N <$96>My dog and I are trying to stop her from tearing apart the kingdom!<$86>Tinker told us that you could show us the way!<New>
+N <$96>Tinker?<S $79 $80> <End>
+<$96>My dog and I are trying to stop her from tearing apart the kingdom!<$86>Tinker told us that you could show us the way!<New>
+N <$96>Tinker?<S $79 $80> <End>
+<$96>Tinker?<S $79 $80> <End>
+<$96>My brother, Tinker?<S $79 $80> <End>
+<$96>Why didn't you say that he sent you?<$86>Of course I'll help!<$86><$96>Here's an alchemy formula that I learned from my adventures in the clouds.<New>
+<End>
+<$96>I call it {Lightning Storm.}<New>
+N <$96>Thanks!<S $79 $80> So,<S $3D $80> how do we get to Ivor Tower from here?<New>
+N <$96>That's no problem at all!<New>
+N <$96>Sterling!<S $3D $80> Come here!<S $79 $80> Come on, Sterling!<S $79 $80> It was all in fun, eh?<New>
+N <$96>My friend, Sterling, will give us a ride!<New>
+N <$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>Thanks!<S $79 $80> So,<S $3D $80> how do we get to Ivor Tower from here?<New>
+N <$96>That's no problem at all!<New>
+N <$96>Sterling!<S $3D $80> Come here!<S $79 $80> Come on, Sterling!<S $79 $80> It was all in fun, eh?<New>
+N <$96>My friend, Sterling, will give us a ride!<New>
+N <$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>That's no problem at all!<New>
+N <$96>Sterling!<S $3D $80> Come here!<S $79 $80> Come on, Sterling!<S $79 $80> It was all in fun, eh?<New>
+N <$96>My friend, Sterling, will give us a ride!<New>
+N <$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>Sterling!<S $3D $80> Come here!<S $79 $80> Come on, Sterling!<S $79 $80> It was all in fun, eh?<New>
+N <$96>My friend, Sterling, will give us a ride!<New>
+N <$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>My friend, Sterling, will give us a ride!<New>
+N <$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>You're going to take us to Ivor Tower.<S $79 $80> OK, Sterling?<New>
+N <$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>This is pretty tough territory for little puffy dogs.<New>
+I'd be careful if I were you!<$85><End>
+<$96>This forest is nowhere to lallygag.<New>
+It's intense!<S $3D $80> And it's full of meanies.<New>
+I recommend that you walk softly and pack heat.<$85><End>
+you shouldn't see this map 1 north<End>
+you shouldn't see this map 2 north<End>
+you shouldn't see this map 4 South<End>
+<$96>Hiya, pup.<S $79 $80> You look lost.<New>
+<End>
+<$96>You're quite adventurous to wander so deep into the forest.<New>
+I hate to tell you,<S $3D $80> but this is a dead end.<S $B5 $80> We're talkin' Nowheresville!<$86>Listen,<S $3D $80> as long as you're here,<S $3D $80> I'll give you my favorite alchemy spell.<New>
+I call it {One Up.}<S $B5 $80> Use it just before you lose all of your Hit Points.<New>
+You'll regenerate at full power.<S $B5 $80> Nice, huh?<$85><End>
+<$96>The formula requires a Feather and a Root for every use.<New>
+<End>
+<$96>You're not going to get any deeper into the Dark Forest than this.<New>
+We're talking Dead End City.<New>
+<End>
+<$96>Aaack!<S $3D $80> Aaack!<S $3D $80> Stay away from me, vile beast!<New>
+N <$96>Hi!<S $79 $80> Hi!<S $79 $80> Hi!<S $79 $80> Your kindness is very welcome.<New>
+To save me from the well was a great thing.<New>
+You did not have to do that, you know.<New>
+Please take this token of my appreciation.<New>
+<End>
+<$96>Hi!<S $79 $80> Hi!<S $79 $80> Hi!<S $79 $80> Your kindness is very welcome.<New>
+To save me from the well was a great thing.<New>
+You did not have to do that, you know.<New>
+Please take this token of my appreciation.<New>
+<End>
+Received Thug's Cloak<End>
+Received Wizard's Coin<End>
+Received 1000 Gold Coins<End>
+<$96>Thanks many times for your help.<S $79 $80> I'll see you again.<New>
+<End>
+Take heed and go no further<New>
+N I'd turn back if I were you<New>
+N Visit Beautiful Gruelville, 25 leagues west<New>
+N Camp on the banks of the great green Limpopo River<New>
+N Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities<New>
+N Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+I'd turn back if I were you<New>
+N Visit Beautiful Gruelville, 25 leagues west<New>
+N Camp on the banks of the great green Limpopo River<New>
+N Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities<New>
+N Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Visit Beautiful Gruelville, 25 leagues west<New>
+N Camp on the banks of the great green Limpopo River<New>
+N Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities<New>
+N Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Camp on the banks of the great green Limpopo River<New>
+N Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities<New>
+N Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Come see Mr. Head at Perceval Plank's Exhibition of Cultural Oddities<New>
+N Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Souvenir Spoon Pounding Factory, 5 furlongs
+Tours Daily<New>
+N Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Half Way<New>
+N See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+See the amazing Bearded Boy, next left<New>
+N City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+City of Constagando, 30 leagues east<New>
+N Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Mountains of Candy, 50 furlongs<New>
+N <$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+<$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+Received Crusader Sword<End>
+<$96>Hiya, pup!<S $3D $80> You're fluffy, but tough.<New>
+<End>
+<$96>Wow!<S $79 $80> I saw that fight!<S $3D $80> You're powerful!<$86>In fact you're more than three times stronger than yourself!<$86>I haven't figured out the math on that,<S $79 $80> but I saw it with my own eyes!<New>
+N <$96>Hiya, pup!<S $3D $80> You're fluffy,<S $3D $80> but tough.<New>
+<End>
+<$96>Hiya, pup!<S $3D $80> You're fluffy,<S $3D $80> but tough.<New>
+<End>
+<$96>Hi!<S $3D $80> Thanks to you,<S $3D $80> anybody can cross this bridge now,<S $3D $80> without fighting their evil twin!<New>
+N Received Lance<End>
+Received Lance<End>
+<$96>Nice doggy.<S $79 $80>  Cute hair.<$85><End>
+<$96>Welcome, my friend.<S $79 $80>  
+I don't get many visitors down here.<New>
+That annoying Footknight usually scares them away.<New>
+<End>
+<$96>Oh!<S $3D $80> You have the Oracle Bone!<$86><$96>I can give you two alchemy formulas that you'll find quite useful.<New>
+<End>
+<$96>I've got an alchemy formula that you should find quite useful.<New>
+<End>
+<$96>Force Field will fend off an enemies strongest blow.<New>
+<End>
+<$96>And use Stop to keep your enemies at bay.<New>
+<End>
+<$96>Good to see you again.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>Good luck, and be careful out there.<$85><End>
+<$96>Hey!<S $3D $80> What's that?<S $51 $80> It looks like the energy core we saw when the statue blew up.<$85><End>
+Received Energy Core<End>
+<$96><$93>Ladies and Gentlemen. <S $B5 $80><$87><End>
+<$96><$87>You paid for an entire seat,<S $79 $80> <End>
+<$96>but you're only going to need the edge.<S $F1 $80><$87><End>
+<$96><$93>This is the main event!<S $3D $80><End>
+µ<End>
+<$96><$93>Entering the Colosseum...<S $B5 $80><$87><End>
+<$96><$93>The King of Chaos...<S $B5 $80><$87><End>
+<$96><$93>The Babylonian Bruiser...<S $B5 $80><$87><End>
+<$96><$93>The Pulverizing Prince of Pandemonium...<S $79 $80><End>
+<End>
+<$96>Vigor the Indestructible!<S $F1 $80><$87><End>
+<$96>And introducing the challenger...<S $F1 $80><$87><End>
+<$96>Some loser with a claw!<End>
+<$96>Some loser with a femur!<End>
+<$96>Some loser with a stick!<End>
+<$96>Well, it's good to know that the crowd is on my side.<New>
+This is like the big fight scene in `Dirt, Swords, Sweat and Togas.'<New>
+N I think the hero got pummeled in that picture.<New>
+<End>
+I think the hero got pummeled in that picture.<New>
+<End>
+<$96>Oh, well.<S $3D $80> Here goes nothing!<New>
+N <$96>Let the battle begin!<S $B5 $80><$87><End>
+<$96>Let the battle begin!<S $B5 $80><$87><End>
+<$87><Boy> is victorious!!<S $B5 $80><End>
+<$96>Congratulations!<S $79 $80>
+We underestimated your abilities.<New>
+<End>
+<$96>Please accept this sword as an award.<New>
+<End>
+Received Gladiator Sword<End>
+<$96>Thanks.<S $B5 $80> But,<S $1F $80> you know,<S $79 $80> what I'd really like is<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $79 $80>
+a clue!<$86>Where are we?<S $3D $80> <End>
+<$96>What are we doing here?<S $3D $80> <End>
+<$96>How do we get back to Podunk?<New>
+N y mm…<S $79 $80><End>
+Hmm_y<End>
+<$96> your answers lie on the west side of the river.<New>
+They are in the Diamond Eyes of the Sacred Dog Statue.<New>
+With these treasures,<S $5B $80> our leader will have the power to send you back to where you belong!<New>
+N <$96>You guys are really on a {Sacred Dog} kick.<New>
+<End>
+<$96>You guys are really on a {Sacred Dog} kick.<New>
+<End>
+<$96>This dog is really my buddy,<S $3D $80> <Dog>.<New>
+<End>
+He just hasn't been himself lately.<New>
+<End>
+<$96>The statue bearing his likeness holds great power.<S $79 $80> And the Diamond Eyes are the key.<New>
+We need the adventuring skills of you and your dog to find and bring back the jewels.<New>
+<End>
+<$96>Well, as {Dusty} Duffy McGander says in {Perilous Patrol over Pluto:}<$86>{We may not have a rat's chance in a room full of cats…<$86>…but we're gonna go after that cheese.}<New>
+N <$96>Let's go, <Dog>.<New>
+<End>
+<$96>Let's go, <Dog>.<New>
+<End>
+<$96>I am King of the Rats
+I tell ya!<S $79 $80>
+King of the Rats!<$86>And I'm claiming this castle in the name of disease-carrying vermin everywhere.<New>
+Prepare to be plagued!<New>
+N Received Bazooka<End>
+Received Bazooka<End>
+Received 10 Thunderballs<End>
+Received Shining Armor<End>
+Found Stash of 5,000 Gold Coins!<End>
+<$87>Can't see! <S $51 $80>Down in front!<$85><End>
+<$96><$87>Can't talk. <S $51 $80>Busy. <S $51 $80>Watching show.<$85><End>
+<$96><$87>Puppets funny. <S $51 $80> Love watching puppets.<$85><End>
+<$96><$87>Ooooooo...<S $3D $80> Furry.<$85><End>
+<$96><$87>Doggy puppet funny!<$85><End>
+<$96><$87><Dog>, let's get moving.<S $5B $80> This egghead stuff makes my brain spin.<$85><End>
+{The Show of Life}<End>
+by Billy Shakesbad begins…<End>
+Woe be woman<End>
+whose fate it is to serve.<End>
+May thy tongue shrivel<End>
+that it spews such falsehoods.<End>
+Ah, but does not a man pull thy strings?<End>
+We are all but puppets<End>
+of greater powers.<End>
+Puppets? As in the show of life?<End>
+Truly, birth doth<End>
+draw wide the curtains.<End>
+And woman, are thy lines scripted?<End>
+In that I can be no one but myself,<End>
+I can say only my lines.<End>
+So sad, to be so constrained.<End>
+It is I who feel for thee.<End>
+Thine own role and fate<End>
+has ever been written,<End>
+while mine own<End>
+changes with each breath.<End>
+Yea, tho puppet I be,<End>
+it is hope, faith and Love<End>
+that pulls my strings.<End>
+Woman, mine ears do sting<End>
+from thy tongue.<End>
+I shall away<End>
+in search of easier folly!<End>
+<$96><$87>Look <Dog>!<S $51 $80> A puppet show.<$85><End>
+<$96><$87>This reminds me of the classic, {Memphis Topples Leaves.}<$85><End>
+<$96>I'll get you,<S $3D $80> you little pest!<S $51 $80>  And that mangy cur,<S $15 $80> too!<$85><End>
+Mephista heals Mungola!<End>
+<$96>I don't believe it!<S $51 $80> You've dispatched Mungola!<$86>Come closer,<S $29 $80> that I may give you your<S $29 $80> just<S $29 $80> reward!<$85><End>
+<$96>Take <S $29 $80>this,<S $29 $80> little man,<S $29 $80> for what you have done!<$85><End>
+<$96>I meant to do that...<End>
+<$96>Look,<S $29 $80> <Dog>,<S $29 $80> a gear…<$86>I'm beginning to think that queen was<S $29 $80> no<S $29 $80> lady…<$85><End>
+<$96>Here,<S $29 $80> lad!<S $51 $80> Take this for your troubles!<$85><End>
+Received 10,000 Gold Coins<End>
+<$96>Follow me! I think her majesty has damaged the foundation!<$85><End>
+<$96>The big pig race is happening right here in a few minutes.<New>
+You can't enter, because you're not a pig!<New>
+N <$96>I'm going to get a good place to stand for the big pig race.<New>
+It's going to be fast and muddy!<New>
+N <$96>Hello puppy.<S $3D $80> What's your name?<S $3D $80> King?<S $79 $80> Prince?<S $79 $80> Puffball?<New>
+N <$96>That show at the north end of the street is closed for remodeling.<New>
+I hope that the next installment still has an edge.<New>
+I don't want it to get too commercial.<New>
+<End>
+<$96>I'm going to get a good place to stand for the big pig race.<New>
+It's going to be fast and muddy!<New>
+N <$96>Hello puppy.<S $3D $80> What's your name?<S $3D $80> King?<S $79 $80> Prince?<S $79 $80> Puffball?<New>
+N <$96>That show at the north end of the street is closed for remodeling.<New>
+I hope that the next installment still has an edge.<New>
+I don't want it to get too commercial.<New>
+<End>
+<$96>Hello puppy.<S $3D $80> What's your name?<S $3D $80> King?<S $79 $80> Prince?<S $79 $80> Puffball?<New>
+N <$96>That show at the north end of the street is closed for remodeling.<New>
+I hope that the next installment still has an edge.<New>
+I don't want it to get too commercial.<New>
+<End>
+<$96>That show at the north end of the street is closed for remodeling.<New>
+I hope that the next installment still has an edge.<New>
+I don't want it to get too commercial.<New>
+<End>
+<$96>I saw the show in the wagons at the north end of this street.<S $3D $80> It was kind of creepy, but fun.<New>
+<End>
+<$96>I bet that you could run pretty fast.<New>
+Too bad pink, fluffy poodles aren't allowed in the pig race.<New>
+<End>
+<$96>The pig race is about to happen!<S $3D $80> I want to get a good view of the action!<New>
+N <$96>Hey!<S $3D $80> You sort of look like that pig that won the race!<S $3D $80> Are you related?<New>
+N <$96>Are you going to stay for the pig race?<S $3D $80> Dogs are allowed to watch,<S $3D $80> but not compete.<New>
+<End>
+<$96>Hey!<S $3D $80> You sort of look like that pig that won the race!<S $3D $80> Are you related?<New>
+N <$96>Are you going to stay for the pig race?<S $3D $80> Dogs are allowed to watch,<S $3D $80> but not compete.<New>
+<End>
+<$96>Are you going to stay for the pig race?<S $3D $80> Dogs are allowed to watch,<S $3D $80> but not compete.<New>
+<End>
+<$96>Did you see the pig race?<S $3D $80> It had very unpredictable results!<New>
+N <$96>Are you going to stay for the pig race?<S $3D $80> I am!<S $3D $80> It's the big event of the festival.<New>
+<End>
+<$96>Are you going to stay for the pig race?<S $3D $80> I am!<S $3D $80> It's the big event of the festival.<New>
+<End>
+<$96>Have you seen the queen?<S $3D $80> She's almost as pretty as you!<New>
+N <$96>Did you see the queen at the pig race?<S $3D $80> She's very regal!<New>
+N <$96>The queen is going to make a personal appearance at the big pig race!<$86>And the owner of the winning pig wins dinner with the queen,<S $B5 $80> in the castle!<New>
+N <$96>Hello, puppy!<S $3D $80> You're nice!<S $3D $80> And fluffy, too!<New>
+N <$96>Have you seen the king lately?<$86>He's been out of the public eye ever since we moved to Ivor Tower.<New>
+<End>
+<$96>Did you see the queen at the pig race?<S $3D $80> She's very regal!<New>
+N <$96>The queen is going to make a personal appearance at the big pig race!<$86>And the owner of the winning pig wins dinner with the queen,<S $B5 $80> in the castle!<New>
+N <$96>Hello, puppy!<S $3D $80> You're nice!<S $3D $80> And fluffy, too!<New>
+N <$96>Have you seen the king lately?<$86>He's been out of the public eye ever since we moved to Ivor Tower.<New>
+<End>
+<$96>The queen is going to make a personal appearance at the big pig race!<$86>And the owner of the winning pig wins dinner with the queen,<S $B5 $80> in the castle!<New>
+N <$96>Hello, puppy!<S $3D $80> You're nice!<S $3D $80> And fluffy, too!<New>
+N <$96>Have you seen the king lately?<$86>He's been out of the public eye ever since we moved to Ivor Tower.<New>
+<End>
+<$96>Hello, puppy!<S $3D $80> You're nice!<S $3D $80> And fluffy, too!<New>
+N <$96>Have you seen the king lately?<$86>He's been out of the public eye ever since we moved to Ivor Tower.<New>
+<End>
+<$96>Have you seen the king lately?<$86>He's been out of the public eye ever since we moved to Ivor Tower.<New>
+<End>
+<$96>You're a very unique looking dog.<New>
+But you're not as unique as those creatures in the exhibition to the north!<New>
+N <$96>The exhibition at the north end of the city has creatures that I had no idea existed!<New>
+N <$96>You remind me of a pet that I had when I was younger.<S $3D $80> Her name was {Princetta!}<New>
+N <$96>The shopping is good in the south part of town,<S $79 $80> but you get the best deals in the alley.<New>
+<End>
+<$96>The exhibition at the north end of the city has creatures that I had no idea existed!<New>
+N <$96>You remind me of a pet that I had when I was younger.<S $3D $80> Her name was {Princetta!}<New>
+N <$96>The shopping is good in the south part of town,<S $79 $80> but you get the best deals in the alley.<New>
+<End>
+<$96>You remind me of a pet that I had when I was younger.<S $3D $80> Her name was {Princetta!}<New>
+N <$96>The shopping is good in the south part of town,<S $79 $80> but you get the best deals in the alley.<New>
+<End>
+<$96>The shopping is good in the south part of town,<S $79 $80> but you get the best deals in the alley.<New>
+<End>
+<$96>You're going to have to clear the street soon, dog.<New>
+The pig race is coming to town!<End>
+<$96>Did you see that show up north?<S $3D $80> It's downright weird!<New>
+N <$96>You're not one of those Oglins,<S $3D $80> are you?<S $3D $80> No.<S $3D $80> You're too fluffy.<New>
+<End>
+<$96>You're not one of those Oglins,<S $3D $80> are you?<S $3D $80> No.<S $3D $80> You're too fluffy.<New>
+<End>
+<$96>Have you ever seen an Oglin?<S $3D $80> They're scary all right.<New>
+They're a lot more scary than anything you'll see at that show up the street.<New>
+<End>
+<$96>Animals can't trade at the market.<New>
+It's because you don't have opposable thumbs,<S $79 $80> or so I'm told.<New>
+<End>
+<$96>I've found more bargains in the alley booths than in the main town.<New>
+<End>
+<$96>The exihibit at the north end of the street is something else!<$86>Too bad poodles aren't allowed.<New>
+<End>
+<$96>Have you seen the exhibit at the north end of the street?<$86>It's both entertaining and thought provoking!<New>
+N <$96>You can get a ticket at a booth in town.<New>
+<End>
+<$96>You can get a ticket at a booth in town.<New>
+<End>
+<$96>You can probably get your master to buy you some goodies at the market.<New>
+There are a lot of good bargains there.<New>
+<End>
+<$96>Have you been to the market here?<S $3D $80> You can get some good bargains if you shop around!<New>
+N <$96>You're quite a cutie!<S $79 $80> I just love fluffy animals!<New>
+N <$96>The queen has been acting very strange lately,<S $3D $80> ever since we moved to this town.<New>
+She's still very nice.<S $3D $80> But, I don't know if she means it anymore.<New>
+<End>
+<$96>You're quite a cutie!<S $79 $80> I just love fluffy animals!<New>
+N <$96>The queen has been acting very strange lately,<S $3D $80> ever since we moved to this town.<New>
+She's still very nice.<S $3D $80> But, I don't know if she means it anymore.<New>
+<End>
+<$96>The queen has been acting very strange lately,<S $3D $80> ever since we moved to this town.<New>
+She's still very nice.<S $3D $80> But, I don't know if she means it anymore.<New>
+<End>
+<$87><$96>OK. Maybe some other time.<New>
+<End>
+<$96>Hi buddy. I'm sorry, I don't have any dog treats for you today.<New>
+<End>
+<$96>Hey! You already got my most valuable item.<S $3D $80> What else could you possibly want?<New>
+N <$96>The Egg of the Chocobo gives those who possess it an increased ability to take damage.<New>
+I can trade it to you for 9 bottles of perfume and 9 beads.<New>
+Is it a trade?
+<$97><Choice>Sure.
+<Choice>Too much for me.<End>
+<$96>The Egg of the Chocobo gives those who possess it an increased ability to take damage.<New>
+I can trade it to you for 9 bottles of perfume and 9 beads.<New>
+Is it a trade?
+<$97><Choice>Sure.
+<Choice>Too much for me.<End>
+<$87><$96>You will not regret this trade.<New>
+<End>
+<$87><$96>You don't have enough goods to make the trade.<New>
+<End>
+<$96>I'm sorry. We don't trade with animals.
+<S $3D $80>It's market policy.<New>
+<End>
+<$96>I offer the best price on spice in town--<S $B5 $80> <End>
+only 8 Gold Coins per jar.<New>
+Will you deal?
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>How many jars?
+<Choice>One.
+<Choice>Two.
+<Choice>Three.<End>
+<$96><$87>Thanks for the business.<New>
+<End>
+<$96>Sorry.<S $3D $80> This booth is closed.<S $3D $80> I've sold all of my charms.<New>
+<End>
+<$96>Insect Incense keeps insects and arachnids from hurting the one who possesses it.<New>
+It's yours for 3 bottles of perfume and 3 beads.<New>
+Is it a deal?
+<$97><Choice>Yes.
+<Choice>No.<End>
+<$87><$96>Well done!<S $3D $80> You're obviously a very good adventurer.<New>
+<End>
+<$87><$96>You don't have enough goods to make the trade.<S $3D $80> Maybe later.<New>
+<End>
+<$96>The Staff of Life will increase your ability to defend against enemy attacks.<New>
+It's a very valuable charm.<S $79 $80> And it can be yours for 30 bags of rice.<S $B5 $80> Such a deal!<$86>What do you say?
+<$97><Choice>Let's trade.
+<Choice>No thanks.<End>
+<$87><$96>Thank you very much.<S $3D $80> May the Staff protect you through many battles.<New>
+<End>
+<$87><$96>You don't have enough rice to make the trade.<S $3D $80> Maybe later.<New>
+<End>
+<$96><$87>I can offer you the Sun Stone for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thank you very much!<New>
+N <$96><$87>I can offer you the Jade Disk for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>I can offer you the Jade Disk for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thank you very much!<New>
+N <$96><$87>I can offer you the Silver Sheath for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>I can offer you the Silver Sheath for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thank you very much!<New>
+N <$96><$87>I can offer you the Moxa Stick for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>I can offer you the Moxa Stick for 300 Gold Coins.<New>
+Is it a deal?
+<Choice>Sure.
+<Choice>No thanks.<End>
+<$96><$87>Thank you very much!<New>
+N <$96>You shouldn't really be here, you know.<S $5B $80> We don't trade with animals.<New>
+<End>
+<$96>You shouldn't really be here, you know.<S $5B $80> We don't trade with animals.<New>
+<End>
+Hello, friend.<S $3D $80> I deal in previously owned charms.<New>
+<End>
+<$96>Hello, friend.<S $3D $80> I deal in previously owned charms.<New>
+What's your pleasure?<End>
+
+<Choice>Sun Stone.<End>
+
+<Choice>Jade Disk.<End>
+
+<Choice>Silver Sheath.<End>
+
+<Choice>Moxa Stick.<End>
+<$96>Hello friend. I'm sorry I don't have anything for you.<New>
+<End>
+<$96>I deal in fine armor.<New>
+What would you like?
+<Choice>A helmet.
+<Choice>Body armor.
+<Choice>Arm protection.
+<Choice>Nevermind.<End>
+<$96>Sorry.<S $3D $80> I'm all out of helmets.<New>
+<End>
+<$96>I can offer to you a fine helmet,<S $3D $80> made from the scales of a dragon.<New>
+it's more powerful than the Titan's Crown.<New>
+<End>
+<$96>And it will only cost you an Amulet of Annihilation and 700 Gold Coins.<New>
+Is it a deal?
+<Choice>Yes.
+<Choice>No.<End>
+<$96><$87>The Dragon Helmet is yours.<S $79 $80> Wear it in good health.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You've got the cash,<S $3D $80> but not the Amulet.<S $79 $80> No deal.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You don't have enough cash<End>
+.<New>
+<End>
+ or an Amulet.<S $3D $80> No deal.<New>
+<End>
+<$96>Sorry.<S $3D $80> I'm all out of body armor.<New>
+<End>
+<$96>I can offer to you a Gold Plated Vest, more powerful than Silver Mail.<New>
+<End>
+<$96>And it will only cost you an Amulet of Annihilation and 800 Gold Coins.<New>
+Is it a deal?
+<Choice>Yes.
+<Choice>No.<End>
+<$96><$87>You made a good decision.<S $3D $80> The Gold Plated Vest is yours.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You've got the cash,<S $3D $80> but not the Amulet.<S $79 $80> No deal.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You don't have enough cash<End>
+.<New>
+<End>
+ or an Amulet.<S $3D $80> No deal.<New>
+<End>
+<$96>Sorry.<S $3D $80> I'm all out of arm protection.<New>
+<End>
+<$96>The Magician's Ring is the finest piece of arm protection that I have ever seen.<New>
+It's much more powerful than the Iron Bracer.<New>
+<End>
+<$96>And it will only cost you an Amulet of Annihilation and 750 Gold Coins.<New>
+Is it a deal?
+<Choice>Yes.
+<Choice>No.<End>
+<$96><$87>You are now the proud owner of a Magician's Ring.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You've got the cash,<S $3D $80> but not the Amulet.<S $79 $80> No deal.<New>
+<End>
+<$96><$87>Sorry.<S $3D $80> You don't have enough cash<End>
+.<New>
+<End>
+ or an Amulet.<S $3D $80> No deal.<New>
+<End>
+<$87><$96><$93>Wait!<End>
+ A new <End>
+entry is<End>
+ tearing<End>
+ up the<End>
+ track!<End>
+Look <End>
+at that<End>
+ pig go!<End>
+<$87><$96><$93>Truffle Trouble is leading the pack!<End>
+<$87><$96><$93>We have a winner!<End>
+<$96>Who owns this pig?<New>
+N <$96>Uh,<S $3D $80> I guess that would be me.<New>
+<End>
+<$96>Uh,<S $3D $80> I guess that would be me.<New>
+<End>
+<$96>You, sir, will be the guest of honor at the queen's banquet tonight!<S $79 $80> Congratulations!<New>
+N <$96>Well, <Dog>.<S $3D $80> It looks like you've done something right for a change.<New>
+We can ask the queen if she knows how to get back to Podunk!<New>
+N Locked<End>
+<$96>Well, <Dog>.<S $3D $80> It looks like you've done something right for a change.<New>
+We can ask the queen if she knows how to get back to Podunk!<New>
+N Locked<End>
+Locked<End>
+<$96>Come one, come all to {Perceval Plank's Exhibition of Cultural Oddities.}<New>
+N <$96>Witness inconceivable deviations from the natural laws.<New>
+<End>
+<$96>Witness inconceivable deviations from the natural laws.<New>
+<End>
+<$96>Experience true horror, true terror, true spine-tingling absurdity!<New>
+N <$96>Believe the unbelievable!<New>
+N <$96>Right this way!<S $3D $80> Come one!<S $3D $80> Come all!<New>
+N <$96>I hear that dogs aren't allowed in the exhibition.<S $B5 $80> Tough luck.<New>
+<End>
+<$96>Believe the unbelievable!<New>
+N <$96>Right this way!<S $3D $80> Come one!<S $3D $80> Come all!<New>
+N <$96>I hear that dogs aren't allowed in the exhibition.<S $B5 $80> Tough luck.<New>
+<End>
+<$96>Right this way!<S $3D $80> Come one!<S $3D $80> Come all!<New>
+N <$96>I hear that dogs aren't allowed in the exhibition.<S $B5 $80> Tough luck.<New>
+<End>
+<$96>I hear that dogs aren't allowed in the exhibition.<S $B5 $80> Tough luck.<New>
+<End>
+<$96>I've seen that exhibition before!<S $79 $80> It's something else.<New>
+<End>
+<$96>Perceval Plank's exhibits are even better than Manny Marble's Mansion of Marvels!<$85><End>
+<$96>You're some fancy looking animal.<S $79 $80> You're not part of the exhibition,<S $3D $80> are you?<New>
+N <$96>I'm going to see the exhibition,<S $3D $80> as soon as I get a ticket.<End>
+<$96>I'm going to see the exhibition,<S $3D $80> as soon as I get a ticket.<End>
+<New>
+N <S $79 $80> You can get a ticket in town.<New>
+<End>
+<S $79 $80> You can get a ticket in town.<New>
+<End>
+<$96>Sorry, pooch.<S $3D $80> No dogs are allowed in the exhibition.<New>
+<End>
+<$96>Hello, kid.<S $79 $80> We're rethinking the exhibit.<S $79 $80> There are no showings today.<New>
+<End>
+<$96>Hey, kid.<S $79 $80> Would you like to see the exhibit?
+<Choice>Sure.
+<Choice>No.<End>
+<$87>OK.<S $79 $80> Come back some other time.<End>
+ And make sure to buy a ticket in town.<New>
+<End>
+<New>
+N <$87><$96>Have you got a ticket?
+<Choice>I sure do!
+<Choice>Uh, I need a ticket?<End>
+<$87><$96>Have you got a ticket?
+<Choice>I sure do!
+<Choice>Uh, I need a ticket?<End>
+<$87><$96>You can get a ticket in town.<New>
+<End>
+<$87><$96>OK.<S $3D $80> Let's see it.<New>
+<End>
+<$96>Uh.<S $3D $80> I guess I don't have a ticket after all.<New>
+<End>
+<$96>Come back when you do have a ticket.<S $79 $80> You can get one in town.<New>
+<End>
+<$87><$96>Step right up.<New>
+<End>
+<$96>Sorry, pooch.<S $79 $80> No dogs are allowed in the exhibition.<New>
+<End>
+<$96>You stay right here, <Dog>.<S $79 $80> I'll be back in a few minutes.<New>
+<End>
+<$96>Stop right there, mutt.<S $3D $80> You're comin' with me.<New>
+<End>
+<$87><$96><$93>Ladies<End>
+ and <End>
+Gentlemen!<End>
+<$87><$96><$93>The pig<End>
+ race is<End>
+ about to<End>
+begin!<End>
+<$87><$96><$93>And <End>
+they're<End>
+ off!<End>
+<$96>The first stop in our tour of oddities will make you ponder the principles of our existence.<New>
+<End>
+<$96>How,<S $3D $80> you will ask,<S $3D $80> can such a creature live and breathe?<$86>There is no answer to your query.<S $79 $80> It is simply a truth in the shape of…<New>
+N <$96>Mr. Head:<S $3D $80> The man with no body.<New>
+<End>
+<$96>Mr. Head:<S $3D $80> The man with no body.<New>
+<End>
+<$96>I have an itch on my nose.<S $79 $80> It's very uncomfortable.<New>
+<End>
+<$96>Weird!<New>
+N <$96>This next exhibit comes to us from the far east via the midwest, with a stopover in Nantucket.<New>
+<End>
+<$96>This next exhibit comes to us from the far east via the midwest, with a stopover in Nantucket.<New>
+<End>
+<$96>It is fantastic, freakish and full of cheese- producing goodness--<$86>I give you the one- horned beauty of…<New>
+N <$96>The Unigoat!<New>
+N <$96>Isn't she amazing?<New>
+N <$96>Please!<S $3D $80> Do not touch the horn!<New>
+N <$96>Follow me.<S $79 $80> Follow me.<S $79 $80><End>
+<$96>The Unigoat!<New>
+N <$96>Isn't she amazing?<New>
+N <$96>Please!<S $3D $80> Do not touch the horn!<New>
+N <$96>Follow me.<S $79 $80> Follow me.<S $79 $80><End>
+<$96>Isn't she amazing?<New>
+N <$96>Please!<S $3D $80> Do not touch the horn!<New>
+N <$96>Follow me.<S $79 $80> Follow me.<S $79 $80><End>
+<$96>Please!<S $3D $80> Do not touch the horn!<New>
+N <$96>Follow me.<S $79 $80> Follow me.<S $79 $80><End>
+<$96>Follow me.<S $79 $80> Follow me.<S $79 $80><End>
+There is much more to see.<New>
+<End>
+<$96>Our next exhibit is not for the squeamish or for the faint of heart.<New>
+This disgusting, vile and gruesome beast will give you sensations of horror and repugnance.<New>
+<End>
+<$96>It has fangs the size of a human femur.<S $B5 $80>
+Its body is covered in fur from head to toe.<New>
+Its eyes are so hypnotic that staring into them could make you spiral into a sea of madness.<New>
+This is the terror that is…<New>
+N Mungola!<New>
+N <$96>I don't believe it!<S $79 $80> <End>
+Mungola!<New>
+N <$96>I don't believe it!<S $79 $80> <End>
+<$96>I don't believe it!<S $79 $80> <End>
+<$96>Mungola has escaped!<New>
+N <$96>I would be very careful if I were you,<S $3D $80> my friend.<New>
+<End>
+<$96>I would be very careful if I were you,<S $3D $80> my friend.<New>
+<End>
+<$96>It could appear around any corner!<New>
+N <$96>Our last exhibit is the most recent addition to the show!<New>
+N You will not believe your eyes when you see this rare combination of species.<New>
+<End>
+<$96>Our last exhibit is the most recent addition to the show!<New>
+N You will not believe your eyes when you see this rare combination of species.<New>
+<End>
+You will not believe your eyes when you see this rare combination of species.<New>
+<End>

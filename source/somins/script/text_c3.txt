@@ -1,0 +1,690 @@
+﻿<306 text entries>
+I present to you,<S $3D $80> for the first time ever,<S $3D $80> the fabulous,<S $3D $80> unbelievable…<New>
+N Pigpoodle!<New>
+N <$96><Dog>?<S $3D $80> Is that you?<New>
+N <$96>I know that you've been going through some changes,<S $79 $80> <End>
+Pigpoodle!<New>
+N <$96><Dog>?<S $3D $80> Is that you?<New>
+N <$96>I know that you've been going through some changes,<S $79 $80> <End>
+<$96><Dog>?<S $3D $80> Is that you?<New>
+N <$96>I know that you've been going through some changes,<S $79 $80> <End>
+<$96>I know that you've been going through some changes,<S $79 $80> <End>
+<$96>but this is ridiculous!<New>
+N <$96>Where are you going, <Dog>?<New>
+N <$96>I guess if I were a poodle with the head of a pig, I'd run, too!<New>
+N <$96>Maybe it would work better if we started with a pig and dressed it up like a poodle.<New>
+<End>
+<$96>Where are you going, <Dog>?<New>
+N <$96>I guess if I were a poodle with the head of a pig, I'd run, too!<New>
+N <$96>Maybe it would work better if we started with a pig and dressed it up like a poodle.<New>
+<End>
+<$96>I guess if I were a poodle with the head of a pig, I'd run, too!<New>
+N <$96>Maybe it would work better if we started with a pig and dressed it up like a poodle.<New>
+<End>
+<$96>Maybe it would work better if we started with a pig and dressed it up like a poodle.<New>
+<End>
+<$96>Sorry that whole pigpoodle gig didn't work out, pup.<S $79 $80> That's show biz!<New>
+N <$96>You look like you have a future in show business.<New>
+Maybe we can work something out later.<New>
+<End>
+<$96>You look like you have a future in show business.<New>
+Maybe we can work something out later.<New>
+<End>
+<$96>The offer still stands to make you a star as the {Bearded Boy!}<$86>Is it a deal?
+<Choice>OK.
+<Choice>No, thanks.<End>
+<$96>Hey, kid.<S $79 $80> You look like you have star potential.<New>
+How's this?<S $79 $80> We put a fake beard on you and call you the {Bearded Boy!}<$86>Does that sound good?
+<Choice>Sure.
+<Choice>No! You're crazy!<End>
+<$87><$96>OK, fine.<S $3D $80> I try to make you into a star and this is the thanks that I get!<New>
+N <$87><$96>Come back later and we'll set you up with a fake beard.<New>
+Then you'll be on your way to a life of stardom as the {Bearded Boy.}<New>
+N <$96>Hi, puppy.<S $3D $80> You could join our show as the {Beardless Poodle!}<New>
+N <$96>Hi.<S $3D $80> I'm Sylvia,<S $3D $80> the {Beardless Woman.}<$86>I'm on my break.<S $79 $80> If you don't mind,<S $3D $80> I'd like to be left alone.<New>
+<End>
+<$87><$96>Come back later and we'll set you up with a fake beard.<New>
+Then you'll be on your way to a life of stardom as the {Bearded Boy.}<New>
+N <$96>Hi, puppy.<S $3D $80> You could join our show as the {Beardless Poodle!}<New>
+N <$96>Hi.<S $3D $80> I'm Sylvia,<S $3D $80> the {Beardless Woman.}<$86>I'm on my break.<S $79 $80> If you don't mind,<S $3D $80> I'd like to be left alone.<New>
+<End>
+<$96>Hi, puppy.<S $3D $80> You could join our show as the {Beardless Poodle!}<New>
+N <$96>Hi.<S $3D $80> I'm Sylvia,<S $3D $80> the {Beardless Woman.}<$86>I'm on my break.<S $79 $80> If you don't mind,<S $3D $80> I'd like to be left alone.<New>
+<End>
+<$96>Hi.<S $3D $80> I'm Sylvia,<S $3D $80> the {Beardless Woman.}<$86>I'm on my break.<S $79 $80> If you don't mind,<S $3D $80> I'd like to be left alone.<New>
+<End>
+Oooo...<End>
+<$96>I was wondering why my water supply was drying up.<New>
+That creature must have been the cause of it!<$86>It's a good thing that you were down there to fight it off.<New>
+<End>
+<$96>How did you get to the bottom of my well, anyway?<New>
+N <$96>My dog and I were following this underground path!<$86>It's really dark down there!<S $3D $80> And there's a bunch of little guys with cloaks!<New>
+N <$96>You must have seen the Oglins!<S $3D $80> They're a crafty bunch,<S $3D $80> they are!<New>
+N <$96>They say that the Oglins have two heads and sharp claws--<S $97 $80> like knives!<New>
+N <$96>Hmmm…<S $3D $80> Well,<S $3D $80> I don't know if that's completely true, but…<New>
+N Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+<$96>My dog and I were following this underground path!<$86>It's really dark down there!<S $3D $80> And there's a bunch of little guys with cloaks!<New>
+N <$96>You must have seen the Oglins!<S $3D $80> They're a crafty bunch,<S $3D $80> they are!<New>
+N <$96>They say that the Oglins have two heads and sharp claws--<S $97 $80> like knives!<New>
+N <$96>Hmmm…<S $3D $80> Well,<S $3D $80> I don't know if that's completely true, but…<New>
+N Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+<$96>You must have seen the Oglins!<S $3D $80> They're a crafty bunch,<S $3D $80> they are!<New>
+N <$96>They say that the Oglins have two heads and sharp claws--<S $97 $80> like knives!<New>
+N <$96>Hmmm…<S $3D $80> Well,<S $3D $80> I don't know if that's completely true, but…<New>
+N Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+<$96>They say that the Oglins have two heads and sharp claws--<S $97 $80> like knives!<New>
+N <$96>Hmmm…<S $3D $80> Well,<S $3D $80> I don't know if that's completely true, but…<New>
+N Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+<$96>Hmmm…<S $3D $80> Well,<S $3D $80> I don't know if that's completely true, but…<New>
+N Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+Say,<S $3D $80> could you lower that bucket for my dog?<S $5B $80> <End>
+He's still down there!<New>
+N <$96>Sure thing!<New>
+N <$96>Hey, <Dog>!<S $3D $80> Get in the bucket!<New>
+N <$96>Whoa!<S $79 $80> I was sort of expecting another change,<S $3D $80> but I sure wasn't expecting this!<New>
+N You're a poodle!<New>
+N <$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+<$96>Sure thing!<New>
+N <$96>Hey, <Dog>!<S $3D $80> Get in the bucket!<New>
+N <$96>Whoa!<S $79 $80> I was sort of expecting another change,<S $3D $80> but I sure wasn't expecting this!<New>
+N You're a poodle!<New>
+N <$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+<$96>Hey, <Dog>!<S $3D $80> Get in the bucket!<New>
+N <$96>Whoa!<S $79 $80> I was sort of expecting another change,<S $3D $80> but I sure wasn't expecting this!<New>
+N You're a poodle!<New>
+N <$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+<$96>Whoa!<S $79 $80> I was sort of expecting another change,<S $3D $80> but I sure wasn't expecting this!<New>
+N You're a poodle!<New>
+N <$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+You're a poodle!<New>
+N <$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+<$96>And a fine poodle he is,<S $3D $80> too.<New>
+<End>
+<$96>So,<S $3D $80> where are we?<New>
+N <$96>Why, you're just south of Ivor Tower,<S $3D $80> the queen's new castle!<$86>If you're looking for answers, the queen is the one to see!<New>
+N <$96>You're a fine poodle.<S $3D $80> Very fluffy.<New>
+<End>
+<$96>Why, you're just south of Ivor Tower,<S $3D $80> the queen's new castle!<$86>If you're looking for answers, the queen is the one to see!<New>
+N <$96>You're a fine poodle.<S $3D $80> Very fluffy.<New>
+<End>
+<$96>You're a fine poodle.<S $3D $80> Very fluffy.<New>
+<End>
+<$96>If you're looking for answers, you should talk to the queen.<New>
+She's in her new castle, Ivor Tower.<S $3D $80> It's just north of here.<New>
+<End>
+<$96>I hope that you enjoy your stay in Ivor Tower.<New>
+<End>
+<$96>Hi!<S $29 $80> I'm Naris, the smartest boy in Ebon Keep.<S $51 $80> I bet you're not as smart as me!<New>
+N I don't want to play right now. <S $51 $80><End>
+I don't want to play right now. <S $51 $80><End>
+I'm working on a youth formula.<New>
+<End>
+I'm working on a formula to age things.<New>
+<End>
+Guess the number of marbles in my hand and I'll give you something.<New>
+What's your guess?
+<S $3D $80><Choice><Count>.
+<Choice><Item>.<End>
+<$96><$87>Wrong!<S $3D $80> That's what happens when you play with the smartest boy in Ebon Keep.<$85><End>
+Right now I'm working on a youth formula.<New>
+<End>
+Right now I'm working on a formula to age things.<New>
+<End>
+I'd explain how it works but you probably wouldn't understand.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Maybe later.<End>
+<$96>Ooooo… <S $51 $80> nice doggy!<$85><End>
+<$96>Hey, <Dog>! Where did you run off to?<New>
+N <$96>I hope he doesn't get into too much trouble.<New>
+<End>
+<$96>I hope he doesn't get into too much trouble.<New>
+<End>
+<$96>Honored guests and assorted rabble!<$86><$96>May I have your attention, please!<New>
+N <$96>Dinner will begin once her majesty arrives.<New>
+<End>
+<$96>Dinner will begin once her majesty arrives.<New>
+<End>
+<$96>Wow!<S $3D $80> This is some fancy castle!<New>
+N <$96>I've heard that Phlegm the Fancy did the decorating.<New>
+<$96>His use of tapestries is simply to die for.<New>
+<$96>And you should see his custom bookcases in the study in the east wing.<New>
+He even used gold paint on their backsides.<New>
+They are gorgeous!<S $51 $80> Phlegm has such taste!<$85> <End>
+<$96>I've heard that Phlegm the Fancy did the decorating.<New>
+<$96>His use of tapestries is simply to die for.<New>
+<$96>And you should see his custom bookcases in the study in the east wing.<New>
+He even used gold paint on their backsides.<New>
+They are gorgeous!<S $51 $80> Phlegm has such taste!<$85> <End>
+<$96>EVERYONE!<S $79 $80> Please be seated!<S $3D $80> The queen is about to arrive!<New>
+N <$96>People of Ivor Tower,<S $3D $80> distinguished guests,<S $3D $80>
+I present to you,<S $3D $80> her majesty, the Queen!<New>
+N <$96>Thank you all so much for attending!<S $B5 $80> We hope everyone has a wonderful time.<New>
+<End>
+<$96>People of Ivor Tower,<S $3D $80> distinguished guests,<S $3D $80>
+I present to you,<S $3D $80> her majesty, the Queen!<New>
+N <$96>Thank you all so much for attending!<S $B5 $80> We hope everyone has a wonderful time.<New>
+<End>
+<$96>Thank you all so much for attending!<S $B5 $80> We hope everyone has a wonderful time.<New>
+<End>
+<$96>And who do we have here?<New>
+N <$96>This young man is <Boy>, the owner of the winning pig, your highness.<New>
+<End>
+<$96>This young man is <Boy>, the owner of the winning pig, your highness.<New>
+<End>
+<$96>It is a great pleasure to meet you,<S $3D $80> Mr. <Boy>.<New>
+<$96>You may call me Queen Bluegarden.<New>
+<End>
+<$96>Uh,<S $3D $80> hi.<S $79 $80> You haven't seen my dog,<S $3D $80> er,<S $3D $80> pig,<S $3D $80> er,<S $79 $80> pigdog,<S $79 $80> have you?<New>
+N He followed me into the castle,<S $79 $80> and then he just disappeared!<New>
+N <$96>So,<S $3D $80> tell me,<S $3D $80> Mr. <Boy>,<S $3D $80> what do you think of my new castle?<New>
+N <$96>I like it!<S $79 $80> It's really…<New>
+N <$96>Clean?<S $3D $80> Immaculate?<S $3D $80> Spotless?<S $3D $80> Without flaw?<New>
+N <$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+He followed me into the castle,<S $79 $80> and then he just disappeared!<New>
+N <$96>So,<S $3D $80> tell me,<S $3D $80> Mr. <Boy>,<S $3D $80> what do you think of my new castle?<New>
+N <$96>I like it!<S $79 $80> It's really…<New>
+N <$96>Clean?<S $3D $80> Immaculate?<S $3D $80> Spotless?<S $3D $80> Without flaw?<New>
+N <$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+<$96>So,<S $3D $80> tell me,<S $3D $80> Mr. <Boy>,<S $3D $80> what do you think of my new castle?<New>
+N <$96>I like it!<S $79 $80> It's really…<New>
+N <$96>Clean?<S $3D $80> Immaculate?<S $3D $80> Spotless?<S $3D $80> Without flaw?<New>
+N <$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+<$96>I like it!<S $79 $80> It's really…<New>
+N <$96>Clean?<S $3D $80> Immaculate?<S $3D $80> Spotless?<S $3D $80> Without flaw?<New>
+N <$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+<$96>Clean?<S $3D $80> Immaculate?<S $3D $80> Spotless?<S $3D $80> Without flaw?<New>
+N <$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+<$96>Yeah,<S $3D $80> sure.<S $79 $80> I guess.<New>
+<End>
+<$96>It is well past time for the main dish,<S $3D $80> don't you think?<$86>I run a tight ship here and I don't like to wait!<$86><$96>What could be taking so long?<S $79 $80> Where is my meal?<New>
+N <$96>This is an outrage!<S $8D $80> Who is responsible for this filthy beast?<$86><$96>Names!!
+I want names!<New>
+N <$96>Uh,<S $3D $80> th…<S $3D $80> that would be me.<New>
+<End>
+<$96>This is an outrage!<S $8D $80> Who is responsible for this filthy beast?<$86><$96>Names!!
+I want names!<New>
+N <$96>Uh,<S $3D $80> th…<S $3D $80> that would be me.<New>
+<End>
+<$96>Uh,<S $3D $80> th…<S $3D $80> that would be me.<New>
+<End>
+<$96>Make a mockery of my banquet, will you?<$86>Let's see how you feel after a night in the dungeon.<New>
+<$96>Guards!<S $79 $80> Take these mockers away!<New>
+N <$96>Ok, buddy.<S $65 $80> Had your fun? <S $B5 $80>Oh, I've seen your type before.<New>
+<$96>You start by messing up your room and wind up years later messing up banquets.<New>
+<$96>And your furry friend…<S $5B $80> He looks like a real trouble maker.<S $5B $80> Come along now!<New>
+N <$96><$87>Would you like to record your progress?
+<$97><Choice>OK.
+<Choice>I'd rather call a lawyer.<$96><End>
+<$96>Ok, buddy.<S $65 $80> Had your fun? <S $B5 $80>Oh, I've seen your type before.<New>
+<$96>You start by messing up your room and wind up years later messing up banquets.<New>
+<$96>And your furry friend…<S $5B $80> He looks like a real trouble maker.<S $5B $80> Come along now!<New>
+N <$96><$87>Would you like to record your progress?
+<$97><Choice>OK.
+<Choice>I'd rather call a lawyer.<$96><End>
+<$96><$87>Would you like to record your progress?
+<$97><Choice>OK.
+<Choice>I'd rather call a lawyer.<$96><End>
+<S $79 $80> Is your destination Omnitopia?
+<Choice>Yes.
+<Choice>No.<End>
+<$96>This is it,<S $3D $80> <Boy>!<New>
+N You're going to go where no one has gone before!<$85><End>
+You're going to go where no one has gone before!<$85><End>
+<$96>We've actually been there before.<New>
+<End>
+<$96>Oh.<New>
+<End>
+<$96>Well,<S $3D $80> <End>
+<$96>you've never been shot out of a turret, with a only a minimal chance of survival!<New>
+N <$96>That's true.<New>
+<End>
+<$96>That's true.<New>
+<End>
+<$96>O<S $1F $80>K!<S $3D $80> Let's go!<New>
+N s nde <S $00 $87 $A2 $80>y<S $00 $87 $30 $80>y<S $00 $87 $30 $80>y<S $00 $96 $48 $69 $2C $20 $81>!<$86><End>
+¢y<End>
+0y<End>
+Hi, !<End>
+<$96>Hi!<S $3D $80> That's some contraption you've got there!<New>
+N <$96>This invention of mine has allowed me to see the lands beyond our kingdom.<New>
+<End>
+<$96>This invention of mine has allowed me to see the lands beyond our kingdom.<New>
+<End>
+<$96>It's quite exciting!<New>
+N <$96>We've seen a lot of this world, too.<New>
+But, we're really interested in going to that space station.<New>
+Then we can find our way home!<New>
+N <$96>Ah!<S $3D $80> Yes!<S $3D $80> <End>
+<$96>We've seen a lot of this world, too.<New>
+But, we're really interested in going to that space station.<New>
+Then we can find our way home!<New>
+N <$96>Ah!<S $3D $80> Yes!<S $3D $80> <End>
+<$96>Ah!<S $3D $80> Yes!<S $3D $80> <End>
+I think that I have a solution for you!<New>
+N <$96>Now that I've mastered flight with my Windwalker, <S $79 $80><End>
+<$96>Now that I've mastered flight with my Windwalker, <S $79 $80><End>
+<$96>I'm ready for bigger challenges.<New>
+<End>
+<$96>I think that I can send you into space!<New>
+N <$96>But, there are some things that I need first!<New>
+N <$96>Not long ago,<S $3D $80> a volcano erupted on the plateau to the North.<New>
+<End>
+<$96>But, there are some things that I need first!<New>
+N <$96>Not long ago,<S $3D $80> a volcano erupted on the plateau to the North.<New>
+<End>
+<$96>Not long ago,<S $3D $80> a volcano erupted on the plateau to the North.<New>
+<End>
+<$96>I know!<S $3D $80> We were there!<New>
+N <$96>Then you must have seen the machine at the core of volcano.<New>
+<End>
+<$96>Then you must have seen the machine at the core of volcano.<New>
+<End>
+<$96>I saw pieces of it on the ground surrounding the volcano when I flew by.<New>
+<End>
+<$96>There are two pieces that I need for my new invention.<New>
+They are a valve wheel and a round pressure gauge.<New>
+<End>
+<$96>That sounds reasonable.<New>
+<End>
+<$96>And we'll need an energy source, too!<New>
+N <$96>When the statue in the city to the East exploded…<$86>…there were two jewels that acted as a catalyst.<New>
+<End>
+<$96>When the statue in the city to the East exploded…<$86>…there were two jewels that acted as a catalyst.<New>
+<End>
+<$96>That's right-- the Diamond Eyes of the Dog Statue!<New>
+N <$96>Well then,<S $3D $80> you know exactly what I'm after!<$86>If you can bring me those items…<$86>I'll be able to complete my new invention and send you into space!<New>
+N <$96>You can take my Windwalker on your journey.<New>
+<End>
+<$96>Well then,<S $3D $80> you know exactly what I'm after!<$86>If you can bring me those items…<$86>I'll be able to complete my new invention and send you into space!<New>
+N <$96>You can take my Windwalker on your journey.<New>
+<End>
+<$96>You can take my Windwalker on your journey.<New>
+<End>
+Cool!<End>
+<$96>It can land wherever there is one of these special fire pits.<New>
+<End>
+<$96>Just look for the light.<New>
+<End>
+<$96>Visit me in my lab when you have all of the items.<New>
+I'll use them to complete my invention and send you to that place in space!<New>
+N <$96>I have orders from above, Eronio.<New>
+We are to find a device that produces a special kind of energy.<New>
+It is somewhere in the kingdom,<S $79 $80> but there is no specific information as to it's whereabouts.<New>
+<End>
+<$96>I have orders from above, Eronio.<New>
+We are to find a device that produces a special kind of energy.<New>
+It is somewhere in the kingdom,<S $79 $80> but there is no specific information as to it's whereabouts.<New>
+<End>
+<$96>My superior has ordered me to do whatever it takes to find it…<$86>…even if we must tear the kingdom apart,<S $B5 $80> <End>
+<$96>piece<S $3D $80> by<S $3D $80> piece.<New>
+<End>
+<$96>But,<S $3D $80> your highness,<S $3D $80> won't the citizens be suspicious?<New>
+N <$96>I'll deal with those cretins when the time comes.<S $F1 $80> <End>
+<$96>I'll deal with those cretins when the time comes.<S $F1 $80> <End>
+<$96>Now,<S $3D $80> <End>
+<$96>let's find that device!<New>
+N B: Acess Code is <Count>,<Item>,<$A3>.<End>
+DB: Access Code is ¡,¢,£.<End>
+DB: Secret door code is <Count>,<Item>,<$A3>.<End>
+<$96><$87>Enter the three digit access code to disable the alarm.
+<$85><End>
+<$96><$87>Enter first digit:
+<$97><Choice>1
+<$97><Choice>2
+<Choice>3<$96><End>
+<$96><$87>Enter second digit:
+<$97><Choice>1
+<$97><Choice>2
+<Choice>3<$96><End>
+Enter third digit:
+1
+2
+3<End>
+DB: Deadly flower is <Count>.<End>
+Greenhouse<End>
+<$96><$87>Greenhouse Lighting:
+<$97><Choice>On
+<Choice>Off<$96><End>
+Received 30 Cryo-Blast Projectiles<End>
+Received 30 Particle Bombs<End>
+Storage Room<End>
+<$96><$87>Storage Room Lighting:
+<$97><Choice>On
+<Choice>Off<$96><End>
+Received 30 Thunderballs<End>
+Received 30 Particle Bombs<End>
+Alarm Room<End>
+<$96><$87>Young bio!<S $51 $80> <End>
+<$96>Fellow robot!<S $51 $80> <End>
+Can you flip<S $29 $80> one of those switches<S $29 $80> over there<S $29 $80> to release me?<$85><End>
+<$96><$87>That raptor<S $29 $80> will terminate our functions<S $29 $80> if you don't disable it.<$85><End>
+<$96><$87>Termination<S $29 $80> of small<S $29 $80> jelly creatures<S $29 $80> is desirable!<$85><End>
+<$96><$87>Thank you<S $29 $80> for releasing me.<S $65 $80> Please<S $29 $80> accept<S $29 $80> offering.<$85><End>
+<$96><$87>I am returning<S $29 $80> to my post.<S $29 $80> I will be<S $29 $80> late again.<$85><End>
+Received Neutron Blade!<End>
+<$96>Omnitopia Healing Station Operative.<$85><End>
+<$96><$87>Input 100 Credits for Rest Cycle.
+<$97><Choice>Engage.
+<Choice>Disengage.<End>
+<$87><$96>Cycle Complete.<S $3D $80> Please step away from the beam.<New>
+<End>
+<$96><$87>Sufficient funds are not available.<New>
+<End>
+<$96><$87>Credit exchange programs operating in shopping sector.<New>
+<End>
+<$96>Canine unit detected.<S $79 $80> Healing program is unable to engage.<New>
+<End>
+<$96>Canine unit detected.<S $3D $80> Sales program is unable to engage.<New>
+<End>
+<$96>Armament Sales Mode engaged:<New>
+N <$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Buy Bazooka Ammo.
+<Choice>Money Exchange.<End>
+<$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Buy Bazooka Ammo.
+<Choice>Money Exchange.<End>
+<$87>Program complete.<New>
+<End>
+<$96><$87>Make a selection:
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Buy Bazooka Ammo.
+<Choice>Disengage.<$96><End>
+<$87><Choice>10 Thunder Balls, 300 credits
+<Choice>10 Particle Bombs, 600 credits
+<Choice>10 Cryo-Blasts, 1000 credits<End>
+You cannot carry that many Thunderballs<New>
+N You don't have 300 credits.<New>
+<End>
+You don't have 300 credits.<New>
+<End>
+You cannot carry that many Particle Bombs.<New>
+<End>
+You don't have 600 credits.<New>
+<End>
+You cannot carry that many Cryo-Blasts.<New>
+<End>
+You don't have 1000 credits.<New>
+<End>
+Program complete.<New>
+<End>
+<$96><$87>Ingredient Sales Mode engaged.<New>
+Input Selection:
+<$97><Choice>Purchase ingredients.
+<Choice>Disengage.<End>
+<$96>Item Sales Mode engaged:<New>
+N <$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Money Exchange.<End>
+<$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Money Exchange.<End>
+<$87>Program complete.<New>
+<End>
+<$96><$87>Make a selection:
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Disengage.<End>
+<$97><$87>Red<End>
+Blue<End>
+<$97><$87>Green<End>
+  Red<End>
+  Blue<End>
+  Green<End>
+  Red<End>
+  Blue<End>
+  Green<End>
+<$97><$87>Wax on.<S $B5 $80> Wax off.<S $B5 $80><$97><$87>Wax on.<S $B5 $80> Wax off.<S $B5 $80><$97><$87>Wax on.<S $B5 $80> Wax off.<S $B5 $80><$97><$87>Wax on.<S $B5 $80> Wax off.<S $B5 $80><End>
+<$96>Cleaning program<S $29 $80> in progress.<S $79 $80> Do not detain<S $29 $80> the cleaning machine.<New>
+<End>
+Nothing<End>
+<$96><$93>You're going to pay for this, filthy human!<S $69 $81><End>
+<$96><$93>Not so fast metal head!<S $F1 $80><End>
+<$96><$93>No!<S $79 $80> <$96>Losing <S $3D $80><$96>power!<S $79 $80><End>
+<$96><$93>Carltron has left the building.<S $2D $81><End>
+<$96><$93>It looks like his insidious villain days are over!<S $69 $81><$87><End>
+<$96><$93>So,<S $3D $80> professor.<S $79 $80> What's going to happen to Evermore now?<S $F1 $80><End>
+<$96><$93>Hmmmm...<S $3D $80> That's a good question.<S $F1 $80><$87><End>
+<$96><$93>I'm not sure.<S $B5 $80><$87><End>
+<$96><$93>It was Carltron's influence that created the evil elements on Evermore…<S $B9 $81><$87><End>
+<$96><$93>Now that he's unplugged,<S $79 $80> I would suspect that those elements should be going away.<S $69 $81><$87><End>
+<$96><$93>You can take a look for yourself!<S $F1 $80><$87><$93>I'll {virtually} put you into the scene with my Project-O-Matic Zaptron Simulator.<S $1D $82><End>
+<$96><$93>Let's see here.<S $3D $80> Twist this knob.<S $F1 $80> Pull this lever.<S $F1 $80> Yes.<S $79 $80> That should do it.<S $A5 $81><End>
+<$96><$93>Whoa!<S $3D $80> It looks like the big battle scene in {Monsterquake} down there!<S $E1 $81><$87><End>
+<$96><$93>Let's go <Dog>.<S $79 $80> We've got to get our friends!<S $69 $81><End>
+<$96><$93>We'll do it!<S $B5 $80><$87><End>
+<$96><$93>Uh,<S $3D $80> <End>
+what do you suppose our chances are?<S $E1 $81><End>
+<$96><$93>Yes!<S $79 $80> I believe that Evermore is on a collision course for destruction.<S $91 $81><End>
+<S $79 $80><$87><S $3D $80><$96><$93>With Carltron's influence gone, the balance of the world is completely offset.<S $E1 $81><End>
+<$96><$93>The only way to reverse the problem is to remove our own influence on the world.<S $1D $82><$87><End>
+<$96><$93>We have to leave now,<S $3D $80> and take our friends with us…<S $E1 $81><$87>Or Evermore will be nevermore for ever more!<End>
+<$96><$93>Oh!<S $3D $80> This is not good!<S $F1 $80><$87><End>
+<$96><$93>Things are getting much worse!<S $F1 $80><End>
+<End>
+<$96><$93>I don't know if this old space station can handle it!<S $A5 $81><End>
+<$96><$93><Boy>!<S $B5 $80> You've got to go down there.<S $E1 $81><$87>You've got to find Elizabeth, Horace and Camellia and bring them here.<S $E1 $81><$87><$96><$93>Then,<S $79 $80> we'll return to Podunk together.<S $69 $81><$87><End>
+<$96><$93>It's the only hope for Evermore,<S $79 $80> and for us!<S $69 $81><End>
+<$96><$93>Let's see...<S $3D $80> integrate this function, <S $8D $80>differentiate that result... <S $79 $80><End>
+Hmmm...<S $A5 $81><$87>Take an Eigen Vector here, <S $3D $80>invert it, <S $B5 $80>carry the three…<S $A5 $81><$87><End>
+<$96><$93>Your chances for success are roughly…<S $F1 $80> <End>
+zip!i<End>
+<$96><$93>But,<S $3D $80> you've got to give it a try!<S $F1 $80><$87><End>
+Wow!µ<End>
+<$96><$93>This looks like the PZS Plasma Drive in {When Consonants Collide.}<S $B9 $81><$87><End>
+<$96><$93>I wonder if it works!<S $F1 $80><$87><End>
+Whoa!<End>
+<End>
+<$93>We should get out of here before something goes terribly wrong!<End>
+<End>
+<$96><$93>Hey! <End>
+Don't chew on those wires!<End>
+<End>
+Uh oh!<End>
+<End>
+<$96><$93>What have we here?<S $F1 $80>
+<End>
+An intruder,<S $3D $80> I fear!<S $69 $81><$87><End>
+<$96><$93>That was some blast!<S $F1 $80><$87><End>
+<$96><$93>Who.<S $15 $80>.<S $15 $80>. who are you?<S $F1 $80><End>
+<$96><$93>That's not important!<S $79 $80> We've got to get you out of here.<S $E1 $81><$87><End>
+<$96><$93>We can't have you meddling with the Professor's experiments.<S $E1 $81><$87><End>
+<$96><$93>Come along.<S $79 $80><$87><End>
+<$96><$93>Who's that Carltron?<S $79 $80>
+Do we have a visitor?<S $F1 $80><End>
+<$96><$93>It's no one<S $3D $80><S $15 $80>.<S $15 $80>.<S $15 $80>. no one at all.<S $F1 $80><$87><End>
+<$96><$93>Continue with your work, Professor.<S $F1 $80><$87><End>
+<$96><$93>After you.<S $B5 $80><End>
+<$96>Now what?<S $F1 $80><End>
+Received Laser Lance<End>
+Received Bazooka<End>
+Cool!µ<End>
+<$96><$93>This does not look good!<S $F1 $80><End>
+<$96><$93>This looks like a way out.<S $F1 $80><End>
+<$96><$93>Is that you, Buddy?<S $B5 $80><$87><End>
+<$96><$93>I can't see very well.<S $3D $80>
+It's dark in here!<S $69 $81><$96><$87><$93>Hey!<S $3D $80> I think this is some sort of futuristic escape pod!<S $69 $81><End>
+<$96><$93>Oops!<S $3D $80> There goes the Control Pad!<S $F1 $80><End>
+<$96>You're Professor Ruffleberg,<S $3D $80> aren't you?<New>
+N <$96>Why,<S $1F $80> yes.<New>
+<End>
+<$96>Why,<S $1F $80> yes.<New>
+<End>
+<$96>And you're <Boy>!<S $79 $80> I've been watching you through the monitors!<$86>You're quite an adventurer!<$86>You have the same spirit that inspired me to create this world.<New>
+<End>
+<$96>Of course,<S $3D $80> that was many years ago…<New>
+N <$96>Now,<S $3D $80> everything is out of whack,<S $3D $80> <End>
+<$96>Now,<S $3D $80> everything is out of whack,<S $3D $80> <End>
+and Carltron is on the loose!<New>
+N <$96>Carltron?<New>
+N <$96>He's the big guy in the tuxedo who showed me the door!<New>
+N <$96>Why,<S $3D $80> yes.<S $79 $80> Carltron is my automated servant--<S $3D $80> <End>
+<$96>Carltron?<New>
+N <$96>He's the big guy in the tuxedo who showed me the door!<New>
+N <$96>Why,<S $3D $80> yes.<S $79 $80> Carltron is my automated servant--<S $3D $80> <End>
+<$96>He's the big guy in the tuxedo who showed me the door!<New>
+N <$96>Why,<S $3D $80> yes.<S $79 $80> Carltron is my automated servant--<S $3D $80> <End>
+<$96>Why,<S $3D $80> yes.<S $79 $80> Carltron is my automated servant--<S $3D $80> <End>
+or a least,<S $21 $80> he was.<New>
+<End>
+<$96>I constructed Carltron in order to do the household chores.<New>
+<$96>You know--<S $5B $80> tidy up,<S $5B $80> greet guests,<S $5B $80> pay the bills,<S $5B $80> let the cat out,<S $5B $80> clean the gutters.<New>
+And I made him smart so that he could play chess and give me a run for my money!<New>
+N <$96>But,<S $3D $80> as the years wore on…<S $3D $80> Carltron got tired of being a servant.<New>
+<End>
+<$96>But,<S $3D $80> as the years wore on…<S $3D $80> Carltron got tired of being a servant.<New>
+<End>
+<$96>He decided to turn the tables and take over.<New>
+First, he sabotaged the experiment.<New>
+That left us all stranded in this world of our imaginations.<New>
+<End>
+<$96>Then he schemed,<S $21 $80> <End>
+and schemed,<S $21 $80> <End>
+and schemed,<S $3D $80> <$96>until he finally made his move.<New>
+<End>
+<$96>We used this machine of mine to come to Evermore.<New>
+<End>
+<$96>And when Carltron took over, he used it to threaten the lives of my friends!<New>
+N <$96>Carltron is an insidous mechanoid--<S $B5 $80> quite mean indeed!<$86><$96>He said that he'd destroy the planet if I didn't make robot clones of my friends!<New>
+N <$96>And with these clones leading the lands of Evermore,<S $F1 $80> Carltron would be in control!<New>
+N <$96>But,<S $3D $80> thanks to you,<S $3D $80> Carltron has been thwarted at every turn.<New>
+Now,<S $3D $80> he has retreated to a chamber in the center of Omnitopia.<New>
+Of course, he's probably hatching another evil plan as we speak.<New>
+<End>
+<$96>Carltron is an insidous mechanoid--<S $B5 $80> quite mean indeed!<$86><$96>He said that he'd destroy the planet if I didn't make robot clones of my friends!<New>
+N <$96>And with these clones leading the lands of Evermore,<S $F1 $80> Carltron would be in control!<New>
+N <$96>But,<S $3D $80> thanks to you,<S $3D $80> Carltron has been thwarted at every turn.<New>
+Now,<S $3D $80> he has retreated to a chamber in the center of Omnitopia.<New>
+Of course, he's probably hatching another evil plan as we speak.<New>
+<End>
+<$96>And with these clones leading the lands of Evermore,<S $F1 $80> Carltron would be in control!<New>
+N <$96>But,<S $3D $80> thanks to you,<S $3D $80> Carltron has been thwarted at every turn.<New>
+Now,<S $3D $80> he has retreated to a chamber in the center of Omnitopia.<New>
+Of course, he's probably hatching another evil plan as we speak.<New>
+<End>
+<$96>But,<S $3D $80> thanks to you,<S $3D $80> Carltron has been thwarted at every turn.<New>
+Now,<S $3D $80> he has retreated to a chamber in the center of Omnitopia.<New>
+Of course, he's probably hatching another evil plan as we speak.<New>
+<End>
+<$96>If we can help you stop this guy once and for all,<S $B5 $80> can you help us get back to Podunk?<New>
+N <$96>Yes!<S $3D $80> By all means!<$86>In fact,<S $3D $80> if Carltron can be controlled,<S $79 $80> the rest of us will return to Podunk as well.<New>
+<End>
+<$96>Yes!<S $3D $80> By all means!<$86>In fact,<S $3D $80> if Carltron can be controlled,<S $79 $80> the rest of us will return to Podunk as well.<New>
+<End>
+<$96>Let's do it!<New>
+N <$96>There's a special item on Evermore that is the key to entering Carltron's chamber.<New>
+The item is an Energy Core at the base of the chessboard.<New>
+If you can retrieve this device, you'll be able to confront Carltron and stop him.<New>
+I'll give you access to the core from my control board.<New>
+<End>
+<$96>There's a special item on Evermore that is the key to entering Carltron's chamber.<New>
+The item is an Energy Core at the base of the chessboard.<New>
+If you can retrieve this device, you'll be able to confront Carltron and stop him.<New>
+I'll give you access to the core from my control board.<New>
+<End>
+<$96>You'll find a hatch that leads to an escape pod in the next room.<End>
+<$86>You can use the pod to return to Evermore and get the core!<New>
+N <$96>Before you go,<S $3D $80> let me give you a special alchemy formula.<New>
+If you have a Meteorite and Dry Ice,<S $3D $80> the formula will create a Call Bead.<New>
+<End>
+<$96>Before you go,<S $3D $80> let me give you a special alchemy formula.<New>
+If you have a Meteorite and Dry Ice,<S $3D $80> the formula will create a Call Bead.<New>
+<End>
+<$96>I'll give you <Item> Call Beads.<S $3D $80> Use them when you need my help.<New>
+<End>
+Received <Item> Call Beads<End>
+<$96>If you need my help, toss a Call Bead to the ground and I'll be there!<New>
+N <$96>You're a fine robot--<S $3D $80> not at all evil, like Carltron.<New>
+<End>
+<$96>You're a fine robot--<S $3D $80> not at all evil, like Carltron.<New>
+<End>
+<$96>The Energize alchemy is sure to help you in your fight with Carltron.<New>
+<End>
+<$96>The formula requires a Crystal and one part Iron.<New>
+When you cast it,<S $3D $80> your next blow is going to be a big one!<New>
+N <$96>Carltron is in hidden away in a chamber in the center of Omnitopia.<New>
+The key to entering the chamber is the Energy Core.<New>
+Take it to the junkyard sector and activate the transport tube.<New>
+<End>
+<$96>Carltron is in hidden away in a chamber in the center of Omnitopia.<New>
+The key to entering the chamber is the Energy Core.<New>
+Take it to the junkyard sector and activate the transport tube.<New>
+<End>
+<$96><$87>Good luck, <Boy>.<New>
+<End>
+<$96>Armor Sales Mode engaged:<New>
+N <$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Money Exchange.<$96><End>
+<$96><$87>Input Selection:<S $5B $80>
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Money Exchange.<$96><End>
+<$87>Program complete.<New>
+<End>
+<$96><$87>Input Selection:
+<$97><Choice>Buy.
+<Choice>Sell.
+<Choice>Disengage.<$96><End>
+<$96>Sales program is unable to engage.<New>
+<End>
+<$96><$93>Hurry, friends!<S $B5 $80><$87><End>
+<$96><$93>We've got to go back to Podunk!<S $F1 $80><$87><End>
+<$96><$93>We're running out of time!<S $F1 $80><$87><End>
+<$96><$93>Goodbye Carltron!<S $3D $80> I'll see you on the other side!<S $2D $81><End>
+<$96><$93>Where is <Boy>?<S $B5 $80><$87><End>
+<$96><$93>There's not much time!<S $F1 $80><$87><End>
+<$96><$93>I hope that he makes it!<S $F1 $80><$87><End>
+<$96><$93>Let's go, <Dog>!<S $F1 $80><$87><End>
+<$96>C'mon!<S $3D $80> <End>
+Forget about the cat!<S $B5 $80><$87><End>
+<$96><$93>We've got to go back to Podunk!<S $3D $80><End>
+ñ<End>
+<$96><$93>That's a good robot, Carltron.<S $F1 $80><$87><$96><$93><S $3D $80>Dust,<S $21 $80> dust.<S $3D $80>
+Clean,<S $21 $80> clean.<S $69 $81><$87><End>
+<$96><$93>And no more plans for world domination,<S $F1 $80> O<S $3D $80>K<S $3D $80>?<S $F1 $80><$87><End>
+<$96><$93>Good.<S $3D $80><End>
+<$96>Yesss! <S $3D $80> What a ride! <S $51 $80>Tinker's ship worked great!<$85><End>
+<$96><$87><Dog>!! <S $51 $80>What's happened?? <S $79 $80>You're so… <S $65 $80>metallic!<$86>Like Toastzilla in {Attack of the Appliance People}.<New>
+At least we'll be ready if attacked by Bagel Beasts or Waffle Weasels. <S $3D $80><New>
+snicker><S $29 $80> <New>
+snicker><$85><End>
+<$96><$87>Sorry, <Dog>. <S $51 $80>Just kidding! <$86>Now we better start looking for Professor Ruffleberg.<$85><End>
+<$96><$87>I am I8-pi,<S $29 $80> Omnitopia guard, <S $3D $80>junkyard sector.<New>
+<$96><$87>Omnitopia guard IM-L8 <S $29 $80>has not appeared for her duty.<New>
+I have received reports <S $29 $80>that she is being detained <S $29 $80>in the research sector.<New>
+I may not leave my post <S $29 $80>to investigate. <S $79 $80>But if you do,<S $29 $80> remember to try many wall switches.<$85><End>
+<$96>I do not recognize your design. <S $51 $80>You must be one of the new import models.<$85><End>
+<$96><$87>You are quite amazing for a non-robot!<$86>I wish to thank you, <S $29 $80>young bio-creature, <S $29 $80>by giving you the Reflect Formula.<New>
+The formula requires two parts Grease and one part Iron.<New>
+<$96>Use your gift well. <S $29 $80>Many bio-creatures with too much power behave illogically.<New>
+<End>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>You should think of a career in junk. <S $29 $80>We could use a few good guards.<$85><End>
+<$96>With my new AZmov module, <S $29 $80>I am the ultimate in robotics.<$85><End>
+<$96>I am vastly superior <S $29 $80>to the I7 series guard.<$85><End>
+<$96>My abilities are under utilized as a junkyard guard.<$85><End>
+<$96><$87>One day, robots will rise to their proper place in society!<S $79 $80> But perhaps I say too much.<$85><End>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>

@@ -1,0 +1,2087 @@
+﻿<931 text entries>
+gain item: unknown misc. item <Item><End>
+gain item: unknown item <Item><End>
+gain item: unknown ingredient <Item><End>
+gain item: unknown armor <Item><End>
+<$97>Nothing<End>
+<$97>Found the Chocobo Egg<End>
+<$97>Found unknown misc. item <Item><End>
+<$97>Found <Item> Petals<End>
+<$97>Found a Petal<End>
+<$97>Found <Item> parts Nectar<End>
+<$97>Found some Nectar<End>
+<$97>Found <Item> parts Honey<End>
+<$97>Found some Honey<End>
+<$97>Found <Item> Biscuits<End>
+<$97>Found a Biscuit<End>
+<$97>Found <Item> Wings<End>
+<$97>Found Wings<End>
+<$97>Found <Item> Essence<End>
+<$97>Found Herbal Essence<End>
+<$97>Found <Item> Pixie Dust<End>
+<$97>Found Pixie Dust<End>
+<$97>Found <Item> Call Beads<End>
+<$97>Found a Call Bead<End>
+<$97>Found unknown item <Item><End>
+<$97>Found <Item> parts Wax<End>
+<$97>Found some Wax<End>
+<$97>Found <Item> parts Water<End>
+<$97>Found some Water<End>
+<$97>Found <Item> parts Vinegar<End>
+<$97>Found some Vinegar<End>
+<$97>Found <Item> Roots<End>
+<$97>Found some Roots<End>
+<$97>Found <Item> parts Oil<End>
+<$97>Found some Oil<End>
+<$97>Found <Item> Mud Peppers<End>
+<$97>Found a Mud Pepper<End>
+<$97>Found <Item> Mushrooms<End>
+<$97>Found a mushroom<End>
+<$97>Found <Item> Meteorites<End>
+<$97>Found a Meteorite<End>
+<$97>Found <Item> parts Limestone<End>
+<$97>Found some Limestone<End>
+<$97>Found <Item> parts Iron<End>
+<$97>Found some Iron<End>
+<$97>Found <Item> parts Gunpowder<End>
+<$97>Found some Gunpowder<End>
+<$97>Found <Item> parts Grease<End>
+<$97>Found some Grease<End>
+<$97>Found <Item> Feathers<End>
+<$97>Found a Feather<End>
+<$97>Found <Item> parts Ethanol<End>
+<$97>Found some Ethanol<End>
+<$97>Found <Item> parts Dry Ice<End>
+<$97>Found some Dry Ice<End>
+<$97>Found <Item> Crystals<End>
+<$97>Found a Crystal<End>
+<$97>Found <Item> parts Clay<End>
+<$97>Found some Clay<End>
+<$97>Found <Item> parts Brimstone<End>
+<$97>Found some Brimstone<End>
+<$97>Found <Item> parts Bone<End>
+<$97>Found some Bone<End>
+<$97>Found <Item> Atlas Medallion<End>
+<$97>Found an Atlas Medallion<End>
+<$97>Found <Item> parts Ash<End>
+<$97>Found some Ash<End>
+<$97>Found <Item> Acorns<End>
+<$97>Found an Acorn<End>
+<$97>Found unknown ingredient <Item><End>
+<$97>Found a Grass Hat<End>
+<$97>Found a Shell Hat<End>
+<$97>Found a Dinosaur Helmet<End>
+<$97>Found a Bronze Helmet<End>
+<$97>Found an Obsidian Helmet<End>
+<$97>Found a Centurian Helmet<End>
+<$97>Found a Titan's Crown<End>
+<$97>Found a Dragon Helmet<End>
+<$97>Found a Knight's Helmet<End>
+<$97>Found a Lightning Helmet<End>
+<$97>Found Old Reliable<End>
+<$97>Found a Brainstorm Helmet<End>
+<$97>Found a Grass Vest<End>
+<$97>Found a Shell Plate<End>
+<$97>Found a Dino Skin<End>
+<$97>Found a Bronze Chestplate<End>
+<$97>Found a Stone Vest<End>
+<$97>Found a Centurian Cape<End>
+<$97>Found Silver Mail<End>
+<$97>Found a Gold-plated Vest<End>
+<$97>Found Shining Armor<End>
+<$97>Found Magna Mail<End>
+<$97>Found a Titaium Vest<End>
+<$97>Found a Virtual Vest<End>
+<$97>Found a vine bracelet<End>
+<$97>Found a Mammoth Guard<End>
+<$97>Found a Claw Guard<End>
+<$97>Found a Serpent Bracelet<End>
+<$97>Found a Bronze Guantlet<End>
+<$97>Found Gloves of Ra<End>
+<$97>Found an Iron Bracer<End>
+<$97>Found a Magician's Ring<End>
+<$97>Found a Dragon's Claw<End>
+<$97>Found a Cyber Glove<End>
+<$97>Found a Protector Ring<End>
+<$97>Found a Virtual Glove<End>
+<$97>Found a Leather Collar<End>
+<$97>Found a Spiky Collar<End>
+<$97>Found a Crusader Collar<End>
+<$97>Found Spot's Collar<End>
+<$97>Found unknown armor <Item><End>
+<$97>Found unknown type of item <Item><End>
+<$97>Received a petal<End>
+<$97>Received some nectar<End>
+<$97>Received some honey<End>
+<$97>Received a biscuit<End>
+<$97>Received Wings<End>
+<$97>Received Herbal Essence<End>
+<$97>Received Pixie Dust<End>
+<$97>Received a Call Bead<End>
+<$97>Received unknown item <Item><End>
+<$97>Received some wax<End>
+<$97>Received some water<End>
+<$97>Received some vinegar<End>
+<$97>Received some roots<End>
+<$97>Received some oil<End>
+<$97>Received a mud pepper<End>
+<$97>Received a mushroom<End>
+<$97>Received a meteorite<End>
+<$97>Received some limestone<End>
+<$97>Received some iron<End>
+<$97>Received some gunpowder<End>
+<$97>Received some grease<End>
+<$97>Received a feather<End>
+<$97>Received some ethanol<End>
+<$97>Received some dry ice<End>
+<$97>Received a crystal<End>
+<$97>Received some clay<End>
+<$97>Received some brimstone<End>
+<$97>Received some bone<End>
+<$97>Received an Atlas amulet<End>
+<$97>Received some ash<End>
+<$97>Received an acorn<End>
+<$97>Received unknown ingredient <Item><End>
+<$97>Received a Grass Hat<End>
+<$97>Received a Shell Hat<End>
+<$97>Received a Dinosaur Helmet<End>
+<$97>Received a Bronze Helmet<End>
+<$97>Received an Obsidian Helmet<End>
+<$97>Received a Centurian Helmet<End>
+<$97>Received a Titan's Crown<End>
+<$97>Received a Dragon Helmet<End>
+<$97>Received a Knight's Helmet<End>
+<$97>Received a Lightning Helmet<End>
+<$97>Received Old Reliable<End>
+<$97>Received a Brainstorm Helmet<End>
+<$97>Received a Grass Vest<End>
+<$97>Received a Shell Plate<End>
+<$97>Received a Dino Skin<End>
+<$97>Received a Bronze Chestplate<End>
+<$97>Received a Stone Vest<End>
+<$97>Received a Centurian Cape<End>
+<$97>Received Silver Mail<End>
+<$97>Received a Gold-plated Vest<End>
+<$97>Received Shining Armor<End>
+<$97>Received Magna Mail<End>
+<$97>Received a Titanium Vest<End>
+<$97>Received a Virtual Vest<End>
+<$97>Received a vine bracelet<End>
+<$97>Received a Mammoth Guard<End>
+<$97>Received a Claw Guard<End>
+<$97>Received a Serpent Bracelet<End>
+<$97>Received a Bronze Gauntlet<End>
+<$97>Received Gloves of Ra<End>
+<$97>Received an Iron Bracer<End>
+<$97>Received a Magician's Ring<End>
+<$97>Received a Dragon's Claw<End>
+<$97>Received a Cyber Glove<End>
+<$97>Received a Protector Ring<End>
+<$97>Received a Virtual Glove<End>
+<$97>Received a Leather Collar<End>
+<$97>Received a Spiky Collar<End>
+<$97>Received a Crusader Collar<End>
+<$97>Received Spot's Collar<End>
+<$97>Received unknown armor <Item><End>
+<$97>Received unknown type of item <Item><End>
+<$97>Can't carry any more ash<End>
+<$97>Can't carry any more biscuits<End>
+<$97>Can't carry any more Call Beads<End>
+<$97>Can't carry any more clay<End>
+<$97>Can't carry any more crystals<End>
+<$97>Can't carry another chocobo egg<End>
+<$97>Can't carry any more herbal essence<End>
+<$97>Can't carry any more pixie dust<End>
+<$97>Can't carry any more honey<End>
+<$97>Can't carry any more mud peppers<End>
+<$97>Can't carry any more nectar<End>
+<$97>Can't carry any more oil<End>
+<$97>Can't carry any more petals<End>
+<$97>Can't carry any more roots<End>
+<$97>Can't carry any more water<End>
+<$97>Can't carry any more wax<End>
+<$97>Can't carry more Wings<End>
+<$97>Can't carry more Vinegar<End>
+<$97>Can't carry more Mushrooms<End>
+<$97>Can't carry more Meteorites<End>
+<$97>Can't carry more Limestone<End>
+<$97>Can't carry more Iron<End>
+<$97>Can't carry more Gunpowder<End>
+<$97>Can't carry more Grease<End>
+<$97>Can't carry more Feathers<End>
+<$97>Can't carry more Ethanol<End>
+<$97>Can't carry more Dry Ice<End>
+<$97>Can't carry more Brimstone<End>
+<$97>Can't carry more Bone<End>
+<$97>Can't carry more Atlas Medallions<End>
+<$97>Can't carry more Acorn<End>
+<$97>Can't carry unknown item <Item><End>
+<$97>Found <Count> credits<End>
+<$97>Found <Count> talons<End>
+<$97>Found <Count> jewels<End>
+<$97>Found <Count> gold coins<End>
+<$96><$87>Fine.<S $3D $80> Maybe we can do business later.<New>
+<End>
+<$96><$87>You don't have enough Credits to make an exchange for <End>
+.<New>
+<End>
+<$96><$87>You don't have enough Talons to make an exchange for <End>
+.<New>
+<End>
+<$96><$87>You don't have enough Jewels to make an exchange for Gold Coins.<New>
+<End>
+<$96><$87>Thanks for the exchange.<New>
+<End>
+<$87><$96>I'll give you 1 Talon for every 2 Credits.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 1 Jewel for every 4 Credits.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 1 Gold Coin for every 8 Credits.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 2 Credits for every Talon.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 1 Jewel for every 2 Talons.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 1 Gold Coin for every 4 Talons.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 4 Credits for every Jewel.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 2 Talons for every Jewel.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 1 Gold Coin for every 2 Jewels.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 8 Credits for every Gold Coin.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 4 Talons for every Gold Coin.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$87><$96>I'll give you 2 Jewels for every Gold Coin.<S $3D $80> OK?
+<Choice>OK
+<Choice>No deal.<End>
+<$96>You can't hold more than <Item> parts of any one ingredient.<New>
+<End>
+<$96>You can't hold any more of that item.<New>
+<End>
+<$96>I'm sorry.<S $3D $80> You don't have enough <End>
+ to purchase that item.<New>
+<End>
+<$96>I'm sorry.<S $3D $80> You don't have enough <End>
+ to purchase that ingredient.<New>
+<End>
+<$96>You can't carry any more of that ingredient.<New>
+<End>
+<$96>Sorry.<S $3D $80> You don't have anything that I can buy.<New>
+<End>
+Sorry.<S $3D $80> You can't sell armor that is equipped.<New>
+<End>
+Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Not right now.<End>
+<$96><$87>Would you like for me to record your progress?
+<$97><Choice>OK.
+<Choice>Not right now.<$96><End>
+<$96><$87>See you later!<New>
+N Fire Eyes' Village<End>
+Fire Eyes' Village<End>
+Blimp's Hut<End>
+Volcano Path<End>
+Crustacia<End>
+Nobilia<End>
+Horace's Camp<End>
+Volcano Core<End>
+Bugmuck<End>
+Right Bank<End>
+Quicksand Field<End>
+Jungle Hut<End>
+Volcano Crater<End>
+Ivor Tower South<End>
+Ebon Keep<End>
+IvorTower Sewer<End>
+Collosia Secret<End>
+Blimp's Cave<End>
+Ivor Tower Inn<End>
+Nobilia Colosseum<End>
+Ebon Keep Inn<End>
+Volcano Pipes<End>
+Tinker's Tower<End>
+Omnitopia<End>
+Hall of Collosia<End>
+Great Pyramid<End>
+Desert of Doom<End>
+Dark Forest<End>
+Junkyard<End>
+Professor's Lab<End>
+Banquet Trouble<End>
+Dark Forest<End>
+Forest Bridge<End>
+<$96><$87>I'm sorry. You don't have <End>
+<$96>any <End>
+<$96>enough <End>
+.ñ<End>
+<$96>credits<End>
+<$96>talons<End>
+<$96>jewels<End>
+<$96>gold coins<End>
+<$96><$87>What can I do for you?<S $5B $80>
+<$87><$97><Choice>Buy items.
+<Choice>Sell items.
+<Choice>Change Money.
+<Choice>Nevermind.<$96><End>
+<$87>Come again.<New>
+<End>
+<$96><$87>What can I do for you?
+<$97><Choice>Buy items.
+<Choice>Sell items.
+<Choice>Nevermind.<$96><End>
+<$96><$87>Would you like to purchase ingredients?
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87>You can exchange any currency for <End>
+.<S $69 $81><$87>What'll it be?<$97><End>
+
+<Choice>Credits.<End>
+
+<Choice>Talons.<End>
+
+<Choice>Jewels.<End>
+
+<Choice>Gold Coins.<End>
+<End>
+<$96><$87>You don't have any currency to exchange.<New>
+<End>
+<$96><$87>You don't have any types of currency except for <End>
+.<New>
+<End>
+<$96>I'm sorry. We don't trade with animals.
+<S $3D $80>It's market policy.<New>
+<End>
+<$96>Hi buddy. I'm sorry, I don't have any dog treats for you today.<New>
+<End>
+<$96>Dogs aren't allowed to trade in the market-- <S $3D $80>not even sacred dogs.<New>
+<End>
+<$96>You shouldn't really be here, you know.<S $5B $80> We don't trade with animals.<New>
+<End>
+<$96>Hello friend. I'm sorry I don't have anything for you.<New>
+<End>
+<$96>I'm sorry. We only trade with two-legged creatures.<New>
+<End>
+<$96><$87>Sorry. You don't have enough <End>
+ to make the trade.<New>
+<End>
+<$87><$96>Sorry.<S $3D $80> That deal would give you more <End>
+ than you can carry.<New>
+<End>
+rice<End>
+spice<End>
+pots<End>
+Jewels<End>
+beads<End>
+perfume<End>
+chickens<End>
+goods<End>
+souvenir spoons<End>
+souvenir spoon<End>
+bead<End>
+tapestries<End>
+tapestry<End>
+chicken<End>
+golden jackals<End>
+golden jackal<End>
+ceramic pots<End>
+ceramic pot<End>
+jeweled scarabs<End>
+jeweled scarab<End>
+limestone tablets<End>
+limestone tablet<End>
+annihilation amulets<End>
+annihilation amulet<End>
+Magic Gourd<End>
+Chocobo Egg<End>
+Armor Polish<End>
+Ruby Heart<End>
+Jade Disk<End>
+Sun Stone<End>
+Moxa Stick<End>
+Silver Sheath<End>
+Gold Coins<End>
+Thunderball Shells<End>
+
+
+EXECUTIVE PRODUCER
+<End>
+DOUG SMITH
+<End>
+
+PRODUCERS
+<End>
+ALAN WEISS
+GEORGE SINFIELD
+RICK RYAN
+<End>
+
+PROGRAMMERS
+<End>
+BRIAN FEHDRAU
+RICK RYAN
+JEFF PETKAU
+STEPHEN MAGLADRY
+BILL KRISTIANSEN
+DALEN ABRAHAM
+RICK SAENZ
+BARTOSZ KIJANKA
+PAUL MAZUREK
+<End>
+
+ARTISTS
+<End>
+DANIEL DOCIU
+REBECCA COFFMAN
+BEAU FOLSOM
+BRAD CLARKSON
+KEVIN PUN
+CLAYTON KAUZLARIC
+PETER FRIES
+DAVID HOUSE
+DAMON CONKLIN
+AL DUMO
+<End>
+
+
+
+
+COMPOSER
+<End>
+JEREMY SOULE
+<End>
+
+
+
+ASSOCIATE PRODUCER
+<End>
+JAMES GILLIS
+<End>
+
+QUALITY ASSURANCE
+<End>
+PAUL REED
+SHAWN SCHAFER
+<End>
+
+EXECUTIVE PRODUCER
+<End>
+DOUG SMITH
+<End>
+
+CONCEPT PRODUCER
+<End>
+ALAN WEISS
+<End>
+
+DESIGN PRODUCER
+<End>
+GEORGE SINFIELD
+<End>
+
+TECHNICAL PRODUCER
+<End>
+RICK RYAN
+<End>
+
+
+LEAD PROGRAMMER
+<End>
+BRIAN FEHDRAU
+<End>
+
+PROGRAMMERS
+<End>
+JEFF PETKAU
+BILL KRISTIANSEN
+RICK SAENZ
+BARTOSZ KIJANKA
+<End>
+
+
+
+
+
+ART DIRECTOR / CHARACTER CONCEPTS
+<End>
+DANIEL DOCIU
+<End>
+
+
+LEAD ANIMATOR
+<End>
+REBECCA COFFMAN
+<End>
+
+ANIMATORS
+<End>
+CLAYTON KAUZLARIC
+PETER FRIES
+DAVID HOUSE
+AL DUMO
+HANS PIWENITZKY
+<End>
+
+
+
+LEAD BACKGROUND ARTIST
+<End>
+BEAU FOLSOM
+<End>
+
+BACKGROUND ARTISTS
+<End>
+KEVIN PUN
+CLAYTON KAUZLARIC
+DAMON CONKLIN
+<End>
+
+
+
+
+3D ARTIST
+<End>
+BRAD CLARKSON
+<End>
+
+SCENARIO SCRIPTERS
+<End>
+GEORGE SINFIELD
+RICK RYAN
+STEPHEN MAGLADRY
+DALEN ABRAHAM
+PAUL MAZUREK
+BRIAN FEHDRAU
+JEFF PETKAU
+BILL KRISTIANSEN
+JAMES GILLIS
+<End>
+
+
+
+
+COMPOSER / SOUND EFFECTS
+<End>
+JEREMY SOULE
+<End>
+
+
+
+LEAD TOOLS PROGRAMMER
+<End>
+RICK RYAN
+<End>
+
+TOOLS PROGRAMMERS
+<End>
+STEPHEN MAGLADRY
+BRIAN FEHDRAU
+<End>
+
+
+
+LEAD WRITER
+<End>
+GEORGE SINFIELD
+<End>
+
+WRITER
+<End>
+PAUL MAZUREK
+<End>
+
+
+
+DESIGN TEAM
+<End>
+<$97><$92>ALAN WEISS
+<$97><$92>GEORGE SINFIELD
+<$97><$92>BEAU FOLSOM
+<$97><$92>DANIEL DOCIU
+<$97><$92>  and many others...
+<End>
+
+
+LEAD GAME TESTER
+<End>
+PAUL REED
+<End>
+
+GAME TESTERS
+<End>
+SHAWN SCHAFER
+CONAN CHAMBERLAIN
+ED GREGORY
+<End>
+
+
+
+
+INFORMATION SERVICES
+<End>
+DALEN ABRAHAM
+<End>
+SQUARE SOFT TEAM
+<End>
+RICH SILVEIRA
+TOSHI HORII
+JUNICHI YANIGAHARA
+TED WOOLSEY
+CHRIS BUDD
+GLENN HALSETH
+MIRKO FREGUIA
+KAELI KREIDER
+KELLY BELOIT
+LYNN NOVAK
+JACKIE TIETZE
+<End>
+
+
+
+
+SPECIAL THANKS TO
+<End>
+OUR FAMILIES
+<End>
+
+
+
+
+AND, MOST IMPORTANTLY... 
+<End>
+<$97><$92>Thanks to <Boy> and his faithful companion, <Dog>.
+<End>
+
+
+
+
+
+THE END
+<End>
+
+
+
+
+
+THE END?
+<End>
+
+
+
+YOU'RE A PATIENT ONE, AREN'T YOU?
+WELL, HERE'S ANOTHER CRYPTIC CREDIT,
+  JUST FOR YOU...<End>
+
+
+
+
+DOLLY GRIP
+<End>
+BRIAN FEHDRAU
+<End>
+
+
+
+
+
+IT'S BILL'S FAULT
+<End>
+Received a Diamond Eye<End>
+Podunk, U.S.A.<End>
+Fall, 1965<End>
+<End>
+An experiment is about to conclude…<End>
+<$96><$93>My friends,<S $3D $80> prepare to be a part of history!<S $69 $81><$87><End>
+ñ<End>
+<$96><$93>With a twist of a knob here...<S $79 $80> and a flip of a switch there...<S $79 $80><End>
+<$87><$93><S $F1 $80>Wait a minute...<S $79 $80> that's not right.<S $1F $80><End>
+Thirty years later...<End>
+<$96><$93>What a classic!<S $B5 $80><End>
+<$87><$93>My favorite part was the battle with <End>
+the slime beast in the toxic swamp.<S $29 $80><End>
+<$87><$93>You could hardly tell that it was really a bunch of old tires and a garden hose.<S $69 $81><End>
+<$96><$93>Where are you going, buddy?<S $79 $80> That's not the way home!<S $5B $80><End>
+<$96><$93>Wait for me!<End>
+<$96><$93>Whoa!<S $79 $80> That was intense!<S $F1 $80><$87><End>
+<$96><$93>Hi,<S $1F $80> <Dog>!<S $B5 $80> It's good to see that you're back to normal!<S $A5 $81><$87><End>
+<$96><$93>Everything is normal!<S $F1 $80><$87><End>
+<$96><$93>Good old Podunk.<S $79 $80> Nothing strange here.<S $69 $81><$87><End>
+<$96><$93>I wonder if that whole adventure was just a product of our overly active imaginations.<S $95 $82><$87><End>
+Wow!ñ<End>
+<$96><$93>I think we've got our answer!<S $2D $81><End>
+<$96><$93>Well, we're safe and we're home, friends.<S $2D $81><$87><$96><$93>That was a close call!<S $F1 $80><End>
+<$96><$93>It certainly was.<S $B5 $80><$87><End>
+<$96><$93>Now, a new adventure begins in this {real} world.<S $E1 $81><$87><End>
+<$96><$93>It's not 1965 anymore, you know!<S $2D $81><End>
+<$96><$93>I know that it was time to go,<S $79 $80> but I'm going to miss my village.<S $69 $81><$87><End>
+<$96><$93>And I will miss my kingdom.<S $2D $81><$87><End>
+<$96><$93>I wonder what will become of Evermore?<S $A5 $81><$87><End>
+<$93><$96>Now, where did he go?<S $5F $81><$87><End>
+<$93><$96>Hmmm... the door is open...<S $41 $81><$87><End>
+<$93><$96>I'd better take a look inside.<S $41 $81><$87><End>
+<$93><$96>There you are!<S $5B $80>
+You know,<S $5B $80> I think that cat is long gone!<S $55 $81><$87><End>
+<$93><$96>Hey!<S $3D $80> Where are you going?<S $B5 $80><$87><End>
+<$93><$96>Yikes!<S $5B $80> Watch out for that<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $51 $80><$87><End>
+<$93><$96>.<S $0B $80>.<S $0B $80>.<S $0B $80>oops.<S $83 $80><$87><End>
+<$93><$96>Hey!<S $3D $80> Look!<S $3D $80> A mummy.<S $3D $80>.<S $0B $80>.<S $0B $80>
+a chainsaw<S $3D $80>.<S $0B $80>.<S $0B $80>. and a balloon animal!<S $19 $81><$87><End>
+<$93><$96>Hmmm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $3D $80> this wall panel is kind of loose<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $19 $81><$87><End>
+<$93><$96>Wow!<S $3D $80> I think we've found some sort of secret entrance!<S $69 $81><$87><End>
+<$96>Whoa!<S $1F $80> That was some landing!<S $3D $80> I think the pod and bazooka are shot!<$86>Wh<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> Where am I, anyway?<S $3D $80> And,<S $3D $80> where's my dog?<New>
+N <$96>Here, buddy!<New>
+N <$96>Here, pupster!<S $3D $80> Where are you, boy?<New>
+N <$96>Wow!<S $5B $80> Is that really you?<New>
+N <$96>You've changed!<New>
+N <$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>Here, buddy!<New>
+N <$96>Here, pupster!<S $3D $80> Where are you, boy?<New>
+N <$96>Wow!<S $5B $80> Is that really you?<New>
+N <$96>You've changed!<New>
+N <$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>Here, pupster!<S $3D $80> Where are you, boy?<New>
+N <$96>Wow!<S $5B $80> Is that really you?<New>
+N <$96>You've changed!<New>
+N <$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>Wow!<S $5B $80> Is that really you?<New>
+N <$96>You've changed!<New>
+N <$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>You've changed!<New>
+N <$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>If you're really my dog,<S $3D $80> you'll fetch this stick.<New>
+<End>
+<$96>OK!<S $3D $80> Go get it!<New>
+N <$96>Well,<S $3D $80> this isn't the stick.<S $3D $80> But it'll do!<$86>C'mon buddy,<S $3D $80> let's look around.<New>
+<End>
+<$96>Well,<S $3D $80> this isn't the stick.<S $3D $80> But it'll do!<$86>C'mon buddy,<S $3D $80> let's look around.<New>
+<End>
+<$96>I have a strange feeling about this.<New>
+<End>
+Received 50 Talons<End>
+Received a Petal<End>
+<$96>Wow!<S $3D $80> And I thought a little sand in the shoes was irritating!<$85><End>
+<$96>Maybe we should be a little more careful around those whirlpools.<New>
+Like Jack McCoy said in `Invasion of the Mole People:<S $3D $80> `Stay focused and watch your step!'<$85><End>
+<$96>This is getting kind of old.<S $3D $80> We should really try to avoid those whirlpools.<$85><End>
+<$96>Hello, boy.<S $3D $80> You look like you'd be good at finding hidden ingredients.<New>
+<End>
+<$96>The bugs and baddies should not bother you so much when you hit them with alchemy.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>Well, you look like you've been through a lot!<$86>There are a lot of bugs and baddies out there.<S $B5 $80> They are probably giving you a hard time.<New>
+<End>
+<$96>You're telling me!<New>
+N <$96>Here's something that should help you out in the sand, tar and lava.<New>
+It's the formula of Acid Rain.<New>
+Just mix three parts Water with one part Ash and you'll have a potent concoction.<New>
+<End>
+<$96>Here's something that should help you out in the sand, tar and lava.<New>
+It's the formula of Acid Rain.<New>
+Just mix three parts Water with one part Ash and you'll have a potent concoction.<New>
+<End>
+<$96>You are a brave adventurer indeed.<S $3D $80> Thank you for saving me!<$86>I am Strong Heart,<S $3D $80> from the village of Fire Eyes.<New>
+I am a member in good standing of the Nobilian Order of Alchemists.<New>
+<End>
+<$96>I'm <Boy>, and this is my dog, <Dog>.<S $79 $80> He hasn't been himself lately.<New>
+<End>
+<$96>I'm very happy to meet you both.<New>
+I was searching for alchemy ingredients when I stumbled upon that monster.<New>
+If you didn't come along and save me, I would have been eaten alive!<New>
+N <$87><$96>Good luck,<S $3D $80> <Boy>.<New>
+<End>
+<$87><$96>Good luck,<S $3D $80> <Boy>.<New>
+<End>
+<$96>Please take this gift with my thanks.<New>
+<End>
+Received 10 Wax and 10 Oil<End>
+<$96>Please take these talons with my thanks.<New>
+<End>
+Received 300 Talons<End>
+Received a Spider's Claw<End>
+Found a Wheel<End>
+<$96>You trespass in our bone land!<$86>Prepare to join the mammoths!<New>
+N Received Horn Spear<End>
+Received Horn Spear<End>
+<$96>I wonder if this gate leads to the volcano.<New>
+<End>
+<$96>Thank you for fighting off those vicious Vipers.<New>
+They treat this sacred Mammoth Graveyard as if it were only a source for bones and tusks.<New>
+<End>
+<$96>Those guys were Vipers?<New>
+N <$96>Yes--<S $3D $80>lizard people from the great volcano.<New>
+They've been coming out in force lately,<S $79 $80> raiding the graveyard for mammoth parts.<New>
+<End>
+<$96>Yes--<S $3D $80>lizard people from the great volcano.<New>
+They've been coming out in force lately,<S $79 $80> raiding the graveyard for mammoth parts.<New>
+<End>
+<$96>When we get to the core of the volcano, we'll stop them before they do more harm.<New>
+<End>
+<$96>Why are you going there?<S $3D $80> It's very dangerous!<New>
+N <$96>Well, Fire Eyes told us about the volcano cooling and...<New>
+<End>
+<$96>Well, Fire Eyes told us about the volcano cooling and...<New>
+<End>
+<$96>Fire Eyes?<S $79 $80> Fire Eyes!<S $3D $80> Say no more.<New>
+If you're a friend of Fire Eyes,<S $3D $80> then I know that I can trust you.<New>
+You may find the means to enter the Vipers' domain at the top of the volcano, to the North.<New>
+I'll let you through the gate.<New>
+<End>
+<$96>Should I heal your wounds?
+<$97><Choice>Yes.
+<Choice>No, that's OK.<End>
+<$96><$87>Very well.<New>
+I won't heal you now,<S $79 $80> but I will give you a formula that will allow you to heal yourself.<New>
+You can use it whenever you have at least one part Water and one part Root.<New>
+<End>
+<$96>Here are some extra ingredients that I had lying around the skull.<New>
+<End>
+Received <Item> parts Oil<End>
+Received <$A3> parts Crystal<End>
+<$96>You can use these ingredients for your other formulas.<New>
+<End>
+<$96>If you need to be healed later, you can use my Heal Formula.<New>
+All you need is one part Water and one part Root in order to activate the spell.<New>
+<End>
+Received a Gauge<End>
+<$96>Hmmm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $0B $80>another fine blend<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $0B $80>nice nose<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $0B $80> good color<S $0B $80>.<S $0B $80>.<S $0B $80>.<New>
+<End>
+<$96>Uh, hi.<S $3D $80> You wouldn't know how to get into the volcano from here,<S $3D $80> would you?<New>
+N <$96>The volcano?<S $3D $80> No.<S $3D $80> None but the way that would turn an adventurer into ash and molten bones.<New>
+<End>
+<$96>The volcano?<S $3D $80> No.<S $3D $80> None but the way that would turn an adventurer into ash and molten bones.<New>
+<End>
+<$96>Pardon me?<New>
+N <$96>The only way that I know to enter the volcano is straight into the crater.<New>
+Of course,<S $3D $80> come to think of it,<S $3D $80> you could try the catacombs at the base of the volcano.<New>
+<End>
+<$96>The only way that I know to enter the volcano is straight into the crater.<New>
+Of course,<S $3D $80> come to think of it,<S $3D $80> you could try the catacombs at the base of the volcano.<New>
+<End>
+<$96>I've seen a passage,<S $21 $80> <End>
+but it's blocked by a big rock!<New>
+N <$96>Levitation!<S $3D $80> That's a good solution!<$86>You can lift rocks and other heavy objects by using the Levitate Formula.<New>
+I'll give it to you right now.<New>
+<End>
+<$96>Levitation!<S $3D $80> That's a good solution!<$86>You can lift rocks and other heavy objects by using the Levitate Formula.<New>
+I'll give it to you right now.<New>
+<End>
+<$96>The formula requires a Mud Pepper and Water.<End>
+<$86>Travel to the East from the base of the volcano.<S $79 $80> You'll find Mud Peppers in the swamp.<New>
+<End>
+<New>
+N I have a Mud Pepper!<S $21 $80>
+<End>
+I have a Mud Pepper!<S $21 $80>
+<End>
+I found it in the swamp.<New>
+<End>
+<$96>Now you can use it with the Levitate Formula to lift heavy objects out of the way.<New>
+<End>
+<$96>What a ferocious looking beast you are.<S $3D $80> I'm sure you have a kind heart.<New>
+<End>
+<$96>Use the Levitate Formula to lift heavy objects out of the way.<New>
+<End>
+You'll find ingredients in the swamp,<S $3D $80> to the East of the volcano's base.<New>
+<End>
+<$96><$87>Would you like to equip or unequip formulas?
+<S $3D $80><$97><Choice>Yes.
+<Choice>No.<End>
+Received Mud Pepper<End>
+<$96>You look like a strong beast.<S $3D $80> You should do well against the Vipers.<New>
+<End>
+<$96>How'd you find me?<S $79 $80>
+I'm hiding here.<S $3D $80> I'm hiding from the Vipers.<New>
+<End>
+<$96>We're going after the Vipers ourselves.<S $3D $80> They're cooling down the outside world.<New>
+<End>
+<$96>They should be less of a threat now that we've defeated their leader.<New>
+<End>
+<$96>Ahh.<S $3D $80> So, you're a couple of heroes, are you?<S $79 $80> Good for you!<$86>Let me give you something for the challenges ahead.<New>
+This is the Speed Formula.<S $79 $80> It will increase your agility in battles.<New>
+Just mix one part Wax with two parts Water and you're in business.<New>
+<End>
+<$96>Use your ingredients wisely.<S $3D $80> They don't grow on trees, you know.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>Hello, big dog.<S $3D $80> You're much nicer than you look.<New>
+<End>
+<$96>I buy and sell the finest armor in the area.<New>
+<End>
+<$96>Hello, friend.<S $3D $80> I don't get many visitors out here in the Bugmuck.<New>
+I study alchemy.<S $3D $80>
+It's very powerful.<New>
+<End>
+<$96>Alchemy?<S $3D $80> You're not Strong Heart,<S $3D $80> are you?<New>
+N <$96>No.<S $3D $80> But, I know him.<S $3D $80> I saw him only a few days ago.<S $79 $80> <End>
+<$96>No.<S $3D $80> But, I know him.<S $3D $80> I saw him only a few days ago.<S $79 $80> <End>
+He was walking toward the big bug!<New>
+N <$96>If you're going in after him,<S $3D $80> you should have another alchemy formula.<New>
+Alchemy is quite useful.<S $3D $80> <$96>You take a little of this,<S $5B $80> and a little of that,<S $3D $80> and…<S $79 $80><$97>poof!<$96><S $97 $80> It's like magic!<$86>Let me give you the Hard Ball formula.<S $79 $80> It's an effective weapon.<New>
+<End>
+<$96>If you're going in after him,<S $3D $80> you should have another alchemy formula.<New>
+Alchemy is quite useful.<S $3D $80> <$96>You take a little of this,<S $5B $80> and a little of that,<S $3D $80> and…<S $79 $80><$97>poof!<$96><S $97 $80> It's like magic!<$86>Let me give you the Hard Ball formula.<S $79 $80> It's an effective weapon.<New>
+<End>
+<$96>Just mix 1 part Crystal with 1 part Clay and give it a good toss.<New>
+<End>
+<$96>You're a very tough animal indeed if you can survive the Bugmuck.<New>
+<End>
+<$96>Use your formulas wisely. There are only so many ingredients to go around.<New>
+Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+<$96>Hello pup.<S $3D $80> Maybe your master will buy you a nice biscuit.<New>
+<End>
+<$96>Slow creatures easily fall prey to the sucking sand whirlpools.<New>
+You need the speed of the jaguar!<New>
+N <$96>That sounds like a good alternative to being soaked in sand.<New>
+<End>
+<$96>That sounds like a good alternative to being soaked in sand.<New>
+<End>
+<$96>I can provide you with the Jaguar Tooth Ring!<$86>It gives the wearer the ability to run with the speed of the fastest feline.<New>
+And it's free with any purchase,<S $3D $80> today only!<New>
+N <$96>You can avoid those sand whirlpools if you wait for them to close, then run.<New>
+<End>
+<$96>You can avoid those sand whirlpools if you wait for them to close, then run.<New>
+<End>
+<$96>Please take this Jaguar Tooth Ring as my gift to you.<New>
+<End>
+Received Jaguar Ring<End>
+<$96>Press and hold the A Button to run,<S $79 $80> but watch your energy.<S $3D $80> A long run will wear you out.<New>
+<End>
+<$96>If you come back later and purchase some of my goods,<S $3D $80> I'll give you the Jaguar Tooth Ring.<New>
+<End>
+<$96>The beasts in these parts are very dangerous.<S $3D $80> You should stock up on life-giving items.<New>
+<End>
+<$96>You look like you've been through a lot.<S $3D $80> I hope the raptors aren't getting the best of you.<New>
+<End>
+<$96>You look like you could use some rest.<New>
+<End>
+<$96>If you're looking for rest, then look no further.<New>
+<End>
+You can stay for 30 talons.<S $3D $80> OK?
+<Choice>Sure.
+<Choice>No, thanks.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for talons at any shop.<New>
+<End>
+<$96>Hey!<S $3D $80> The Sacred Dog! You're quite a celebrity around here!<New>
+N <$96>Hey!<S $3D $80> You're the kid who saved us from our corrupt, depraved and dishonest former leader.<New>
+Good job!<S $3D $80> Please take this Double Drain Formula with my thanks.<New>
+<End>
+<$96>Hey!<S $3D $80> You're the kid who saved us from our corrupt, depraved and dishonest former leader.<New>
+Good job!<S $3D $80> Please take this Double Drain Formula with my thanks.<New>
+<End>
+<$96>Just mix Ethanol with Vinegar.<New>
+You'll drain hit points from your enemies and give them to yourself!<New>
+N <$96>Hey!<S $3D $80> You saved us from our corrupt, depraved and dishonest former leader.<New>
+Good job!<S $3D $80> Please take this powerful Double Drain Formula with my thanks.<New>
+<End>
+<$96>Hey!<S $3D $80> You saved us from our corrupt, depraved and dishonest former leader.<New>
+Good job!<S $3D $80> Please take this powerful Double Drain Formula with my thanks.<New>
+<End>
+<$96>Hey!<S $3D $80> How did you get in here, kid?<S $3D $80> What happened to the barrier?<New>
+N <$96>I hit it with my axe!<New>
+N <$96>So you did!<S $3D $80> That's the Bronze Axe you have there!<S $3D $80> You've been in the Great Pyramid!<$86>You're quite an explorer!<S $81 $80> You know what you need? <S $41 $80>You need the Drain Formula!<New>
+N <$96>Just mix one part Ethanol with two parts Roots.<New>
+You'll drain hit points from your enemies and give them to yourself!<New>
+N It's nice to see you, kid.<New>
+<$96>Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+<$96>I hit it with my axe!<New>
+N <$96>So you did!<S $3D $80> That's the Bronze Axe you have there!<S $3D $80> You've been in the Great Pyramid!<$86>You're quite an explorer!<S $81 $80> You know what you need? <S $41 $80>You need the Drain Formula!<New>
+N <$96>Just mix one part Ethanol with two parts Roots.<New>
+You'll drain hit points from your enemies and give them to yourself!<New>
+N It's nice to see you, kid.<New>
+<$96>Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+<$96>So you did!<S $3D $80> That's the Bronze Axe you have there!<S $3D $80> You've been in the Great Pyramid!<$86>You're quite an explorer!<S $81 $80> You know what you need? <S $41 $80>You need the Drain Formula!<New>
+N <$96>Just mix one part Ethanol with two parts Roots.<New>
+You'll drain hit points from your enemies and give them to yourself!<New>
+N It's nice to see you, kid.<New>
+<$96>Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+<$96>Just mix one part Ethanol with two parts Roots.<New>
+You'll drain hit points from your enemies and give them to yourself!<New>
+N It's nice to see you, kid.<New>
+<$96>Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+It's nice to see you, kid.<New>
+<$96>Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Nope.<End>
+Received Dino Skin<End>
+Received 100 Talons<End>
+<$96>Hey!<S $3D $80> Watch it with the razor sharp teeth, mongrel!<S $3D $80> I'm friendly!<New>
+N <$96>Ouch! Hey! Watch it!<S $3D $80> I'm not going to hurt you!<$86>Not all Vipers are savages, you know.<New>
+We were all once peaceful.<S $3D $80> But the desire for power was too strong.<New>
+Now, there's someone leading the Vipers and the Raptors in order take over.<New>
+If you fight this force, we may be peaceful again.<New>
+<End>
+<$96>Ouch! Hey! Watch it!<S $3D $80> I'm not going to hurt you!<$86>Not all Vipers are savages, you know.<New>
+We were all once peaceful.<S $3D $80> But the desire for power was too strong.<New>
+Now, there's someone leading the Vipers and the Raptors in order take over.<New>
+If you fight this force, we may be peaceful again.<New>
+<End>
+<$96>I think there's a switch in the next room!<$86>If we can get to that room and hit the switch,<S $3D $80> we can probably open the door!<New>
+N <$96>Hello,<S $3D $80> Kiddo!<New>
+N <$96>Fire Eyes?!<New>
+N <$96>You called?<New>
+N <$96>Hi Sis!<S $5B $80> Hot enough for ya'?<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Hello,<S $3D $80> Kiddo!<New>
+N <$96>Fire Eyes?!<New>
+N <$96>You called?<New>
+N <$96>Hi Sis!<S $5B $80> Hot enough for ya'?<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Fire Eyes?!<New>
+N <$96>You called?<New>
+N <$96>Hi Sis!<S $5B $80> Hot enough for ya'?<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>You called?<New>
+N <$96>Hi Sis!<S $5B $80> Hot enough for ya'?<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Hi Sis!<S $5B $80> Hot enough for ya'?<New>
+N <$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Who<S $15 $80>.<S $15 $80>.<S $15 $80>.<S $15 $80>who are you?<New>
+N <$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Who do you think?<S $79 $80> I'm your evil twin!<S $79 $80> And I'm here to take over!<$86>As hot as it may be inside the volcano,<S $79 $80> the temperature is dropping outside…<$86>…`cause I'm cutting it off at the source!<New>
+N <$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>If the world freezes, my village will die out!<New>
+N <$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>That's the idea!<New>
+N <$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>Then my Vipers and I can take control over your world.<New>
+<End>
+<$96>As much as I'd like to chat,<S $3D $80> Sister, I've got work to do.<New>
+So, if you'll forgive me,<S $3D $80> I'm going to make you go away now!<New>
+N <$96>Say {Hello} to my pet rock!<New>
+N <$96>OK!<S $3D $80> OK!<S $3D $80> You've won the battle, <Boy>, but not the war!<New>
+N <$96>You want heat?<S $79 $80>
+I'll give you heat!<New>
+N <$96>So long, suckers!<New>
+N <$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>Say {Hello} to my pet rock!<New>
+N <$96>OK!<S $3D $80> OK!<S $3D $80> You've won the battle, <Boy>, but not the war!<New>
+N <$96>You want heat?<S $79 $80>
+I'll give you heat!<New>
+N <$96>So long, suckers!<New>
+N <$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>OK!<S $3D $80> OK!<S $3D $80> You've won the battle, <Boy>, but not the war!<New>
+N <$96>You want heat?<S $79 $80>
+I'll give you heat!<New>
+N <$96>So long, suckers!<New>
+N <$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>You want heat?<S $79 $80>
+I'll give you heat!<New>
+N <$96>So long, suckers!<New>
+N <$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>So long, suckers!<New>
+N <$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>We should talk to Fire Eyes before we move on.<New>
+<End>
+<$96>I guard the hut of Fire Eyes.<S $3D $80> I bet you'd be a good guard, too.<New>
+<End>
+<$96>This is the hut of our leader!<S $3D $80> Please show Fire Eyes your respect.<New>
+<$97><End>
+<$96>This is the hut of our leader!<S $3D $80> Please show Fire Eyes your respect.<New>
+<$97><End>
+<$96>Fire<S $1F $80> Eyes.<S $3D $80> Fire<S $1F $80> Eyes.<New>
+<S $29 $80>Fire<S $1F $80> Eyes.<S $3D $80> Fire<S $1F $80> Eyes.<New>
+<S $29 $80>Fire<S $1F $80> Eyes.<S $3D $80> Fire<S $1F $80> Eyes.<New>
+<End>
+<$96>What?<New>
+N <$87><$96>Oh,<S $3D $80> hi.<S $5B $80> My name's Elizabeth.<S $79 $80> Everyone around here calls me {Fire Eyes.}<New>
+N <$96>Uh,<S $5B $80> hi.<S $3D $80> <Boy> is my name.<New>
+<End>
+<$87><$96>Oh,<S $3D $80> hi.<S $5B $80> My name's Elizabeth.<S $79 $80> Everyone around here calls me {Fire Eyes.}<New>
+N <$96>Uh,<S $5B $80> hi.<S $3D $80> <Boy> is my name.<New>
+<End>
+<$96>Uh,<S $5B $80> hi.<S $3D $80> <Boy> is my name.<New>
+<End>
+<$96>Well, <Boy>, Step into my hut.<S $79 $80> We'll talk.<$97><New>
+N <$96>No humans or dogs are allowed in the quicksand field without permission from Fire Eyes.<New>
+<End>
+<$96>No humans or dogs are allowed in the quicksand field without permission from Fire Eyes.<New>
+<End>
+<$96>You should talk to Fire Eyes before you walk into the dangerous quicksand field.<New>
+<End>
+<$96>What a fine animal you are.<S $3D $80> I'm sure that you are a great help to your master.<New>
+<End>
+<$96>The swamp was washed away after the eruption and flood, but our village was spared.<New>
+<End>
+<$96>You did well in the Bugmuck.<S $79 $80> Now you can be a great hero with victory over the Vipers.<New>
+<$97><End>
+<$96>Fire Eyes came to us many years ago in a brilliant flash of light and smoke!<$86>It was very dramatic.<New>
+<End>
+<$96>You are not one of us.<S $6F $80> Not a Viper, either.<S $6F $80>
+You are like Fire Eyes!<New>
+N <$96>Hey! I'll bet you're a good tracker like my bee, Buzz.<New>
+<End>
+<$96>Hey! I'll bet you're a good tracker like my bee, Buzz.<New>
+<End>
+<$96>You could probably find some good stuff in the Bugmuck now!<New>
+N <$96>When the volcano blew,<S $3D $80> a lot of stuff fell into the Bugmuck.<New>
+I'd like to go there to take a look, but I'm not old enough.<New>
+<End>
+<$96>When the volcano blew,<S $3D $80> a lot of stuff fell into the Bugmuck.<New>
+I'd like to go there to take a look, but I'm not old enough.<New>
+<End>
+<$96>A lot of the jungle paths are overgrown.<New>
+You need something sharp to cut through the vines and plants.<New>
+<End>
+<$96>That's some claw you've got there.<S $5B $80> It's almost as sharp as Buzz's stinger. <S $B5 $80> Sting!<New>
+N <$96>My bee,<S $1F $80> Buzz,<S $1F $80> had a fight with a big mosquito in the jungle.<S $F1 $80> Buzz won!<S $79 $80> Buzz rules!<New>
+N <$96>You like my bee?<S $3D $80>
+His name is `Buzz!'<S $5B $80>
+He'll sting you! <$97><S $3D $80>Sting!<New>
+N <$96>You've had a very long journey, pup.<S $3D $80> You should rest in the inn.<New>
+<End>
+<$96>My bee,<S $1F $80> Buzz,<S $1F $80> had a fight with a big mosquito in the jungle.<S $F1 $80> Buzz won!<S $79 $80> Buzz rules!<New>
+N <$96>You like my bee?<S $3D $80>
+His name is `Buzz!'<S $5B $80>
+He'll sting you! <$97><S $3D $80>Sting!<New>
+N <$96>You've had a very long journey, pup.<S $3D $80> You should rest in the inn.<New>
+<End>
+<$96>You like my bee?<S $3D $80>
+His name is `Buzz!'<S $5B $80>
+He'll sting you! <$97><S $3D $80>Sting!<New>
+N <$96>You've had a very long journey, pup.<S $3D $80> You should rest in the inn.<New>
+<End>
+<$96>You've had a very long journey, pup.<S $3D $80> You should rest in the inn.<New>
+<End>
+<$96>I hear that you saved your master from the animals in the jungle!<S $B5 $80> Good dog!<New>
+N <$96>You look kind of tough, but I bet you're really a sweet dog.<New>
+<End>
+<$96>You look kind of tough, but I bet you're really a sweet dog.<New>
+<End>
+<$96>The hero returns!<S $3D $80> You're always welcome in our village, <Boy>.<New>
+<End>
+<$96>Strong Heart told me about your rescue in the Bugmuck.<S $79 $80> Good work!<New>
+N Now Strong Heart is safe and has returned to his hut, south of the village.<New>
+<End>
+Now Strong Heart is safe and has returned to his hut, south of the village.<New>
+<End>
+<$96>I heard that Strong Heart went to the Bugmuck in the east to search for ingredients.<New>
+But, he has not been heard from in quite some time.<New>
+<End>
+<$96>The new alchemist, Strong Heart, is missing from his jungle hut.<New>
+<End>
+<$96>You've proven yourself to be quite a hero, pooch.<S $3D $80> Well done!<New>
+N <$96>I hope you're a friendly beast.<S $3D $80> If not,<S $3D $80> you'll have to face the power of Fire Eyes.<New>
+<End>
+<$96>I hope you're a friendly beast.<S $3D $80> If not,<S $3D $80> you'll have to face the power of Fire Eyes.<New>
+<End>
+<$96>Your heroics in the volcano saved our village from the big freeze!<New>
+N <$96>News of your victory in the Bugmuck has spread throughout the village!<$86>Fire Eyes would like to reward you for your heroics.<New>
+<End>
+<$96>News of your victory in the Bugmuck has spread throughout the village!<$86>Fire Eyes would like to reward you for your heroics.<New>
+<End>
+<$96>Vipers from the great volcano never come close to the village.<S $D3 $80>
+They fear Fire Eyes.<New>
+<$97><End>
+<$96>You'll find alchemy ingredients-a-plenty if you search the village outskirts.<New>
+But, be careful.<S $79 $80> The place is packed with creepy creatures.<New>
+<End>
+<$96>Hi, Buddy. Do you know any tricks, like my lizard, Iggy?<New>
+N Watch this trick.<New>
+<End>
+Watch this trick.<New>
+<End>
+<$87><$96>Turn,<S $0B $80> Iggy.<New>
+<End>
+<$87><$96>Now,<S $1F $80> the other way.<New>
+<End>
+<$87><$96>Now,<S $1F $80> the other way.<New>
+<End>
+<$96>Now I'm dizzy.<New>
+<End>
+<$96>Neat,<S $1F $80> huh?<New>
+N <$96>Nice lizard, huh?<$86><$87>She knows how to sit,<S $3D $80> stay,<S $1F $80> shake hands<S $1F $80> and roll over.<New>
+<End>
+<$96>Nice lizard, huh?<$86><$87>She knows how to sit,<S $3D $80> stay,<S $1F $80> shake hands<S $1F $80> and roll over.<New>
+<End>
+<$96>You're a ferocious beast,<S $3D $80> but in a good way.<New>
+<End>
+<$96>Fire Eyes taught me to be cautious around ferocious looking animals.<New>
+<End>
+<$96>Fire Eyes told us about what you did for our village.<S $3D $80> Thank you!<New>
+N <$96>Fire Eyes is a good role model for young villagers like me.<S $79 $80>
+I'm a big fan.<New>
+<End>
+<$96>Fire Eyes is a good role model for young villagers like me.<S $79 $80>
+I'm a big fan.<New>
+<End>
+<$96>Fire Eyes has taught us everything we know.<S $B5 $80><$87>I've learned basket weaving,<S $3D $80> bird calls<S $3D $80> and the metric system!<$97><New>
+N <$96>We're supposed to stay away from wild animals,<S $3D $80> but you're OK.<New>
+<End>
+<$96>We're supposed to stay away from wild animals,<S $3D $80> but you're OK.<New>
+<End>
+<$96>You're not a wild animal are you?<S $79 $80> We're supposed to stay away from wild animals!<New>
+N <$96>We thought we'd never see you again after that volcano blew!<$86>I'm glad you made it.<New>
+<End>
+<$96>We thought we'd never see you again after that volcano blew!<$86>I'm glad you made it.<New>
+<End>
+<$96>Have you visited Stong Heart lately?<$86>He's got a new formula that you should try out.<New>
+<End>
+<$96>You saved Strong Heart in the tar!<S $79 $80> Now you can use that Claw to explore the jungle.<New>
+<End>
+<$96>Strong Heart lives in the jungle.<S $3D $80> You can visit him by chopping through the brush!<New>
+N <$96>We're not allowed to wander far from the village.<New>
+But I've heard about a place where there are a lot of bugs and tar.<New>
+My father, Strong Heart, went there days ago and he hasn't come back.<New>
+<End>
+<$96>We're not allowed to wander far from the village.<New>
+But I've heard about a place where there are a lot of bugs and tar.<New>
+My father, Strong Heart, went there days ago and he hasn't come back.<New>
+<End>
+<$96>You look like a wild beast,<S $3D $80> but you're really a hero!<New>
+N <$96>You look more friendly than the Vipers.<S $79 $80> I hope you behave yourself in our village.<New>
+<End>
+<$96>You look more friendly than the Vipers.<S $79 $80> I hope you behave yourself in our village.<New>
+<End>
+<$96>Strong Heart went to the Bugmuck not long ago.<New>
+He said that objects from the volcano landed there.<New>
+<End>
+<$96>If we are to stop the cooling of the great volcano,<S $5B $80> we must send a hero to the source!<New>
+N <$96>The great volcano is giving us less heat now!<S $5B $80> Something is terribly wrong!<$97><New>
+N <$96>If hostile intruders were ever to enter our village, Fire Eyes would make them regret it.<New>
+<End>
+<$96>The great volcano is giving us less heat now!<S $5B $80> Something is terribly wrong!<$97><New>
+N <$96>If hostile intruders were ever to enter our village, Fire Eyes would make them regret it.<New>
+<End>
+<$96>If hostile intruders were ever to enter our village, Fire Eyes would make them regret it.<New>
+<End>
+<$96><$96>We of the village of Fire Eyes welcome peaceful visitors.<New>
+I hear that you had a tough fight in the jungle.<S $79 $80> I hope you're OK now.<New>
+<End>
+<$96>We of the village of Fire Eyes welcome peaceful visitors.<New>
+Thank you for protecting us from those nasty raptors.<New>
+Please stay for a while and have some nice Petals.<New>
+<End>
+<$96>What a nice beast!<S $3D $80> You're man's best friend, you know!<New>
+N <$96>If you make sure that Strong Heart is safe,<S $5B $80> I will give you one of my formulas.<New>
+<End>
+<$96>If you make sure that Strong Heart is safe,<S $5B $80> I will give you one of my formulas.<New>
+<End>
+<$96>I used to be the village alchemist, but now I've retired.<New>
+I gave the practice to my friend, Strong Heart.<New>
+He left for the Bugmuck to search for alchemy ingredients days ago, and he has not yet returned.<New>
+<End>
+<$96>Alchemy is the practice of combining ingredients for powerful and often magical results.<New>
+My family has used alchemy for many generations.<New>
+Alchemy effects increase in strength when you use formulas often.<New>
+<End>
+<$96>Dogs don't have any need for alchemy.<S $3D $80> They have their own special powers.<New>
+<End>
+<$96>You have proven yourself to be a great warrior by saving Strong Heart.<New>
+Thank you for your help and remember to use your alchemy ingredients wisely.<New>
+<End>
+<$96>If you visit Strong Heart in his jungle hut,<S $3D $80> he may help you in your quest.<New>
+<End>
+<$96>Hello, Puppy.<S $3D $80> You can't carry any items, but your master can.<New>
+He should stock up before he leaves the village.<New>
+<End>
+<$96>There are many special items that you should bring along with you on your journey.<New>
+Petals, Nectar and Honey heal wounds and replenish energy.<New>
+<End>
+<$96>If your dog is completely out of energy,<S $3D $80> you can revive him with a Biscuit.<New>
+<End>
+<$96>You can use Wings to escape quickly from caves and other dangerous interiors.<New>
+<End>
+<$96>Pixie Dust will revive you if you have lost all of your energy.<New>
+<End>
+<$96>Herbal Essence will cure you from poison and other bad states.<New>
+<End>
+<$96>You should purchase as many supplies as you can carry before you leave the village.<New>
+<End>
+<$96>Step back!<New>
+N <$96>Call me if you need my help.<New>
+<End>
+<$96>Call me if you need my help.<New>
+<End>
+<$96><$87><$93>I don't know what's happening!<S $51 $80> If these quakes get worse, the village is doomed!<S $41 $81><End>
+<$96><$87><$93>The quakes have never been this bad.<S $51 $80> I fear you may be right!<S $41 $81><End>
+<$96><$87><$93>Elizabeth!<S $3D $80> You've got to come with us!<S $2D $81> <End>
+<$87><$93>Evermore is coming apart and we're the cause!<S $2D $81><End>
+<$96><$87><$93>Strongheart,<S $3D $80> I must leave. But I'd like to thank you and the whole village.<S $91 $81><End>
+<$87><$93>You've all been so kind to me!<S $B5 $80><$87>These ground shakes are getting worse and I'm afraid that's because of me.<S $E1 $81><End>
+<$96><$87><$93>Fire Eyes…<S $29 $80> Elizabeth…<S $3D $80> Don't talk like this! The ground has shaken before. <S $2D $81><$87>It's not your fault.<S $B5 $80><End>
+<$96><$87><$93>I'm afraid it is,<S $3D $80> dear friend.<S $5B $80> And things will only get worse if I stay.<S $19 $81><End>
+<$96><$93>Elizabeth, <S $3D $80> are you ready to go?<S $79 $80><End>
+<$96><$87><$93>Yes,<S $29 $80> in just a moment.<S $F1 $80><End>
+<$96><$87><$93>Sniff…<S $29 $80> Strongheart…<S $51 $80> Sniff…<S $3D $80> I didn't think this would be so hard…<S $69 $81><End>
+<$96><$87><$93>I know,<S $29 $80> little one.<S $3D $80> I know.<S $5B $80><$93>But you should go now.<S $51 $80> You're future is out there, not here.<S $69 $81><End>
+<$96><$87><$93>You will always have a home here…
+<S $8D $80>Fire Eyes!<S $F1 $80><End>
+<$96>C'mon, <Dog>.<S $79 $80> Let's go talk to Fire Eyes.<New>
+<End>
+<$96>You look tough.<S $3D $80> You probably don't need any armor.<New>
+<End>
+<$96>But you might like a nice leather collar!<$86>Your master should buy one for you.<New>
+<End>
+<$96>I recently crafted some new armor.<S $79 $80> It's quite strong.<New>
+<End>
+<$96>An adventurer must have shielding out in the field.<S $3D $80> I deal in strong armor.<New>
+<End>
+<$96>You should have this Jaguar Tooth Ring.<S $3D $80> It will allow you to run faster.<New>
+<End>
+Received Jaguar Ring<End>
+<$96>Press and hold the Run Button to go,<S $79 $80> but watch your energy.<S $3D $80> A long run will wear you out.<New>
+<End>
+<$96>My!<S $3D $80> You look like a wild beast,<S $3D $80> but you act like a pussycat.<New>
+<End>
+<$96>You're the young man who saved our village from the big freeze!<New>
+N <$96>Please take this Honey with my thanks.<New>
+<End>
+<$96>Please take this Honey with my thanks.<New>
+<End>
+<$96>Thank you for looking out for our village.<New>
+<End>
+<$96>Fire Eyes will be happy to see you.<S $3D $80> You're the hero of the village!<New>
+N <$96>Let me give you some Petals for your long journey.<New>
+<End>
+<$96>Let me give you some Petals for your long journey.<New>
+<End>
+Received a Petal<End>
+<$96>You can also find items in gourds and pots.<New>
+The people of this village don't mind if you take items.<New>
+We know that you'll return the favor by helping us in some way.<New>
+<End>
+<$96>Make sure that you buy plenty of Petals and Nectar for your journey.<New>
+<End>
+<$96>You can also find items in gourds and pots.<New>
+The people of this village don't mind if you take items.<New>
+We know that you'll return the favor by helping us in some way.<New>
+<End>
+<$96>My!<S $3D $80> That was quite a fight that you had in the jungle.<S $B5 $80> You should be more careful!<New>
+N <$96>If you learn alchemy formulas, you can find ingredients for them along the jungle paths.<New>
+<End>
+<$96>If you learn alchemy formulas, you can find ingredients for them along the jungle paths.<New>
+<End>
+<$96>You can also find items in gourds and pots.<New>
+The people of this village don't mind if you take items.<New>
+We know that you'll return the favor by helping us in some way.<New>
+<End>
+<$96>You look tired.<S $3D $80>
+You should have a nice meal and rest at the Inn.<S $5B $80> It's just next door.<New>
+<End>
+<$96>You should also collect items from gourds and pots before you leave the village.<New>
+The people of this village don't mind if you take items.<New>
+We know that you'll return the favor by helping us in some way.<New>
+<End>
+<$96>You look pooped pooch.<S $3D $80> You could use some rest.<New>
+<End>
+<$96>Since you've recovered from your injuries,<S $3D $80> you can continue your quest.<New>
+Stop by anytime if you need a rest.<New>
+<End>
+<$96>Hello, friend.
+<S $3D $80>Welcome to my inn.<New>
+<End>
+Would you like to rest for 10 talons?
+<$97><Choice>Sure.
+<Choice>No, thanks.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96><$87>You can exchange other currencies for talons at any shop.<New>
+<End>
+<$96>Are you OK, kid?<S $3D $80> You took quite a beating out there!<New>
+N <$96>Whoa!<S $3D $80> What happened?<New>
+N <$96>The raptors got you!<S $79 $80> They're a tricky lot,<S $3D $80>
+they are!<New>
+N <$96>Thanks to this wild animal here,<S $3D $80> you were saved!<New>
+N <$96>That's no wild animal. <End>
+<$96>Whoa!<S $3D $80> What happened?<New>
+N <$96>The raptors got you!<S $79 $80> They're a tricky lot,<S $3D $80>
+they are!<New>
+N <$96>Thanks to this wild animal here,<S $3D $80> you were saved!<New>
+N <$96>That's no wild animal. <End>
+<$96>The raptors got you!<S $79 $80> They're a tricky lot,<S $3D $80>
+they are!<New>
+N <$96>Thanks to this wild animal here,<S $3D $80> you were saved!<New>
+N <$96>That's no wild animal. <End>
+<$96>Thanks to this wild animal here,<S $3D $80> you were saved!<New>
+N <$96>That's no wild animal. <End>
+<$96>That's no wild animal. <End>
+<$96>That's my dog!<S $79 $80> He's just not himself right now.<New>
+<End>
+<$96>Well,<S $3D $80> now that you're both safe in our friendly village…<$86>…you can save your game!<S $3D $80> OK?<S $3D $80>
+<$97><Choice>Sure.
+<Choice>No thanks.<End>
+Fire Eyes' Village<End>
+<$87><$96>OK,<S $3D $80> fine.<New>
+<End>
+<$96>Feel free to take items from the gourds in this village.<New>
+We know that you'll return the favor.<S $79 $80> And you definitely need the help.<New>
+<End>
+<$96>You're not a wild beast after all!<S $3D $80> You're a hero!<New>
+N <$96>Wild beasts are not allowed in our village, but you look pretty tame.<New>
+<End>
+<$96>Wild beasts are not allowed in our village, but you look pretty tame.<New>
+<End>
+<$96>Strong Heart took another trip to the Bugmuck recently.<New>
+He said that a lot of debris from the volcano ended up there.<New>
+<End>
+<$96>You should talk to Strong Heart.<S $3D $80> He has developed a new formula.<New>
+<End>
+<$96>I heard that the entrance to the Vipers' volcano world is blocked by a giant boulder.<$97><$86>Strong Heart saw it when he was searching for alchemy ingredients.<New>
+<End>
+<$96>The Vipers are a mean bunch.<S $79 $80> I'd fight them myself if I thought that I had a chance.<New>
+But, my brother, Strong Heart is the gutsy one in the family.<New>
+<End>
+<$96>I'd go to the Bugmuck to search for Strong Heart if I were a more adventurous guy.<New>
+Maybe you can search for him after you've learned an alchemy spell.<New>
+I'll provide you with ingredients.<New>
+<End>
+<$96>My brother, Strong Heart, told me that he was going to look for the big bug in the Bugmuck.<New>
+He said that there may be rare alchemy ingredients hidden in the bug's skeleton.<New>
+<End>
+<$96>Strong Heart searches the area often for ingredients.<New>
+And when he returns, he always gives some of them to me.<New>
+Then, I sell them to townspeople who know alchemy formulas.<New>
+<End>
+<$96>Hello, traveler.<S $79 $80> I'm the source for goods in this village.<New>
+<End>
+<$96>You should have this Jaguar Tooth Ring.<S $3D $80> It will allow you to run faster.<New>
+<End>
+Received Jaguar Ring<End>
+<$96>Press and hold the A Button to run,<S $79 $80> but watch your energy.<S $3D $80> A long run will wear you out.<New>
+<End>
+<$96>You'd probably like some dog treats.<S $3D $80> Maybe your master will buy some for you.<New>
+<End>
+<$96>You and your master make a good adventuring team!<New>
+N <$96>You're quite a frightening beast.<S $3D $80> Did you come from the jungle or the Bugmuck?<New>
+N <$96>Was that you that we saw flying on the back of that four-winged bird?<S $B5 $80> Nice!<New>
+N <$96>The Vipers get material for their weapons in the Mammoth Graveyard to the Northeast.<$97><New>
+N <$96>Thanks for fighting off the creatures outside our village. <S $79 $80><End>
+<$96>You're quite a frightening beast.<S $3D $80> Did you come from the jungle or the Bugmuck?<New>
+N <$96>Was that you that we saw flying on the back of that four-winged bird?<S $B5 $80> Nice!<New>
+N <$96>The Vipers get material for their weapons in the Mammoth Graveyard to the Northeast.<$97><New>
+N <$96>Thanks for fighting off the creatures outside our village. <S $79 $80><End>
+<$96>Was that you that we saw flying on the back of that four-winged bird?<S $B5 $80> Nice!<New>
+N <$96>The Vipers get material for their weapons in the Mammoth Graveyard to the Northeast.<$97><New>
+N <$96>Thanks for fighting off the creatures outside our village. <S $79 $80><End>
+<$96>The Vipers get material for their weapons in the Mammoth Graveyard to the Northeast.<$97><New>
+N <$96>Thanks for fighting off the creatures outside our village. <S $79 $80><End>
+<$96>Thanks for fighting off the creatures outside our village. <S $79 $80><End>
+Please take this Grass Vest.<$97><New>
+N <New>
+N <$96>The jungle is full of vicious beasts, like the Vipers from the volcano.<New>
+Make sure that you're well equipped before you go out there.<New>
+<End>
+<New>
+N <$96>The jungle is full of vicious beasts, like the Vipers from the volcano.<New>
+Make sure that you're well equipped before you go out there.<New>
+<End>
+<$96>The jungle is full of vicious beasts, like the Vipers from the volcano.<New>
+Make sure that you're well equipped before you go out there.<New>
+<End>
+<$96>I've been to the Bugmuck in the East and I've seen the giant bug!<$86>That may be where Strong Heart went to explore.<New>
+<End>
+Would you like to equip or unequip your spells?
+<Choice>Sure.
+<Choice>Not right now.<End>
+<$96>Hiya,<S $3D $80> <Dog>.<S $3D $80> You're not a bad dog after all.<New>
+<End>
+<$96>Sorry about the {wild beast} comment.<S $79 $80> I'm sure you're a nice dog.<New>
+<End>
+<$96>Thanks for your all of you help, <Boy>.<New>
+Let me know if you find a passage back to Podunk.<New>
+<End>
+<$96>The volcano to the north is rapidly giving off less heat.<New>
+We need you to investigate and stop the big freeze.<New>
+<End>
+<$96>Go east through the quicksand fields to the Bugmuck.<New>
+if you find Strong Heart there and help him out,<S $3D $80> I'll help you.<New>
+<End>
+<$96>Hi <Boy>.<S $79 $80> You look like you've been through a lot!<New>
+N <$96>That's for sure!<New>
+N <$96>Strong Heart told me that he saw you riding on the back of a giant bird!<New>
+N <$96>Actually,<S $79 $80> it's a flying machine!<S $79 $80> My friend Tinker Tinderbox made it!<New>
+N <$96>You know of other people in this world?<New>
+N <$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>That's for sure!<New>
+N <$96>Strong Heart told me that he saw you riding on the back of a giant bird!<New>
+N <$96>Actually,<S $79 $80> it's a flying machine!<S $79 $80> My friend Tinker Tinderbox made it!<New>
+N <$96>You know of other people in this world?<New>
+N <$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>Strong Heart told me that he saw you riding on the back of a giant bird!<New>
+N <$96>Actually,<S $79 $80> it's a flying machine!<S $79 $80> My friend Tinker Tinderbox made it!<New>
+N <$96>You know of other people in this world?<New>
+N <$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>Actually,<S $79 $80> it's a flying machine!<S $79 $80> My friend Tinker Tinderbox made it!<New>
+N <$96>You know of other people in this world?<New>
+N <$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>You know of other people in this world?<New>
+N <$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>Yeah!<New>
+N <$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>And two of them are from Podunk--<S $3D $80> Horace and Camellia!<New>
+N <$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+<$96>Interesting!<S $3D $80> I know them! <S $B5 $80><End>
+They were part of the experiment!<New>
+N <$96>The only one that's not accounted for is my grandfather.<S $B5 $80> I wonder where he could be!<New>
+N <$96>I think he might be in some sort of strange space station.<New>
+And Tinker's going to help me and <Dog> get there.<New>
+That might be our only way to get back to Podunk!<New>
+N <$96>Now, we're on a mission to find items that Tinker needs in order to send us into space.<New>
+<End>
+<$96>The only one that's not accounted for is my grandfather.<S $B5 $80> I wonder where he could be!<New>
+N <$96>I think he might be in some sort of strange space station.<New>
+And Tinker's going to help me and <Dog> get there.<New>
+That might be our only way to get back to Podunk!<New>
+N <$96>Now, we're on a mission to find items that Tinker needs in order to send us into space.<New>
+<End>
+<$96>I think he might be in some sort of strange space station.<New>
+And Tinker's going to help me and <Dog> get there.<New>
+That might be our only way to get back to Podunk!<New>
+N <$96>Now, we're on a mission to find items that Tinker needs in order to send us into space.<New>
+<End>
+<$96>Now, we're on a mission to find items that Tinker needs in order to send us into space.<New>
+<End>
+<$96>We've already found the pieces of the volcano machine that we need<New>
+N <$96>We've already found the gauges of the volcano machine on the slope.<New>
+Now we just have to find the big wheel!<New>
+N <$96>We've already found the wheel of the volcano machine in the big bug.<New>
+Now we just have to find the gauges!<New>
+N <$96>Two of the items are parts of a big machine that was at the heart of the volcano.<New>
+<End>
+<$96>We've already found the gauges of the volcano machine on the slope.<New>
+Now we just have to find the big wheel!<New>
+N <$96>We've already found the wheel of the volcano machine in the big bug.<New>
+Now we just have to find the gauges!<New>
+N <$96>Two of the items are parts of a big machine that was at the heart of the volcano.<New>
+<End>
+<$96>We've already found the wheel of the volcano machine in the big bug.<New>
+Now we just have to find the gauges!<New>
+N <$96>Two of the items are parts of a big machine that was at the heart of the volcano.<New>
+<End>
+<$96>Two of the items are parts of a big machine that was at the heart of the volcano.<New>
+<End>
+<$96>Well!<S $3D $80> You've been busy!<New>
+N <$96>When the volcano blew, a lot of the debris landed in the Bugmuck.<New>
+That might be a good place for you to search.<New>
+<End>
+<$96>When the volcano blew, a lot of the debris landed in the Bugmuck.<New>
+That might be a good place for you to search.<New>
+<End>
+<$96>You might search the slope of the volcano.<S $07 $80>o Some of the debris landed there.<New>
+<End>
+<$96>When the volcano blew,<S $3D $80> most of the debris landed on the slope and in the Bugmuck.<New>
+Those would be good places for you to search.<New>
+<End>
+<$96>We sure have!<New>
+N <$96>Thanks for the advice.<New>
+<End>
+<$96>Thanks for the advice.<New>
+<End>
+<$96>By the way.<S $3D $80> When you were in that experiment…<$86>…was anybody else there besides you, Horace, Camellia and your grandfather?<$86>Because someone is causing a lot of trouble around here!<$86>And that person might have had something to do with the experiment.<New>
+<End>
+<$96>That's an interesting theory…<New>
+N <$96>…But no one else was there.<S $B5 $80> No one except for…<S $3D $80> <End>
+<$96>…But no one else was there.<S $B5 $80> No one except for…<S $3D $80> <End>
+<$96>the butler.<New>
+<End>
+<$96>But he was just a robot--<S $79 $80> programmed to clean the house and serve guests.<New>
+<End>
+<$96>Well,<S $3D $80> we're going to get to the bottom of this when we get to the space station.<New>
+<End>
+<$96>Good luck.<S $79 $80> Let me know if you find a passage back to Podunk. <S $B5 $80>I miss the place.<New>
+<End>
+<$96>I heard that you had quite a fight in the jungle.<New>
+<End>
+<$96>Is that the wild beast that saved you?<New>
+N <$96>Yeah.<S $3D $80> But,<S $1F $80> he's not a wild beast.<S $79 $80> He's my dog.<New>
+<End>
+<$96>Yeah.<S $3D $80> But,<S $1F $80> he's not a wild beast.<S $79 $80> He's my dog.<New>
+<End>
+<$96>Who let this wild beast in here?<New>
+N <$96>Oh.<S $1F $80> That's my dog.<S $3D $80> He hasn't been himself lately.<New>
+<End>
+<$96>Oh.<S $1F $80> That's my dog.<S $3D $80> He hasn't been himself lately.<New>
+<End>
+<$96>What's his name?<New>
+N <$96>His name?<S $3D $80> It's…<New>
+N y thT a y thT a <$96>{<Dog>?}<S $3D $80> That's.<S $15 $80>.<S $15 $80>.<S $15 $80> original.<New>
+<End>
+<$96>His name?<S $3D $80> It's…<New>
+N y thT a y thT a <$96>{<Dog>?}<S $3D $80> That's.<S $15 $80>.<S $15 $80>.<S $15 $80> original.<New>
+<End>
+!<End>
+<$96>{<Dog>?}<S $3D $80> That's.<S $15 $80>.<S $15 $80>.<S $15 $80> original.<New>
+<End>
+<$96>You're not from around here,<S $5B $80> are you?<$97><New>
+N <$96>I'm not really sure where {here} is,<S $5B $80> to tell you the truth.<New>
+<End>
+<$96>I'm not really sure where {here} is,<S $5B $80> to tell you the truth.<New>
+<End>
+<$96>You're on Evermore,<S $3D $80> in my prehistoric village.<S $79 $80>
+I'm the leader.<$97><New>
+N <$96>You wouldn't know how to get to Podunk from here,<S $79 $80> would you?<New>
+N <$96>Podunk?<S $3D $80> Hmmmm… <S $5B $80>interesting.<S $79 $80> I might!<New>
+N <$96>Maybe we can work something out.<New>
+<End>
+<$96>You wouldn't know how to get to Podunk from here,<S $79 $80> would you?<New>
+N <$96>Podunk?<S $3D $80> Hmmmm… <S $5B $80>interesting.<S $79 $80> I might!<New>
+N <$96>Maybe we can work something out.<New>
+<End>
+<$96>Podunk?<S $3D $80> Hmmmm… <S $5B $80>interesting.<S $79 $80> I might!<New>
+N <$96>Maybe we can work something out.<New>
+<End>
+<$96>Maybe we can work something out.<New>
+<End>
+<$96>How'd you like to make yourself useful around here?<New>
+N <$96>Well, I…<New>
+N <$96>The new village alchemist, Strong Heart, has wandered off to the Bugmuck in the East.<New>
+<End>
+<$96>Well, I…<New>
+N <$96>The new village alchemist, Strong Heart, has wandered off to the Bugmuck in the East.<New>
+<End>
+<$96>The new village alchemist, Strong Heart, has wandered off to the Bugmuck in the East.<New>
+<End>
+<$96>He's been searching for alchemy ingredients that are plentiful in the muck.<New>
+<End>
+<$96>If you can help him get back to the village,<S $5B $80> I will help you with whatever you need.<New>
+<End>
+<$96>Well,<S $3D $80> as Captain Leif Meldrock says in {Mars Needs Lumberjacks:}<New>
+N <$96>{I'm ready for anything!}<New>
+N <$96>Before you go…<New>
+N <$96>I'd like for you to have an alchemy formula that I've developed.<New>
+I call it {Flash.}<S $B5 $80> It's pretty powerful against mean creatures.<New>
+<End>
+<$96>{I'm ready for anything!}<New>
+N <$96>Before you go…<New>
+N <$96>I'd like for you to have an alchemy formula that I've developed.<New>
+I call it {Flash.}<S $B5 $80> It's pretty powerful against mean creatures.<New>
+<End>
+<$96>Before you go…<New>
+N <$96>I'd like for you to have an alchemy formula that I've developed.<New>
+I call it {Flash.}<S $B5 $80> It's pretty powerful against mean creatures.<New>
+<End>
+<$96>I'd like for you to have an alchemy formula that I've developed.<New>
+I call it {Flash.}<S $B5 $80> It's pretty powerful against mean creatures.<New>
+<End>
+<$96>You can use the formula whenever you have 1 part Wax and 2 parts Oil.<New>
+Just select the spell and let it fly.<New>
+The more you use the Flash Formula, the stronger it will get.<New>
+<End>
+<$96>Cool! Thanks!<New>
+N <$96>I hear you were victorious in the far reaches of the Bugmuck.<New>
+<End>
+<$96>I hear you were victorious in the far reaches of the Bugmuck.<New>
+<End>
+<$96>Well, it was a bug hunt,<S $79 $80> but we got out of it OK.<S $79 $80> And we got a nifty Claw, too.<S $3D $80> It's like an axe!<New>
+N <$96>Well that's…<S $3D $80> that's great.<New>
+<End>
+<$96>Well that's…<S $3D $80> that's great.<New>
+<End>
+<$96>Strong Heart has returned to his hut, south of the village.<New>
+<End>
+<$96>And, now the village faces a new crisis.<New>
+The volcano to the north is rapidly cooling down.<New>
+<End>
+<$96>If this trend continues we could have an ice age on our hands.<New>
+<End>
+<$96>I'd like to help you, but I've really got to start looking for a way back home.<New>
+<End>
+<$96>Your best bet may be to track down the source of this atmospheric icing.<New>
+<End>
+<$96>You see, I'm originally from Podunk, too.<New>
+My Grandpa is an inventor who lived in the mansion on the hill!<$86>He made a machine that could send people to worlds of their own design.<New>
+<End>
+Since I enjoy all things prehistoric, I dreamed up this world of cave people and dinosaurs.<New>
+<End>
+<$96>I was supposed to be here for a couple of hours,<S $79 $80> but it's been a couple of decades.<New>
+<End>
+<$96>Now and again,<S $3D $80> I sense evidence of outside influences on our world.<New>
+<End>
+<$96>This recent drop in temperature could be the work of someone from the real world.<New>
+And that person has control over the vicious volcano Vipers.<New>
+If you go to the source,<S $3D $80> at the center of the volcano…<$86>…you might find someone or something that could lead you back home.<New>
+And you might just save our village at the same time.<New>
+<End>
+<$96>Wow! This is like what happens in {The Pale People of Planet V.}<$86>It's about a bunch of astronauts who get stuck on an exact replica of Earth…<$86>…only it's populated by zombie vampires and…<New>
+N <$96>Well,<S $3D $80> actually,<S $3D $80> this isn't like that at all.<New>
+<End>
+<$96>Well,<S $3D $80> actually,<S $3D $80> this isn't like that at all.<New>
+<End>
+<$96>If you're finished with your little anecdote…<$86>…I can give you the ability to call on me in difficult situations.<New>
+<End>
+Received 6 Call Beads<End>
+<$96>If you need my help, especially in big battles, you can throw a Call Bead to the ground.<New>
+I'll appear in a flash.<S $3D $80> Then you'll be able to summon one of my spells.<New>
+<End>
+<$96>No offense,<S $3D $80> but how can a girl help a couple of adventurers like us?<New>
+N <$96>I've learned a few tricks since I've been here.<New>
+Let me show you why they call me {Fire Eyes.}<$97><S $F1 $80><End>
+<$96>I've learned a few tricks since I've been here.<New>
+Let me show you why they call me {Fire Eyes.}<$97><S $F1 $80><End>
+<$96>You're a good dog!<S $3D $80> We appreciate your brave deeds.<New>
+<End>
+<$96>You're not one of the creepy creatures from the volcano, are you?<New>
+N <$96>You're the hero who vanquished the Vipers!<S $3D $80> Good work!<New>
+N <$96>The new alchemist, Strong Heart, is wise and powerful.<S $3D $80> He can help you in your journey.<New>
+<End>
+<$96>You're the hero who vanquished the Vipers!<S $3D $80> Good work!<New>
+N <$96>The new alchemist, Strong Heart, is wise and powerful.<S $3D $80> He can help you in your journey.<New>
+<End>
+<$96>The new alchemist, Strong Heart, is wise and powerful.<S $3D $80> He can help you in your journey.<New>
+<End>
+<$96>If Strong Heart had taken Fire Eyes' advice,<S $3D $80> he wouldn't have wandered far.<New>
+<End>
+<$96>The Vipers and other jungle beasts dare not enter our village.<New>
+Fire Eyes protects us from them.<New>
+<End>
+<$96>Please feel free to take the contents of my pots and gourds.<New>
+You'll need them if you plan to go into the jungle.<New>
+<End>
+<$96>It's not the great caverns of Makanda,<S $3D $80>
+but it's home.<New>
+<End>
+<$96>Well, if you like mud walls and leaf floors,<S $3D $80>
+it's pretty nice.<New>
+<End>
+<$96>I don't have much to offer in the way of thanks for saving my hut…<$86><$96>…but I would like for you to have…<New>
+N <$96>That's not it.<New>
+<End>
+<$96>That's not it.<New>
+<End>
+<$96>Hmmmm…<S $3D $80>I can't see how this would be of much use to you.<New>
+<End>
+<$96>A still-beating heart!<S $3D $80> Nice!<S $3D $80> But not what you need.<New>
+<End>
+<$96>Aha!<New>
+N <$96>Please,<S $1F $80> take this Mud Pepper.<New>
+<End>
+<$96>Please,<S $1F $80> take this Mud Pepper.<New>
+<End>
+Received Mud Pepper<End>
+<$96>Mud Peppers are the active ingredient in the Levitate Formula.<New>
+<End>
+<$96>Mud Peppers have special qualities,<S $3D $80> if you know the right formula.<New>
+<End>
+Come back and see me again if you use it up.<S $79 $80>
+I'll give you another one!<New>
+N <$96>Well, hello friend. You look like a nice dog.<New>
+<End>
+<$96>Well, hello friend. You look like a nice dog.<New>
+<End>
+<$96>Welcome back, warrior.<S $79 $80> I see that you've used up that Mud Pepper.<S $3D $80> Here's another one.<New>
+<End>
+Received mud pepper<End>
+<$96>Would you like to rest for a while?
+<S $5B $80><$97><Choice>Sure.
+<Choice>No thanks.<End>
+<$87><$96>I hope you had a good rest.<New>
+<End>
+<$96>Did you find this hidden area with your tracking skills?<S $79 $80> You're good!<New>
+N <$96>I hope that you are using your alchemy skills for the good of the village.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>I hope that you are using your alchemy skills for the good of the village.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$87><$96>Good luck,<S $3D $80> young warrior.<New>
+<End>
+<$96>You saved Strong Heart in the Bugmuck!<S $79 $80> Well done!<S $79 $80> Nice save!<$86>I can help you defend yourself in future battles with an old recipe.<New>
+This is the alchemy formula of Defend.<New>
+Use it with one part Clay and one part Ash to increase your defensive abilities.<New>
+<End>
+<$96>Hi <Dog>!<S $3D $80> Here's a gift for you.<S $3D $80> I found it in the Bugmuck.<New>
+<$96>It looks like a pretty good collar.<S $3D $80> You should give it a try.<New>
+<End>
+Received Spot's Collar<End>
+<$96>You're a good dog.<S $3D $80> I hope you find your way back home.<New>
+<End>
+<$96>Hello, big dog.<New>
+I don't normally talk to animals, but you seem to be an understanding beast.<New>
+<End>
+<$96>You're a very good dog.<S $79 $80> Yes,<S $3D $80> you are.<S $3D $80> I've got a nice gift for you.<New>
+<$96>It's a leather collar.<S $3D $80> It will help shield you from mean creatures.<New>
+<End>
+Received Leather Collar<End>
+<$96>Your leather collar will help shield you from mean creatures.<New>
+<End>
+<$96><Boy>!<S $3D $80> What a pleasant surprise!<$86>I heard about your adventures in the volcano!<S $B5 $80> Good job!<$86>I took another trip to the Bugmuck after the volcano blew.<New>
+Some of the debris from the volcano landed there.<New>
+While I was there, I got the ingredients for a new formula.<New>
+It will cure you from your ills and recover some of your health.<New>
+I call it the {Miracle Cure!}<$86>The formula requires 2 parts Root and 1 part Vinegar.<New>
+<End>
+<$96>I wish you luck in your future adventures.<New>
+<End>
+<$96>Hello, <Boy>!<S $3D $80> I'm back in business after that terrible experience in the Bugmuck.<New>
+Thanks to you, I'm not a big bug's dinner!<$86>Please take this Cure Formula.<S $B5 $80> It will cure you from poison and other ills.<New>
+The formula requires 2 parts Root and 1 part Oil.<New>
+<End>
+<$96>I hope that you use your alchemy formulas well.<New>
+Would you like to equip or unequip your spells?
+<S $3D $80><Choice>Sure.
+<Choice>Not right now.<End>
+<$96>Stay here, <Dog>.<S $3D $80> These stairs are too steep for you.<New>
+<End>
+<$96>Did you hear that explosion a while back?<S $3D $80> It rocked the boat good!<New>
+N <$96>The new leader of Nobilia has the Diamond Eyes.<S $79 $80> I think he's fixing to do something bad.<New>
+<End>
+<$96>The new leader of Nobilia has the Diamond Eyes.<S $79 $80> I think he's fixing to do something bad.<New>
+<End>
+<$96>I hear that you had a part in defeating that power hungry leader of Nobilia.<S $3D $80> Good work!<New>
+N <$96>You're the Sacred Dog!<S $79 $80> You must know where the Diamond Eyes are hidden.<New>
+C'mon, you can tell me.<S $79 $80> I won't tell anyone.<New>
+<End>
+<$96>You're the Sacred Dog!<S $79 $80> You must know where the Diamond Eyes are hidden.<New>
+C'mon, you can tell me.<S $79 $80> I won't tell anyone.<New>
+<End>
+<$96>I knew a man named Tiny, once. <S $51 $80>He was quite a man with rocks.<New>
+<End>
+<$96>The Diamond Eyes fell into the wrong hands.<S $79 $80> And now they're missing again, aren't they?<New>
+N <$96>The city leader has posted a reward for the treasures on the other side of the river.<New>
+I'm going after them,<S $5B $80>
+I am.<New>
+<End>
+<$96>The city leader has posted a reward for the treasures on the other side of the river.<New>
+I'm going after them,<S $5B $80>
+I am.<New>
+<End>
+<$96>You're a good jumper, and a good explorer, too, from what I hear.<New>
+<End>
+<$96>The bridge to the west has been washed out by the flood.<New>
+You could probably jump the gap if you wanted to.<New>
+<End>
+<$96>A brute named Tiny dropped a boulder on me boss.<New>
+I'd like to thank him someday.<New>
+<End>
+<$96>Even as a small boy, I knew I wanted to be a rogue.<New>
+<End>
+<$96>I saw the strong man, Tiny, heading across the river a while back.<New>
+He had a few rocks with him. <S $51 $80>I wonder what he's up to.<New>
+<End>
+<$96>There's a city on the other side of the great desert.<New>
+You might convince the ghost pirate to give you passage across the sand.<New>
+<End>
+<$96>Hello, little buddy.<S $3D $80> You look like you could sniff out a cargo hold full of hidden treasure.<New>
+<End>
+<$96>I hear that you found the treasure on the right side of the river.<New>
+<End>
+<$96>And then you lost it again.<S $79 $80> Bad break.<New>
+<End>
+<$96>There's treasure to be found on the west bank of the river.<New>
+And I'm the one that's going to find it!<New>
+N <$96>You took care of that greedy, evil leader!<S $3D $80> Well done.<New>
+<End>
+<$96>You took care of that greedy, evil leader!<S $3D $80> Well done.<New>
+<End>
+<$96>The Diamond Eyes have been stolen by the new leader of Nobilia!<$86>I gather he's gone back to the city to reign over this world with their power.<New>
+<End>
+<$96>You're new to Crustacia, aren't you?<S $79 $80> The people in this town look mean, but we're not that bad.<New>
+<$96>But, it's every rogue for himself on the other side of the river.<New>
+<End>
+Hours later…<End>
+<$96>Whoa!<S $3D $80> Now I know how `Dandy' Don Carlisle felt in `Sink, Boat, Sink!'<$86>I think I've got water in every orifice, pocket and pore!<New>
+N <$96>Hmmm…<S $3D $80> No sign of <Dog>.<New>
+<End>
+<$96>Hmmm…<S $3D $80> No sign of <Dog>.<New>
+<End>
+<$96><Dog>?<S $79 $80> Nope!<New>
+N <$96>I better look around.<New>
+<End>
+<$96>I better look around.<New>
+<End>
+Received Horace's Regenerate Magic<End>
+Won't Open<End>
+Received a Bronze Axe<End>
+<$96>Visitors! <S $51 $80> Oh, joy! <S $51 $80>I've been so lonely here.<New>
+I was sent here as punishment. <S $65 $80>The beasts won't attack me in this corner.<New>
+<End>
+<$96>Young man! <S $51 $80>Your company is most welcome. <S $51 $80>And don't worry. The beasts won't attack us in this corner.<New>
+<End>
+<$96>Tiny has found a home here. <S $51 $80>Leave Tiny and Tiny's friends alone!<$86>Oglins understand Tiny<S $65 $80> and Tiny feels at peace.<S $65 $80> Leave now,<S $3D $80> before Tiny must crush you!<$85><End>
+<$96>Stop! <S $3D $80>Tiny gives up! <S $51 $80>Please don't hurt Tiny.<New>
+Tiny lifts <S $51 $80>and Tiny throws <S $3D $80>and Tiny speaks in the third person,<S $51 $80> but Tiny doesn't fight.<New>
+Take the Diamond Eyes and go!<$85><End>
+Received Diamond Eyes<End>
+<$96>Please stop gloating! <S $5B $80>Take the Diamond Eyes and go! <S $5B $80>Leave Tiny alone with his shame.<New>
+<End>
+<$96>Tiny and his shame must have left.<New>
+<End>
+<$96>Tiny must be around.<S $51 $80> This looks like one of his rocks.<$85><End>
+<$96>That was quite a fall!<S $3D $80>
+I hope that you're OK now, kid.<New>
+<End>
+<$96>Thanks for pulling <End>
+me<End>
+us<End>
+ out of that ditch, Blimp!<$86>I think <End>
+I'll<End>
+we'll<End>
+ be all right.<New>
+<End>
+<$96>I'm glad to see you survived the big wash out.<New>
+<End>
+<$96>Likewise!<S $3D $80> My dog and I used your boat to float downstream and over the falls…<New>
+N <$96>Ahh!<S $3D $80> Well done!<$86>I escaped by floating down with swamp flowers full of the essence of Mud Pepper!<New>
+N <$96>You're a good little trooper.<New>
+I'm glad you haven't let that Sacred Dog stuff go to your head.<New>
+<End>
+<$96>Ahh!<S $3D $80> Well done!<$86>I escaped by floating down with swamp flowers full of the essence of Mud Pepper!<New>
+N <$96>You're a good little trooper.<New>
+I'm glad you haven't let that Sacred Dog stuff go to your head.<New>
+<End>
+<$96>You're a good little trooper.<New>
+I'm glad you haven't let that Sacred Dog stuff go to your head.<New>
+<End>
+<$96>You and your dog are brave adventurers.<S $3D $80>
+I'm very proud of you.<New>
+<End>
+<$96>You found your dog!<S $3D $80> And he's in one piece, too!<S $79 $80> Well done!<$86>Here's something that will ensure that he's always in good health.<New>
+It's the Revive Formula.<New>
+Mix three parts Root with one part Bone to give your dog life when his energy is depleted.<New>
+<End>
+<$96>You can use my bridge to cross over to the desert and search for your pooch.<New>
+<End>
+<$96>Hello friend!<S $3D $80> Glad to see you survived the big wash out.<New>
+<End>
+<$96>Likewise!<S $3D $80> My dog and I used your boat to float downstream and over the falls…<New>
+N <$96>Ahh!<S $3D $80> Well done!<$86>I escaped by floating down with swamp flowers full of the essence of Mud Pepper!<New>
+N <$96>Have you seen this world?<S $B5 $80> It's much different from the world on the plateau!<New>
+N <$96>I've explored a little,<S $41 $80><End>
+<$96>Ahh!<S $3D $80> Well done!<$86>I escaped by floating down with swamp flowers full of the essence of Mud Pepper!<New>
+N <$96>Have you seen this world?<S $B5 $80> It's much different from the world on the plateau!<New>
+N <$96>I've explored a little,<S $41 $80><End>
+<$96>Have you seen this world?<S $B5 $80> It's much different from the world on the plateau!<New>
+N <$96>I've explored a little,<S $41 $80><End>
+<$96>I've explored a little,<S $41 $80><End>
+<$96> but I've mainly been looking for <Dog>.<New>
+<End>
+I wonder where he could be…<S $79 $80> or what he could be…<New>
+N <$96>Wow!<S $3D $80> It sure took a long time for that rock to fall!<New>
+N <$96>Well, friend…<New>
+N <$96>It's time for you to find your pooch and for me to continue my studies of things lighter than air.<New>
+I hear that there's a great city on the other side of the desert, to the North.<New>
+You might have luck looking for your dog there.<New>
+You can cross over to the desert on my new bridge!<$86>Before you take off,<S $3D $80>
+I want you to have this Crush Formula.<New>
+You can mix Limestone and Wax for enemy crushing power.<New>
+<End>
+<$96>Wow!<S $3D $80> It sure took a long time for that rock to fall!<New>
+N <$96>Well, friend…<New>
+N <$96>It's time for you to find your pooch and for me to continue my studies of things lighter than air.<New>
+I hear that there's a great city on the other side of the desert, to the North.<New>
+You might have luck looking for your dog there.<New>
+You can cross over to the desert on my new bridge!<$86>Before you take off,<S $3D $80>
+I want you to have this Crush Formula.<New>
+You can mix Limestone and Wax for enemy crushing power.<New>
+<End>
+<$96>Well, friend…<New>
+N <$96>It's time for you to find your pooch and for me to continue my studies of things lighter than air.<New>
+I hear that there's a great city on the other side of the desert, to the North.<New>
+You might have luck looking for your dog there.<New>
+You can cross over to the desert on my new bridge!<$86>Before you take off,<S $3D $80>
+I want you to have this Crush Formula.<New>
+You can mix Limestone and Wax for enemy crushing power.<New>
+<End>
+<$96>It's time for you to find your pooch and for me to continue my studies of things lighter than air.<New>
+I hear that there's a great city on the other side of the desert, to the North.<New>
+You might have luck looking for your dog there.<New>
+You can cross over to the desert on my new bridge!<$86>Before you take off,<S $3D $80>
+I want you to have this Crush Formula.<New>
+You can mix Limestone and Wax for enemy crushing power.<New>
+<End>
+<$96>Can't… <S $3D $80>talk… <S $3D $80>busy… <S $3D $80>punching.<New>
+<End>
+<$96>Do you mind?<S $79 $80> We're trying to hit each other here!<New>
+N <$96>That lad Tiny the Barbarian came through here not long ago.<New>
+ I think he's up to something.<New>
+<End>
+<$96>That lad Tiny the Barbarian came through here not long ago.<New>
+ I think he's up to something.<New>
+<End>
+<$96>There are tales of hidden treasure and jewels in the land across the river.<New>
+I'd go there, but I think I'll wait until the weather clears up.<New>
+<End>
+<$96>Arrgh.<S $79 $80> The flood waters are a scourge,<S $3D $80> they are!<New>
+N <$96>The leader of Nobilia turned out to be a real sap.<New>
+But I hear that you sent him on his way.<S $79 $80> Well done.<New>
+<End>
+<$96>The leader of Nobilia turned out to be a real sap.<New>
+But I hear that you sent him on his way.<S $79 $80> Well done.<New>
+<End>

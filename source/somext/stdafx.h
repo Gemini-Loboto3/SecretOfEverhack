@@ -5,6 +5,8 @@
 
 #pragma once
 
+#define USE_XML		0
+
 #include "targetver.h"
 
 #define WIN32_LEAN_AND_MEAN
