@@ -676,28 +676,28 @@ WELL, HERE'S ANOTHER CRYPTIC CREDIT,
 IT'S BILL'S FAULT
 <End>
 Received a Diamond Eye<End>
-Podunk, Stati Uniti<End>
-<$87>Autunno 1965<End>
+Podunk, U.S.A.<End>
+<$87>Fall, 1965<End>
 <$87><End>
-Un eseperimento sta per concludersi…<End>
-<$96><$93>Amici miei,<S $3D $80> preparatevi a entrare nella storia!<S $69 $81><$87><End>
+An experiment is about to conclude…<End>
+<$96><$93>My friends,<S $3D $80> prepare to be a part of history!<S $69 $81><$87><End>
 <$80><$F1><$80><End>
-<$96><$93>Diamo un'aggiustatina qui...<S $79 $80> e attiviamo questo interruttore...<S $79 $80><End>
-<$87><$93><S $F1 $80>Aspettate un attimo...<S $79 $80> qualcosa non va.<S $1F $80><End>
-Trenta anni dopo...<End>
-<$96><$93>Che classico!<S $B5 $80><End>
-<$87><$93>La mia parte preferita è stata la battaglia <End>
-con il blob nella palude tossica.<S $29 $80><End>
-<$87><$93>Quasi non si capiva che fossero dei copertoni e un tubo dell'acqua.<S $69 $81><End>
-<$96><$93>Bello, dove vai?<S $79 $80> Quella non è la strada per casa!<S $5B $80><End>
-<$96><$93>Aspettami!<End>
-<$96><$93>Uoa!<S $79 $80> Che esperienza!<S $F1 $80><$87><End>
+<$96><$93>With a twist of a knob here...<S $79 $80> and a flip of a switch there...<S $79 $80><End>
+<$87><$93><S $F1 $80>Wait a minute...<S $79 $80> that's not right.<S $1F $80><End>
+Thirty years later...<End>
+<$96><$93>What a classic!<S $B5 $80><End>
+<$87><$93>My favorite part was the battle with <End>
+the slime beast in the toxic swamp.<S $29 $80><End>
+<$87><$93>You could hardly tell that it was really a bunch of old tires and a garden hose.<S $69 $81><End>
+<$96><$93>Where are you going, buddy?<S $79 $80> That's not the way home!<S $5B $80><End>
+<$96><$93>Wait for me!<End>
+<$96><$93>Whoa!<S $79 $80> That was intense!<S $F1 $80><$87><End>
 <$96><$93>Hi,<S $1F $80> <Dog>!<S $B5 $80> It's good to see that you're back to normal!<S $A5 $81><$87><End>
 <$96><$93>Everything is normal!<S $F1 $80><$87><End>
 <$96><$93>Good old Podunk.<S $79 $80> Nothing strange here.<S $69 $81><$87><End>
 <$96><$93>I wonder if that whole adventure was just a product of our overly active imaginations.<S $95 $82><$87><End>
 <$96><$93>Wow!<$80><$F1><$80><$87><End>
-<$96><$93>Credo di avere la nostra risposta!<S $2D $81><End>
+<$96><$93>I think we've got our answer!<S $2D $81><End>
 <$96><$93>Well, we're safe and we're home, friends.<S $2D $81><$87><$96><$93>That was a close call!<S $F1 $80><End>
 <$96><$93>It certainly was.<S $B5 $80><$87><End>
 <$96><$93>Now, a new adventure begins in this {real} world.<S $E1 $81><$87><End>
@@ -705,28 +705,28 @@ con il blob nella palude tossica.<S $29 $80><End>
 <$96><$93>I know that it was time to go,<S $79 $80> but I'm going to miss my village.<S $69 $81><$87><End>
 <$96><$93>And I will miss my kingdom.<S $2D $81><$87><End>
 <$96><$93>I wonder what will become of Evermore?<S $A5 $81><$87><End>
-<$93><$96>Dove si è cacciato?<S $5F $81><$87><End>
-<$93><$96>Uhmm... la porta è aperta...<S $41 $81><$87><End>
-<$93><$96>Sarà meglio controllare dentro.<S $41 $81><$87><End>
-<$93><$96>Eccoti qui!<S $5B $80>
-Credo che<S $5B $80> il gatto sia scappato da un pezzo!<S $55 $81><$87><End>
-<$93><$96>Ehi!<S $3D $80> Dove scappi?<S $B5 $80><$87><End>
-<$93><$96>Argh!<S $5B $80> Fai attenzione<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $51 $80><$87><End>
-<$93><$96>.<S $0B $80>.<S $0B $80>.<S $0B $80>ops.<S $83 $80><$87><End>
-<$93><$96>Ehi!<S $3D $80> Guarda!<S $3D $80> Una mummia.<S $3D $80>.<S $0B $80>.<S $0B $80>
-una motosega<S $3D $80>.<S $0B $80>.<S $0B $80>. e un animale gonfiabile!<S $19 $81><$87><End>
-<$93><$96>Uhm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $3D $80> questo pannello sembra appoggiato male<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $19 $81><$87><End>
-<$93><$96>Wow!<S $3D $80> Credo di aver scoperto un'entrata segreta!<S $69 $81><$87><End>
-<$96>Uoa!<S $1F $80> Che atterraggio!<S $3D $80> Credo che la navicella e il bazooka siano andati!<$86>Wh<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> Dove mi trovo?<S $3D $80> E <S $3D $80> dov'è il mio cane?<$86><End>
-<$96>Qui, bello!<$86><End>
-<$96>Qui, bello!<S $3D $80> Dove sei finito?<$86><End>
-<$96>Wow!<S $5B $80> Sei veramente tu?<$86><End>
-<$96>Sei diverso!<$86><End>
-<$96>U<S $0B $80>h<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<$86><End>
-<$96>Se sei davvero il mio cane<S $3D $80> mi riporterai questo bastone.<$86><End>
-<$96>OK!<S $3D $80> Corri a prenderlo!<$86><End>
-<$96>Beh,<S $3D $80> non è il bastone.<S $3D $80> Fa lo stesso!<$86>Andiamo bello,<S $3D $80> facciamoci un giro.<$86><End>
-<$96>Ho una strana sensazione.<$86><End>
+<$93><$96>Now, where did he go?<S $5F $81><$87><End>
+<$93><$96>Hmmm... the door is open...<S $41 $81><$87><End>
+<$93><$96>I'd better take a look inside.<S $41 $81><$87><End>
+<$93><$96>There you are!<S $5B $80>
+You know,<S $5B $80> I think that cat is long gone!<S $55 $81><$87><End>
+<$93><$96>Hey!<S $3D $80> Where are you going?<S $B5 $80><$87><End>
+<$93><$96>Yikes!<S $5B $80> Watch out for that<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $51 $80><$87><End>
+<$93><$96>.<S $0B $80>.<S $0B $80>.<S $0B $80>oops.<S $83 $80><$87><End>
+<$93><$96>Hey!<S $3D $80> Look!<S $3D $80> A mummy.<S $3D $80>.<S $0B $80>.<S $0B $80>
+a chainsaw<S $3D $80>.<S $0B $80>.<S $0B $80>. and a balloon animal!<S $19 $81><$87><End>
+<$93><$96>Hmmm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $3D $80> this wall panel is kind of loose<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $19 $81><$87><End>
+<$93><$96>Wow!<S $3D $80> I think we've found some sort of secret entrance!<S $69 $81><$87><End>
+<$96>Whoa!<S $1F $80> That was some landing!<S $3D $80> I think the pod and bazooka are shot!<$86>Wh<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> Where am I, anyway?<S $3D $80> And,<S $3D $80> where's my dog?<$86><End>
+<$96>Here, buddy!<$86><End>
+<$96>Here, pupster!<S $3D $80> Where are you, boy?<$86><End>
+<$96>Wow!<S $5B $80> Is that really you?<$86><End>
+<$96>You've changed!<$86><End>
+<$96>H<S $0B $80>m<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<$86><End>
+<$96>If you're really my dog,<S $3D $80> you'll fetch this stick.<$86><End>
+<$96>OK!<S $3D $80> Go get it!<$86><End>
+<$96>Well,<S $3D $80> this isn't the stick.<S $3D $80> But it'll do!<$86>C'mon buddy,<S $3D $80> let's look around.<$86><End>
+<$96>I have a strange feeling about this.<$86><End>
 Received 50 Talons<End>
 Received a Petal<End>
 <$96>Wow!<S $3D $80> And I thought a little sand in the shoes was irritating!<$85><End>
@@ -884,10 +884,10 @@ You are like Fire Eyes!<$86><End>
 <$96>When the volcano blew,<S $3D $80> a lot of stuff fell into the Bugmuck.<$86>I'd like to go there to take a look, but I'm not old enough.<$86><End>
 <$96>A lot of the jungle paths are overgrown.<$86>You need something sharp to cut through the vines and plants.<$86><End>
 <$96>That's some claw you've got there.<S $5B $80> It's almost as sharp as Buzz's stinger. <S $B5 $80> Sting!<$86><End>
-<$96>La mia ape,<S $1F $80> Buzz,<S $1F $80> ha combattuto contro un moscone nella giungla.<S $F1 $80> Buzz ha vinto!<S $79 $80> Buzz spacca!<$86><End>
-<$96>Ti piace la mia ape?<S $3D $80>
-Si chiama `Buzz!'<S $5B $80>
-Attento che punge! <$97><S $3D $80>«punz»!<$86><End>
+<$96>My bee,<S $1F $80> Buzz,<S $1F $80> had a fight with a big mosquito in the jungle.<S $F1 $80> Buzz won!<S $79 $80> Buzz rules!<$86><End>
+<$96>You like my bee?<S $3D $80>
+His name is `Buzz!'<S $5B $80>
+He'll sting you! <$97><S $3D $80>Sting!<$86><End>
 <$96>You've had a very long journey, pup.<S $3D $80> You should rest in the inn.<$86><End>
 <$96>I hear that you saved your master from the animals in the jungle!<S $B5 $80> Good dog!<$86><End>
 <$96>You look kind of tough, but I bet you're really a sweet dog.<$86><End>
@@ -3596,40 +3596,40 @@ Hmmm...<S $A5 $81><$87>Take an Eigen Vector here, <S $3D $80>invert it, <S $B5 $
 zip!<$80>i<$81><$87><End>
 <$96><$93>But,<S $3D $80> you've got to give it a try!<S $F1 $80><$87><End>
 <$96>Wow!<$80><$B5><$80><$87><End>
-<$96><$93>Sembra il PZS Plasma Drive di {Quando le consonanti si scontrano}.<S $B9 $81><$87><End>
-<$96><$93>Chissà se funziona!<S $F1 $80><$87><End>
-<$96><$93>Uoa!<End>
+<$96><$93>This looks like the PZS Plasma Drive in {When Consonants Collide.}<S $B9 $81><$87><End>
+<$96><$93>I wonder if it works!<S $F1 $80><$87><End>
+<$96><$93>Whoa!<End>
 <$87><End>
-<$93>Dovremmo andarcene prima di combinare qualche guaio!<End>
+<$93>We should get out of here before something goes terribly wrong!<End>
 <$87><End>
-<$96><$93>Ehi! <End>
-Non masticare quei fili!<End>
+<$96><$93>Hey! <End>
+Don't chew on those wires!<End>
 <$87><End>
-<$96><$93>Oh oh!<End>
+<$96><$93>Uh oh!<End>
 <$87><End>
-<$96><$93>Chi abbiamo qui?<S $F1 $80>
+<$96><$93>What have we here?<S $F1 $80>
 <End>
-Un intruso,<S $3D $80> temo!<S $69 $81><$87><End>
-<$96><$93>Che figata!<S $F1 $80><$87><End>
-<$96><$93>Chi.<S $15 $80>.<S $15 $80>. chi è lei?<S $F1 $80><End>
-<$96><$93>Non è importante!<S $79 $80> Devo farti uscire da qui.<S $E1 $81><$87><End>
-<$96><$93>Non posso farti interferire con gli esperimenti del professore.<S $E1 $81><$87><End>
-<$96><$93>Vieni con me.<S $79 $80><$87><End>
-<$96><$93>Chi è, Carltron?<S $79 $80>
-Abbiamo un ospite?<S $F1 $80><End>
-<$96><$93>Non è nessuno<S $3D $80><S $15 $80>.<S $15 $80>.<S $15 $80>. proprio nessuno.<S $F1 $80><$87><End>
-<$96><$93>Continuate col vostro lavoro, professore.<S $F1 $80><$87><End>
-<$96><$93>Dopo di te.<S $B5 $80><End>
-<$96>E ora che succede?<S $F1 $80><End>
-Hai ricevuto Laser Lance<End>
-Hai ricevuto Bazooka<End>
-<$96>Figo!<$80><$B5><$80><End>
-<$96><$93>La cosa non mi piace!<S $F1 $80><End>
-<$96><$93>Sembra un'uscita.<S $F1 $80><End>
-<$96><$93>Ehi bello, sei tu?<S $B5 $80><$87><End>
-<$96><$93>Non riesco a vedere bene.<S $3D $80>
-Qui dentro è buio!<S $69 $81><$96><$87><$93>Ehi!<S $3D $80> Questa sembra una specie di navicella di fuga futuristica!<S $69 $81><End>
-<$96><$93>Ops!<S $3D $80> Ed è partito il controller!<S $F1 $80><End>
+An intruder,<S $3D $80> I fear!<S $69 $81><$87><End>
+<$96><$93>That was some blast!<S $F1 $80><$87><End>
+<$96><$93>Who.<S $15 $80>.<S $15 $80>. who are you?<S $F1 $80><End>
+<$96><$93>That's not important!<S $79 $80> We've got to get you out of here.<S $E1 $81><$87><End>
+<$96><$93>We can't have you meddling with the Professor's experiments.<S $E1 $81><$87><End>
+<$96><$93>Come along.<S $79 $80><$87><End>
+<$96><$93>Who's that Carltron?<S $79 $80>
+Do we have a visitor?<S $F1 $80><End>
+<$96><$93>It's no one<S $3D $80><S $15 $80>.<S $15 $80>.<S $15 $80>. no one at all.<S $F1 $80><$87><End>
+<$96><$93>Continue with your work, Professor.<S $F1 $80><$87><End>
+<$96><$93>After you.<S $B5 $80><End>
+<$96>Now what?<S $F1 $80><End>
+Received Laser Lance<End>
+Received Bazooka<End>
+<$96>Cool!<$80><$B5><$80><End>
+<$96><$93>This does not look good!<S $F1 $80><End>
+<$96><$93>This looks like a way out.<S $F1 $80><End>
+<$96><$93>Is that you, Buddy?<S $B5 $80><$87><End>
+<$96><$93>I can't see very well.<S $3D $80>
+It's dark in here!<S $69 $81><$96><$87><$93>Hey!<S $3D $80> I think this is some sort of futuristic escape pod!<S $69 $81><End>
+<$96><$93>Oops!<S $3D $80> There goes the Control Pad!<S $F1 $80><End>
 <$96>You're Professor Ruffleberg,<S $3D $80> aren't you?<$86><End>
 <$96>Why,<S $1F $80> yes.<$86><End>
 <$96>And you're <Boy>!<S $79 $80> I've been watching you through the monitors!<$86>You're quite an adventurer!<$86>You have the same spirit that inspired me to create this world.<$86><End>

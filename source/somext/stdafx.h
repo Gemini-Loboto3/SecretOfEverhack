@@ -6,6 +6,7 @@
 #pragma once
 
 #define USE_XML		0
+#define IS_EURO		0
 
 #include "targetver.h"
 

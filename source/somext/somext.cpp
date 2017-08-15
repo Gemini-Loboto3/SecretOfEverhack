@@ -4,6 +4,41 @@
 #include "stdafx.h"
 #include "..\common\encoding.h"
 
+void DumpFont(u8 *font, LPCTSTR out_name)
+{
+#if IS_EURO
+	const int count = 160;
+#else
+	const int count = 128;
+#endif
+	Image img;
+
+	RGBQUAD pal[16];
+	*(u32*)&pal[0] = 0xff000000;
+	*(u32*)&pal[1] = 0xffffffff;
+	img.Create(256, count / 16 * 12, 4, pal);
+
+	for (int i = 0; i < count; i++)
+	{
+		// left rows
+		for (int y = 0; y < 12; y++)
+		{
+			u8 row = *font++;
+			for (int x = 0; x < 8; x++, row <<= 1)
+				img.SetPixelAt(x + (i % 16 * 16), y + (i / 16 * 12), row & 0x80 ? 1 : 0);
+		}
+		// right rows
+		for (int y = 0; y < 12; y++)
+		{
+			u8 row = *font++;
+			for (int x = 0; x < 8; x++, row <<= 1)
+				img.SetPixelAt(x + (i % 16 * 16) + 8, y + (i / 16 * 12), row & 0x80 ? 1 : 0);
+		}
+	}
+
+	img.SaveBitmap(out_name);
+}
+
 void DumpText(u8 *rom, u8 *ptr, int count, LPCTSTR outname)
 {
 #if USE_XML
@@ -47,6 +82,7 @@ void DumpText(u8 *rom, u8 *ptr, int count, LPCTSTR outname)
 
 int main()
 {
+#if !IS_EURO
 	CBufferFile f(_T("..\\..\\rom.smc"));
 	u8 *rom = (u8*)f.GetBuffer();
 
@@ -55,6 +91,15 @@ int main()
 	DumpText(rom, &rom[0x11d000], 3002, _T("script\\text.xml"));
 #else
 	DumpText(rom, &rom[0x11d000], 3002, _T("script\\text.txt"));
+#endif
+
+	DumpFont(&rom[0x40002], _T("font.bmp"));
+	DumpFont(&rom[0x40C84], _T("font_small.bmp"));
+#else
+	CBufferFile f(_T("..\\..\\..\\Secret of Evermore (France).sfc"));
+	u8 *rom = (u8*)f.GetBuffer();
+
+	DumpFont(&rom[0x30002], _T("font_fr.bmp"));
 #endif
 
     return 0;
