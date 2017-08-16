@@ -1,4 +1,11 @@
-// replace name entry pointers for text
+// change "The Dog" pointer
+org $C08BDF
+	LDA.w #(text_thedog & 0xffff)
+	STA $26
+	LDA.w #(text_thedog >> 16)
+	STA $28
+
+// update pointers for: name entry
 org $CD8168
 	LDA.w #(text_name_title & 0xffff)
 	STA.b $22

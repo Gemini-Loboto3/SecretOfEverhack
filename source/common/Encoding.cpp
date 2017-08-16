@@ -282,26 +282,21 @@ GString DecodeStringAscii(u8 *data)
 
 static TCHAR sym_table[] =
 {
+	_T("················")		// 00
+	_T("·à·è·é·ì·ò·ù·È··")		// 10
 	_T(" !\"#$%&\'()*+,-./")	// 20
 	_T("0123456789:;«=»?")		// 30
 	_T("@ABCDEFGHIJKLMNO")		// 40
 	_T("PQRSTUVWXYZ[\\]▶…")		// 50
 	_T("`abcdefghijklmno")		// 60
 	_T("pqrstuvwxyz{|}~ ")		// 70
-	_T("@@@@@@@@@@@@@@@@")		// 80
-	_T("@@@@@@@@@@@@@@@@")		// 90
-	_T("@@@@@@@@@@@@@@@@")		// A0
-	_T("@@@@@@@@@@@@@@@@")		// B0
-	_T("@@@@@@@@@@@@@@@@")		// C0
-	_T("@@@@@@@@@@@@@@@@")		// D0
-	_T("àèéìòùÈÉ@@@@@@@@")		// E0
 };
 
 u8 Find_symbol(TCHAR c)
 {
 	for (int i = 0; i < sizeof(sym_table); i++)
 		if (c == sym_table[i])
-			return i + 0x20;
+			return i;
 
 	// couldn't find anything
 	return '?';

@@ -1,5 +1,18 @@
 // script for xkas plus
 arch snes.cpu; hirom
+table "table.tbl"
+
+// make font start from 0x10 instead of 0x20
+org $CC9ED7
+	SBC #$10
+org $CCA54E
+	SBC #$10
+org $CCA5A3
+	SBC #$10
+org $CCA929
+	SBC #$10
+org $CCBB20
+	SBC #$10	// name entry character table
 
 define message		$22
 define message_ptr	$26
@@ -28,9 +41,9 @@ org $CCCD3F
 incsrc text.s
 
 org $D1D000
-incbin "..\source\somins\ptr.bin"
+incbin "ptr.bin"
 org $F00000
-incbin "..\source\somins\text.bin"
+incbin "text.bin"
 
 // expansion area for all extra data
 align $10000
@@ -65,7 +78,7 @@ text_savethis:
 text_stats:
 	db "Lv:",$0a,"Esp:",$0a,"PS:",0
 text_yesno:
-	db "Si",$0a,"No",0
+	db "S",$17,$0a,"No",0
 	
 // name entry screen
 // Enter Character Name
@@ -78,12 +91,17 @@ text_name_desc:
 // game over screen
 // Sadly, <Boy> and <Dog> never came back.
 text_gameover_mes:
-	db $96,$92,"Purtroppo ",$80,$3D,$80,$81," e ",$82," non fecero ritorno...",$80,$a5,$81,0
+	db $96,$92,"Purtroppo ",$80,$3D,$80,$81," e ",$82," non fecero mai pi",$1B," ritorno...",$80,$a5,$81,0
 // his dog (replacement if there is no dog name set)
 text_gameover_dog:
 	db "il suo cane",0
 text_gameover_tag:
 	db $86,0
+
+// misc text
+// The Dog
+text_thedog:
+	db "Cane",0
 
 org $3fffff
 	db 0
