@@ -686,7 +686,7 @@ Un eseperimento sta per concludersi…<End>
 <$87><$93><S $F1 $80>Aspettate un attimo...<S $79 $80> qualcosa non va.<S $1F $80><End>
 Trenta anni dopo...<End>
 <$96><$93>Che classico!<S $B5 $80><End>
-<$87><$93>La mia parte preferita è stata la battaglia <End>
+<$87><$93>La mia parte preferita è la battaglia <End>
 con il blob nella palude tossica.<S $29 $80><End>
 <$87><$93>Quasi non si capiva che fossero dei copertoni e un tubo dell'acqua.<S $69 $81><End>
 <$96><$93>Bello, dove vai?<S $79 $80> Quella non è la strada per casa!<S $5B $80><End>
@@ -717,7 +717,7 @@ Credo che<S $5B $80> il gatto sia scappato da un pezzo!<S $55 $81><$87><End>
 una motosega<S $3D $80>.<S $0B $80>.<S $0B $80>. e un animale gonfiabile!<S $19 $81><$87><End>
 <$93><$96>Uhm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $3D $80> questo pannello sembra appoggiato male<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $19 $81><$87><End>
 <$93><$96>Wow!<S $3D $80> Credo di aver scoperto un'entrata segreta!<S $69 $81><$87><End>
-<$96>Uoa!<S $1F $80> Che atterraggio!<S $3D $80> Credo che la navicella e il bazooka siano andati!<$86>Wh<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> Dove mi trovo?<S $3D $80> E <S $3D $80> dov'è il mio cane?<$86><End>
+<$96>Uoa!<S $1F $80> Che atterraggio!<S $3D $80> Credo che la navicella e il bazooka siano andati!<$86>Do<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> Dove mi trovo?<S $3D $80> E <S $3D $80> dov'è il mio cane?<$86><End>
 <$96>Qui, bello!<$86><End>
 <$96>Qui, bello!<S $3D $80> Dove sei finito?<$86><End>
 <$96>Wow!<S $5B $80> Sei veramente tu?<$86><End>

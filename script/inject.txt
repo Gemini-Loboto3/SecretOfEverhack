@@ -1,0 +1,36 @@
+﻿<32 text entries>
+artigli<End>
+gioielli<End>
+monete<End>
+crediti<End>
+Nuova partita<End>
+Salva partita<End>
+Vuoto<End>
+Lv:<End>
+PS:<End>
+Esp:<End>
+Confermi la scelta?<End>
+Confermi di salvare?<End>
+Lv:
+Esp:
+PS:<End>
+Sì
+No<End>
+Inserire nome personaggio<End>
+B inserisce un carattere e Y elimina l'ultimo carattere. Premi START per confermare.<End>
+<$96><$92>Purtroppo, <S $3D $80><Boy> e <Dog> non fecero mai più ritorno...<S $A5 $81><End>
+il suo cane<End>
+<$86><End>
+Cane<End>
+Status/<End>
+PS:<End>
+Livello:<End>
+Esp:<End>
+Prossimo:<End>
+Attacco:<End>
+Precisione %:<End>
+Difesa:<End>
+Evasione %:<End>
+Dif. magica:<End>
+Abilità ATT:<End>
+Impost. alchimia<End>

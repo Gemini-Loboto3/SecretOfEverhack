@@ -1,109 +1,109 @@
 // change "The Dog" pointer
 org $C08BDF
-	LDA.w #(text_thedog & 0xffff)
+	LDA.w #<!inject 19>
 	STA $26
-	LDA.w #(text_thedog >> 16)
+	LDA.w #<@inject 19>
 	STA $28
 
 // update pointers for: name entry
 org $CD8168
-	LDA.w #(text_name_title & 0xffff)
+	LDA.w #<!inject 14>
 	STA.b $22
-	LDA.w #(text_name_title >> 16)
+	LDA.w #<@inject 14>
 	STA.b $24
 org $CD8240
-	LDA.w #(text_name_desc & 0xffff)
+	LDA.w #<!inject 15>
 	STA.b $22
-	LDA.w #(text_name_desc >> 16)
+	LDA.w #<@inject 15>
 	STA.b $24
 
 // update pointers for: game selection
 org $CDCBC6
-	LDA.w #(text_newgame & 0xffff)
+	LDA.w #<!inject 4>
 	STA.b $22
-	LDA.w #(text_newgame >> 16)
+	LDA.w #<@inject 4>
 org $CDCC12
-	LDA.w #(text_empty & 0xffff)
+	LDA.w #<!inject 6>
 	STA.b $22
-	LDA.w #(text_empty >> 16)
+	LDA.w #<@inject 6>
 org $CDCC55
-	LDA.w #(text_level & 0xffff)
+	LDA.w #<!inject 7>
 	STA.b $22
-	LDA.w #(text_level >> 16)
+	LDA.w #<@inject 7>
 org $CDCC8E
-	LDA.w #(text_hp & 0xffff)
+	LDA.w #<!inject 8>
 	STA.b $22
-	LDA.w #(text_hp >> 16)
+	LDA.w #<@inject 8>
 org $CDCCE0
-	LDA.w #(text_exp & 0xffff)
+	LDA.w #<!inject 9>
 	STA.b $22
-	LDA.w #(text_exp >> 16)
+	LDA.w #<@inject 9>
 org $CDD16F
-	LDA.w #(text_savegame & 0xffff)
+	LDA.w #<!inject 5>
 	STA.b $22
-	LDA.w #(text_savegame >> 16)
+	LDA.w #<@inject 5>
 org $CDD1B8
-	LDA.w #(text_empty & 0xffff)
+	LDA.w #<!inject 6>
 	STA.b $22
-	LDA.w #(text_empty >> 16)
+	LDA.w #<@inject 6>
 org $CDD1FB
-	LDA.w #(text_level & 0xffff)
+	LDA.w #<!inject 7>
 	STA.b $22
-	LDA.w #(text_level >> 16)
+	LDA.w #<@inject 7>
 org $CDD234
-	LDA.w #(text_hp & 0xffff)
+	LDA.w #<!inject 8>
 	STA.b $22
-	LDA.w #(text_hp >> 16)
+	LDA.w #<@inject 8>
 org $CDD286
-	LDA.w #(text_exp & 0xffff)
+	LDA.w #<!inject 9>
 	STA.b $22
-	LDA.w #(text_exp >> 16)
+	LDA.w #<@inject 9>
 
 // update pointers for: load / save game
 org $CDCE25
-	LDA.w #(text_loadthis & 0xffff)
+	LDA.w #<!inject 10>
 	STA.b $22
-	LDA.w #(text_loadthis >> 16)
+	LDA.w #<@inject 10>
 org $CDD3D0
-	LDA.w #(text_savethis & 0xffff)
+	LDA.w #<!inject 11>
 	STA.b $22
-	LDA.w #(text_savethis >> 16)
+	LDA.w #<@inject 11>
 org $CDDD24
-	LDA.w #(text_yesno & 0xffff)
+	LDA.w #<!inject 13>
 	STA.b $22
-	LDA.w #(text_yesno >> 16)		// bank is recycled from here on
+	LDA.w #<@inject 13>		// bank is recycled from here on
 org $CDDD35
-	LDA.w #(text_stats & 0xffff)
+	LDA.w #<!inject 12>
 org $CDDD41
-	LDA.w #(text_stats & 0xffff)
+	LDA.w #<!inject 12>
 
 // update pointers for: game over
 org $CEE196
-	LDA.w #(text_gameover_dog & 0xffff)
+	LDA.w #<!inject 17>
 	STA.b $26
-	LDA.w #(text_gameover_dog >> 16)
+	LDA.w #<@inject 17>
 org $CEE2EE
-	LDA.w #(text_gameover_mes & 0xffff)
+	LDA.w #<!inject 16>
 	STA.b $22
-	LDA.w #(text_gameover_mes >> 16)
+	LDA.w #<@inject 16>
 org $CEE3A8
-	LDA.w #(text_gameover_tag & 0xffff)
+	LDA.w #<!inject 18>
 	STA.b $22
-	LDA.w #(text_gameover_tag >> 16)
+	LDA.w #<@inject 18>
 	
 // update pointers for: alchemy
 org $CDB972
-	LDA.w #(text_alchemysetup & 0xffff)
+	LDA.w #<!inject 31>
 	STA.b $22
-	LDA.w #(text_alchemysetup >> 16)
+	LDA.w #<@inject 31>
 
 // update pointers for: Boy Stats
 org $CDA281
 	// print boy stats header
 	LDY #$499
-	LDA.w #(text_stats_title & 0xffff)
+	LDA.w #<!inject 20>
 	STA.b $22
-	LDA.w #(text_stats_title >> 16)
+	LDA.w #<@inject 20>
 	STA.b $24
 	JSL $CC9E03		// Display_mes
 	LDY #$499
@@ -154,11 +154,9 @@ org $CDA5C9
 org $CDAB2C
 	// print dog stats header
 	LDY #$499
-	print "", pc, "..."
-	LDA.w #(text_stats_title & 0xffff)
+	LDA.w #<!inject 20>
 	STA.b $22
-	print "", pc, "..."
-	LDA.w #(text_stats_title >> 16)
+	LDA.w #<@inject 20>
 	STA.b $24
 	JSL $CC9E03		// Display_mes
 	LDY #$499
@@ -212,4 +210,4 @@ org $CDAE9F
 	
 // currencies
 org $CF8704
-	dl text_curr0, text_curr1, text_curr2, text_curr3
+	dl <#inject 0>, <#inject 1>, <#inject 2>, <#inject 3>

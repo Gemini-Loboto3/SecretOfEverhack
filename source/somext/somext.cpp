@@ -4,6 +4,36 @@
 #include "stdafx.h"
 #include "..\common\encoding.h"
 
+void DumpMisc(u8 *rom, LPCTSTR out_name)
+{
+	typedef struct tagStuff
+	{
+		u16 ptr;
+		u8 unk[8];
+	} STUFF;
+
+	u16 *ptr = (u16*)&rom[0xE8000];
+
+	CText txt;
+	txt.Create(0, TYPE_LIST);
+	for (int i = 0; i < 162; i++)
+	{
+		STUFF *s = (STUFF*)&rom[0xE0000 + ptr[i]];
+		GString str = DecodeStringAscii(&rom[0x40000 + s->ptr]);
+		txt.AddEntry(str, _T(""));
+	}
+	txt.Save(out_name);
+
+	txt.Create(0, TYPE_LIST);
+	ptr = (u16*)&rom[0x459FA];
+	for (int i = 0; i < 12; i++)
+	{
+		GString str = DecodeStringAscii(&rom[0x40000 + ptr[i]]);
+		txt.AddEntry(str, _T(""));
+	}
+	txt.Save(_T("script\\weapon_desc.txt"));
+}
+
 void DumpFont(u8 *font, LPCTSTR out_name)
 {
 #if IS_EURO
@@ -92,6 +122,8 @@ int main()
 #else
 	DumpText(rom, &rom[0x11d000], 3002, _T("script\\text.txt"));
 #endif
+
+	DumpMisc(rom, _T("script\\misc.txt"));
 
 	DumpFont(&rom[0x40002], _T("font.bmp"));
 	DumpFont(&rom[0x40C84], _T("font_small.bmp"));

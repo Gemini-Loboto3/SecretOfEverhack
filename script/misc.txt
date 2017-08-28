@@ -1,0 +1,163 @@
+﻿<162 text entries>
+<End>
+<End>
+<End>
+<End>
+<End>
+<End>
+<End>
+<End>
+<End>
+Alchimista<End>
+ROM Creation Date<End>
+Status giocatore<End>
+Status giocatore<End>
+Azioni<End>
+Controlli<End>
+Finestre<End>
+Equipaggiamento<End>
+Obiettivo<End>
+Alchimia<End>
+Abilità armi<End>
+Spaccaossa<End>
+Spada da gladiatore<End>
+Spada da crociato<End>
+Lama a neutroni<End>
+Aracnoartiglio<End>
+Ascia di bronzo<End>
+Smacca-cavaliere<End>
+Scissore atomico<End>
+Arpione cornuto<End>
+Arpione di bronzo<End>
+Lancia<End>
+Lancia laser<End>
+Bazooka<End>
+Sfera del tuono<End>
+Bomba particellare<End>
+Crioscoppio<End>
+Levita<End>
+Risana<End>
+Cura<End>
+Difesa<End>
+Velocità<End>
+Flash<End>
+Hard Ball<End>
+Pioggia acida<End>
+Rivelatore<End>
+Cura miracolosa<End>
+Rianima<End>
+Barriera<End>
+Fuga<End>
+Atlas<End>
+Puntura<End>
+Schianto<End>
+Assorbimento<End>
+Assorbimento doppio<End>
+Palla di fuoco<End>
+Super risana<End>
+Incremento<End>
+Potere del fuoco<End>
+Tempesta di lampi<End>
+Esplosione<End>
+Corrosione<End>
+Ricrescita<End>
+Lancia<End>
+Scorcio lento<End>
+Nitro<End>
+Stop<End>
+Rifletti<End>
+Laser<End>
+Call Up<End>
+Energizza<End>
+Campo di forza<End>
+Petali<End>
+Nettare<End>
+Miele<End>
+Biscotti per cani<End>
+Ali<End>
+Essenza<End>
+Polvere di fata<End>
+Perla di richiamo<End>
+Borsello<End>
+Veste d'erba<End>
+Placca di guscio<End>
+Pelle di dinosauro<End>
+Armatura di bronzo<End>
+Veste di pietra<End>
+Cappa da centurione<End>
+Maglia argentea<End>
+Veste dorata<End>
+Armatura di luce<End>
+Maglia Magna<End>
+Veste di titanio<End>
+Veste virtuale<End>
+Cappello d'erba<End>
+Cappello di guscio<End>
+Elmo di dinosauro<End>
+Elmo di bronzo<End>
+Elmo di ossidiana<End>
+Elmo da centurione<End>
+Corona del titano<End>
+Elmo di drago<End>
+Elmo da cavaliere<End>
+Elmo del lampo<End>
+Old Reliable<End>
+Psicotempesta<End>
+Bracciale di vite<End>
+Anti-Mammoth<End>
+Anti-artiglio<End>
+Bracciale di serpente<End>
+Guanto di bronzo<End>
+Guanti di Ra<End>
+Bracciale di ferro<End>
+Anello del mago<End>
+Artiglio di drago<End>
+Cyberguanto<End>
+Anello protettore<End>
+Guanto virtuale<End>
+Collare di pelle<End>
+Collare borchiato<End>
+Collare di difesa<End>
+Collare di Spot<End>
+Occhi di fuoco<End>
+Horace<End>
+Camellia<End>
+Sidney<End>
+Vampa<End>
+Onda di calore<End>
+Tempesta<End>
+Scintilla vitale<End>
+Curvatura<End>
+Primo soccorso<End>
+Confusione<End>
+Rigenera<End>
+Aura<End>
+Onda d'urto<End>
+Scudo<End>
+Peste<End>
+Ipnosi<End>
+Ripristino<End>
+Scarica elettrica<End>
+Blocco<End>
+Cenere<End>
+Ossa<End>
+Zolfo<End>
+Argilla<End>
+Cristallo<End>
+Ghiaccio secco<End>
+Etanolo<End>
+Piuma<End>
+Lubrificante<End>
+Polvere da sparo<End>
+Amuleto di Atlas<End>
+Ferro<End>
+Calcare<End>
+Meteorite<End>
+Peperone sporco<End>
+Fungo<End>
+Olio<End>
+Radice<End>
+Aceto<End>
+Acqua<End>
+Cera<End>
+Ghianda<End>

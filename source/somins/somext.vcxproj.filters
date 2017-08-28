@@ -24,6 +24,9 @@
     <ClInclude Include="..\common\Encoding.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AsmRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="somins.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AsmRep.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,163 @@
+﻿<162 text entries>
+Debug: Create a monster<End>
+Debug: Heel<End>
+Debug: Show thud balls on path<End>
+Debug: Turn off both backgrounds<End>
+Debug: Show background 1 only<End>
+Debug: Show background 2 only<End>
+Debug: Show both backgrounds<End>
+Debug: Select map<End>
+Debug: Mode 7 Flight<End>
+Alchemist<End>
+ROM Creation Date<End>
+Player Status<End>
+Player Status<End>
+Action<End>
+Control Prefs<End>
+Window Edit<End>
+Equipment<End>
+Targeting<End>
+Alchemy<End>
+Weapon Skill<End>
+Bone Crusher<End>
+Gladiator Sword<End>
+Crusader Sword<End>
+Neutron Blade<End>
+Spider's Claw<End>
+Bronze Axe<End>
+Knight Basher<End>
+Atom Smasher<End>
+Horn Spear<End>
+Bronze Spear<End>
+Lance<End>
+Laser Lance<End>
+Bazooka<End>
+Thunder Ball<End>
+Particle Bomb<End>
+Cryo-Blast<End>
+Levitate<End>
+Heal<End>
+Cure<End>
+Defend<End>
+Speed<End>
+Flash<End>
+Hard Ball<End>
+Acid Rain<End>
+Revealer<End>
+Miracle Cure<End>
+Revive<End>
+Barrier<End>
+Escape<End>
+Atlas<End>
+Sting<End>
+Crush<End>
+Drain<End>
+Double Drain<End>
+Fireball<End>
+Super Heal<End>
+One Up<End>
+Fire Power<End>
+Lightning Storm<End>
+Explosion<End>
+Corrosion<End>
+Regrowth<End>
+Lance<End>
+Slow Burn<End>
+Nitro<End>
+Stop<End>
+Reflect<End>
+Laser<End>
+Call Up<End>
+Energize<End>
+Force Field<End>
+Petals<End>
+Nectar<End>
+Honey<End>
+Dog Biscuit<End>
+Wings<End>
+Essence<End>
+Pixie Dust<End>
+Call Bead<End>
+Pouch<End>
+Grass Vest<End>
+Shell Plate<End>
+Dino Skin<End>
+Bronze Armor<End>
+Stone Vest<End>
+Centurion Cape<End>
+Silver Mail<End>
+Gold-Plated Vest<End>
+Shining Armor<End>
+Magna Mail<End>
+Titanium Vest<End>
+Virtual Vest<End>
+Grass Hat<End>
+Shell Hat<End>
+Dino Helm<End>
+Bronze Helmet<End>
+Obsidian Helm<End>
+Centurion Helm<End>
+Titan's Crown<End>
+Dragon Helm<End>
+Knight's Helm<End>
+Lightning Helm<End>
+Old Reliable<End>
+Brainstorm<End>
+Vine Bracelet<End>
+Mammoth Guard<End>
+Claw Guard<End>
+Serpent Bracer<End>
+Bronze Gauntlet<End>
+Gloves Of Ra<End>
+Iron Bracer<End>
+Magician's Ring<End>
+Dragon's Claw<End>
+Cyberglove<End>
+Protector Ring<End>
+Virtual Glove<End>
+Leather Collar<End>
+Spiky Collar<End>
+Defender Collar<End>
+Spot's Collar<End>
+Fire Eyes<End>
+Horace<End>
+Camellia<End>
+Sidney<End>
+Flare<End>
+Heat Wave<End>
+Storm<End>
+Life Spark<End>
+Time Warp<End>
+First Aid<End>
+Confound<End>
+Regenerate<End>
+Aura<End>
+Shock Wave<End>
+Shield<End>
+Plague<End>
+Hypnotize<End>
+Restore<End>
+Electra-Bolt<End>
+Disrupt<End>
+Ash<End>
+Bone<End>
+Brimstone<End>
+Clay<End>
+Crystal<End>
+Dry Ice<End>
+Ethanol<End>
+Feather<End>
+Grease<End>
+Gunpowder<End>
+Atlas Amulet<End>
+Iron<End>
+Limestone<End>
+Meteorite<End>
+Mud Pepper<End>
+Mushroom<End>
+Oil<End>
+Root<End>
+Vinegar<End>
+Water<End>
+Wax<End>
+Acorn<End>

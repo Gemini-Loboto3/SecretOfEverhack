@@ -47,6 +47,20 @@ incbin "text.bin"
 
 // expansion area for all extra data
 align $10000
+incbin "misc_txt.bin"
+
+// talons
+text_curr0:
+	db "artigli",0
+// jewels
+text_curr1:
+	db "gioielli",0
+// gold pieces
+text_curr2:
+	db "monete",0
+// credits
+text_curr3:
+	db "crediti",0
 
 // game selection screen
 // New Game
@@ -60,7 +74,7 @@ text_empty:
 	db "Vuoto",0
 // LV:
 text_level:
-	db "LV:",0
+	db "Lv:",0
 // HP:
 text_hp:
 	db "PS:",0
@@ -102,6 +116,47 @@ text_gameover_tag:
 // The Dog
 text_thedog:
 	db "Cane",0
+	
+// <Boy>'s Stats
+// <Boy>' Stats (applies when name ends with an s)
+text_stats_title:
+	db "Status/",0
+// HP:
+text_stats_hp:
+	db "PS:",0
+// Level:
+text_stats_level:
+	db "Livello:",0
+// Exp:
+text_stats_exp:
+	db "Esp:",0
+// Needed:
+text_stats_next:
+	db "Prossimo:",0
+// Attack:
+text_stats_attack:
+	db "Attacco:",0
+// Hit %:
+text_stats_hit:
+	db "Precisione %:",0
+// Defend:
+text_stats_defend:
+	db "Difesa:",0
+// Evade %:
+text_stats_evasion:
+	db "Evasione %:",0
+// Magic Def:
+text_stats_mdef:
+	db "Dif. magica:",0
+// Attack Skill:
+text_stats_atkskill:
+	db "Abilit",$11," ATT:",0
+// 
+
+// alchemy screens
+// Alchemy Setup
+text_alchemysetup:
+	db "Impostazioni alchimia",0
 
 org $3fffff
 	db 0
