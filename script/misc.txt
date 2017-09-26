@@ -9,7 +9,7 @@
 <End>
 <End>
 Alchimista<End>
-ROM Creation Date<End>
+Data creazione ROM<End>
 Status giocatore<End>
 Status giocatore<End>
 Azioni<End>
@@ -25,7 +25,7 @@ Spada da crociato<End>
 Lama a neutroni<End>
 Aracnoartiglio<End>
 Ascia di bronzo<End>
-Smacca-cavaliere<End>
+Smaccavaliere<End>
 Scissore atomico<End>
 Arpione cornuto<End>
 Arpione di bronzo<End>
@@ -80,7 +80,7 @@ Polvere di fata<End>
 Perla di richiamo<End>
 Borsello<End>
 Veste d'erba<End>
-Placca di guscio<End>
+Placca carapace<End>
 Pelle di dinosauro<End>
 Armatura di bronzo<End>
 Veste di pietra<End>

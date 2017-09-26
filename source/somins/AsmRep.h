@@ -13,6 +13,29 @@ public:
 
 	int size() { return (int)pointer.size(); }
 
+	// return -1 when there's no match
+	// otherwise return id number after string name
+	int Get_match(LPCTSTR n)
+	{
+		int len = name.GetLength(), pos = 0;
+
+		// match substring until space is found
+		for (; pos < len; pos++)
+		{
+			// done parsing, we still alive
+			if (n[pos + 1] == ' ')
+			{
+				pos++;	// skip space
+				break;
+			}
+			// no match, kill this entirely
+			if (n[pos + 1] != name[pos])
+				return -1;
+		}
+
+		return _tstoi(&n[pos]);
+	}
+
 	void Clear()
 	{
 		name.Empty();

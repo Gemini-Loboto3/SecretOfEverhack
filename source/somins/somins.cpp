@@ -81,7 +81,7 @@ void InsertFont(LPCTSTR in_name, u8* rom)
 		}
 	}
 
-#if 1
+#if 0
 	CreateDirectory(_T("font"), NULL);
 	for (int i = 0; i < count; i++)
 	{
