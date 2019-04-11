@@ -259,8 +259,8 @@ int main()
 	MemStreamClose(&ptr);
 
 	InsertFont(filenames[4], &rom[0x40002]);
-	//InsertFont(filenames[5], &rom[0x40C84]);
-	FlushFile(_T("rom.smc"), (u8*)f.GetBuffer(), f.GetSize());
+	InsertFont(filenames[5], &rom[0x40C84]);
+	FlushFile(filenames[0], (u8*)f.GetBuffer(), f.GetSize());
 
 	//InsertMisc(rom, filenames[6]);
 
