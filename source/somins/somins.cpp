@@ -258,9 +258,9 @@ int main()
 	MemStreamClose(&txt);
 	MemStreamClose(&ptr);
 
-	InsertFont(filenames[4], &rom[0x40002]);
-	InsertFont(filenames[5], &rom[0x40C84]);
-	FlushFile(filenames[0], (u8*)f.GetBuffer(), f.GetSize());
+	InsertFont(filenames[4], &rom[0x40002]);					// large font
+	InsertFont(filenames[5], &rom[0x40C84]);					// small font
+	FlushFile(filenames[0], (u8*)f.GetBuffer(), f.GetSize());	// apply rom changes with new fonts
 
 	//InsertMisc(rom, filenames[6]);
 
