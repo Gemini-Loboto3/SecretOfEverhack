@@ -331,7 +331,11 @@ int EncodeString(GString str, u8 *&dest)
 			}
 #endif
 			if (tag.Compare(_T("Choice")) == 0)
+			{
 				MemStreamWriteByte(&s, 0x8b);
+				MemStreamWriteByte(&s, ' ');
+				MemStreamWriteByte(&s, ' ');
+			}
 			else if (tag.Compare(_T("Boy")) == 0)
 				MemStreamWriteByte(&s, 0x81);
 			else if (tag.Compare(_T("Dog")) == 0)

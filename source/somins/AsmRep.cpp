@@ -65,15 +65,15 @@ void CAsmRep::Process()
 			{
 				switch (n[0])
 				{
-				case '!':	// low pointer
+				case '!':	// low pointer (16 bits)
 					tmp.Format(_T("$%04X"), ptr & 0xffff);
 					ntxt += tmp;
 					break;
-				case '@':	// high pointer
+				case '@':	// high pointer (bank, 8 bits)
 					tmp.Format(_T("$%02X"), (ptr >> 16) & 0xff);
 					ntxt += tmp;
 					break;
-				case '#':	// full pointer
+				case '#':	// full pointer (24 bits)
 					tmp.Format(_T("$%06X"), ptr & 0xffffff);
 					ntxt += tmp;
 					break;
