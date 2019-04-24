@@ -1035,7 +1035,7 @@ Vorresti scegliere quali magie equipaggiare?
 <Choice>Certo.
 <Choice>Non ora.<End>
 <$96>Ehilà,<S $3D $80> <Dog>.<S $3D $80> Tutto sommato non sei un cattivo cane.<$86><End>
-<$96>Scusami per averti dato della {bestia feroce}.<S $79 $80> Sono sicuro che sei un bravo cane.<$86><End>
+<$96>Scusami per averti dato della {bestia feroce}.<S $79 $80> Sono sicura che sei un bravo cane.<$86><End>
 <$96>Grazie per il tuo aiuto, <Boy>.<$86>Fammi sapere se trovi un passaggio per tornare a Podunk.<$86><End>
 <$96>Il vulcano a nord sta sprigionando sempre meno calore.<$86>Abbiamo bisogno che tu vada ad indagare e che fermi il grande freddo.<$86><End>
 <$96>Vai ad est e raggiungi la Scarapalude attraversando l'area delle sabbie mobili.<$86>Se troverai Cuore Impavido e lo tirerai fuori da lì…<S $3D $80> ti darò una mano.<$86><End>
@@ -2893,7 +2893,7 @@ voi!<$86><End>
 <$96>È solo questione di tempo prima che piombi qui dentro,<S $B5 $80> con o senza il tuo aiuto.<$86><End>
 <$96>Ascolta, ragazzino.<S $3D $80> Credo che Tinker possa aiutarti a tornare a Podunk.<$86><End>
 <$96>Ma prima,<S $3D $80> dovrai liberarti di quell'impostora.<$86><End>
-<$96>Qui ciuderemo i boccaporti…<$86><End>
+<$96>Qui chiuderemo i boccaporti…<$86><End>
 <$96>Torneremo al castello e sistemeremo le cose prima che possa passare dall'altra parte.<$86><End>
 <$96>Sembra una buona idea.<$86><End>
 <$96>Ecco qui <Item> Perle Evocatrici.<$86>Gettane una a terra quando avrai bisogno del mio aiuto.<$86><End>
@@ -2942,7 +2942,7 @@ Le sue truppe ci staranno aspettando.<$86><End>
 <$96><$87>Torna qui dopo che avrai sistemato l'impostora.<S $B5 $80> Ti aiuterò a tornare su quel posto nello spazio.<$86><End>
 Trovi la ricetta Esplosione<End>
 Trovi la ricetta Nitro<End>
-<$96>Qui dice che la ricetta richiede due parti di Alcon e una parte di Cenere.<$86><End>
+<$96>Qui dice che la ricetta richiede due parti di Alcol e una parte di Cenere.<$86><End>
 <$96>Farei meglio a fare scorta.<$86><End>
 <$96>Hmmm… questa richiede una parte di Polvere da Sparo e due parti di Grasso.<$86><End>
 <$96>Sembra pericoloso.<$86><End>
@@ -3022,7 +3022,7 @@ Accetta un consiglio… non andare oltre<$86><End>
 Se fossi in te tornerei indietro<$86><End>
 Visita la meravigliosa Gruelville, 25 leghe a ovest<$86><End>
 Accampati sulle rive del grande fiume verde Limpopo<$86><End>
-Vieni a vedere il Sig. Testa alla mostra di Perceval Plank sulle Stramberie Interculturali<$86><End>
+Ammirate il Sig. Testa alla mostra di Perceval Plank sulle Stramberie Multietniche<$86><End>
 Fabbrica dei Cucchiai ricordo, 5 furlong
 Visite giornaliere<$86><End>
 Metà strada<$86><End>
