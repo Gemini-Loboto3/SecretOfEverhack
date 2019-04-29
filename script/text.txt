@@ -1,4 +1,4 @@
-﻿<3002 text entries>
+<3002 text entries>
 gain item: unknown misc. item <Item><End>
 gain item: unknown item <Item><End>
 gain item: unknown ingredient <Item><End>
@@ -332,8 +332,8 @@ Ponte nella Foresta<End>
 <$96><$87>Vorresti comprare degli ingredienti?
 <$97><Choice>Certo.
 <Choice>No grazie.<End>
-<$87>You can exchange any currency for <End>
-.<S $69 $81><$87>What'll it be?<$97><End>
+<$87>Puoi scambiare ogni valuta con <End>
+.<S $69 $81><$87>Quale scegli?<$97><End>
 
 <Choice>Crediti.<End>
 
@@ -716,16 +716,16 @@ Credo che<S $5B $80> il gatto sia scappato da un bel pezzo!<S $55 $81><$87><End>
 <$93><$96>Ehi!<S $3D $80> Guarda!<S $3D $80> Una mummia.<S $3D $80>.<S $0B $80>.<S $0B $80>
 una motosega<S $3D $80>.<S $0B $80>.<S $0B $80>. e un animale gonfiabile!<S $19 $81><$87><End>
 <$93><$96>Uhm<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $3D $80> questo pannello sembra appoggiato male<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $19 $81><$87><End>
-<$93><$96>Wow!<S $3D $80> Credo di aver scoperto un'entrata segreta!<S $69 $81><$87><End>
+<$93><$96>Urca!<S $3D $80> Credo di aver scoperto un'entrata segreta!<S $69 $81><$87><End>
 <$96>Urca!<S $1F $80> Che atterraggio!<S $3D $80> Credo che la navicella e il bazooka siano andati!<$86>Do<S $0B $80>.<S $0B $80>.<S $0B $80>.<S $1F $80> dove mi trovo?<S $3D $80> E <S $3D $80> dov'è il mio cane?<$86><End>
 <$96>Qui, bello!<$86><End>
 <$96>Qui, bello!<S $3D $80> Dove sei finito?<$86><End>
 <$96>Urca!<S $5B $80> Sei davvero tu?<$86><End>
 <$96>Sei… diverso!<$86><End>
 <$96>U<S $0B $80>h<S $0B $80>m<S $0B $80>m<S $0B $80>.<S $0B $80>.<S $0B $80>.<$86><End>
-<$96>Se sei davvero il mio cane<S $3D $80> mi riporterai questo bastone.<$86><End>
+<$96>Se sei davvero il mio cane…<$86>mi riporterai questo bastoncino.<$86><End>
 <$96>OK!<S $3D $80> Corri a prenderlo!<$86><End>
-<$96>Beh,<S $3D $80> non è il bastone…<S $3D $80> ma fa lo stesso!<$86>Andiamo bello,<S $3D $80> facciamoci un giro.<$86><End>
+<$96>Beh,<S $3D $80> non è il bastoncino<S $3D $80> ma fa lo stesso!<$86>Andiamo bello,<S $3D $80> facciamoci un giro.<$86><End>
 <$96>Ho una brutta sensazione.<$86><End>
 Ricevi 50 Artigli<End>
 Ricevi un Petalo<End>
@@ -866,7 +866,7 @@ Vi darò calore!<$86><End>
 <$96>Faccio la guardia alla capanna di Occhi di Fuoco.<S $3D $80> Scommetto che anche tu saresti una buona guardia.<$86><End>
 <$96>Questa è la capanna del nostro capo!<S $3D $80> Porta rispetto a Occhi di Fuoco.<$86><$97><End>
 <$96>Questa è la capanna del nostro capo!<S $3D $80> Porta rispetto a Occhi di Fuoco.<$86><$97><End>
-<$96>Occhi di<S $1F $80> Fuoco.<S $3D $80> Occhi di<S $1F $80> Fuoco.<$86><S $29 $80>Occhi di<S $1F $80> Fuoco.<S $3D $80> Occhi di<S $1F $80> Fuoco.<$86><S $29 $80>Occhi di<S $1F $80> Fuoco.<S $3D $80> Occhi di<S $1F $80> Fuoco.<$86><End>
+<$96>Occhi<S $1F $80> di<S $3D $80> Fuoco.<$86><S $29 $80>Occhi<S $1F $80> di<S $3D $80> Fuoco.<$86><S $29 $80>Occhi<S $1F $80> di<S $3D $80> Fuoco.<$86><S $29 $80>Occhi<S $1F $80> di<S $3D $80> Fuoco.<$86><End>
 <$96>Ma cosa…<$86><End>
 <$87><$96>Oh,<S $3D $80> ciao.<S $5B $80> Il mio nome è Elizabeth<S $79 $80> ma tutti qui mi chiamano {Occhi di Fuoco.}<$86><End>
 <$96>Oh,<S $5B $80> ciao.<S $3D $80> Io invece sono <Boy>.<$86><End>
@@ -898,7 +898,7 @@ Ora che Cuore Impavido sta bene ha fatto ritorno nella sua capanna a sud del vil
 <$96>Cuore Impavido, il nuovo alchimista, non è più nella sua capanna nella giungla.<$86><End>
 <$96>Cagnolino, hai dato prova di essere un eroe.<S $3D $80> Ben fatto!<$86><End>
 <$96>Spero che tu sia una bestia amichevole.<S $3D $80> In caso contrario,<S $3D $80> te la vedrai con Occhi di Fuoco.<$86><End>
-<$96>Le tue gesta eroiche nel vulcano hanno salvato il nostro villaggio dal grande freddo!<$86><End>
+<$96>Le tue gesta nel vulcano hanno salvato il villaggio dal grande freddo!<$86><End>
 <$96>La notizia della tua vittoria nella Scarapalude si è diffusa per tutto il villaggio!<$86>Occhi di Fuoco vorrebbe ringraziarti per il tuo eroismo.<$86><End>
 <$96>Le Vipere del grande vulcano non osano avvicinarsi al nostro villaggio.<S $D3 $80>
 Hanno paura di Occhi di Fuoco.<$86><$97><End>
@@ -914,7 +914,7 @@ Guarda questo trucchetto.<$86><End>
 <$96>Sei una bestia feroce,<S $3D $80> ma in senso buono.<$86><End>
 <$96>Occhi di Fuoco mi ha insegnato ad essere prudente con gli animali dall'aspetto feroce.<$86><End>
 <$96>Occhi di Fuoco ci ha detto cosa hai fatto per il nostro villaggio.<S $3D $80> Grazie!<$86><End>
-<$96>Occhi di Fuoco è un modello da seguire per i giovani del villaggio come me.<S $79 $80>
+<$96>Occhi di Fuoco è un modello da seguire per noi giovani del villaggio.<S $79 $80>
 Sono una sua grande ammiratrice.<$86><End>
 <$96>Occhi di Fuoco ci ha insegnato tutto ciò che sappiamo.<S $B5 $80><$87>Ho imparato ad intrecciare cesti,<S $3D $80> a richiamare gli uccelli<S $3D $80> e il sistema metrico decimale!<$97><$86><End>
 <$96>Dovremmo stare alla larga dagli animali selvatici,<S $3D $80> ma tu sei a posto.<$86><End>
@@ -923,7 +923,7 @@ Sono una sua grande ammiratrice.<$86><End>
 <$96>Sei andato a trovare Cuore Impavido ultimamente?<$86>Ha una nuova ricetta che dovresti provare.<$86><End>
 <$96>Hai salvato Cuore Impavido nella pozza di catrame!<S $79 $80> Ora puoi usare quell'Artiglio per esplorare la giungla.<$86><End>
 <$96>Cuore Impavido vive nella giungla.<S $3D $80> Puoi arrivare da lui tagliando via gli arbusti!<$86><End>
-<$96>Non ci è permesso gironzolare lontano dal villaggio.<$86>Ma ho sentito di un posto pieno di scarafaggi e catrame.<$86>Mio padre, Cuore Impavido, è andato lì giorni fa ma non è ancora tornato.<$86><End>
+<$96>Non ci è permesso gironzolare lontano dal villaggio.<$86>Ma ho sentito di un posto che pullula di scarafaggi e catrame.<$86>Mio padre, Cuore Impavido, è andato lì giorni fa ma non è ancora tornato.<$86><End>
 <$96>Sembri una bestia feroce<S $3D $80> ma in realtà sei un eroe!<$86><End>
 <$96>Sembri più amichevole delle Vipere.<S $79 $80> Spero che ti comporterai bene nel nostro villaggio.<$86><End>
 <$96>Cuore Impavido è stato nella Scarapalude non molto tempo fa.<$86>Ha detto che gli oggetti del vulcano sono atterrati lì.<$86><End>
@@ -934,14 +934,14 @@ Sono una sua grande ammiratrice.<$86><End>
 <$96>Noi del villaggio di Occhi di Fuoco accogliamo i visitatori che vengono in pace.<$86>Grazie per averci protetto da quegli orribili raptor.<$86>Ti prego, fermati per un po' e mangia qualche buon Petalo.<$86><End>
 <$96>Ma che bel bestione!<S $3D $80> Lo sai che sei il migliore amico dell'uomo?<$86><End>
 <$96>Se ti assicurerai che Cuore Impavido sta bene,<S $5B $80> ti darò una delle mie ricette.<$86><End>
-<$96>Un tempo ero l'alchimista del villaggio ma ora mi sono ritirato.<$86>Ho ceduto l'attività al mio amico Cuore Impavido.<$86>È partito qualche giorno fa per la Scarapalude in cerca di ingredienti alchemici e non è ancora ritornato.<$86><End>
+<$96>Un tempo ero l'alchimista del villaggio ma ora sono in pensione.<$86>Ho ceduto l'attività al mio amico Cuore Impavido.<$86>È partito qualche giorno fa per la Scarapalude in cerca di ingredienti alchemici e non è ancora ritornato.<$86><End>
 <$96>L'alchimia è la pratica di combinare ingredienti per ottenere potenti e a volte magici risultati.<$86>La mia famiglia ha usato l'alchimia per molte generazioni.<$86>Gli effetti delle alchimie si potenziano con l'utilizzo delle ricette.<$86><End>
 <$96>I cani non hanno bisogno dell'alchimia.<S $3D $80> Hanno già i loro poteri speciali.<$86><End>
 <$96>Salvando Cuore Impavido hai dato prova di essere un grande guerriero.<$86>Grazie per l'aiuto e ricorda di usare gli ingredienti alchemici oculatamente.<$86><End>
-<$96>Se vai a far visita a Cuore Impavido nella sua capanna nella giungla<S $3D $80> potrebbe aiutarti con la tua missione.<$86><End>
-<$96>Salve, piccoletto.<S $3D $80> Non puoi portare oggetti ma il tuo padrone sì.<$86>Dovrebbe fare scorta prima di lasciare il villaggio.<$86><End>
+<$96>Se farai visita a Cuore Impavido nella sua capanna nella giungla<S $3D $80> potrebbe aiutarti con la tua missione.<$86><End>
+<$96>Salve, piccoletto.<S $3D $80> Non potrai portare oggetti ma il tuo padrone sì.<$86>Dovrebbe fare scorta prima di lasciare il villaggio.<$86><End>
 <$96>Ci sono molti oggetti speciali che dovresti portare con te nel tuo viaggio.<$86>Petali, Nettare e Miele curano le ferite e ripristinano l'energia.<$86><End>
-<$96>Se il tuo cane è sprovvisto di energia,<S $3D $80> potrai riportarlo in vita con un Croccantino.<$86><End>
+<$96>Se il tuo cane non ha più energia,<S $3D $80> puoi sempre riportarlo in vita con un Croccantino.<$86><End>
 <$96>Puoi usare le Ali per scappare velocemente dalle grotte e dall'interno di altri labirinti pericolosi.<$86><End>
 <$96>La Polvere di Fata ti riporterà in vita quando non avrai più energia.<$86><End>
 <$96>L'Elisir ti curerà dal veleno e da altre alterazioni.<$86><End>
@@ -977,12 +977,12 @@ Ricevi Denti di Giaguaro<End>
 <$96>Occhi di Fuoco sarà felice di vederti.<S $3D $80> Sei l'eroe del villaggio!<$86><End>
 <$96>Lascia che ti dia degli Artigli per il tuo lungo viaggio.<$86><End>
 Ricevi un Artiglio<End>
-<$96>Puoi anche trovare degli oggetti nelle zucche e nei vasi.<$86>Alla gente del villaggio non interessa se li prenderai.<$86>Sappiamo che ci restituirai il favore in un modo o in un altro.<$86><End>
+<$96>Puoi anche trovare degli oggetti nelle zucche e nei vasi.<$86>Alla gente del villaggio non interessa se li prenderai.<$86>Sappiamo già che ci restituirai il favore in un modo o in un altro.<$86><End>
 <$96>Cerca di compare un sacco di Petali e Nettare per il tuo viaggio.<$86><End>
-<$96>Puoi anche trovare degli oggetti nelle zucche e nei vasi.<$86>Alla gente del villaggio non interessa se li prenderai.<$86>Sappiamo che ci restituirai il favore in un modo o in un altro.<$86><End>
-<$96>Che diamine!<S $3D $80> Ve le siete date di santa ragione nella giungla.<S $B5 $80> Dovresti stare più attento!<$86><End>
+<$96>Puoi anche trovare degli oggetti nelle zucche e nei vasi.<$86>Alla gente del villaggio non interessa se li prenderai.<$86>Sappiamo già che ci restituirai il favore in un modo o in un altro.<$86><End>
+<$96>Che diamine!<S $3D $80> Ve le siete proprio date di santa ragione nella giungla.<$86>Dovresti stare più attento!<$86><End>
 <$96>Se impari delle ricette alchemiche potrai trovarne gli ingredienti lungo i sentieri della giungla.<$86><End>
-<$96>Puoi anche trovare degli oggetti nelle zucche e nei vasi.<$86>Alla gente del villaggio non interessa se li prenderai.<$86>Sappiamo che ci restituirai il favore in un modo o in un altro.<$86><End>
+<$96>Puoi trovare degli oggetti anche nelle zucche e nei vasi.<$86>Alla gente del villaggio non importa se li prendi.<$86>Sappiamo già che ci restituirai il favore in un modo o in un altro.<$86><End>
 <$96>Sembri stanco.<S $3D $80>
 Dovresti concederti un buon pasto e riposare nella locanda.<S $5B $80> È proprio qui accanto.<$86><End>
 <$96>Prima di lasciare il villaggio potresti raccogliere oggetti dalle zucche e dai vasi.<$86>Alla gente del villaggio non importa se sarai tu a prenderli.<$86>Sappiano che ricambierai il favore aiutandoci in un modo o nell'altro.<$86><End>
@@ -995,21 +995,21 @@ Vuoi riposare per 10 artigli?
 <Choice>No, grazie.<End>
 <$87><$96>Spero che tu abbia riposato bene.<$86><End>
 <$96><$87>Puoi cambiare le altre valute in artigli nel mio negozio.<$86><End>
-<$96>Ragazzino, stai bene?<S $3D $80> Hai preso un sacco di botte laggiù!<$86><End>
+<$96>Ehi, ragazzino… è tutto a posto?<S $3D $80> Hai preso un sacco di botte laggiù!<$86><End>
 <$96>Cavolo!<S $3D $80> Cosa è successo?<$86><End>
 <$96>Ti sei imbattuto nei raptor!<S $79 $80> Sono un gruppetto piuttosto…<S $3D $80>
  problematico!<$86><End>
-<$96>Ti sei salvato grazie a quest'animale selvatico!<$86><End>
+<$96>È stato questo animale selvatico a salvarti!<$86><End>
 <$96>Non è un animale selvatico. <End>
 <$96>È il mio cane!<S $79 $80> Anche se ultimamente non è più lo stesso.<$86><End>
-<$96>Bene,<S $3D $80> ora che siete sani e salvi nel nostro villaggio…<$86> potreste salvare la partita!<S $3D $80> OK?<S $3D $80>
+<$96>Bene,<S $3D $80> ora che siete sani e salvi nel nostro villaggio…<$86>Che ne direste di salvare la partita?<S $3D $80>
 <$97><Choice>Perché no.
 <Choice>No grazie.<End>
 Villaggio di Occhi di Fuoco<End>
-<$87><$96>OK,<S $3D $80> va bene.<$86><End>
-<$96>Sentiti libero di prendere ciò che vuoi dalle zucche del villaggio.<$86>Sappiamo che ci restituirai il favore.<S $79 $80> E poi hai decisamente bisogno di aiuto.<$86><End>
-<$96>In fondo in fondo non sei una bestia feroce!<S $3D $80> Tu sei un eroe!<$86><End>
-<$96>Alle bestie feroci non è permesso entrare nel nostro villaggio ma sembra che tu sia addomesticato.<$86><End>
+<$87><$96>Va bene.<$86><End>
+<$96>Sentiti libero di prendere ciò che vuoi dalle zucche del villaggio.<$86>Sappiamo già che ci restituirai il favore.<S $79 $80> E poi hai decisamente bisogno di aiuto.<$86><End>
+<$96>Tutto sommato non sei una bestia selvatica!<S $3D $80> Tu sei un eroe!<$86><End>
+<$96>Nel nostro villaggio non sono ammesse bestie selvatiche ma sembra che tu sia addomesticato.<$86><End>
 <$96>Cuore Impavido era già stato nella Scarapalude di recente.<$86>Diceva che un sacco di detriti del vulcano sono finiti lì.<$86><End>
 <$96>Dovresti parlare con Cuore Impavido.<S $3D $80> Ha elaborato una nuova ricetta.<$86><End>
 <$96>Ho sentito che l'entrata che conduce al vulcano delle Vipere è bloccata da un grosso masso.<$97><$86>Se ne è accorto Cuore Impavido mentre cercava ingredienti alchemici.<$86><End>
@@ -1030,8 +1030,8 @@ Ricevi Denti di Giaguaro<End>
 Ti prego, prendi questa Giacca d'Erba.<$97><$86><End>
 <$86><End>
 <$96>La giungla è piena zeppa di bestie feroci, le Vipere che vengono dal vulcano ne sono un esempio.<$86>Assicurati di essere ben equipaggiato prima di andare lì fuori.<$86><End>
-<$96>Sono stato alla Scarapalude, a est da qui, e ho visto lo scarafaggio gigante!<$86>Forse è lo stesso posto che Cuore Impavido era andato ad esplorare.<$86><End>
-Vorresti scegliere quali magie equipaggiare?
+<$96>Sono stato alla Scarapalude, a est da qui, e ho visto lo scarafaggio gigante!<$86>Forse è lo stesso posto che Cuore Impavido è andato ad esplorare.<$86><End>
+Vuoi scegliere quali magie equipaggiare?
 <Choice>Certo.
 <Choice>Non ora.<End>
 <$96>Ehilà,<S $3D $80> <Dog>.<S $3D $80> Tutto sommato non sei un cattivo cane.<$86><End>
@@ -1076,24 +1076,24 @@ Facevano anche loro parte dell'esperimento!<$86><End>
 <$96>Qual è il suo nome?<$86><End>
 <$96>Il suo nome?<S $3D $80> È…<$86><End>
 <$96><$82>!<$86><End>
-<$96>{<Dog>?}<S $3D $80> È.<S $15 $80>.<S $15 $80>.<S $15 $80> originale.<$86><End>
-<$96>Non sei di qui,<S $5B $80> vero?<$97><$86><End>
-<$96>A dire il vero<S $5B $80> non so neanche dove sia {qui}.<$86><End>
+<$96>{<Dog>?}<S $3D $80> È un nome molto.<S $15 $80>.<S $15 $80>.<S $15 $80> originale.<$86><End>
+<$96>Non sei di queste parti,<S $5B $80> vero?<$97><$86><End>
+<$96>A dire il vero<S $5B $80> non so neanche dove siano {queste parti}.<$86><End>
 <$96>Ti trovi ad Evermore,<S $3D $80> nel mio villaggio preistorico.<S $79 $80>
 Io sono il capo.<$97><$86><End>
 <$96>Non è che sapresti come arrivare a Podunk?<$86><End>
-<$96>Podunk?<S $3D $80> Chissà… <S $5B $80>molto interessante.<S $79 $80> Potrei!<$86><End>
-<$96>Magari ci possiamo inventare qualcosa.<$86><End>
+<$96>Podunk?<S $3D $80> Chissà… <S $5B $80>molto interessante.<S $79 $80> Forse!<$86><End>
+<$96>Forse possiamo trovare una soluzione.<$86><End>
 <$96>Che ne diresti di renderti utile?<$86><End>
 <$96>Beh, non…<$86><End>
-<$96>Il nuovo alchimista del villaggio, Cuore Impavido, si è incamminato verso est alla volta della Scarapalude.<$86><End>
+<$96>Cuore Impavido, il nuovo alchimista del villaggio, è andanto a fare un giro nella Scarapalude, a est.<$86><End>
 <$96>Era alla ricerca di ingredienti alchemici e le paludi ne sono piene.<$86><End>
 <$96>Se lo aiuterai a tornare al villaggio<S $5B $80> potrai chiedermi aiuto per qualunque cosa.<$86><End>
 <$96>Bene,<S $3D $80> come dice il Capitano Leif Meldrock in {Taglialegna per Marte:}<$86><End>
 <$96>{Sono pronto a tutto!}<$86><End>
 <$96>Prima di andare…<$86><End>
 <$96>Vorrei darti una ricetta alchemica di mia invenzione.<$86>L'ho chiamata {Lampo.}<S $B5 $80> È molto potente contro le creature ostili.<$86><End>
-<$96>Potrai usare la ricetta ogni volta che avrai una parte di Cera e 2 parti di Petrolio.<$86>Ti basterà selezionare la magia per far partire il colpo.<$86>Più utilizzerai la ricetta Lampo e più acquisterà potere.<$86><End>
+<$96>Potrai usarla ogni volta che avrai una parte di Cera e 2 parti di Petrolio.<$86>Ti basterà selezionare la magia per far partire il colpo.<$86>Più utilizzerai la ricetta Lampo e più acquisterà potere.<$86><End>
 <$96>Magnifico! Grazie!<$86><End>
 <$96>Ho sentito che sei uscito indenne dalle zone più remote della Scarapalude.<$86><End>
 <$96>Beh, è stata una disinfestazione,<S $79 $80> e ne siamo usciti alla grande.<S $79 $80> E abbiamo preso anche un elegante Artiglio.<S $3D $80> È come un'ascia!<$86><End>
@@ -1145,7 +1145,7 @@ Ricevi un Peperoncino<End>
 <Choice>No grazie.<End>
 <$87><$96>Spero che tu abbia riposato bene.<$86><End>
 <$96>Hai trovato quest'area nascosta grazie alle tue abilità di tracciamento?<S $79 $80> Sei in gamba!<$86><End>
-<$96>Spero che stai usando le abilità alchemiche per il bene del villaggio.<$86>Vorresti scegliere quali magie equipaggiare?
+<$96>Spero che stai usando le abilità alchemiche per il bene del villaggio.<$86>Vuoi scegliere quali magie equipaggiare?
 <S $3D $80><Choice>Certo.
 <Choice>Non ora.<End>
 <$87><$96>Buona fortuna,<S $3D $80> giovane guerriero.<$86><End>
@@ -1164,7 +1164,7 @@ Ricevi Collare di Pelle<End>
 <S $3D $80><Choice>Certo.
 <Choice>Non ora.<End>
 <$96><Dog>, resta qui.<S $3D $80> Queste scale sono troppo ripide per te.<$86><End>
-<$96>Hai sentito quell'esplosione, poco fa?<S $3D $80> Ha scosso tutta la nave!<$86><End>
+<$96>Hai sentito anche tu l'esplosione di poco fa?<S $3D $80> Ha scosso tutta la nave!<$86><End>
 <$96>Il nuovo capo di Nobilia ha gli Occhi di Diamante.<S $79 $80>Penso si stia preparando a fare qualcosa di brutto.<$86><End>
 <$96>Ho sentito che hai contribuito a sconfiggere quell'avido di potere del capo di Nobilia.<S $3D $80> Ben fatto!<$86><End>
 <$96>Ma tu sei il Cane Sacro!<S $79 $80> Saprai sicuramente dove sono nascosti gli Occhi di Diamante.<$86>Su, a me puoi dirlo.<S $79 $80> Non lo dirò a nessuno.<$86><End>
@@ -1174,7 +1174,7 @@ Ricevi Collare di Pelle<End>
 proprio così.<$86><End>
 <$96>Da quanto ho sentito sei un ottimo saltatore ma anche un ottimo esploratore.<$86><End>
 <$96>Il ponte ad ovest è stato spazzato via dalla piena.<$86>Se lo volessi potresti fare un salto per arrivare dall'altra parte.<$86><End>
-<$96>Un bruto di nome Tiny ha fatto cadere un masso sulla mia testa.<$86>Un giorno mi piacerebbe ringraziarlo.<$86><End>
+<$96>Un bruto di nome Tiny ha fatto cadere un masso addosso.<$86>Un giorno mi piacerebbe ringraziarlo.<$86><End>
 <$96>Fin da piccolo sapevo di voler diventare una canaglia.<$86><End>
 <$96>Qualche tempo fa ho visto Tiny, l'energumeno, attraversare il fiume.<$86>Aveva qualche roccia con sé. <S $51 $80>Chissà cosa sta facendo.<$86><End>
 <$96>C'è una città dall'altra parte del grande deserto.<$86>Potresti convincere il pirata fantasma a darti un passaggio.<$86><End>
@@ -1182,7 +1182,7 @@ proprio così.<$86><End>
 <$96>Si dice che hai trovato il tesoro sulla riva destra del fiume.<$86><End>
 <$96>Ma anche che lo hai perso di nuovo.<S $79 $80> Che sfortuna.<$86><End>
 <$96>Sulla sponda occidentale del fiume c'è un tesoro da trovare.<$86>E sarò io a trovarlo!<$86><End>
-<$96>Ti sei occupato di quel leader avido e malvagio!<S $3D $80> Ben fatto.<$86><End>
+<$96>Ti sei occupato di quel capo avido e malvagio!<S $3D $80> Ben fatto.<$86><End>
 <$96>Il nuovo capo di Nobilia si è impadronito degli Occhi di Diamante!<$86>Immagino sia tornato in città per regnare su questo mondo grazie al loro potere.<$86><End>
 <$96>Sei nuovo a Crustacia, vero?<S $79 $80> La gente di questa città sembra cattiva ma non siamo poi così male.<$86><$96>Invece dall'altra parte del fiume ognuno pensa solo a sé stesso.<$86><End>
 Ore dopo…<End>
@@ -1231,12 +1231,12 @@ Mi chiedo dove sia…<S $79 $80> o cosa è diventato…<$86><End>
 voglio darti la ricetta Crush.<$86>Mischiando Calcare e Cera schiaccerai il nemico.<$86><End>
 <$96>Non posso… <S $3D $80>parlare… <S $3D $80>devo… <S $3D $80>fare a pugni.<$86><End>
 <$96>Ti dispiace?<S $79 $80> Stiamo provando a picchiarci!<$86><End>
-<$96>Quel ragazzo, Tiny il Barbaro, è passato da qui non molto tempo fa.<$86> Credo stesse tramando qualcosa.<$86><End>
-<$96>Si racconta di un tesoro nascosto e di gemme nella terra oltre il fiume.<$86>Vorrei andare lì ma penso che aspetterò che il tempo migliori.<$86><End>
-<$96>Arrgh.<S $79 $80> Le inondazioni sono un vero flagello,<S $3D $80> davvero!<$86><End>
+<$96>Quel ragazzo, Tiny il Barbaro, è passato da qui non molto tempo fa.<$86>Credo stesse tramando qualcosa.<$86><End>
+<$96>Si raccontano storie di un tesoro nascosto e di gemme che si trovano nella terra oltre il fiume.<$86>Vorrei andare lì ma penso che aspetterò che il tempo migliori.<$86><End>
+<$96>Arrgh.<S $79 $80> Le inondazioni sono un vero flagello!<$86><End>
 <$96>Il capo di Nobilia si è rivelato essere un vero fesso.<$86>Ho sentito dire che l'hai mandato via.<S $79 $80> Ben fatto.<$86><End>
-<$96>The leader of Nobilia, up to the north, just came into power.<$86>I'd only trust him as far as I could throw him.<$86>I'm not sure what that means,<S $3D $80> but it sounds tough.<$86><End>
-<$96>Non sarai mica alla ricerca di tesori e ricchezze come il resto di questi zoticoni,<S $79 $80> vero?<$86>L'ultima cosa di cui abbiamo bisogno da queste parti sono altri avventurieri.<$86><End>
+<$96>Il capo di Nobilia, su a nord, è appena salito al potere.<$86>Mi fiderei di lui solo fin dove potrei lanciarlo.<$86>Non so esattamente cosa significhi,<S $3D $80> ma suonava bene.<$86><End>
+<$96>Non sarai mica alla ricerca di tesori e ricchezze come il resto di questi zoticoni,<S $79 $80> vero?<$86>L'ultima cosa di cui abbiamo bisogno da queste parti è un altro avventuriero.<$86><End>
 <$96>Mio fratello Tiny mi ha detto che le sue azioni hanno aperto un tunnel sul lato ovest del fiume.<$86>Credo che sia andato lì a dare un'occhiata.<$86><End>
 <$96>Mio fratello Tiny è il più forte da queste parti.<$86><End>
 In questo momento si trova a Nobilia. Sta lavorando al mercato.<$86>È un lavoro onesto per uno come mio fratello.<$86><End>
@@ -1250,7 +1250,7 @@ In questo momento si trova a Nobilia. Sta lavorando al mercato.<$86>È un lavoro
 <$96>Tuttavia, se li trovassi, potrei tenerli per me!<$86><End>
 <$96>Peccato per quella tua statua a Nobilia.<S $3D $80> Scommetto che ora è in mille pezzi!<$86><End>
 <$96>Sembra che tu possa saltare oltre l'interruzione del ponte!<$86><End>
-<$96>Ora che parte del fiume è stata prosciugata, alcune aree della Grande Piramide sono più facili da raggiungere.<$86>Chissà se ci sono altri tesori da trovare.<$86><End>
+<$96>Ora che una parte del fiume si è prosciugata, alcune aree della Grande Piramide sono più facili da raggiungere.<$86>Chissà se ci sono altri tesori da trovare.<$86><End>
 <$96>Da quando le acque del fiume sono salite,<S $3D $80> alcuni di noi avventurieri sono rimasti a casa.<$86><End>
 <$96>Ho sentito storie riguardo una grande piramide sull'altra sponda del fiume.<$86>A quest'ora sarà circondata dalle acque dell'inondazione.<$86><End>
 <$96>Il Tempio di Collosia si trova dall'altra parte del fiume, verso nord.<$86>Dicono che i muri del Tempio di Collosia non sono poi così solidi.<$86><End>
@@ -1329,21 +1329,21 @@ Pagare moneta,<S $3D $80> vedere cammello!<$86><End>
 <$96>Ecco fatto,<S $3D $80> è così che si solleva una roccia!<$86><End>
 <$96>Chissà se quella roccia toccherà mai terra.<$86><End>
 <$96>Sembra che abbiamo un bel po' da fare, <Dog>.<$86>C'è una città dall'altra parte del deserto.<S $3D $80> Possiamo attraversare il fiume da lì.<$86>Dopodiché potremmo metterci alla ricerca di quei diamanti.<$86><End>
-<$96><Dog>, tu resta qui.<S $B5 $80> Fermo lì!<$86>E non metterti nei guai!<$86><End>
+<$96><Dog>, tu resta qui.<S $B5 $80> Fermo lì ho detto!<$86>E vedi di non cacciarti in altri guai!<$86><End>
 <$96>Tu aspetta qui.<S $79 $80> Tiny aspetta fuori.<$86><End>
 <$96>Così non si farà male nessuno!<$86><End>
 <$96>O almeno finché non combatterai contro Vigor.<$86><End>
 <$96>Quel tipo ha senso dell'umorismo!<$86><End>
-<$96>Saluti a te, sfidante.<S $3D $80>
+<$96>Ave a te, sfidante.<S $3D $80>
 Io sono Pompolonius, consigliere del nuovo capo di Nobilia.<$86><End>
-<$96>Uh,<S $3D $80> salve.<S $3D $80> Io sono <Boy>.<S $79 $80> Deve esserci stato un errore!<$86>Non sono proprio il tipo che combatte contro i gladiatori!<$86><End>
-<$96>Tuttavia sei stato scelto.<$86><End>
-<$96>Non puoi negarlo!<S $79 $80> Ormai è deciso. Tu combatterai!<$86><End>
+<$96>Uh,<S $3D $80> salve.<S $3D $80> Io sono <Boy>.<S $79 $80> Deve esserci stato un equivoco!<$86>Non sono proprio il tipo che combatte contro i gladiatori!<$86><End>
+<$96>Ma sei stato scelto.<$86><End>
+<$96>È innegabile!<S $79 $80> Ormai è deciso. Tu combatterai!<$86><End>
 <$96>Ti lascio ai tuoi preparativi.<$86>Il cancello si chiuderà dietro di me.<$86>Quando si aprirà di nuovo sarà il segnale che sarà venuto il momento di combattere!<$86><End>
 Vuoi che registri i tuoi progressi?
-<$97><Choice>  Sì!
-<Choice>  Uh, no.<$96><End>
-<$96>Molto bene, <Dog>.<S $3D $80> Ci risiamo, ci hai di nuovo messo nei pasticci.<$86>Here I am, about to take on some tooth-spitting, sword-carrying champion gladiator…<$86>…and all I've got is a femur, a claw and a stick!<$86><End>
+<$97><Choice>Sì!
+<Choice>Uh, no.<$96><End>
+<$96>Molto bene, <Dog>.<S $3D $80> Ci risiamo, ci hai di nuovo messo nei pasticci.<$86>Ed eccomi qua, pronto ad essere dato in pasto ad un gladiatore che mi farà sputare i denti…<$86>…e tutto quello che ho per difendermi sono un femore, un artiglio e un bastone!<$86><End>
 Trovi Armatura di Bronzo<End>
 Trovi Giacca di Pietra<End>
 Trovi Cappa del Centurione<End>
@@ -1370,7 +1370,7 @@ Trovi 100 Gemme<End>
 <$96><$93>Anche il ragazzo da cui mi hai messo in guardia è alla ricerca delle gemme.<S $A5 $81><$87><S $21 $80><$93>Se sopravviverà…<S $3D $80> avrò una piccola sorpresa in serbo per lui e il suo cane quando torneranno.<S $59 $82><End>
 <$96><$93>Numero Due, quel ragazzino impiccione ci ha già creato problemi sull'altopiano.<S $1D $82><$87><S $21 $80><$93>Non lasciare che accada anche qui.<S $F1 $80><$87><S $21 $80><$93>E cerca di tenere quel vecchio brontolone che sta oltre il fiume fuori da tutto questo.<S $1D $82><End>
 Gira voce che hai sconfitto Tiny. <S $65 $80>Peccato che le cose siano finite in quel modo.<$86><End>
-<$96>Sì, è molto triste.<S $65 $80> Tiny sembrava molto turbato e bisognoso di una psicoterapia.<$86><End>
+<$96>Sì, è un peccato.<S $65 $80> Tiny non l'ha presa bene.<S $65 $80> Un po' di terapia gli farebbe bene.<$86><End>
 <$96>Fai attenzione a quegli Oglin!<$86><End>
 <$96>Per Giove!<S $3D $80> È il mio giovane amico <Boy> e <Dog>.<$86><End>
 Temo di avere cattive notizie per voi.<$86>Tiny si è autoproclamato capo degli Oglin nelle profondità della piramide.<$86><End>
@@ -1378,7 +1378,7 @@ Credo che il potere gli abbia dato alla testa.<$86>Se cercherai di farlo ragiona
 Nella biblioteca del palazzo ho scoperto una magia che potrebbe aiutarti.<$86>Richiede 1 Calcare e 2 parti di Osso.<$86><End>
 <$96>Grazie per l'aiuto. <S $3D $80> Faremo attenzione.<$86><End>
 <$96>Lo faremo. <S $29 $80>Non preoccuparti. <S $29 $80>Grazie.<$86><End>
-<$96>Perché mi parli? <S $3D $80>Che rabbia i ragazzi di oggi!<$86><End>
+<$96>Perché mi stai parlando? <S $3D $80>Che rabbia i giovani d'oggi!<$86><End>
 Trovi una Perla Evocatrice<End>
 <$96>Va bene,<S $51 $80> a volte facciamo entrare le persone nel palazzo--a volte anche i Cani Sacri.<$86><End>
 <$96>Uh…<S $3D $80> ragazzino… <S $3D $80> scusa per l'urlaccio di prima. Vai e vieni come ti pare.<$86><End>
@@ -1395,7 +1395,7 @@ Trovi una Perla Evocatrice<End>
 <$96>Ehi!<S $3D $80> Assomigli un sacco a questa statua.<S $3D $80> Che ci sia una connessione?<$86><End>
 <$96>Per favore, non giocare vicino alla statua del Cane Sacro.<$86><End>
 <$96>Ehi!<S $3D $80> Assomigli un sacco a questa statua.<S $3D Ma tu sei il Cane Sacro!<$86><End>
-<$96>Io proteggo la statua.<S $79 $80> È un compito molto importante.<S $79 $80> Un tempo facevo la guardia a un cespuglio.<$86><End>
+<$96>Io proteggo la statua.<S $79 $80> È un compito molto importante.<$86>Un tempo facevo la guardia a un cespuglio.<$86><End>
 <$96>Non dovremmo far entrare i cani a palazzo.<$86>Ma,<S $5B $80> considerando che sei il Cane Sacro,<S $5B $80> immagino non ci siano problemi.<$86><End>
 <$96>Per favore, attieniti alle seguenti regole della città:<$86><$87>Vietato nuotare.<S $6F $80><$87>Vietato imprecare.<S $6F $80><$87>Vietato ridere.<S $6F $80><$87>Vietato piangere.<S $5B $80><$87>Vietato parlare a sproposito.<S $5B $80><$87>Vietato eseguire line dance.<S $5B $80><$87>Vietato richiamare le alci.<S $5B $80><$87>Vietato giocare con le spade.<S $5B $80><$87>Vietato intagliare zucche.<S $5B $80><$87>Vietata ogni giocoleria con i gatti mummificati.<S $5B $80><$87>Vietato autocommiserarsi.<S $65 $80><$87>Sono vietate le prove circostanziale.<S $5B $80><$87>Vietato calpestare il prato.<S $51 $80><$87>Nessun pancake di lunedì.<S $51 $80><$87>Niente dolce finché non avrai mangiato le tue verdure.<S $51 $80><$87>Nessuna commedia muta.<S $47 $80><$87>Nessun animale gonfiabile.<S $47 $80><End>
 <$87>E assolutamente,<S $3D $80> non si gioca nel cratere.<S $79 $80>
@@ -1404,27 +1404,27 @@ Mi fa arrabbiare.<$86><End>
 <$96>Nessuno può entrare nel palazzo--<S $3D $80> nemmeno il Cane Sacro.<$86><$96>Non provare ad intrufolarti.<S $3D $80> Ti acchiapperei.<S $3D $80> Sono veloce come il vento.<$86><End>
 <$96>Non cercare di aggirarmi per entrare nel palazzo.<$86>Ti avverto, sono veloce--<S $3D $80>veloce come il vento.<$86><End>
 <$96>La tua statua si trovava proprio qui.<S $3D $80> Adesso non c'è più.<$86>Certo che non mi sfugge nulla, eh.<$86><End>
-<$96>Una volta proteggevo la statua del Cane Sacro.<S $79 $80> Ora proteggo questa voragine.<$86><End>
+<$96>Una volta proteggevo la statua del Cane Sacro.<S $79 $80> Ora proteggo un buco.<$86><End>
 <$96>Ci sono lavori ben peggiori del mio.<$85><End>
 <$96>Ciao, campione.<S $3D $80> Sei un bravo cane! Non sei affatto presuntuoso come pensavo.<$86><End>
 <$96>Caspita!<S $3D $80> Quando hanno messo gli Occhi di Diamante sulla statua questa è saltata in aria.<$86><$96>Ho sentito che ne hanno ritrovato i pezzi a chilometri di distanza!<$86><End>
-<$96>Ho sentito che accadrà qualcosa di fico quando gli Occhi di Diamante saranno sulla statua.<$86><End>
+<$96>Ho sentito che accadrà qualcosa di fico una volta che gli Occhi di Diamante saranno sulla statua.<$86><End>
 <$96>Ho un po' paura degli animali,<S $3D $80> ma tu sembri a posto.<$86><End>
 <$96>Grazie per aver salvato la nostra città!<S $3D $80> Sei un grande avventuriero!<$86><End>
-<$96>Il nostro capo ha detto che quando avremo il potere della statua del Cane Sacro la città diventerà utopica.<$86><End>
+<$96>Il nostro capo dice che grazie al potere della statua del Cane Sacro la città diventerà utopica.<$86><End>
 <$96>Prima che tu e il tuo padrone ci salvaste pensavo che per la nostra città non ci fosse speranza.<$86><End>
 <$96>Il tuo padrone ha combattuto alla grande nel Colosseo.<S $79 $80> È stato uno bello spettacolo.<$86><End>
 <$96>Il capo ci ha guidato male ma tu ci hai rimesso sulla strada giusta!<S $79 $80> Ottimo lavoro!<$86><End>
-<$96>Il nostro nuovo capo è molto ambizioso.<S $3D $80> Non mi fido di lui.<$86><End>
+<$96>Il nostro nuovo capo è molto ambizioso.<S $3D $80> Non mi ispira molta fiducia.<$86><End>
 <$96>Ho assistito alla tua battaglia contro il capo! È stato incredibile!<$86><End>
 <$96>Ma tu sei il Cane Sacro!<$86>Abbiamo bisogno del tuo aiuto per far sì che il nostro capo non abusi della sua autorità.<$86><End>
 <$96>Il nostro nuovo capo è molto ambizioso.<S $3D $80> Credo voglia continuare la sua ascesa al potere.<$86><End>
 <$96>Ehi. Sei proprio quel Cane Sacro, non è vero?<S $B5 $80> Di cosa hai paura,<S $3D $80> eh?<$86><End>
 <$96>Quel capo è stato una grossa delusione.<$86>Prima non si fa vedere,<S $79 $80> poi prova a conquistare il mondo.<$86>Ha bisogno di una lezione sulle pubbliche relazioni.<$86><End>
 <$96>Non mi fido del nuovo capo.<S $79 $80> Non l'abbiamo nemmeno mai visto!<$86>Perché non mostra il suo volto?<$86><End>
-<$96>Beh,<S $3D $80> sei un animale davvero maestoso!<S $3D $80> Bravo cane!<$86><End>
-<$96>Salve giovanotto.<S $3D $80> Spero che tu non sia una canaglia come quei bulli di Crustacia.<$86><End>
-<$96>In fin dei conti sei un bravo cane.<S $3D $80> E io che pensavo tu fossi presuntuoso.<$86><End>
+<$96>Che dire,<S $3D $80> sei un animale davvero maestoso!<S $3D $80> Bravo cane!<$86><End>
+<$96>Mi auguro che tu non sia un furfante come quei bulli di Crustacia.<$86><End>
+<$96>Tutto sommato sei un bravo cane.<S $3D $80> E io che pensavo tu fossi presuntuoso.<$86><End>
 <$96>Il tuo soggiorno nella nostra città è stato piuttosto interessante!<$86><End>
 <$96>Assicurati di essere ben equipaggiato prima di andare dall'altra parte del fiume.<$86><End>
 <$96>Durante l'assemblea il mercato sarà chiuso.<$86>Sarebbe una buona idea accumulare più armature possibili prima che l'assemblea inizi.<$86><End>
@@ -1436,11 +1436,11 @@ Mi fa arrabbiare.<$86><End>
 <$96>Sono un grande ammiratore del Cane Sacro.<S $3D $80> Spero che si presenti all'assemblea.<$86><End>
 <$96>L'assemblea sta per cominciare.<$86>Avrà inizio non appena entrerai in piazza.<$86><End>
 <$96>Salutate il grande e possente Cane Sacro!<$86><End>
-<$96>Si terrà una battaglia nel Colosseo in onore dell'apparizione del Cane Sacro.<$86>Il nostro campione combatterà contro uno sfidante scelto dal Cane Sacro!<$86><End>
-<$96>Mostraci, Cane Sacro!<S $79 $80> Mostraci chi sarà lo sfidante!<$86><End>
+<$96>In onore dell'apparizione del Cane Sacro si terrà una battaglia all'interno del Colosseo.<$86>Il nostro campione combatterà contro uno sfidante scelto dal Cane Sacro!<$86><End>
+<$96>Mostraci, o Cane Sacro!<S $79 $80> Mostraci chi sarà lo sfidante!<$86><End>
 <$96><$82>? <$80><$80><End>
 Sei proprio tu? <$86><End>
-Saresti tu il {Cane Sacro}?<$86><End>
+Il {Cane Sacro}?<$86><End>
 <$96>Ti pareva!<$86><End>
 <$96>Il Cane Sacro ha scelto!<S $3D $80> Tiny!<S $3D $80> Porta il nostro sfidante al Colosseo!<$86><End>
 <$96>Io sono Tiny.<S $79 $80> <End>
@@ -1471,10 +1471,10 @@ Tu vieni con me.<$86><End>
 <$96>Salve, amico.<S $3D $80> Benvenuto nel mio emporio.<$86>Ho un vasto assortimento a prezzi favolosi. <S $79 $80> Sai come ci riesco?<$86><$97>Ammassando!
 <S $3D $80>Ammassando!
 <S $3D $80>Ammassando!<$86><End>
-<$96>Cos'è questa storia?<S $3D $80> Perché disturbi il mio riposo?<$86><End>
+<$96>Che storia è questa?<S $3D $80> Perché disturbi il mio riposo?<$86><End>
 <$96>Io…<S $3D $80> mi dispiace…<S $3D $80> non sapevo…<$86><End>
 <$96>Guardati, sei secco come un chiodo!<S $3D $80> Dovresti mettere su un po' di muscoli.<$86><End>
-Hai bisogno di forza bruta!<$86><End>
+Ti serve forza bruta!<$86><End>
 <$96>Ho quello che fa per te!<S $3D $80> La forza di Atlante!<$86><End>
 <$96>Ovviamente, per usare la ricetta Atlante,<S $3D $80> avrai bisogno di un Medaglione Atlante.<$86><End>
 <$96>Ma cosa<S $15 $80>.<S $15 $80>.<S $15 $80>. oh, sei tu!<S $3D $80> Sei tornato per il Medaglione Atlante?<$86><End>
@@ -1486,7 +1486,7 @@ Hai bisogno di forza bruta!<$86><End>
 <$96><$87>Va bene.<$86><End>
 <$96>Per oggi basta scambi.<S $79 $80> C'è un'importante assemblea nella piazza principale.<$86><End>
 <$96>Stiamo impacchettando tutto per andare alla grande assemblea.<S $5B $80> Riapriremo domani.<$86><End>
-<$96>La grande assemblea sta per cominciare nella piazza principale.<S $79 $80> Ci stanno andando tutti.<$86><End>
+<$96>La grande assemblea sta per cominciare nella piazza principale.<S $79 $80> Stanno andando tutti lì.<$86><End>
 <$96>Per oggi niente più scambi.<S $5B $80> Tutta la cittadinanza sta andando nella piazza principale.<$86><End>
 <$96>Per oggi siamo chiusi a causa dell'assemblea nella piazza principale.<$86><End>
 <$96>Spiacente.<S $3D $80> Per oggi non faremo più scambi.<S $79 $80>
@@ -1502,7 +1502,7 @@ L'assemblea sta per cominciare.<$86><End>
 <$87><$96>Va bene.<S $3D $80> Non se ne fa nulla.<S $3D $80> Non mi scocciare più.<$86><End>
 <$96>Il consigliere del nuovo capo ha indetto un'assemblea nella piazza principale.<$86>Chiuderemo tra <Item> minuti.<$86><End>
 <$96>Mancano <Item> minuti alla grande assemblea.<S $3D $80> Il mercato chiuderà a quell'ora.<$86><End>
-<$96>Stiamo chiudendo per la grande assemblea che ci sarà tra <Item> minuti.<$86><End>
+<$96>Stiamo chiudendo per la grande assemblea che si terrà tra <Item> minuti.<$86><End>
 <$96>Il mercato chiuderà da un momento all'altro per la grande assemblea.<$86><End>
 <$96>Sono un commerciante di spezie pregiate.<S $79 $80> Ti darò un vasetto di spezie per 4 sacchetti di riso o 4 vasi di ceramica.<$86><$96>Affare fatto?<S $3D $80>
 <$97><Choice>Certo. Scambiamo.
@@ -1690,8 +1690,8 @@ Affare fatto?<S $3D $80>
 <Choice>Dieci.<End>
 <$96><$87>Affare fatto.<S $3D $80> Goditi le tue spezie.<$86><End>
 <$96><$87>Affare fatto. Goditi le tue spezie.<$86><End>
-<$96>Per quanto detesti separarmi dai miei polli…<$86><End>
-<$96>Especially to a low-down chicken-taunter such as you…<$86><End>
+<$96>Per quanto detesti dar via i miei polli…<$86><End>
+<$96>Soprattutto ad un subdolo provocatore di polli come te…<$86><End>
 <$96>…sarei disposta a scambiarli per un vasetto di spezie e due sacchetti di riso.<$86>Affare fatto?<S $3D $80>
 <$97><Choice>Certo.
 <Choice>No grazie.<End>
@@ -1918,7 +1918,7 @@ Il profumo, oltre ad essere piacevole all'olfatto, può essere scambiato con uno
 <$86><End>
 <$96>I cesti non parlano.<$86><End>
 <$96>Il cane sacro!<S $3D $80> Sono un tuo grande ammiratore!<$86><End>
-<$96>Prevedo che tra non molto tutti i mercanti parteciperanno alla grande assemblea nella piazza principale.<$86><$96>Torna domani per altre incredibili e sorprendenti previsioni.<$86><End>
+<$96>Prevedo che presto tutti i mercanti parteciperanno alla grande assemblea nella piazza principale.<$86><$96>Torna domani per altre incredibili e sorprendenti previsioni.<$86><End>
 <$96>La fine è vicina.
 <S $79 $80>Ascoltate il mio avvertimento!
 <S $79 $80>Ascoltate il mio avvertimento!<$86><End>
@@ -1963,7 +1963,7 @@ Metti il piede sinistro e scuoti tutto.<$86><End>
 <$96>Much<S $3D $80> fear<S $3D $80> trouble<S $3D $80> in the fuselage, Frederick.<$86><End>
 <$96>La gente della città si sta radunando nella piazza.<S $79 $80> Presto il mercato sarà vuoto.<$86><End>
 <$96>Immagino che Vigor dovrà cambiare nome.<$86>Io voto per Vigor il Il-Distruttibile.<$86><End>
-<$96>Hai sconfitto Vigor l'Indistruttibile!<S $3D $80> Ben fatto!<S $3D $80> Non credevo tu potessi farcela!<$86><End>
+<$96>Hai sconfitto Vigor l'Indistruttibile!<S $3D $80> Ben fatto!<S $3D $80> Non credevo ce l'avresti fatta!<$86><End>
 <$96>Presto un nuovo sfidante combatterà contro il nostro campione nell'arena.<S $79 $80> Io tifo per il campione.<$86><End>
 <$96>Devo…<S $15 $80> smettere di<S $15 $80> roteare cose…<S $15 $80>
 e…<S $15 $80> andare alla…<S $15 $80> grande assemblea.<$86><End>
@@ -1982,7 +1982,7 @@ TE NE PENTIRAI<End>
 POSSO CONTINUARE PER TUTTO IL GIORNO<End>
 <$96>La grande assemblea nella piazza principale sta per cominciare.<$86><End>
 <$96>Dobbiamo andare nella piazza principale o faremo tardi all'assemblea.<$86><End>
-<$96>Nella piazza principale si sta tenendo un'assemblea. Io sto andando lì.<$86><End>
+<$96>È in corso un'assemblea nella piazza principale. Sto andando lì anche io.<$86><End>
 <$96>Sono così felice che la tua statua sia stata ricostruita.<$86><End>
 <$96>Ciao amico.<S $3D $80> Sei un bel simbolo per la nostra città.<S $3D $80> Venivo a visitare la tua statua tutti i giorni.<$86>Ormai è rimasto solo un buco nel terreno.<$86><End>
 <$96>Ciao amico.<S $3D $80> Sei un bel simbolo per la nostra città.<S $3D $80> Visito la tua statua tutti i giorni.<$86><End>
@@ -1993,11 +1993,11 @@ POSSO CONTINUARE PER TUTTO IL GIORNO<End>
 <$96>Che bel cucciolotto. <End>
 <S $3D $80> Sei la copia sputata della statua del cane sacro!<$86><End>
 <$86><End>
-<$96>Il nostro capo era fin troppo ambizioso.<S $3D $80> Sono felice che tu gli abbia dato una lezione.<$86><End>
+<$96>Il nostro capo era troppo ambizioso.<S $3D $80> Sono felice che tu gli abbia dato una lezione.<$86><End>
 <$96>Il nostro capo è molto ambizioso.<$86>Mi chiedo se il potere che cerca sia per il bene della città o per il suo tornaconto.<$86><End>
 <$96>Probabilmente potresti fare previsioni migliori di questo tizio. <S $79 $80>Sei pur sempre il Cane Sacro!<$86><End>
 <$96>Sapevo che quel filosofo era uno svitato.<$86><End>
-<$96>Non credo ad una parola di quello che dice.<$86><End>
+<$96>Non credo ad una sola parola di quello che dice.<$86><End>
 <$96>Salve, ragazzo.<S $3D $80> Ha l'aria di uno che sta per partire per un'avventura.<$86><End>
 <$96>Se sei in cerca di perline la migliore offerta la fa un banco che si trova sulle mura occidentali.<$86><End>
 <$96>Ma che bel cane!<S $3D $80> E sei anche ben educato.<$86><End>
@@ -2007,7 +2007,7 @@ POSSO CONTINUARE PER TUTTO IL GIORNO<End>
 <$96>Ho sentito dire che l'inondazione ha portato a riva una cassa con dentro 50 gemme!<$86>Deve esserci un deposito nascosto sotto la superficie.<$86><End>
 <$96>Sono contento di sapere che stanno ricostruendo la tua statua.<$86><End>
 <$96>La tua statua che era in piazza mi piaceva molto.<S $3D $80> Era fedele all'originale.<$86><End>
-<$96>La tua statua che sta in piazza mi piace molto.<S $3D $80> È fedele all'originale.<$86><End>
+<$96>La tua statua che si trova in piazza mi piace molto.<S $3D $80> È fedele all'originale.<$86><End>
 <$96>Se hai valute diverse dalle Gemme puoi cambiarle presso il banco del cambiavalute.<$86>Si trova vicino l'uscita che porta alla piazza della città.<$86><End>
 <$96>Ma tu sei il Cane Sacro!<S $3D $80> Chissà quante avventure avrai vissuto!<$86><End>
 <$96>Stai partendo per un'avventura?<S $79 $80> È quello che farò quando sarò alto quanto te.<$86><End>
@@ -2021,12 +2021,12 @@ POSSO CONTINUARE PER TUTTO IL GIORNO<End>
 <$96>cesto.<$86><End>
 <$96>Questo tizio è davvero arguto.<S $3D $80> Ha un sacco di cose importanti da dire.<$86><End>
 <$96>Ciao bello.<S $3D $80> Sei un bravo cane, dico bene?<S $79 $80> Ora fila via.<S $3D $80> Fammi guardare il giocoliere.<$86><End>
-<$96>Ehi!<S $3D $80> Tu sei il tipo che ha sconfitto il capo!<S $3D $80> È stato un bello spettacolo!<$86><End>
-<$96>Ehi!<S $3D $80> Tu sei il tipo che ha sconfitto il campione!<S $3D $80> È stato un bello spettacolo!<$86><End>
-<$96>Se volessero attirare gente alla grande assemblea,<S $3D $80> dovrebbero inserire questo tizio nel programma.<$86><End>
-<$96>Ehi, ma tu sei il Cane Sacro!<S $3D $80> Fico!<$86><End>
+<$96>Ehi!<S $3D $80> Ma tu sei il tipo che ha sconfitto il capo!<S $3D $80> È stato un bello spettacolo!<$86><End>
+<$96>Ehi!<S $3D $80> Ma tu sei il tipo che ha sconfitto il campione!<S $3D $80> È stato un bello spettacolo!<$86><End>
+<$96>Se volessero attirare gente alla grande assemblea,<S $3D $80> dovrebbero mettere questo tizio nel programma.<$86><End>
+<$96>Ehi, ma tu sei il Cane Sacro!<S $3D $80> Forte!<$86><End>
 <$96>Se pensi che questo tizio sia bravo,<S $3D $80> dovresti vederlo quando si destreggia tra i gatti mummificati.<$86>È uno spettacolo da non perdere!<$86><End>
-<$96>Che animale magnifico!<S $3D $80> Sono sempre stato un tuo fan.<$86><End>
+<$96>Che animale magnifico!<S $3D $80> Sono un tuo vecchio fan.<$86><End>
 <$96>I mercanti nella parte nord del mercato sono specializzati in cibo e altri beni.<$86>I mercanti nella parte sud vendono amuleti e altri oggetti misteriosi.<$86><End>
 <$96>Il Cane Sacro!<S $3D $80> Sarai sicuramente molto bravo a trovare tesori,<S $3D $80> non è così?<$86><End>
 <$96>Dovresti equipaggiarti con una buona armatura se hai intenzione di andare all'avventura.<$86>Nel mercato ci sono tre mercanti di armature.<$86><End>
@@ -2074,7 +2074,7 @@ glub… glub… glub…<End>
 <Dog>, stai qui!<$85><End>
 Ricevi 2.500 Monete d'Oro<End>
 <$96>Un giorno di questi pulirò la vasca della fontana.<$86><End>
-<$96>Ripara questo! Aggiusta quello! Mai un momento di riposo.<$86><End>
+<$96>Ripara qui! Aggiusta qua! Mai un momento di riposo.<$86><End>
 <$96>Cani Sacri… <S $51 $80>Non credo alla loro esistenza!<$86><End>
 <$96>Ciao. Io e mia moglie ci occupiamo della pulizie e della manutenzione del palazzo.<$86><End>
 <$96>Mio marito si lamenta perché c'è troppo lavoro da fare.<$86>In realtà il lavoro lo faccio io, lui si lamenta e basta.<$86><End>
@@ -2096,15 +2096,15 @@ Ricevi 2.500 Monete d'Oro<End>
 <$96>Voi venite da…<S $B5 $80> Podunk!<$86><End>
 <$96>Urca!<S $3D $80> È vero!<S $41 $80> Io sono <Boy><End>
  e questo è il mio cane,<S $41 $80> <Dog>.<$86><End>
-<$96>È un piacere conoscervi.<S $3D $80> Io sono Horace Highwater.<S $B5 $80> Anche io vengo da Podunk.<$86>Sapevo che che era solo una questione di tempo prima dell'arrivo di un altro Podukiano.<$86><End>
-<$96>Vedi,<S $3D $80> questo mondo antico è frutto della mia immaginazione.<$86><End>
-<$96>Ero il curatore del Museo di Storia Naturale di Podunk.<$86>Il mio campo di specializzazione erano le civiltà antiche,<S $79 $80> e…<$86><End>
-<$96>E hai partecipato all'esperimento nel maniero sulla collina<S $81 $80> ma qualcosa è andato storto!<$86><End>
+<$96>Piacere di conoscervi.<S $3D $80> Io sono Horace Highwater.<S $B5 $80> Anche io vengo da Podunk.<$86>Sapevo che era solo questione di tempo prima che arrivasse un altro Podukiano.<$86><End>
+<$96>Devi sapere che questo mondo antico è frutto della mia immaginazione.<$86><End>
+<$96>Ero il curatore del Museo di Storia Naturale di Podunk.<$86>Il mio campo di specializzazione erano le civiltà antiche,<S $79 $80> poi…<$86><End>
+<$96>Poi hai partecipato all'esperimento nel maniero sulla collina<S $81 $80> ma qualcosa è andato storto!<$86><End>
 <$96>Proprio così!<S $3D $80> Terribilmente storto!<S $79 $80> <End>
 Come lo sai?<$86><End>
 <$96>Occhi di Fuoco…<S $5B $80> ehm…<S $5B $80> Elizabeth ce ne ha parlato.<S $B5 $80> Lei è il capo del mondo preistorico che si trova sull'altopiano.<$86><End>
 <$96>Ma certo!<S $3D $80> Elizabeth, la nipote del Professor Ruffleberg!<$86><End>
-<$96>C'era anche un altro invitato alla festa.<S $79 $80> La Signorina Bluegarden, la bibliotecaria.<$86>Ho sempre sospettato che siamo stati vittime di un sabotaggio…<S $79 $80> ma per opera di chi?<$86><End>
+<$96>C'era anche un altro invitato alla festa.<S $79 $80> La Signorina Bluegarden, la bibliotecaria.<$86>Ho sempre sospettato che siamo stati vittime di un sabotaggio…<S $79 $80> ma da parte di chi?<$86><End>
 <$96>Non saprei.<S $21 $80> <End>
 <$96>Credo che lo scopriremo una volta che avremo l'altro Occhio di Diamante.<$86>Ne abbiamo già trovato uno nella Piramide ma quel tizio in città ci ha parlato di un altro.<$86><End>
 <$96>Credo che lo scopriremo una volta che avremo l'altro Occhio di Diamante.<$86>Ne abbiamo già trovato uno nel Tempio di Collosia e dovrebbe essercene un altro.<$86><End>
@@ -2267,23 +2267,23 @@ la barca <End>
 non sarà <End>
 completamente <End>
 ferma.<End>
-<$96><$93>You've <End>
-been <End>
-on my <End>
-shuttle <End>
-to <End>
-Nobilia <End>
-before, <End>
-so <End>
-I'll <End>
-just <End>
-be <End>
-quiet <End>
-and <End>
-let <End>
-you <End>
-enjoy <End>
-the ride.<End>
+<$96><$93>Siete <End>
+già <End>
+stati <End>
+su <End>
+questa <End>
+navetta per <End>
+Nobilia, <End>
+quindi <End>
+resterò <End>
+in <End>
+silenzio <End>
+e lascerò <End>
+che <End>
+vi <End>
+godiate <End>
+il <End>
+viaggio.<End>
 <$96><$93>I'd <End>
 like <End>
 to <End>
@@ -2394,8 +2394,8 @@ non dovresti vederlo<End>
 <$96>Ehi, ragazzino!<S $3D $80> Mi daresti una mano con questa biscia?<S $3D $80> È fuori controllo!<$86><End>
 Era il rumore di una porta?!<$86><End>
 <$96>Felice di aver evitato quei grossi spuntoni.<S $3D $80> Ci saremmo fatti male!<$86><End>
-<$96>Molto bene, <Dog>.<S $3D $80> Penso che i nostri esperimenti con la gravità siano stati un successone.<$86><End>
-<$96>Dovremmo decisamente smetterla di cadere nelle fosse!<$86><End>
+<$96>Molto bene, <Dog>.<S $3D $80> Direi che i nostri esperimenti con la gravità sono stati un successone.<$86><End>
+<$96>Dovremmo smetterla di cadere nelle fosse!<$86><End>
 <$96>Uh, scusa.<S $3D $80> Sì!<S $3D $80> Dico a te!<S $3D $80> Dall'altra parte del vetro!<$86>Potresti smettere di farci cadere?<S $B5 $80> Non è divertente.<$86><End>
 <$96>Sembra che dall'altra parte della fossa ci sia un interruttore.<$86>Se avessi qualcosa da lanciare riuscirei a colpirlo.<$86><End>
 <$96>Ho colpito l'interruttore. Forse serve una lancia più pesante.<$86><End>
@@ -2404,11 +2404,11 @@ Era il rumore di una porta?!<$86><End>
 <$96>Sono felice di aver trovato quel passaggio segreto nella fossa!<S $B5 $80> Ora però,<S $3D $80> non scendiamo laggiù un'altra volta.<$86><End>
 StopStomp cleared<End>
 StopStomp set<End>
-<$96>Sembra che dall'altra parte della fossa ci sia un interruttore.<$86>Riuscirei a colpirlo se avessi qualcosa da lanciare.<$86><End>
+<$96>Sembra che dall'altra parte della fossa ci sia un interruttore.<$86>Potrei colpirlo se avessi qualcosa da lanciare.<$86><End>
 <$96>Ho colpito l'interruttore ma forse serve una lancia più pesante.<$86><End>
 <$96>Madronius?<S $3D $80> Sei tu?<$86><End>
-<$96>Non sono Madronius,<S $3D $80> ma sono suo fratello.<S $3D $80> Come fai a conoscerlo?<$86><End>
-<$96>Mi ha dato la ricetta Rivelatore in modo che potessi superare le fosse e trovare gli Occhi di Diamante.<$86><End>
+<$96>Non sono Madronius,<S $3D $80> bensì suo fratello.<S $3D $80> Come fai a conoscerlo?<$86><End>
+<$96>Mi ha dato la ricetta Rivelatore in modo che potessi superare le fosse e recuperare gli Occhi di Diamante.<$86><End>
 <$96>Recuperare gli Occhi di Diamante è una buona idea.<$86><End>
 Ho sentito che anche altri li stanno cercando.<$86><End>
 Posso aiutarti nella tua avventura dandoti la ricetta della Palla di Fuoco.<$86><End>
@@ -2568,12 +2568,12 @@ Trovi Amuleto dell'Annientamento<End>
 <$96>Poiché sei un cane non ti piacerà fare affari.<$86>Gli animali non apprezzano il commercio.<$86><End>
 <$96>I commercianti di questo mercato offrono buoni affari.<$86>Dovresti riuscire a soddisfare ogni tua esigenza.<$86><End>
 <$96>Ciao, Puff.<S $3D $80> Che bell'acconciatura che hai!<$86><End>
-<$96>Questo mercato è piccolo rispetto ad altri.<S $79 $80> Tuttavia ci sono molte occasioni per fare affari.<$86><End>
+<$96>Questo mercato è più piccolo rispetto ad altri.<S $79 $80> Tuttavia ci sono molte occasioni per fare affari.<$86><End>
 <$96>Ciao, piccoletto.<S $3D $80> È carino da parte tua far visita alla nostra nuova-vecchia città.<$86><End>
 <$96>Ciao, piccoletto.<S $3D $80> È carino da parte tua far visita alla nostra cittadina.<$86><End>
 <$96>Ciao, ragazzino.<S $3D $80> Benvenuto nella città di Ebon.<S $79 $80> Il nuovo posto più felice di Evermore!<$86><End>
 <$96>Ciao, ragazzino.<S $3D $80> Benvenuto nella città di Ivor.<S $79 $80> Il posto più felice di Evermore!<$86><End>
-<$96>Tu!<S $3D $80> Sei proprio un bel cagnolino, vero?<$86><End>
+<$96>Ehi tu!<S $3D $80> Sei proprio un bel cagnolino, vero?<$86><End>
 <$96>Non avrei mai immaginato che la regina di Ivor fosse un falso!<S $F1 $80> Sei un tipo sveglio!<$86><End>
 <$96>Non molto tempo fa la nostra regina fece costruire Ivor e ci si trasferì da Ebon.<$86>La maggior parte dei cittadini la seguirono poiché prometteva loro conforto e felicità.<$86>I restanti ci si sono trasferiti per il cibo e le bevande gratis.<$85><End>
 <$96>Che bell'animale!<S $3D $80> Assomigli al mio maiale.<S $3D $80> Il suo nome è {Prince.}<$86><End>
@@ -2582,17 +2582,17 @@ Trovi Amuleto dell'Annientamento<End>
 <$96>Stai andando alla corsa suina?<S $3D $80> È l'evento principale della fiera!<$86>Il proprietario del maiale vincitore sarà invitato al grande banchetto con la regina.<$86><End>
 <$96>Ho sentito che la regina ti ha mandato in missione dall'altra parte del burrone!<S $B5 $80> Buona fortuna!<$86><End>
 <$96>Ciao cagnolino!<S $3D $80> Sei proprio un bell'animaletto morbidoso!<$86><End>
-<$96>Sono felice che le cose sono tornate alla normalità.<S $3D $80> Mi mancava la vecchia Ebon!<$86><End>
+<$96>Sono felice che le cose sono tornate alla normalità.<$86>Mi mancava la vecchia Ebon!<$86><End>
 <$96>Hai saputo?<S $79 $80> Sul lato ovest della città si terrà una corsa coi maiali!<$86>Mi piacciono i maiali,<S $79 $80> soprattutto quelli veloci!<$86><End>
 <$96>La corsa dei suini è stata meravigliosa!<S $79 $80> È stata così eccitante e imprevedibile!<$86><End>
 <$96>Ciao, Principessa!<S $3D $80> Vieni da mamma!<S $3D $80> Sì.<S $3D $80> Sei un bravo cagnolino!<$86><End>
-<$96>Immaginavo ci fosse qualcosa che non andava nella Regina.<$86>Sono contento che quella vera sia tornata con tutti i suoi sudditi al seguito!<$86><End>
+<$96>Immaginavo ci fosse qualcosa che non andava nella Regina.<$86>Sono contenta che quella vera sia tornata con tutti i suoi sudditi al seguito!<$86><End>
 <$96>La regina è stata molto affabile ultimamente ma in modo nauseante.<$86>E che dire del re!<S $3D $80> Il re se ne è andato!<$86>Non riesco a capire questi reali!<$86><End>
 <$96>Ciao, bel cucciolotto.<S $3D $80> Come ti chiami?<S $3D $80> {Fifi?}<S $3D $80> {Petunia?}<$86><End>
 <$96>Mia madre dice che Ebon non sarà pulita quanto lo era Ivor<S $79 $80> ma è pur sempre casa.<$86><End>
 <$96>Mia madre una volta è stata nel nuovo castello.<S $79 $80> Dice che è gigantesco,<S $79 $80>
 e pulitissimo!<$86><End>
-<$96>Dovresti stare attento a mio fratello.<S $3D $80> Insegue i cani.<S $3D $80> So che non è una cosa carina.<$86><End>
+<$96>Dovresti stare attento a mio fratello.<S $3D $80> Insegue i cani.<$86>So che non è una cosa carina.<$86><End>
 <$96>La Regina Bluegarden è di nuovo il nostro capo!<S $79 $80> Sul serio!<S $79 $80> Grazie!<$86><End>
 <$96>A quanto ricordo la regina è sempre stata molto gentile.<$86>Lo è ancora ma in modo diverso… quasi forzato.<$86><End>
 <$96>Ehi, cucciolo.<S $3D $80> Comportati bene<S $79 $80> o ti prenderò per la coda!<$86><End>
@@ -2665,7 +2665,7 @@ Niente Amuleto,<S $79 $80> niente biglietto.<$86><End>
 <$96>La regina ha una politica più aperta della sua robotica gemella malvagia.<$86>Penso che sia un bene,<S $79 $80> come anche usare il pugno di ferro!<$86><End>
 <$96>La regina ha detto che puoi entrare nel castello.<S $79 $80> Ma prima pulisciti bene i piedi, d'accordo?<$86><End>
 <$96>Uh,<S $3D $80> scusami ma…<S $79 $80> non sono ammessi cani al castello.<$86><End>
-<$96>Tu e il tuo padrone potete entrare nel castello.<S $79 $80> Ma non toccate nulla, intesi?<$86><End>
+<$96>Tu e il tuo padrone potete entrare nel castello.<$86>Ma non toccate nulla, intesi?<$86><End>
 <$96>Ehi, cagnolino.<S $79 $80> Questa città è gioiosa quanto lo era Ivor.<$86>E non ci sono gemelli malvagi!<$86><End>
 <$96>Ehi, cagnolino.<S $79 $80> Ti piace la nostra gioiosa città?<S $79 $80> Non male, vero?<$86><End>
 <$96>Dovresti convincere il tuo padrone a comprarti un collare nuovo.<S $3D $80> Può trovarli al negozio.<$86><End>
@@ -2683,14 +2683,14 @@ Niente Amuleto,<S $79 $80> niente biglietto.<$86><End>
 <$96>Sei una creatura dall'aspetto singolare.<$86>Ma non più strana degli Oglin,<S $79 $80> almeno da quanto ne so!<$86><End>
 <$96>Un gruppo di creature misteriose si nasconde sottoterra.<$86>Sono chiamate {Oglin.}<$86>Una volta mio fratello ne ha vista una.<S $79 $80> Ha detto che era alta un metro e mezzo, con gli occhi rossi e dei grandi artigli!<$86><End>
 <$96>L'autentica Regina Bluegarden adora gli animali, soprattutto i barboncini rosa e soffici.<$86><End>
-<$96>Ciao, cagnolino!<S $3D $80> Non si vedono molti animali da queste parti!<S $3D $80> Alla regina piace tenere questo posto pulito.<$86><End>
+<$96>Ciao, cagnolino!<S $3D $80> Non si vedono molti animali da queste parti!<$86>Alla regina piace tenere questo posto pulito.<$86><End>
 <$96>La malvagia regina robot era decisamente,<S $3D $80> uh,<S $3D $80> malvagia,<S $79 $80> vero?<$86><End>
 <$96>La regina dice che la vecchia città è stata presa dalle creature malvagie.<$86>Dice anche che presto si occuperà di loro!<$86><End>
 <$96>Sembra che tu ti possa infilare negli spazi stretti.<S $3D $80> Può tornare utile se si è in cerca di tesori.<$86><End>
 <$96>Ho sentito che nella scacchiera che si trova tra i due castelli ci sono due botole!<S $79 $80> Fico!<$86><End>
 <$96>Hai visto la scacchiera che si trova tra il vecchio e il nuovo castello?<$86>Dicono che le pedine erano solite spostarsi da sole!<$86><End>
 <$96>Il vincitore della corsa suina è qui per incontrare la regina.<$85><End>
-<$96>Arrrgh! Avevo puntato la paga settimanale su Tartufo Agitato.<$86><$96>Entra prima che cambi idea.<$85><End>
+<$96>Arrrgh! Avevo puntato tutto su Tartufo Agitato.<$86><$96>Entra prima che cambi idea.<$85><End>
 Trovi Amuleto dell'Annientamento<End>
 Trovi Amuleto dell'Annientamento<End>
 Trovi Amuleto dell'Annientamento<End>
@@ -2705,7 +2705,7 @@ Mi piace avventurarmi in territori inesplorati.<$86><End>
 <$96>Basta combinare Ferro e Ghianda per colpire le creature nemiche con un attacco affilato.<$86><End>
 <$96>Dai pure un'occhiata ai miei forzieri.<$86>Potresti trovarci qualcosa di utile per la tua avventura.<$86><End>
 <$96>Non sembri un tipo avventuroso.<S $3D $80> Ma a volte l'apparenza inganna.<$86><End>
-<$96>Sono sicuro che un'emozionante avventura ti sta aspettando.<$86><End>
+<$96>Sono sicuro che un'avventura emozionante ti sta aspettando.<$86><End>
 <$96>Beh,<S $3D $80> sei uno spettacolo da per gli occhi.<S $79 $80> Ti manca solo un fiocchetto rosa.<$86><End>
 <$96>Le cose sono diverse ora che siamo tornati a Ebon con la nostra regina originale.<$86><$96>Ora ci è consentito essere sia felici che infelici.<S $79 $80>
 È una nostra scelta.<$86><End>
@@ -2733,12 +2733,12 @@ Non fai parte di quella mostra sul lato ovest della città?<$86><End>
 Questa è la nostra nuova casa.<S $3D $80> È graziosa, non trovi?<$86><End>
 Puoi prendere il contenuto dei nostri forzieri se li userai nella tua avventura.<$86><End>
 <$96>Allora,<S $3D $80> come ti chiami, cucciolo?<S $79 $80> {Fluffy?}<S $79 $80> {Muffy?}<S $79 $80> {Princess?}<$86><End>
-<$96>Un tempo la sacchiera gigante era uno spettacolo da vedere!<$86>Le pedine si spostavano da sole!<S $79 $80> Ma,<S $3D $80> qualche tempo fa,<S $3D $80> hanno smesso di farlo!<$86><End>
+<$96>Un tempo la scacchiera gigante era uno spettacolo da vedere!<$86>Le pedine si spostavano da sole!<S $79 $80> Ma,<S $3D $80> qualche tempo fa,<S $3D $80> hanno smesso di farlo!<$86><End>
 <$96>Ho saputo che ci sulla scacchiera ci sono delle botole che portano a dei locali sotterranei.<$86><End>
-<$96>You're very fancy looking,<S $3D $80> what with your pink puffs and all!<$86><End>
-<$96>Ciao, suddito!<$86>Vedo che ti sei vestito elegantemente per la nostra udienza!<$86>Sei così soffice e rosa!<$86><End>
+<$96>Sei veramente delizioso,<S $3D $80> con quei pompon rosa e tutto il resto!<$86><End>
+<$96>Ciao, suddito!<$86>Vedo che ti sei vestito elegante per la nostra udienza!<$86>Sei così soffice e rosa!<$86><End>
 <$96>Tempo fa credevo di essere il re ma ora sono tornato in me.<$86><$96>Ovviamente,<S $3D $80> mi piacciono ancora i mantelli e i vestiti eleganti.<$86><End>
-<$96>Tutti acclamano sua maestà,<S $3D $80> cioè me!<S $79 $80> Dovete prostarvi in mia presenza!<$86><End>
+<$96>Tutti acclamano sua maestà,<S $3D $80> cioè me!<S $79 $80> Dovete prostrarvi in mia presenza!<$86><End>
 <$96>Oh!<S $3D $80> Ma che bell'animale!<$86><End>
 Qui non ci sono molti animali.<$86>La regina vuole mantenere il posto pulito.<$86><End>
 <$96>Sono contento di essere tornato nella cara e vecchia Ebon.<S $F1 $80> Ivor mi metteva i brividi.<$86><End>
@@ -2752,7 +2752,7 @@ Qui non ci sono molti animali.<$86>La regina vuole mantenere il posto pulito.<$8
 <$96>Mio marito è uscito dal complesso del re quando siamo tornati a Ebon.<$86>Sono contenta che sia tornato ad essere un normale idraulico in mantello e corona.<$86><End>
 <$96>Mio marito è convinto di essere il re.<S $3D $80> In realtà non lo è.<S $3D $80> È un idraulico.<$86>Il nostro vero re non si fa vedere in pubblico da un bel pezzo.<$86><End>
 <$96>Ciao cucciolotto!<S $79 $80> Sei molto carino!<S $3D $80> E anche affettuoso!<$86><End>
-<$96>Ehi!<S $3D $80> Mi sembri familiare!<S $3D $80> Eri alla corsa dei suini?<$86><End>
+<$96>Ehi!<S $3D $80> Hai un'aria familiare!<S $3D $80> Eri alla corsa dei suini?<$86><End>
 <$96>Sono contento di essere tornato a Ebon ma la corsa suina mi mancherà.<$86><End>
 <$96>Sto andando alla corsa dei suini che si terrà sul lato ovest della città.<S $79 $80> Adoro i maiali!<$86><End>
 <$96>La corsa dei suini è stata fantastica!<S $79 $80> E che finale emozionante!<$86><End>
@@ -2800,18 +2800,18 @@ La nostra tariffa è di 40 Monete d'Oro.
 <$96>Sei così stanco che cammini a {quattro zampe.} Scusa l'umorismo da locandiere!<$86><End>
 <$96>Buona fortuna.<S $3D $80> Spero che la tua avventura sia un successo.<$86><End>
 <$96>Ciao, <Boy>.<S $3D $80> Felice di rivederti.<$86><End>
-<$96><$87>Gestisco gli affari su entrambi i lati dell'edificio a causa della mancanza di persone in città.<$86><End>
+<$96><$87>Gestisco gli affari su entrambi i lati dello stabile vista l'assenza di persone in città.<$86><End>
 <$96>Volete fermarvi? <S $3D $80><End>
-La tariffa è di 50 Monete d'Oro.
+Vi costerà 50 Monete d'Oro.
 <$97><Choice>Ci fermiamo.
 <Choice>No grazie.<End>
 <$87><$96>Spero che abbiate riposato bene.<$86><End>
 <$96><$87>Presso il negozio è possibile scambiare le altre valute con le Monete.<$86><End>
 <$96>Ciao, sofficino.<S $3D $80> Sono sicuro che sei molto più forte di quanto sembri.<$86><End>
-<$96>Cos'abbiamo qui?<S $79 $80> Per quel che ne so non sei né di Ebon<S $79 $80>
-né tantomeno di Ivor.<$86><End>
+<$96>Cos'abbiamo qui?<S $79 $80> Per quel che ne so non venite né da Ebon<S $79 $80>
+né tantomeno da Ivor.<$86><End>
 <$96>No!<S $3D $80> Veniamo da Podunk!<$86><End>
-<$96>Non ho mai sentito parlare di Podunk.<$86>Forse hai sentito parlare di me.<S $3D $80> Il mio nome è Cecil del Castello di Baron.<$86>Hai saputo della mia vittoria contro Zeromus?
+<$96>Non ho mai sentito parlare di Podunk.<$86>Ma forse avrai sentito parlare di me.<S $3D $80> Il mio nome è Cecil del Castello di Baron.<$86>Hai saputo della mia vittoria contro Zeromus?
 <Choice>Certo che sì!
 <Choice>Non ne so nulla.<End>
 <$96><$87>E della volta in cui sono diventato paladino?
@@ -2820,16 +2820,16 @@ né tantomeno di Ivor.<$86><End>
 <$96><$87>E della mia avventura sulla luna?
 <Choice>Oh sì! La luna!
 <Choice>Credo di no.<End>
-<$96><$87>Va bene.<S $3D $80> Ti basti sapere che,<S $79 $80> sono stato quasi dappertutto e ho fatto quasi di tutto.<$86><End>
-<$96><$87>Ora mi sono sistemato con mia moglie, Rosa, e conduciamo una vita tranquilla qui a Ebon.<$86><End>
+<$96><$87>Va bene.<S $3D $80> Ti basti sapere che sono stato quasi dappertutto e ho fatto quasi ogni cosa.<$86><End>
+<$96><$87>Ora ho messo su famiglia con mia moglie Rosa e conduciamo una vita tranquilla qui a Ebon.<$86><End>
 <$96>Sono tutte tue queste armature?<$86><End>
-<$96>Sì.<S $3D $80> È il mio lavoro!<S $79 $80> Vendo gli oggetti che ho accumulato nel corso degli anni.<$86><End>
-Non è male ma,<S $3D $80> da quando in molti si sono spostati a Ivor,<S $3D $80> gli affari vanno a rilento.<$86><End>
+<$96>Sì.<S $3D $80> È il mio lavoro!<S $79 $80> Vendo quello che ho accumulato nel corso degli anni.<$86><End>
+Non è male ma,<S $3D $80> da quando molta gente si è spostata a Ivor,<S $3D $80> gli affari vanno a rilento.<$86><End>
 <$96>Perché non te ne sei andato anche tu?<$86><End>
-<$96>Per testardaggine, suppongo.<S $79 $80> Non ci è sembrata una buona idea.<$86>Sembri un bravo ragazzo.<S $3D $80> Ma non andrai molto lontano con quella penosa armatura.<$86>Permettermi di vestirti con stile!<$86><End>
-<$96>Da quando hai ascoltato le mie avventure,<S $3D $80> sento che siamo diventati vecchi amici.<S $B5 $80> Per questo ti proporrò un accordo sopeciale.<$86><End>
+<$96>Per testardaggine, suppongo.<S $79 $80> Non ci è sembrata una buona idea--<S $79 $80> non ancora.<$86>Sembri un bravo ragazzo.<S $3D $80> Ma non andrai molto lontano con quell'armatura.<$86>Permettimi di vestirti con stile!<$86><End>
+<$96>Dal momento che hai già sentito parlare delle mie avventure,<S $3D $80> è come se fossimo vecchi amici.<$86>Per questo ti farò un prezzo speciale.<$86><End>
 <$96>Ciao, ragazzino.<S $3D $80> Felice di rivederti.<$86><End>
-<$96>È un piacere fare affarti con te.<S $3D $80> Per ringraziarti voglio darti quest'arma.<$86>L'ho trovata in una delle mie avventure nella giungla sopra l'altopiano.<$86><End>
+<$96>È un piacere fare affari con te.<S $3D $80> Per ringraziarti voglio darti quest'arma.<$86>L'ho trovata in una delle mie avventure nella giungla che si trova sopra l'altopiano.<$86><End>
 Ricevi Bazooka<End>
 Received Thunderball projectile<End>
 <$96>Ma tu sei quel simpatico giovanotto che ha aiutato la nostra città! Grazie mille!<$86><End>
@@ -2873,7 +2873,7 @@ Yo<$80><$80>u c<$80><$80>an<$80><$80> h<$80><$80>av<$80><$80>e t<$80><$80>
 <$96>Ci siamo già visti?<$86><End>
 <$96>Certo che sì!<S $3D $80> A Ivor!<S $3D $80> Non ricordate?<$86><End>
 <$96>Oh!<S $3D $80> Allora avete incontrato l'impostora--<S $3D $80> la mia gemella malvagia!<$86><End>
-<$96>Urca!<S $3D $80> È come in {I Passaporti dei Gemelli!}<$86>Troviamo gemelli malvagi ovunque!<$86><End>
+<$96>Urca!<S $3D $80> È come in {I Passaporti dei Gemelli!}<$86>Troviamo gemelli malvagi ovunque andiamo!<$86><End>
 <$96>Prima c'è stata Occhi di Fuoco,<S $3D $80> ehm,<S $3D $80> Elizabeth e la sua gemella malvagia,<S $79 $80> poi Horace,<S $3D $80> e ora…<S $79 $80> <End>
 voi!<$86><End>
 <$96>Elizabeth?<S $3D $80> Horace?<S $3D $80> Quindi avete incontrato gli altri!<$86><End>
@@ -2883,12 +2883,12 @@ voi!<$86><End>
 <$96>Sì!<$86><End>
 <$96>Ma qualcosa è andato terribilmente storto.<$86><End>
 <$96>Sì.<S $3D $80> E sono rimasta bloccata qui da allora.<$86>Non è stato poi così male…<S $3D $80> fino a qualche mese fa.<$86><End>
-<$96>È allora che è apparsa la mia gemella malvagia che mi ha rinchiusa nelle segrete prendendo il mio posto.<$86><End>
-<$96>Dopodiché,<S $3D $80> si è presentata dal re con un ipnotico spettacolo di marionette che l'ha fatto cadere in trance.<$86><End>
+<$96>È stato allora la mia gemella è apparsa, mi rinchiusa nelle segrete e si è sostituita a me.<$86><End>
+<$96>Fatto ciò,<S $3D $80> è andata dal re e l'ha fatto cadere in trance con un ipnotico spettacolo di marionette.<$86><End>
 <$96>Con il re ridotto ad un vegetale, l'impostora ha potuto complottare sotto il suo naso.<$86><End>
 <$96>Quando sono uscita dalla prigione,<S $79 $80> lei aveva già spostato il regno oltre il burrone.<$86><End>
-<$96>Attualmente,<S $3D $80> solo pochi di noi sono rimasti a Ebon.<$86><End>
-<$96>Ci ha inviato qui ad aprire il ponte levatoio in modo che le sue truppe potessero sgombrare il castello.<$86><End>
+<$96>Al momento,<S $3D $80> solo pochi di noi sono rimasti a Ebon.<$86><End>
+<$96>Ci ha mandato qui per aprire il ponte levatoio in modo che le sue truppe potessero sgombrare il castello.<$86><End>
 <$96>Questo non va bene!<$86><End>
 <$96>È solo questione di tempo prima che piombi qui dentro,<S $B5 $80> con o senza il tuo aiuto.<$86><End>
 <$96>Ascolta, ragazzino.<S $3D $80> Credo che Tinker possa aiutarti a tornare a Podunk.<$86><End>
@@ -2902,7 +2902,7 @@ Ricevi <Item> Perle Evocatrici<End>
 <$96>Prima di andare,<S $3D $80> ricordati di parlare con Tinker nella stanza che si trova ad est.<$86>Lui può aiutarti nella tua avventura.<$86><End>
 <$96>Grazie, Regina Bluegarden.<$86><End>
 <$96>Ti prego.<S $79 $80> Chiamami pure {Camellia.}<$86><End>
-<$96>Oh, che cagnolino eroico!<$86>Mi piacerebbe abbracciarti, strizzarti e sbaciucchiarti tutto!<$85><End>
+<$96>Oh, che cagnolino eroico!<$86>Vorrei tanto abbracciarti, strizzarti e sbaciucchiarti tutto!<$85><End>
 <$96>Oh, che ragazzo coraggioso!<$86>Grazie a te il regno è di nuovo pieno di felicità e speranza.<$86><End>
 Prima di andare,<S $3D $80> ricordati di parlare con Tinker.<$86>Potrebbe esserti di aiuto nella tua avventura.<$85><End>
 <$96>Ciao, Fluffy!<S $3D $80> Ma che cagnolino meraviglioso!<$86><End>
@@ -2915,18 +2915,18 @@ Prima di andare,<S $3D $80> ricordati di parlare con Tinker.<$86>Potrebbe essert
 Il mio nome è Tinker Tinderbox.<$86><End>
 <$96>Mi interesso di questioni scientifiche--<S $3D $80> invenzioni meccaniche,<S $3D $80> ricette alchemiche…<$86><End>
 <$96>Immagino che la regina ti abbia parlato dell'impostora di Ivor.<$86><End>
-<$96>Esatto!<S $3D $80> <End>
+<$96>Proprio così!<S $3D $80> <End>
 <$96>Stiamo incontrando gemelli malvagi da quando siamo partiti da Podunk!<$86><End>
 <$96>Oh!<S $3D $80> Venite dallo stesso posto da cui proviene la nostra regina!<$86><End>
 <$96>Esatto!<S $3D $80> C'era questo maniero abbandonato appena fuori città.<$86><End>
-<$96><Dog> ha inseguito un gatto dentro quel posto e io l'ho seguito.<$86><End>
+<$96><Dog> ha inseguito un gatto dentro quel posto e io gli sono corso dietro.<$86><End>
 <$96>Il gatto non c'era più,<S $79 $80> ma abbiamo trovato una strana macchina in un vecchio laboratorio.<$86><End>
-<$96>La macchina ci ha catapultati in un laboratorio simile all'altro.<$86>Solo che questo laboratorio era in una specie di base spaziale.<$86><End>
-<$96>E lì c'erano due persone.<S $3D $80> Una era uno scienziato, il Dott. Ruffleberg…<$86>…l'altro aveva l'aria di essere il suo maggiordomo.<$86><End>
+<$96>La macchina ci ha catapultati in un laboratorio simile all'altro.<$86>Solo che questo laboratorio si trovava in una specie di base spaziale.<$86><End>
+<$96>E lì c'erano due persone.<S $3D $80> Una era uno scienziato, il Dott. Ruffleberg…<$86>…l'altro aveva tutta l'aria di essere il suo maggiordomo.<$86><End>
 <$96>Non so cosa sia successo dopo,<S $3D $80> fatto sta che siamo finiti su Evermore…<$86><$96>…e siamo qui da allora.<$86><End>
 <$96>Penso di conoscere questo posto nello spazio di cui mi parli!<$86><End>
 <$96>L'ho visto con il mio telescopio!<$86><End>
-<$96>Probabilmente lassù troverai un modo per tornare a Podunk!<$86>Penso di sapere come fare per mandartici!<$86><End>
+<$96>Probabilmente lassù troverai un modo per tornare a Podunk!<$86>Penso di sapere come fare a farti arrivare lì!<$86><End>
 <$96>Ma prima,<S $3D $80> dobbiamo occuparci dell'impostora…<$86><End>
 <$96>La regina vuole che torniamo a Ivor per impedire alla sua gemella di combinare altri guai.<$86><End>
 <$96>Mi sembra un'ottima idea.<S $79 $80> L'impostora sta tramando anche in questo preciso istante!<$86><End>
@@ -2935,11 +2935,11 @@ Il mio nome è Tinker Tinderbox.<$86><End>
 <$96>Già!<S $3D $80> Bisogna occuparsi di lei,<S $3D $80> e alla svelta!<$86><End>
 <$96>A questo punto non sarebbe saggio attraversare la scacchiera.<S $F1 $80> <End>
 Le sue truppe ci staranno aspettando.<$86><End>
-<$96>Ti consiglio di andare a nord da mio fratello Gomi.<S $F1 $80> Ti aiuterà!<$86>Go through the dungeon to the sewer and then out.<S $B5 $80> Troverete un passaggio bloccato verso nord.<$86>Potrai liberarlo con la mia ascia.<S $B5 $80> Si trova nello scrigno.<$86><End>
+<$96>Ti consiglio di andare a nord da mio fratello Gomi.<S $F1 $80> Ti aiuterà!<$86>Attraversa la fogna passando dalla prigione fino all'uscita.<$86>Troverai il passo verso nord bloccato.<$86>Potrai liberarlo con la mia ascia.<S $B5 $80> Si trova nello scrigno.<$86><End>
 <$96><$87>Vuoi che registri i tuoi progressi?
 <$97><Choice>Va bene.
 <Choice>Non ora.<$96><End>
-<$96><$87>Torna qui dopo che avrai sistemato l'impostora.<S $B5 $80> Ti aiuterò a tornare su quel posto nello spazio.<$86><End>
+<$96><$87>Torna qui dopo che avrai sistemato l'impostora.<S $B5 $80> Ti aiuterò a tornare in quel posto nello spazio.<$86><End>
 Trovi la ricetta Esplosione<End>
 Trovi la ricetta Nitro<End>
 <$96>Qui dice che la ricetta richiede due parti di Alcol e una parte di Cenere.<$86><End>
@@ -2967,8 +2967,8 @@ Consegni gli Occhi di Diamante<End>
 <$96>Per completare la mia invenzione servono una Manovella e gli Occhi di Diamante.<$86><End>
 <$96>Per completare la mia invenzione servono un Manometro e gli Occhi di Diamante.<$86><End>
 <$96>Per completare la mia invenzione servono una Manovella e un Manometro.<$86><End>
-<$96>You're a brave animal to be on such a dangerous mission.<$86><End>
-<$96>Oh, ho! <S $3D $80>Vedo che hai uno di quei Nuclei Energetici.<$86>Ho sentito dire che se non vengono usati alla svelta perdono la loro energia. <S $51 $80>Sai, non me ne intendo molto.<$86><End>
+<$96>Devi essere un animale davvero coraggioso per far parte di una missione così pericolosa.<$86><End>
+<$96>Oh, ho! <S $3D $80>Vedo che hai uno di quei Nuclei Energetici.<$86>Ho sentito dire che se non vengono usati alla svelta perdono la loro energia.<$86>Sai, non me ne intendo molto.<$86><End>
 <$96>My young friend, <Boy>. <$86>There's talk that an Energy Core gizmo may be beneath the chessboard.<$86>Course I'm not one to spread a rumor.<$86><End>
 <$96>In order to make my new invention fly, I'm going to need some special parts.<$86>And I'm counting on you to collect them.<$86>There are two items near the volcano--<S $3D $80> a valve wheel and a round pressure gauge.<$86>And there are the jewels that flew off of the dog statue when it exploded.<$86>If you collect those pieces for me, I'll finish my machine and send you into space.<$86>Course she may fly and again maybe not.<$86><End>
 <$96>Hi <Boy>!<S $3D $80> I see that you brought back <Item> of the rocket parts.<$86><End>
@@ -2976,23 +2976,23 @@ Consegni gli Occhi di Diamante<End>
 <$96><$87>Vuoi che registri i tuoi progressi?
 <$97><Choice>Va bene.
 <Choice>Non ora.<$96><End>
-<$96><$87>Come back after you've dispatched the imposter.<S $79 $80> I'll help you return to that space place.<$86>Course that's if you come back.<$86><End>
-<$96>Aspetta!<S $3D $80> Fermi!<S $3D $80> Fermi!<S $79 $80> È divertente,<S $3D $80> ma non voglio che qualcuno si faccia male!<$86><End>
+<$96><$87>Torna qui dopo che avrai sistemato l'impostora.<S $79 $80> Ti aiuterò a tornare in quel posto nello spazio.<$86>Sempre se riuscirai a tornare.<$86><End>
+<$96>Aspettate!<S $3D $80> Fermi!<S $3D $80> Fermi!<$86>Finché si scherza va bene,<S $3D $80> ma non voglio che qualcuno si faccia male!<$86><End>
 <$96>Uh,<S $3D $80> grazie.<$86><End>
-<$96>Il mio nome è {Gomi,} figliolo.<S $3D $80> Sono un collezionista di rottami e amico dei draghi.<$86><End>
+<$96>Il mio nome è {Gomi,} figliolo.<S $3D $80> Sono un collezionista di rottami nonché amico dei draghi.<$86><End>
 <$96>This is my latest attempt at the great Gomi Tower.<S $B5 $80> <End>
 <$96>Sarà fantastico.<$86><End>
 <$96>Vi starete domandando perché sto costruendo una torre così alta.<$86><End>
-<$96>{Restare a terra non ti rende felice abbastanza?}<$86><End>
+<$96>{Restare a terra non ti rende abbastanza felice?}<$86><End>
 <$96>{Non pensi che potresti impiegare meglio il tuo tempo?}<$86><End>
 <$96>La mia risposta a tutto questo è {NO!}<$86><End>
-<$96>Sono un figlio del cielo e voglio arrivare più in alto,<S $B5 $80> <End>
-<$96>come i miei amici,<S $3D $80> i draghi.<$86><End>
+<$96>Sono un figlio del cielo e voglio arrivare sempre più in alto,<S $B5 $80> <End>
+<$96>come i miei amici draghi.<$86><End>
 <$96>Cosa vi porta sulla mia impalcatura?<$86><End>
 <$96>Ci hanno detto che è il modo migliore per andare a Ivor.<$86><End>
-<$96>Oh!<S $3D $80> Sarebbe meglio di no!<$86>Quella regina si comporta in modo amichevole…<$86><End>
-<$96>…ma in realtà è davvero cattiva,<S $79 $80> e diabolica!<$86><End>
-<$96>È per questo che ci vogliamo andare!<$86><End>
+<$96>Oh!<S $3D $80> Ve lo sconsiglio!<$86>Quella regina si comporta in modo amichevole…<$86><End>
+<$96>…ma in realtà è davvero cattiva…<S $79 $80> e diabolica!<$86><End>
+<$96>È per questo che vogliamo andarci!<$86><End>
 <$96>Io e il mio cane stiamo cercando di non farle distruggere il regno!<$86>Tinker ci ha detto che puoi mostrarci la strada!<$86><End>
 <$96>Tinker?<S $79 $80> <End>
 <$96>Intendi mio fratello Tinker?<S $79 $80> <End>
@@ -3005,13 +3005,13 @@ Consegni gli Occhi di Diamante<End>
 <$96>Ora ci porterai a Ivor.<S $79 $80> Non è vero, Sterling?<$86><End>
 <$96>Questo è un territorio ostile per dei piccoli cani soffici come te.<$86>Se fossi in te farei molta attenzione!<$85><End>
 <$96>This forest is nowhere to lallygag.<$86>It's intense!<S $3D $80> And it's full of meanies.<$86>I recommend that you walk softly and pack heat.<$85><End>
-you shouldn't see this map 1 north<End>
-you shouldn't see this map 2 north<End>
-you shouldn't see this map 4 South<End>
+non dovresti vedere questa mappa 1 nord<End>
+non dovresti vedere questa mappa 2 nord<End>
+non dovresti vedere questa mappa 4 sud<End>
 <$96>Ciao, cucciolo.<S $79 $80> Sembra che ti sei perso.<$86><End>
-<$96>Sei davvero un tipo audace per inoltrarti nel cuore della foresta.<$86>Mi secca dirtelo,<S $3D $80> ma questo è un vicolo cieco.<S $B5 $80> Stiamo parlando di Nowheresville!<$86>Ascolta,<S $3D $80> visto che sei qui,<S $3D $80> ti darò la mia ricetta alchemica preferita.<$86>Io la chiamo {One Up.}<S $B5 $80> Usala prima di finire i tuoi Punti Ferita.<$86>Ti rigenerai al massimo della potenza.<S $B5 $80> Fico, vero?<$85><End>
+<$96>Devi avere del fegato per inoltrarti così nel cuore della foresta.<$86>Mi secca dirtelo,<S $3D $80> ma questo è un vicolo cieco.<$86>Benvenuto a Nessunlandia!<$86>Ascolta,<S $3D $80> visto che sei qui,<S $3D $80> ti darò la mia ricetta alchemica preferita.<$86>Io la chiamo {One Up.}<S $B5 $80> Usala prima di finire i tuoi Punti Ferita.<$86>Ti rigenerai al massimo della potenza.<S $B5 $80> Fico, vero?<$85><End>
 <$96>La ricetta richiede una Piuma e una Radice ad ogni utilizzo.<$86><End>
-<$96>You're not going to get any deeper into the Dark Forest than this.<$86>We're talking Dead End City.<$86><End>
+<$96>Non potrai addentrarti nella Foresta Oscura più di così.<$86>Benvenuto a Capolinea.<$86><End>
 <$96>Aaah!<S $3D $80> Aaah!<S $3D $80> Stai lontana da me, brutta bestiaccia!<$86><End>
 <$96>Hi!<S $79 $80> Hi!<S $79 $80> Hi!<S $79 $80> Your kindness is very welcome.<$86>To save me from the well was a great thing.<$86>You did not have to do that, you know.<$86>Please take this token of my appreciation.<$86><End>
 Ricevi Cappa di Thug<End>
@@ -3021,7 +3021,7 @@ Ricevi 1.000 Monete d'Oro<End>
 Accetta un consiglio… non andare oltre<$86><End>
 Se fossi in te tornerei indietro<$86><End>
 Visita la meravigliosa Gruelville, 25 leghe a ovest<$86><End>
-Accampati sulle rive del grande fiume verde Limpopo<$86><End>
+Accampati sulle rive del Limpopo, il grande fiume verde<$86><End>
 Ammirate il Sig. Testa alla mostra di Perceval Plank sulle Stramberie Multietniche<$86><End>
 Fabbrica dei Cucchiai ricordo, 5 furlong
 Visite giornaliere<$86><End>
@@ -3029,7 +3029,7 @@ Metà strada<$86><End>
 Ammirate l'incredibile Ragazzo Barbuto, la prossima a sinistra<$86><End>
 Città di Constagando, 30 leghe ad est<$86><End>
 Montagne di Caramelle, 50 furlong<$86><End>
-<$96>No one crosses the Shape Lifters' bridge,<S $3D $80> twin!<$86>This calls for a little {sibling rivalry!}<$85><End>
+<$96>Nessuno attraversa il ponte degli Shape Lifters,<S $3D $80> caro il mio gemello!<$86>Risolviamola con una {disputa tra fratelli!}<$85><End>
 Ricevi Spada Templare<End>
 <$96>Ciao, cagnolino!<S $3D $80> Sei morbido,<S $3D $80> ma tosto.<$86><End>
 <$96>Cavoli!<S $79 $80> Ho assistito al combattimento!<S $3D $80> Sei forte!<$86>In realtà sei tre volte più forte di te stesso!<$86>Non ho ancora fatto bene i conti,<S $79 $80> ma l'ho visto con i miei occhi!<$86><End>
@@ -3060,7 +3060,7 @@ Ricevi Nucleo Energetico<End>
 <$96><$93>Il Principe di Pandemonio…<S $79 $80><End>
 <$87><End>
 <$96>Vigor l'indistruttibile!<S $F1 $80><$87><End>
-<$96>Ed ecco lo sfidante…<S $F1 $80><$87><End>
+<$96>Ed ecco a voi lo sfidante…<S $F1 $80><$87><End>
 <$96>Un perdente artiglio-munito!<End>
 <$96>Un perdente femore-munito!<End>
 <$96>Un perdente bastone-munito!<End>
@@ -3098,16 +3098,16 @@ Trovi un bottino di 5.000 Monete d'Oro!<End>
 <$96><$87>Ooooooo…<S $3D $80> che bel pelo.<$85><End>
 <$96><$87>Doggy puppet funny!<$85><End>
 <$96><$87><Dog>, muoviamoci.<S $5B $80> Questa roba da cervelloni mi fa scoppiare la testa.<$85><End>
-{The Show of Life}<End>
-by Billy Shakesbad begins…<End>
-Woe be woman<End>
-whose fate it is to serve.<End>
+{Lo Spettacolo della Vita}<End>
+di Billy Shakesbad begins…<End>
+Guai ad essere donna<End>
+il cui destino è quello di servire.<End>
 May thy tongue shrivel<End>
 that it spews such falsehoods.<End>
-Ah, but does not a man pull thy strings?<End>
-We are all but puppets<End>
+Non è forse un uomo a manovrare i tuoi fili?<End>
+Non siamo altro che marionette<End>
 of greater powers.<End>
-Puppets? As in the show of life?<End>
+Marionette? Come nello spettacolo della vita?<End>
 Truly, birth doth<End>
 draw wide the curtains.<End>
 And woman, are thy lines scripted?<End>
@@ -3140,7 +3140,7 @@ Ricevi 10.000 Monete d'Oro<End>
 <$96>La corsa suina si terrà esattamente qui tra qualche minuto.<$86>Non puoi entrare perché non sei un maiale!<$86><End>
 <$96>Sto andando a cercare un posto decente dove vedere la corsa suina.<$86>Sarà veloce quanto fangosa!<$86><End>
 <$96>Ehi cagnolino.<S $3D $80> Qual è il tuo nome?<S $3D $80> King?<S $79 $80> Prince?<S $79 $80> Puffball?<$86><End>
-<$96>That show at the north end of the street is closed for remodeling.<$86>I hope that the next installment still has an edge.<$86>I don't want it to get too commercial.<$86><End>
+<$96>La mostra che si trova all'estremità nord della strada è chiusa per rinnovamento.<$86>Spero che la prossima installazione mantenga lo stesso spirito.<$86>Non voglio che diventi troppo commerciale.<$86><End>
 <$96>Ho visto la mostra nel carro che si trova all'estremità nord di questa strada.<$86>Era inquietante ma divertente.<$86><End>
 <$96>Scommetto che sai correre molto veloce.<$86>Peccato che i barboncini rosa non possono gareggiare nella corsa suina.<$86><End>
 <$96>La corsa suina sta per cominciare!<S $3D $80> Voglio avere una buona visuale sulla gara!<$86><End>
@@ -3274,25 +3274,25 @@ corre quel<End>
  maiale!<End>
 <$87><$96><$93>Tartufo Agitato è in testa!<End>
 <$87><$96><$93>Abbiamo un vincitore!<End>
-<$96>Chi è il padrone di questo maiale?<$86><End>
-<$96>Uh,<S $3D $80> suppongo di essere io.<$86><End>
-<$96>Tu sarai l'ospite d'onore al banchetto della regina di questa sera!<S $79 $80> Congratulazioni!<$86><End>
-<$96>Beh, <Dog>.<S $3D $80> sembra che, per una volta, tu abbia fatto qualcosa di buono.<$86>Potremo chiedere alla regina se sa come tornare a Podunk!<$86><End>
+<$96>Di chi è questo maiale?<$86><End>
+<$96>Uh,<S $3D $80> suppongo che sia mio.<$86><End>
+<$96>Sarai tu l'ospite d'onore al banchetto della regina di questa sera!<S $79 $80> Congratulazioni!<$86><End>
+<$96>Beh, <Dog>.<S $3D $80> Sembra che, per una volta, tu abbia fatto qualcosa di buono.<$86>Avremo l'occasione di chiedere alla regina se conosce un modo per tornare a Podunk.<$86><End>
 Chiuso<End>
-<$96>Venghino siore e siori, venghino alla {Mostra di Perceval Plank sulle Stramberie Interculturali.}<$86><End>
-<$96>Witness inconceivable deviations from the natural laws.<$86><End>
-<$96>Experience true horror, true terror, true spine-tingling absurdity!<$86><End>
+<$96>Venghino siore e siori, venghino alla {Mostra di Perceval Plank sulle Stramberie Multietniche.}<$86><End>
+<$96>Siate testimoni di inconcepibili deviazioni dalle leggi della natura.<$86><End>
+<$96>Sperimentate il vero orrore, il puro terrore, il brivido dell'assurdità!<$86><End>
 <$96>Credete all'incredibile!<$86><End>
-<$96>Da questa parte!<S $3D $80> Accorrete!<S $3D $80> Accorrete gente!<$86><End>
+<$96>Da questa parte!<S $3D $80> Accorrete gente!<$86><End>
 <$96>So che i cani non sono ammessi alla mostra.<S $B5 $80> Che peccato.<$86><End>
 <$96>Ho già visto la mostra!<S $79 $80> È qualcosa di straordinario.<$86><End>
-<$96>La mostra di Perceval Plank è migliore della Magione delle Meraviglie di Manny Marble!<$85><End>
+<$96>La mostra di Perceval Plank è superiore alla Magione delle Meraviglie di Manny Marble!<$85><End>
 <$96>Sei un esemplare molto elegante.<S $79 $80> Non fai parte della mostra,<S $3D $80> vero?<$86><End>
 <$96>Non appena avrò un biglietto andrò a vedere la mostra.<End>
 <$86><End>
 <S $79 $80> Puoi prendere un biglietto in città.<$86><End>
 <$96>Mi dispiace, cagnolino.<S $3D $80> Non sono ammessi cani nella mostra.<$86><End>
-<$96>Ciao, ragazzino.<S $79 $80> Stiamo riconsiderando la mostra.<S $79 $80> Oggi non sono previste esposizioni.<$86><End>
+<$96>Ciao, ragazzino.<S $79 $80> Stiamo riorganizzando la mostra.<S $79 $80> Oggi non sono previste esposizioni.<$86><End>
 <$96>Ehi, ragazzino.<S $79 $80> Vorresti vedere la mostra?
 <Choice>Certo.
 <Choice>No.<End>
@@ -3320,20 +3320,20 @@ cominciare!<End>
 <$87><$96><$93>Pronti… <End>
 partenza…<End>
  via!<End>
-<$96>La prima tappa del nostro tour delle stramberie vi farà riflettere sui principi della nostra esistenza.<$86><End>
+<$96>La prima tappa del nostro tour vi farà riflettere sui principi della nostra esistenza.<$86><End>
 <$96>Come può,<S $3D $80> vi chiederete,<S $3D $80> una tale creatura vivere e respirare?<$86>Non c'è risposta alla vostra domanda.<S $79 $80> It is simply a truth in the shape of…<$86><End>
 <$96>Il Signor Testa:<S $3D $80> L'uomo senza corpo.<$86><End>
 <$96>Ho un prurito al naso.<S $79 $80> Ciò è spiacevole.<$86><End>
 <$96>Assurdo!<$86><End>
-<$96>This next exhibit comes to us from the far east via the midwest, with a stopover in Nantucket.<$86><End>
-<$96>It is fantastic, freakish and full of cheese- producing goodness--<$86>I give you the one- horned beauty of…<$86><End>
+<$96>La prossima attrazione ha fatto un lungo viaggio per essere qui con noi oggi.<$86>Viene dal lontano oriente, passando per il medio occidente, facendo scalo a Nantucket.<$86><End>
+<$96>È fantastica, grottesca e piena di formaggio- che bontà--<$86>Ecco a voi la sola e unica meraviglia in carne e corno…<$86><End>
 <$96>L'Unicapra!<$86><End>
 <$96>Non è fantastica?<$86><End>
 <$96>Per cortesia!<S $3D $80> Non toccare il corno!<$86><End>
-<$96>Seguitemi.<S $79 $80> Seguitemi.<S $79 $80><End>
+<$96>Seguitemi.<S $79 $80> Seguitemi. <S $79 $80><End>
 C'è molto altro da vedere.<$86><End>
 <$96>La nostra prossima attrazione non è per gli schizzinosi o i deboli di cuore.<$86>Questa disgustosa, ignobile e raccapricciante bestia vi ripugnerà.<$86><End>
-<$96>È dotata di artigli grandi quanto un femore umano.<S $B5 $80>
+<$96>È dotata di artigli delle dimensioni di un femore umano.<$86>
 Il suo corpo è ricoperto di peli dalla testa ai piedi.<$86>I suoi occhi sono così ipnotici che il solo fissarli vi farà sprofondare in una spirale di follia.<$86>This is the terror that is…<$86><End>
 Mungola!<$86><End>
 <$96>Non ci credo!<S $79 $80> <End>
@@ -3341,14 +3341,14 @@ Mungola!<$86><End>
 <$96>Amico,<S $3D $80> se fossi in te farei molta attenzione.<$86><End>
 <$96>Potrebbe saltare fuori da dietro ogni angolo!<$86><End>
 <$96>L'ultima attrazione è stata aggiunta alla mostra solo di recente!<$86><End>
-Non crederete ai vostri occhi quando vedrete questa rara combinazione di specie.<$86><End>
+Non crederete ai vostri occhi quando vedrete questo raro incrocio tra specie.<$86><End>
 Ecco a voi,<S $3D $80> per la prima volta in assoluto,<S $3D $80> il favoloso,<S $3D $80> il sensazionale…<$86><End>
 Barbomaiale!<$86><End>
 <$96><Dog>?<S $3D $80> Sei tu?<$86><End>
-<$96>So che stai vivendo dei cambiamenti…<S $79 $80> <End>
+<$96>So che stai passando un periodo di cambiamenti…<S $79 $80> <End>
 <$96>ma questo è ridicolo!<$86><End>
 <$96><Dog>, dove stai andando?<$86><End>
-<$96>Immagino che se fossi un barboncino con il muso da maiale scapperei anche io!<$86><End>
+<$96>Immagino che se fossi un cane con la testa da maiale fuggirei anche io!<$86><End>
 <$96>Forse funzionerebbe meglio iniziando con un maiale travestito da barboncino.<$86><End>
 <$96>Mi dispiace che il numero del barbomaiale non abbia funzionato.<S $79 $80> Così va nel mondo dello spettacolo!<$86><End>
 <$96>Sembra che tu abbia un futuro nel mondo dello spettacolo.<$86>Magari possiamo trovare una soluzione più tardi.<$86><End>
@@ -3400,10 +3400,10 @@ Ti spiegherei come funziona ma probabilmente non capiresti.<$86>Vuoi scegliere q
 <$96>Ospiti d'onore e gente varia!<$86><$96>Posso avere la vostra attenzione?<$86><End>
 <$96>La cena avrà inizio con l'arrivo di vostra maestà.<$86><End>
 <$96>Urca!<S $3D $80> Questo sì che è un castello di lusso!<$86><End>
-<$96>I've heard that Phlegm the Fancy did the decorating.<$86><$96>His use of tapestries is simply to die for.<$86><$96>And you should see his custom bookcases in the study in the east wing.<$86>He even used gold paint on their backsides.<$86>They are gorgeous!<S $51 $80> Phlegm has such taste!<$85> <End>
-<$96>ASCOLTATE!<S $79 $80> Vi prego di accomodarvi!<S $3D $80> La regina sta per arrivare!<$86><End>
+<$96>Ho sentito che Phlegm il Fancy si è occupato delle decorazioni.<$86><$96>Il modo in cui utilizza gli arazzi lascia a bocca aperta.<$86><$96>Dovresti vedere le sue librerie personalizzate nello studio dell'ala est.<$86>Ha usato della vernice dorata persino sul retro.<$86>Sono splendide!<S $51 $80> Phlegm ha un tale gusto!<$85> <End>
+<$96>ASCOLTATE!<S $79 $80> Vi prego di accomodarvi!<S $3D $80> Sta arrivando la regina!<$86><End>
 <$96>Gente di Ivor,<S $3D $80> illustri ospiti,<S $3D $80>
-sono lieti di presentarvi,<S $3D $80> vostra maestà, la Regina!<$86><End>
+sono lieto di presentarvi,<S $3D $80> vostra maestà, la Regina!<$86><End>
 <$96>Grazie di cuore per la vostra presenza!<S $B5 $80> Speriamo che vi stiate divertendo.<$86><End>
 <$96>E chi abbiamo qui?<$86><End>
 <$96>Vostra altezza, questo giovanotto è <Boy>, il padrone del maiale vincitore.<$86><End>
@@ -3432,7 +3432,7 @@ Stai andando dove nessuno è mai andato prima!<$85><End>
 <$96>Oh.<$86><End>
 <$96>Beh,<S $3D $80> <End>
 <$96>ma non sei mai stato sparato da una torretta con pochissime chance di sopravvivenza!<$86><End>
-<$96>Anche questo è vero.<$86><End>
+<$96>Effettivamente no.<$86><End>
 <$96>Va<S $1F $80> bene!<S $3D $80> Andiamo!<$86><End>
 <$87><$A2><$80>y<$80><End>
 <$87>0<$80>y<$80><End>
@@ -3457,13 +3457,13 @@ Penso di avere una soluzione per te!<$86><End>
 <$96>Quando la statua della città a est è esplosa…<$86>…c'erano due gemme che fungevano da catalizzatore.<$86><End>
 <$96>È vero-- gli Occhi di Diamante e la Statua del Cane!<$86><End>
 <$96>Molto bene,<S $3D $80> allora sai esattamente cosa sto cercando.<$86>Se mi porterai queste cose…<$86>…potrò completare la mia invenzione e mandarvi nello spazio!<$86><End>
-<$96>Puoi prendere la mia Windwalker per viaggiare.<$86><End>
+<$96>Prendi pure la mia Windwalker per spostarti.<$86><End>
 <$96>Fico!<$85><End>
 <$96>Può atterrare ovunque ci sia un focolare.<$86><End>
 <$96>Ti basta cercare le luci.<$86><End>
 <$96>Vieni a trovarmi nel mio laboratorio quando avrai tutti gli oggetti.<$86>Li userò per completare la mia invenzione e spedirvi su quel posto nello spazio!<$86><End>
-<$96>Eronio, ho ricevuto ordini dall'alto.<$86>Dobbiamo cercare un dispositivo che produce un tipo speciale di energia.<$86>Si trova da qualche parte nel regno,<S $79 $80> ma non ho informazioni specifiche su dove sia.<$86><End>
-<$96>Il mio superiore mi ha ordinato di fare il possibile per trovarlo…<$86>…anche smontare il regno,<S $B5 $80> <End>
+<$96>Eronio, ho ricevuto ordini dall'alto.<$86>Dobbiamo cercare un dispositivo che produce un particolare tipo di energia.<$86>Si trova da qualche parte nel regno,<S $79 $80> ma non ho informazioni sulla sua esatta posizione.<$86><End>
+<$96>Il mio superiore mi ha ordinato di fare il possibile per trovarlo…<$86>…anche a costo di smontare il regno,<S $B5 $80> <End>
 <$96>pezzo<S $3D $80> dopo<S $3D $80> pezzo.<$86><End>
 <$96>Ma,<S $3D $80> vostra altezza,<S $3D $80> ciò non insospettirà i cittadini?<$86><End>
 <$96>Mi occuperò di quei cretini quando sarà il momento.<S $F1 $80> <End>
@@ -3500,33 +3500,33 @@ Received 30 Thunderballs<End>
 Ricevi 30 Bombe Particellari<End>
 Sala dell'Allarme<End>
 <$96><$87>Giovane biologico!<S $51 $80> <End>
-<$96>Compagno robot!<S $51 $80> <End>
-Mi libereresti<S $29 $80> azionando uno di<S $29 $80> quegli interruttori<S $29 $80> laggiù?<$85><End>
+<$96>Compagno robotico!<S $51 $80> <End>
+Ti dispiacerebbe liberarmi<S $29 $80> azionando uno degli<S $29 $80> interruttori nella<S $29 $80> stanza affianco?<$85><End>
 <$96><$87>Se non lo disabiliterai,<S $29 $80> quel raptor<S $29 $80> terminerà le nostre funzioni.<$85><End>
 <$96><$87>È opportuno eliminare<S $29 $80> quelle piccole<S $29 $80> creature di gelatina!<$85><End>
 <$96><$87>Grazie<S $29 $80> per avermi liberata.<S $65 $80> Ti prego,<S $29 $80> accetta<S $29 $80> questa offerta.<$85><End>
 <$96><$87>Sto tornando<S $29 $80> alla mia postazione.<S $29 $80> Farò di nuovo<S $29 $80> tardi.<$85><End>
 Ricevi Lama a Neutroni!<End>
-<$96>Stazione di Cura di Omnitopia Operativa.<$85><End>
+<$96>Stazione di Cura di Omnitopia operativa.<$85><End>
 <$96><$87>Inserire 100 Crediti per il Ciclo di Riposo.
 <$97><Choice>Attiva.
 <Choice>Disattiva.<End>
-<$87><$96>Ciclo Completato.<S $3D $80> Allontanarsi dal fascio di luce.<$86><End>
+<$87><$96>Ciclo Completato.<S $3D $80> Si prega di allontanarsi dal fascio di luce.<$86><End>
 <$96><$87>Fondi insufficienti.<$86><End>
 <$96><$87>Credit exchange programs operating in shopping sector.<$86><End>
 <$96>Rilevata unità canina.<S $79 $80> Impossibile attivare il programma curativo.<$86><End>
 <$96>Rilevata unità canina.<S $3D $80> Impossibile attivare il programma di vendita.<$86><End>
 <$96>Modalità Vendita Armamenti attivata:<$86><End>
-<$96><$87>Seleziona:<S $5B $80>
+<$96><$87>Selezione:<S $5B $80>
 <$97><Choice>Compra.
 <Choice>Vendi.
-<Choice>Compra Muniz. Bazooka
+<Choice>Compra Munizioni.
 <Choice>Cambio Valuta.<End>
 <$87>Programma completato.<$86><End>
 <$96><$87>Effettua una selezione:
 <$97><Choice>Compra.
 <Choice>Vendi.
-<Choice>Compra Muniz. Bazooka
+<Choice>Compra Munizioni.
 <Choice>Disattiva.<$96><End>
 <$87><Choice>10 Thunder Balls, 300 credits
 <Choice>10 Bombe Particellari, 600 crediti
@@ -3589,13 +3589,13 @@ quali pensi che siano le nostre possibilità?<S $E1 $81><End>
 <$87><End>
 <$96><$93>Non so se questa vecchia stazione spaziale può farcela!<S $A5 $81><End>
 <$96><$93><Boy>!<S $B5 $80> Devi andare laggiù.<S $E1 $81><$87>Devi trovare Elizabeth, Horace e Camellia e portarli qui.<S $E1 $81><$87><$96><$93>Dopodiché,<S $79 $80> torneremo a Podunk tutti insieme.<S $69 $81><$87><End>
-<$96><$93>Se la sola speranza per Evermore,<S $79 $80> e per noi!<S $69 $81><End>
-<$96><$93>Let's see...<S $3D $80> integrate this function, <S $8D $80>differentiate that result... <S $79 $80><End>
-Hmmm...<S $A5 $81><$87>Take an Eigen Vector here, <S $3D $80>invert it, <S $B5 $80>carry the three…<S $A5 $81><$87><End>
-<$96><$93>Your chances for success are roughly…<S $F1 $80> <End>
+<$96><$93>È la sola speranza per Evermore,<S $79 $80> e per noi!<S $69 $81><End>
+<$96><$93>Vediamo...<S $3D $80> integrando questa funzione, <S $8D $80>differenziando quel risultato… <S $79 $80><End>
+Hmmm...<S $A5 $81><$87>Prendo un Autovettore, <S $3D $80>lo inverto, <S $B5 $80>riporto il tre…<S $A5 $81><$87><End>
+<$96><$93>Le tue possibilità di successo sono all'incirca…<S $F1 $80> <End>
 zip!<$80>i<$81><$87><End>
-<$96><$93>But,<S $3D $80> you've got to give it a try!<S $F1 $80><$87><End>
-<$96>Wow!<$80><$B5><$80><$87><End>
+<$96><$93>Ma,<S $3D $80> vale la pena di fare un tentativo!<S $F1 $80><$87><End>
+<$96>Urca!<$80><$B5><$80><$87><End>
 <$96><$93>Sembra il PZS Plasma Drive di {Quando le consonanti si scontrano}.<S $B9 $81><$87><End>
 <$96><$93>Chissà se funziona!<S $F1 $80><$87><End>
 <$96><$93>Uoa!<End>
@@ -3631,52 +3631,52 @@ Ricevi Bazooka<End>
 Qui dentro è buio!<S $69 $81><$96><$87><$93>Ehi!<S $3D $80> Questa sembra una specie di navicella di fuga futuristica!<S $69 $81><End>
 <$96><$93>Ops!<S $3D $80> Ed è partito il controller!<S $F1 $80><End>
 <$96>Lei è il Professor Ruffleberg,<S $3D $80> dico bene?<$86><End>
-<$96>Ma…<S $1F $80> sì, sono io.<$86><End>
+<$96>Ma chi…<S $1F $80> sì, sono io.<$86><End>
 <$96>E tu sei <Boy>!<S $79 $80> Ti ho osservato attraverso i monitor!<$86>Sei proprio un grande avventuriero!<$86>Hai lo stesso spirito che mi ha ispirato a creare questo mondo.<$86><End>
 <$96>Anche se,<S $3D $80> sono passati tanti anni da allora…<$86><End>
-<$96>Attualmente,<S $3D $80> è tutto fuori fase,<S $3D $80> <End>
+<$96>Attualmente,<S $3D $80> è tutto fuori fase…<S $3D $80> <End>
 e Carltron è a piede libero!<$86><End>
 <$96>Carltron?<$86><End>
-<$96>È il tizio in smoking che mi ha accompagnato alla porta!<$86><End>
-<$96>Ebbene sì.<S $79 $80> Carltron è il mio servitore automatico--<S $3D $80> <End>
+<$96>Sarebbe il tizio in smoking che mi ha messo alla porta?<$86><End>
+<$96>Proprio lui.<S $79 $80> Carltron è il mio servitore automatico--<S $3D $80> <End>
 o almeno,<S $21 $80> lo era un tempo.<$86><End>
-<$96>Ho costruito Carltron affinché si occupasse dei lavori domestici.<$86><$96>Sai--<S $5B $80> riordinare,<S $5B $80> accogliere gli ospiti,<S $5B $80> pagare le bollette,<S $5B $80> far uscire il gatto,<S $5B $80> pulire le grondaie.<$86>E l'ho reso sufficientemente intelligente da darmi filo da torcere a scacchi!<$86><End>
-<$96>Ma…<S $3D $80> più gli anni passavano…<S $3D $80> più Carltron si stancava di essere un servitore.<$86><End>
+<$96>Ho costruito Carltron affinché si occupasse dei lavori domestici.<$86><$96>Sai--<S $5B $80> accogliere gli ospiti,<S $5B $80> rassettare,<S $5B $80> pagare le bollette,<S $5B $80> far uscire il gatto,<S $5B $80> pulire le grondaie.<$86>E l'ho reso intelligente al punto da darmi del filo da torcere a scacchi!<$86><End>
+<$96>Ma…<S $3D $80> col passare degli anni…<S $3D $80> Carltron si è stancato di essere un servitore.<$86><End>
 <$96>Così ha deciso di ribaltare la situazione e di prendere il sopravvento.<$86>Per prima cosa sabotò l'esperimento.<$86>Così facendo ci ha lasciato intrappolati nei nostri mondi immaginari.<$86><End>
 <$96>Dopodiché ha tramato,<S $21 $80> <End>
 e cospirato,<S $21 $80> <End>
 e complottato,<S $3D $80> <$96>finché non ha fatto la sua mossa.<$86><End>
 <$96>Abbiamo usato questa macchina inventata da me per andare a Evermore.<$86><End>
-<$96>Quando Carltron ne ha preso il controllo l'ha usata per minacciare la vita dei miei amici!<$86><End>
-<$96>Carltron è un meccanoide subdolo--<S $B5 $80> decisamente meschino!<$86><$96>Mi disse che avrebbe distrutto il pianeta se non avessi creato dei cloni robotici dei miei amici!<$86><End>
-<$96>Con questi cloni a capo delle regioni di Evermore,<S $F1 $80> Carltron avrebbe preso il controllo!<$86><End>
-<$96>Ma,<S $3D $80> grazie a te,<S $3D $80> Carltron è stato continuamente ostacolato.<$86>Ora,<S $3D $80> si è ritirato in una stanza al centro di Omnitopia.<$86>Mentre stiamo parlando starà di certo escogitando qualche piano malvagio.<$86><End>
-<$96>Se ti aiuteremo a fermare questo tipo una volta per tutte,<S $B5 $80> ci aiuterai a tornare a Podunk?<$86><End>
+<$96>Dopo che Carltron ne ha preso il controllo l'ha usata per minacciare la vita dei miei amici!<$86><End>
+<$96>Carltron è un meccanoide subdolo--<S $B5 $80> decisamente meschino!<$86><$96>Disse che se non avessi creato dei cloni robotici dei miei amici avrebbe distrutto il pianeta.<$86><End>
+<$96>Con questi cloni a capo delle regioni di Evermore,<S $F1 $80> Carltron avrebbe il controllo assoluto!<$86><End>
+<$96>Ma,<S $3D $80> grazie a te,<S $3D $80> Carltron è stato continuamente ostacolato.<$86>In questo momento si è ritirato in una stanza al centro di Omnitopia.<$86>Mentre stiamo parlando starà di certo escogitando qualche piano malvagio.<$86><End>
+<$96>Se ti aiutiamo a fermare questo tipo una volta per tutte,<S $B5 $80> tu ci aiuterai a tornare a Podunk?<$86><End>
 <$96>Sì!<S $3D $80> Certo che sì!<$86>Di fatto,<S $3D $80> se Carltron fosse sotto controllo,<S $79 $80> anche noialtri torneremmo a Podunk.<$86><End>
 <$96>Allora facciamolo!<$86><End>
-<$96>Su Evermore c'è un oggetto speciale che è la chiave per entrare nella sala di Carltron.<$86>L'oggetto in questione è il Nucleo Energetico che si trova sotto la scacchiera.<$86>Se recupererai quell'ordigno potrai confrontarti con Carltron e fermarlo.<$86>Ti darò l'accesso al nucleo dal mio pannello di controllo.<$86><End>
+<$96>Su Evermore c'è un oggetto speciale che è la chiave per entrare nella stanza di Carltron.<$86>L'oggetto in questione è il Nucleo Energetico che si trova sotto la scacchiera.<$86>Se recupererai quell'ordigno potrai confrontarti con Carltron e fermarlo.<$86>Ti darò l'accesso per arrivare al nucleo dal mio pannello di controllo.<$86><End>
 <$96>Nella stanza accanto troverai un portello che conduce ad una navetta di salvataggio.<End>
 <$86>Puoi usare la navetta per tornare ad Evermore e recuperare il nucleo!<$86><End>
-<$96>Before you go,<S $3D $80> let me give you a special alchemy formula.<$86>If you have a Meteorite and Dry Ice,<S $3D $80> the formula will create a Call Bead.<$86><End>
+<$96>Prima che tu vada,<S $3D $80> lascia che ti dia una ricetta alchemica molto speciale.<$86>Se si ha un Meteorite e del Ghiaccio Secco,<S $3D $80> si potrà creare una Perla Evocatrice.<$86><End>
 <$96>Ti darò <Item> Perle Evocatrici.<S $3D $80> Usale quando avrai bisogno del mio aiuto.<$86><End>
 Ricevi <Item> Perle Evocatrici<End>
-<$96>If you need my help, toss a Call Bead to the ground and I'll be there!<$86><End>
+<$96>Se avrai bisogno del mio aiuto, getta una Perla Evocatrice in terra e sarò lì all'istante!<$86><End>
 <$96>Sei un bravo robot--<S $3D $80> non sei malvagio come Carltron.<$86><End>
-<$96>The Energize alchemy is sure to help you in your fight with Carltron.<$86><End>
-<$96>The formula requires a Crystal and one part Iron.<$86>When you cast it,<S $3D $80> your next blow is going to be a big one!<$86><End>
-<$96>Carltron si nasconde in una stanza al centro di Omnitopia.<$86>Il Nucleo di Energia è la chiave per entrare nella stanza.<$86>Portalo nel settore dei rottami e attiva il condotto trasportatore.<$86><End>
+<$96>La ricetta Energizza ti sarà di aiuto nella battaglia contro Carlton.<$86><End>
+<$96>La ricetta rischiede un Cristallo e una parte di Ferro.<$86>Una volta lanciata renderà il tuo prossimo colpo il più poderoso di tutti!<$86><End>
+<$96>Carltron si nasconde in una stanza al centro di Omnitopia.<$86>Il Nucleo di Energia è la chiave per entrare in quella stanza.<$86>Portalo nel settore dei rottami e attiva il condotto trasportatore.<$86><End>
 <$96><$87>Buona fortuna, <Boy>.<$86><End>
-<$96>Armor Sales Mode engaged:<$86><End>
-<$96><$87>Input Selection:<S $5B $80>
+<$96>Modalità Vendita Armature attivata:<$86><End>
+<$96><$87>Selezione:<S $5B $80>
 <$97><Choice>Compra.
 <Choice>Vendi.
 <Choice>Cambio Valuta.<$96><End>
 <$87>Programma completato.<$86><End>
-<$96><$87>Input Selection:
+<$96><$87>Selezione:
 <$97><Choice>Compra.
 <Choice>Vendi.
 <Choice>Disattiva.<$96><End>
-<$96>Sales program is unable to engage.<$86><End>
+<$96>Impossibile attivare programma di vendita.<$86><End>
 <$96><$93>Amici, fate presto!<S $B5 $80><$87><End>
 <$96><$93>Dobbiamo tornare a Podunk!<S $F1 $80><$87><End>
 <$96><$93>Il tempo sta per scadere!<S $F1 $80><$87><End>
@@ -3693,9 +3693,9 @@ Lascia perdere il gatto!<S $B5 $80><$87><End>
 Pulisce,<S $21 $80> pulisce.<S $69 $81><$87><End>
 <$96><$93>E niente più piani per conquistare il mondo,<S $F1 $80> INTESI<S $3D $80>?<S $F1 $80><$87><End>
 <$96><$93>Bene.<S $3D $80><End>
-<$96>Sìììì! <S $3D $80> Che viaggio! <S $51 $80>La navicella di Tinker ha funzionato alla grande!<$85><End>
-<$96><$87><Dog>!! <S $51 $80>Cosa ti è successo? <S $79 $80>Sei così… <S $65 $80>metallico!<$86>Tipo Toastzilla in {L'Attacco degli Uomini-Elettrodomestici}.<$86>Quantomeno saremo preparati se venissimo attaccati dai Beagle Bestiali o dagli Infidi Waffle. <S $3D $80>«snicker»<S $29 $80> «snicker»<$85><End>
-<$96><$87>Scusa, <Dog>. <S $51 $80>Stavo scherzando! <$86>Sarà meglio iniziare a cercare il Professor Ruffleberg.<$85><End>
+<$96>Sìììì!<S $3D $80> Che viaggio!<S $51 $80> La navicella di Tinker ha funzionato alla grande!<$85><End>
+<$96><$87><Dog>!! <S $51 $80>Cosa ti è successo? <S $79 $80>Sei così… <S $65 $80>metallico!<$86>Tipo Toastzilla in {L'Attacco degli Elettrodomestici Umani}.<$86>Almeno saremmo pronti se venissimo attaccati dai Bagle Mannari o dagli Infidi Waffle. Gh<S $3D $80> gh<S $3D $80> gh...<$85><End>
+<$96><$87>Scusa, <Dog>.<S $51 $80> Stavo scherzando! <$86>Sarà meglio iniziare a cercare il Professor Ruffleberg.<$85><End>
 <$96><$87>Io sono I8-pi,<S $29 $80> guardia di Omnitopia, <S $3D $80>settore discarica.<$86><$96><$87>La guardia di Omnitopia IM-L8 <S $29 $80>non si è presentata per adempiere ai suoi doveri.<$86>Ho ricevuto un rapporto <S $29 $80>che dice che è detenuta <S $29 $80>nel settore di ricerca.<$86>Io non posso lasciare la mia postazione <S $29 $80>per indagare. <S $79 $80>Ma tu sì.<S $29 $80> Ricordati di provare molti interruttori a muro.<$85><End>
 <$96>Non riconosco il tuo modello. <S $51 $80>Devi essere uno dei nuovi modelli di importazione.<$85><End>
 <$96><$87>Sei piuttosto sorprendente per non essere un robot!<$86>Giovane creatura biologica,<S $29 $80> voglio ringraziarti dandoti la ricetta Rifletti.<$86>La ricetta richiede due parti di Grasso e una parte di Ferro.<$86><$96>Fai buon uso del tuo dono. <S $29 $80>Molte creature biologiche con grandi poteri si comportano illogicamente.<$86><End>
